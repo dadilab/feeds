@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-03-23T15:57:55.817Z</updated>
+    <updated>2023-03-23T16:33:16.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[磁性材料高压超导机理研究取得新进展]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350831.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350831.htm"/>
+        <updated>2023-03-23T16:32:48.527Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350831.htm">磁性材料高压超导机理研究取得新进展</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法拉第未来宣布FF 91将于3月30日开始生产]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350829.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350829.htm"/>
+        <updated>2023-03-23T16:32:48.530Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350829.htm">法拉第未来宣布FF 91将于3月30日开始生产</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黄仁勋：NVIDIA只用两年 就研制出比x86快1.3倍的CPU处理器]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350827.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350827.htm"/>
+        <updated>2023-03-23T16:32:48.531Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350827.htm">黄仁勋：NVIDIA只用两年 就研制出比x86快1.3倍的CPU处理器</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传苹果正考虑竞购英超联赛转播权]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350825.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350825.htm"/>
+        <updated>2023-03-23T16:32:48.532Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350825.htm">传苹果正考虑竞购英超联赛转播权</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[固态硬盘可以取代机械硬盘了吗？]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350823.htm</id>
@@ -396,33 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1350711.htm"/>
         <updated>2023-03-23T09:19:53.566Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350711.htm">研究发现每天少刷15分钟手机可改善免疫力</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[只差不到100亿 英伟达马上要取代伯克希尔成为全球市值第五大公司]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350709.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350709.htm"/>
-        <updated>2023-03-23T09:19:53.569Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350709.htm">只差不到100亿 英伟达马上要取代伯克希尔成为全球市值第五大公司</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国监管指控孙宇晨涉嫌通过名人诱导投资者买入代币]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350707.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350707.htm"/>
-        <updated>2023-03-23T09:19:53.570Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350707.htm">美国监管指控孙宇晨涉嫌通过名人诱导投资者买入代币</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国CDC召回被细菌污染的滴眼液 已致3人死亡12人失明]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350705.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350705.htm"/>
-        <updated>2023-03-23T09:19:53.570Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350705.htm">美国CDC召回被细菌污染的滴眼液 已致3人死亡12人失明</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[贝佐斯前妻又承诺捐赠2.5亿美元 此前已捐出140多亿]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350703.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350703.htm"/>
-        <updated>2023-03-23T09:19:53.570Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350703.htm">贝佐斯前妻又承诺捐赠2.5亿美元 此前已捐出140多亿</a>]]></content>
     </entry>
 </feed>
