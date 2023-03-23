@@ -2,9 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printweek.com/news/all-news</id>
     <title>printweek news</title>
-    <updated>2023-03-23T10:34:50.761Z</updated>
+    <updated>2023-03-23T15:05:11.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printweek.com/media/182863/printweek-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Industry leaders react, three years on from lockdown]]></title>
+        <id>https://www.printweek.com/news/article/industry-leaders-react-three-years-on-from-lockdown</id>
+        <link href="https://www.printweek.com/news/article/industry-leaders-react-three-years-on-from-lockdown"/>
+        <updated>2023-03-23T15:04:53.589Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/industry-leaders-react-three-years-on-from-lockdown">
+                            Industry leaders react, three years on from lockdown
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Offset Print & Packaging takes delivery of huge press]]></title>
+        <id>https://www.printweek.com/news/article/offset-print-packaging-takes-delivery-of-huge-press</id>
+        <link href="https://www.printweek.com/news/article/offset-print-packaging-takes-delivery-of-huge-press"/>
+        <updated>2023-03-23T15:04:53.626Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/offset-print-packaging-takes-delivery-of-huge-press">
+                            Offset Print &amp; Packaging takes delivery of huge press
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digiprint Nettl launches new sustainable range following HP install]]></title>
+        <id>https://www.printweek.com/news/article/digiprint-nettl-launches-new-sustainable-range-following-hp-install</id>
+        <link href="https://www.printweek.com/news/article/digiprint-nettl-launches-new-sustainable-range-following-hp-install"/>
+        <updated>2023-03-23T15:04:53.628Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/digiprint-nettl-launches-new-sustainable-range-following-hp-install">
+                            Digiprint Nettl launches new sustainable range following HP install
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sirane launches world-first pouches]]></title>
+        <id>https://www.printweek.com/news/article/sirane-launches-world-first-pouches</id>
+        <link href="https://www.printweek.com/news/article/sirane-launches-world-first-pouches"/>
+        <updated>2023-03-23T15:04:53.632Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/sirane-launches-world-first-pouches">
+                            Sirane launches world-first pouches
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fusion Digital expands with Agfa install]]></title>
+        <id>https://www.printweek.com/news/article/fusion-digital-expands-with-agfa-install</id>
+        <link href="https://www.printweek.com/news/article/fusion-digital-expands-with-agfa-install"/>
+        <updated>2023-03-23T15:04:53.633Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/fusion-digital-expands-with-agfa-install">
+                            Fusion Digital expands with Agfa install
+                        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UPM makes further reduction to uncoated capacity]]></title>
         <id>https://www.printweek.com/news/article/upm-makes-further-reduction-to-uncoated-capacity</id>
@@ -93,51 +138,6 @@
         <updated>2023-03-23T09:59:30.419Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/nomoq-eyes-up-uk-for-digital-can-expansion">
                             Nomoq eyes up UK for digital can expansion
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crunch week to resolve Royal Mail dispute]]></title>
-        <id>https://www.printweek.com/news/article/crunch-week-to-resolve-royal-mail-dispute</id>
-        <link href="https://www.printweek.com/news/article/crunch-week-to-resolve-royal-mail-dispute"/>
-        <updated>2023-03-23T09:59:30.419Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/crunch-week-to-resolve-royal-mail-dispute">
-                            Crunch week to resolve Royal Mail dispute
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sign & Digital UK kicking off tomorrow]]></title>
-        <id>https://www.printweek.com/news/article/sign-digital-uk-kicking-off-tomorrow</id>
-        <link href="https://www.printweek.com/news/article/sign-digital-uk-kicking-off-tomorrow"/>
-        <updated>2023-03-23T09:59:30.420Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/sign-digital-uk-kicking-off-tomorrow">
-                            Sign &amp; Digital UK kicking off tomorrow
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JICMail launches new Response Rate Tracker]]></title>
-        <id>https://www.printweek.com/news/article/jicmail-launches-new-response-rate-tracker</id>
-        <link href="https://www.printweek.com/news/article/jicmail-launches-new-response-rate-tracker"/>
-        <updated>2023-03-23T09:59:30.446Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/jicmail-launches-new-response-rate-tracker">
-                            JICMail launches new Response Rate Tracker
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NUJ decries latest Reach job cuts]]></title>
-        <id>https://www.printweek.com/news/article/nuj-decries-latest-reach-job-cuts</id>
-        <link href="https://www.printweek.com/news/article/nuj-decries-latest-reach-job-cuts"/>
-        <updated>2023-03-23T09:59:30.447Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/nuj-decries-latest-reach-job-cuts">
-                            NUJ decries latest Reach job cuts
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snows Business Forms in administration]]></title>
-        <id>https://www.printweek.com/news/article/snows-business-forms-in-administration</id>
-        <link href="https://www.printweek.com/news/article/snows-business-forms-in-administration"/>
-        <updated>2023-03-23T09:59:30.447Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/snows-business-forms-in-administration">
-                            Snows Business Forms in administration
                         </a>]]></content>
     </entry>
 </feed>
