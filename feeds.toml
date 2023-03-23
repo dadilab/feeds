@@ -41,15 +41,8 @@ titleSelector = "a"
 linkSelector = "a"
 
 [codenews]
-title = "codenews"
+title = "codenews 最新帖子"
 url = "https://codenews.cc"
-entrySelector = "div.media-heading"
+entrySelector = "ul#latests > li"
 titleSelector = "a"
 linkSelector = "a"
-
-[wikivoyage]
-title = "Wikivoyage recommendations"
-url = "https://en.wikivoyage.org/wiki/Main_Page"
-entrySelector = ".jcarousel-wrapper .jcarousel-item"
-titleSelector = "h2"
-linkSelector = "h2 a"
