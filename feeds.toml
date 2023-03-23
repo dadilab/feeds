@@ -33,10 +33,10 @@ entrySelector = "div.mobile-post-outer"
 titleSelector = "a > h3"
 linkSelector = "a"
 
-[tophub-52pojie]
+[52pojie-today]
 title = "吾爱破解 今日热帖"
-url = "https://tophub.today/n/NKGoRAzel6"
-entrySelector = "td.al:nth-child(-n+20)"
+url = "https://www.52pojie.cn/misc.php?mod=ranklist&type=thread&view=replies&orderby=today"
+entrySelector = "div.tl > table > tbody:nth-of-type(2) th"
 titleSelector = "a"
 linkSelector = "a"
 
