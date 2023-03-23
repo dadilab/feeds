@@ -1,3 +1,10 @@
+[163-news-domestic]
+title = "网易 国内新闻"
+url = "https://m.163.com/touch/news/sub/domestic"
+entrySelector = "ul.widget-flowList > li"
+titleSelector = "a h4"
+linkSelector = "a"
+
 [52pojie-today]
 title = "吾爱破解 今日热帖"
 url = "https://www.52pojie.cn/misc.php?mod=ranklist&type=thread&view=replies&orderby=today"
