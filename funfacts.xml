@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://en.wikipedia.org/wiki/Main_Page</id>
+    <title>Wikipedia — did you know?</title>
+    <updated>2023-03-23T09:01:55.550Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://en.wikipedia.org/static/favicon/wikipedia.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pete Sutherland]]></title>
+        <id>https://en.wikipedia.org/wiki/Pete_Sutherland</id>
+        <link href="https://en.wikipedia.org/wiki/Pete_Sutherland"/>
+        <updated>2023-03-23T09:01:50.968Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Vermont" title="Vermont">Vermont</a> folk musician <b><a href="/wiki/Pete_Sutherland" title="Pete Sutherland">Pete Sutherland</a></b> <i>(pictured)</i> hosted concerts at his house for $10—or $9 if you brought your own chair?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jikandia: The Timeless Land]]></title>
+        <id>https://en.wikipedia.org/wiki/Jikandia:_The_Timeless_Land</id>
+        <link href="https://en.wikipedia.org/wiki/Jikandia:_The_Timeless_Land"/>
+        <updated>2023-03-23T09:01:50.968Z</updated>
+        <content type="html"><![CDATA[... that the developers of <i><b><a href="/wiki/Jikandia:_The_Timeless_Land" title="Jikandia: The Timeless Land">Jikandia: The Timeless Land</a></b></i> wanted to make a game that could be finished in the time of a normal Japanese train commute?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Del Riley]]></title>
+        <id>https://en.wikipedia.org/wiki/Del_Riley_(clerk)</id>
+        <link href="https://en.wikipedia.org/wiki/Del_Riley_(clerk)"/>
+        <updated>2023-03-23T09:01:50.969Z</updated>
+        <content type="html"><![CDATA[... that <a href="/wiki/Linn_County,_Oregon" title="Linn County, Oregon">Linn County</a> clerk <b><a href="/wiki/Del_Riley_(clerk)" title="Del Riley (clerk)">Del Riley</a></b> established <a href="/wiki/Vote-by-mail_in_Oregon" title="Vote-by-mail in Oregon">Oregon's vote-by-mail system</a>, now used as the only voting method in the state?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pinky & Pepper Forever]]></title>
+        <id>https://en.wikipedia.org/wiki/Pinky_%26_Pepper_Forever</id>
+        <link href="https://en.wikipedia.org/wiki/Pinky_%26_Pepper_Forever"/>
+        <updated>2023-03-23T09:01:50.969Z</updated>
+        <content type="html"><![CDATA[... that <i><b><a href="/wiki/Pinky_%26_Pepper_Forever" title="Pinky &amp; Pepper Forever">Pinky &amp; Pepper Forever</a></b></i> is a graphic novel that follows two anthropomorphic dog girlfriends through hell?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battle of Bronkhorstspruit]]></title>
+        <id>https://en.wikipedia.org/wiki/Battle_of_Bronkhorstspruit</id>
+        <link href="https://en.wikipedia.org/wiki/Battle_of_Bronkhorstspruit"/>
+        <updated>2023-03-23T09:01:50.987Z</updated>
+        <content type="html"><![CDATA[... that within 15 minutes of the <b><a href="/wiki/Battle_of_Bronkhorstspruit" title="Battle of Bronkhorstspruit">Battle of Bronkhorstspruit</a></b>, all the British officers in the battle were either killed or seriously wounded?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[common prosperity]]></title>
+        <id>https://en.wikipedia.org/wiki/Common_prosperity</id>
+        <link href="https://en.wikipedia.org/wiki/Common_prosperity"/>
+        <updated>2023-03-23T09:01:50.988Z</updated>
+        <content type="html"><![CDATA[... that Chinese leader <a href="/wiki/Xi_Jinping" title="Xi Jinping">Xi Jinping</a> called <b><a href="/wiki/Common_prosperity" title="Common prosperity">common prosperity</a></b> an essential requirement of socialism but also said that it does not represent uniform egalitarianism?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David DeJulius]]></title>
+        <id>https://en.wikipedia.org/wiki/David_DeJulius</id>
+        <link href="https://en.wikipedia.org/wiki/David_DeJulius"/>
+        <updated>2023-03-23T09:01:50.989Z</updated>
+        <content type="html"><![CDATA[... that in 2022 <b><a href="/wiki/David_DeJulius" title="David DeJulius">David DeJulius</a></b> pledged to donate his <a href="/wiki/Student_athlete_compensation" title="Student athlete compensation">student athlete compensation</a> from jersey proceeds to provide books to inner city youth?]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Parkville]]></title>
+        <id>https://en.wikipedia.org/wiki/Parkville,_Colorado</id>
+        <link href="https://en.wikipedia.org/wiki/Parkville,_Colorado"/>
+        <updated>2023-03-23T09:01:50.990Z</updated>
+        <content type="html"><![CDATA[... that <b><a href="/wiki/Parkville,_Colorado" title="Parkville, Colorado">Parkville</a></b> lost out on becoming the <a href="/wiki/Colorado_Territory" title="Colorado Territory">Colorado Territory</a>'s capital by eleven votes and is now a <a href="/wiki/Ghost_town" title="Ghost town">ghost town</a> largely buried under mining waste?]]></content>
+    </entry>
+</feed>
