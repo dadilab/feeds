@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-03-23T09:19:59.308Z</updated>
+    <updated>2023-03-23T10:00:05.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[华为P60系列发布 双星北斗卫星消息+鸿蒙3.1售价4488元起]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350801.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350801.htm"/>
+        <updated>2023-03-23T09:59:20.538Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350801.htm">华为P60系列发布 双星北斗卫星消息+鸿蒙3.1售价4488元起</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为Mate X3发布：双向卫星通信加IPX8级别防水 售12999元起]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350799.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350799.htm"/>
+        <updated>2023-03-23T09:59:20.538Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350799.htm">华为Mate X3发布：双向卫星通信加IPX8级别防水 售12999元起</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分析：特斯拉价格战加快国内汽车行业洗牌 没钱将沦为炮灰？]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350797.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350797.htm"/>
+        <updated>2023-03-23T09:59:20.544Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350797.htm">分析：特斯拉价格战加快国内汽车行业洗牌 没钱将沦为炮灰？</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[曹德旺：大学没有教会年轻人动手能力]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350795.htm</id>
@@ -403,26 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1350683.htm"/>
         <updated>2023-03-23T09:19:53.588Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350683.htm">9岁女孩豪掷18.9万打赏游戏主播 偷偷记下密码还删除转账记录</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D打印食品的配方：可食用材料的增材制造]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350681.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350681.htm"/>
-        <updated>2023-03-23T09:19:53.595Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350681.htm">3D打印食品的配方：可食用材料的增材制造</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家发现失去关键类型的胰腺细胞可能导致糖尿病的发生]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350679.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350679.htm"/>
-        <updated>2023-03-23T09:19:53.596Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350679.htm">科学家发现失去关键类型的胰腺细胞可能导致糖尿病的发生</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[操控"量子光"的空前突破 让光子与人造原子相互作用]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350677.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350677.htm"/>
-        <updated>2023-03-23T09:19:53.818Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350677.htm">操控"量子光"的空前突破 让光子与人造原子相互作用</a>]]></content>
     </entry>
 </feed>
