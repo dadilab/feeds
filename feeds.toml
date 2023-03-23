@@ -5,6 +5,48 @@ entrySelector = "#info_list > .list"
 titleSelector = "a"
 linkSelector = "a"
 
+[mazterize]
+title = "mazterize"
+url = "https://www.mazterize.com"
+entrySelector = "#recent-posts-2 > ul > li"
+titleSelector = "a"
+linkSelector = "a"
+
+[printweek]
+title = "printweek news"
+url = "https://www.printweek.com/news/all-news"
+entrySelector = "h2[itemprop=headline]"
+titleSelector = "a"
+linkSelector = "a"
+
+[pinboard]
+title = "pinboard popular"
+url = "https://www.pinboard.in/popular"
+entrySelector = "div.bookmark > div.display"
+titleSelector = "a"
+linkSelector = "a"
+
+[portableappz]
+title = "portableappz"
+url = "http://portableappz.blogspot.com/?m=1"
+entrySelector = "div.mobile-post-outer"
+titleSelector = "a > h3"
+linkSelector = "a"
+
+[tophub-52pojie]
+title = "吾爱破解 今日热帖"
+url = "https://tophub.today/n/NKGoRAzel6"
+entrySelector = "td.al:nth-child(-n+20)"
+titleSelector = "a"
+linkSelector = "a"
+
+[codenews]
+title = "codenews"
+url = "https://codenews.cc"
+entrySelector = "div.media-heading"
+titleSelector = "a"
+linkSelector = "a"
+
 [wikivoyage]
 title = "Wikivoyage recommendations"
 url = "https://en.wikivoyage.org/wiki/Main_Page"
