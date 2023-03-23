@@ -1,3 +1,24 @@
+[zuixingzuo-scropio]
+title = "美国神婆 天蝎"
+url = "https://www.zuixingzuo.net/tianxie/yunshi.html"
+entrySelector = "div.list_item h3"
+titleSelector = "a"
+linkSelector = "a"
+
+[sina-scropio-daily]
+title = "新浪 天蝎日运"
+url = "http://astro.sina.com.cn/fate_day_Scorpio/index.html"
+entrySelector = "div.article_mod"
+titleSelector = "div.head.clearfix div.time"
+linkSelector = ""
+
+[sina-scropio-weekly]
+title = "新浪 天蝎周运"
+url = "http://astro.sina.com.cn/fate_week_Scorpio/"
+entrySelector = "div.article_mod"
+titleSelector = "div.head.clearfix div.time"
+linkSelector = ""
+
 [163-news-domestic]
 title = "网易 国内新闻"
 url = "https://m.163.com/touch/news/sub/domestic"
