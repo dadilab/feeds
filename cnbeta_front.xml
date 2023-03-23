@@ -1,481 +1,428 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://rsyqvthv.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2023-03-23T09:19:59.288Z</updated>
+    <id>https://m.cnbeta.com.tw/wap</id>
+    <title>cnbeta 首页</title>
+    <updated>2023-03-23T09:19:59.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[曹德旺：大学没有教会年轻人动手能力 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[曹德旺：大学没有教会年轻人动手能力]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350795.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350795.htm"/>
         <updated>2023-03-23T09:19:53.381Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350795.htm">曹德旺：大学没有教会年轻人动手能力</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[方向感差？大脑生物指南针可能正在复位 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[方向感差？大脑生物指南针可能正在复位]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350793.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350793.htm"/>
         <updated>2023-03-23T09:19:53.385Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350793.htm">方向感差？大脑生物指南针可能正在复位</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[打开抗癌药物的大门： 柠檬苦素的秘密配方 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[打开抗癌药物的大门： 柠檬苦素的秘密配方]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350791.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350791.htm"/>
         <updated>2023-03-23T09:19:53.389Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350791.htm">打开抗癌药物的大门： 柠檬苦素的秘密配方</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[科学家发现早期人类和猕猴手里的石器有惊人的相似之处 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[科学家发现早期人类和猕猴手里的石器有惊人的相似之处]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350789.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350789.htm"/>
         <updated>2023-03-23T09:19:53.392Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350789.htm">科学家发现早期人类和猕猴手里的石器有惊人的相似之处</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[日本私人航天器在尝试登月前成功进入月球轨道 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[日本私人航天器在尝试登月前成功进入月球轨道]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350787.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350787.htm"/>
         <updated>2023-03-23T09:19:53.394Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350787.htm">日本私人航天器在尝试登月前成功进入月球轨道</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关闭特定基因可以使癌细胞对化疗更敏感 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[关闭特定基因可以使癌细胞对化疗更敏感]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350785.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350785.htm"/>
         <updated>2023-03-23T09:19:53.411Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350785.htm">关闭特定基因可以使癌细胞对化疗更敏感</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[超材料混凝土为智能、自供电的基础设施奠定了基础 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[超材料混凝土为智能、自供电的基础设施奠定了基础]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350783.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350783.htm"/>
         <updated>2023-03-23T09:19:53.413Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350783.htm">超材料混凝土为智能、自供电的基础设施奠定了基础</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[全球首枚3D打印火箭 美国“人族一号”发射失败 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[全球首枚3D打印火箭 美国“人族一号”发射失败]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350781.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350781.htm"/>
         <updated>2023-03-23T09:19:53.418Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350781.htm">全球首枚3D打印火箭 美国“人族一号”发射失败</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[芯片要大涨价？ARM已通知小米等客户将改变授权模式 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[芯片要大涨价？ARM已通知小米等客户将改变授权模式]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350779.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350779.htm"/>
         <updated>2023-03-23T09:19:53.424Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350779.htm">芯片要大涨价？ARM已通知小米等客户将改变授权模式</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[亚马逊云游戏服务Luna现已在英、德和加拿大推出 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[亚马逊云游戏服务Luna现已在英、德和加拿大推出]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350777.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350777.htm"/>
         <updated>2023-03-23T09:19:53.444Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350777.htm">亚马逊云游戏服务Luna现已在英、德和加拿大推出</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国加州玩家对微软动视暴雪收购提起诉讼 被法官驳回 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[美国加州玩家对微软动视暴雪收购提起诉讼 被法官驳回]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350775.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350775.htm"/>
         <updated>2023-03-23T09:19:53.445Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350775.htm">美国加州玩家对微软动视暴雪收购提起诉讼 被法官驳回</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软独立发行计划ID@Xbox开发者十年总收入超40亿美元 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[微软独立发行计划ID@Xbox开发者十年总收入超40亿美元]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350773.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350773.htm"/>
         <updated>2023-03-23T09:19:53.448Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350773.htm">微软独立发行计划ID@Xbox开发者十年总收入超40亿美元</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[胡润全球富豪榜公布：马斯克退居第二 中国富豪人数再次领跑全球 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[胡润全球富豪榜公布：马斯克退居第二 中国富豪人数再次领跑全球]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350771.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350771.htm"/>
         <updated>2023-03-23T09:19:53.450Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350771.htm">胡润全球富豪榜公布：马斯克退居第二 中国富豪人数再次领跑全球</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TikTok网红聚集华盛顿 反对美国封禁计划 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[TikTok网红聚集华盛顿 反对美国封禁计划]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350769.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350769.htm"/>
         <updated>2023-03-23T09:19:53.454Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350769.htm">TikTok网红聚集华盛顿 反对美国封禁计划</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-4加强版Copilot上线 动嘴就能用自然语言编程 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[GPT-4加强版Copilot上线 动嘴就能用自然语言编程]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350767.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350767.htm"/>
         <updated>2023-03-23T09:19:53.469Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350767.htm">GPT-4加强版Copilot上线 动嘴就能用自然语言编程</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[76岁新晋图灵奖得主：我仍然处于学习曲线的早期阶段 正在努力 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[76岁新晋图灵奖得主：我仍然处于学习曲线的早期阶段 正在努力]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350765.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350765.htm"/>
         <updated>2023-03-23T09:19:53.470Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350765.htm">76岁新晋图灵奖得主：我仍然处于学习曲线的早期阶段 正在努力</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“木头姐”：美国地区银行投资者面临“清零”风险 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[“木头姐”：美国地区银行投资者面临“清零”风险]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350763.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350763.htm"/>
         <updated>2023-03-23T09:19:53.475Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350763.htm">“木头姐”：美国地区银行投资者面临“清零”风险</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美银大赞英伟达：AI领域居主导地位 有望重塑科技业 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[美银大赞英伟达：AI领域居主导地位 有望重塑科技业]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350761.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350761.htm"/>
         <updated>2023-03-23T09:19:53.482Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350761.htm">美银大赞英伟达：AI领域居主导地位 有望重塑科技业</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[百度回应文心一言文功能质疑：完全是自研大语言模型 训练数据符合行业惯例 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[百度回应文心一言文功能质疑：完全是自研大语言模型 训练数据符合行业惯例]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350759.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350759.htm"/>
         <updated>2023-03-23T09:19:53.484Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350759.htm">百度回应文心一言文功能质疑：完全是自研大语言模型 训练数据符合行业惯例</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10个月60多万次“左手倒右手”虚假交易 SEC起诉孙宇晨 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[10个月60多万次“左手倒右手”虚假交易 SEC起诉孙宇晨]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350757.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350757.htm"/>
         <updated>2023-03-23T09:19:53.485Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350757.htm">10个月60多万次“左手倒右手”虚假交易 SEC起诉孙宇晨</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[德国一酿酒厂开发出无酒精速溶啤酒粉 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[德国一酿酒厂开发出无酒精速溶啤酒粉]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350755.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350755.htm"/>
         <updated>2023-03-23T09:19:53.486Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350755.htm">德国一酿酒厂开发出无酒精速溶啤酒粉</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[人类干细胞被用来制造新型生物混合神经植入物 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[人类干细胞被用来制造新型生物混合神经植入物]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350753.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350753.htm"/>
         <updated>2023-03-23T09:19:53.493Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350753.htm">人类干细胞被用来制造新型生物混合神经植入物</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[本周末即可免费玩：《暗黑破坏神4》公测客户端预下载开启 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[本周末即可免费玩：《暗黑破坏神4》公测客户端预下载开启]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350751.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350751.htm"/>
         <updated>2023-03-23T09:19:53.497Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350751.htm">本周末即可免费玩：《暗黑破坏神4》公测客户端预下载开启</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[李彦宏：重做ChatGPT已没多大意义 不会写提示的人将被淘汰 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[李彦宏：重做ChatGPT已没多大意义 不会写提示的人将被淘汰]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350749.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350749.htm"/>
         <updated>2023-03-23T09:19:53.502Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350749.htm">李彦宏：重做ChatGPT已没多大意义 不会写提示的人将被淘汰</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果公司收紧返回办公室政策 不遵守规定可能被解雇 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[苹果公司收紧返回办公室政策 不遵守规定可能被解雇]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350747.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350747.htm"/>
         <updated>2023-03-23T09:19:53.514Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350747.htm">苹果公司收紧返回办公室政策 不遵守规定可能被解雇</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[机器学习帮助分离可堆肥和传统塑料垃圾 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[机器学习帮助分离可堆肥和传统塑料垃圾]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350745.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350745.htm"/>
         <updated>2023-03-23T09:19:53.518Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350745.htm">机器学习帮助分离可堆肥和传统塑料垃圾</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NASA费米太空望远镜在动态伽马射线天空中捕捉到“宇宙烟花” (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[NASA费米太空望远镜在动态伽马射线天空中捕捉到“宇宙烟花”]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350743.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350743.htm"/>
         <updated>2023-03-23T09:19:53.520Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350743.htm">NASA费米太空望远镜在动态伽马射线天空中捕捉到“宇宙烟花”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[研究认为大型小行星撞击地球的可能性比以前认为的要大 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[研究认为大型小行星撞击地球的可能性比以前认为的要大]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350741.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350741.htm"/>
         <updated>2023-03-23T09:19:53.523Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350741.htm">研究认为大型小行星撞击地球的可能性比以前认为的要大</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[科学家在矮星系中发现被甩出家园的超大质量黑洞 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[科学家在矮星系中发现被甩出家园的超大质量黑洞]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350739.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350739.htm"/>
         <updated>2023-03-23T09:19:53.528Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350739.htm">科学家在矮星系中发现被甩出家园的超大质量黑洞</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT暴露用户聊天标题 OpenAI：已修复漏洞 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[ChatGPT暴露用户聊天标题 OpenAI：已修复漏洞]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350737.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350737.htm"/>
         <updated>2023-03-23T09:19:53.531Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350737.htm">ChatGPT暴露用户聊天标题 OpenAI：已修复漏洞</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Epic Games展示次世代图形虚幻5.2技术演示 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[Epic Games展示次世代图形虚幻5.2技术演示]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350735.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350735.htm"/>
         <updated>2023-03-23T09:19:53.532Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350735.htm">Epic Games展示次世代图形虚幻5.2技术演示</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《反恐精英2》官宣 可免费从CS:GO升级 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[《反恐精英2》官宣 可免费从CS:GO升级]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350733.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350733.htm"/>
         <updated>2023-03-23T09:19:53.533Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350733.htm">《反恐精英2》官宣 可免费从CS:GO升级</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Epic老板：元宇宙已经成真 苹果将是开源最大阻碍 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[Epic老板：元宇宙已经成真 苹果将是开源最大阻碍]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350731.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350731.htm"/>
         <updated>2023-03-23T09:19:53.534Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350731.htm">Epic老板：元宇宙已经成真 苹果将是开源最大阻碍</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《足球小将》全新动画第二季预告 预定10月开播 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[《足球小将》全新动画第二季预告 预定10月开播]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350729.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350729.htm"/>
         <updated>2023-03-23T09:19:53.536Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350729.htm">《足球小将》全新动画第二季预告 预定10月开播</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quest商店收入超16亿美元 Meta宣布Oculus发行部门 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[Quest商店收入超16亿美元 Meta宣布Oculus发行部门]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350727.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350727.htm"/>
         <updated>2023-03-23T09:19:53.546Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350727.htm">Quest商店收入超16亿美元 Meta宣布Oculus发行部门</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PayPal联合创始人：科技业多数被裁员工都是在“假装工作” (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[PayPal联合创始人：科技业多数被裁员工都是在“假装工作”]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350725.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350725.htm"/>
         <updated>2023-03-23T09:19:53.551Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350725.htm">PayPal联合创始人：科技业多数被裁员工都是在“假装工作”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[沙特和阿联酋投资公司拟向SpaceX投资数十亿美元 估值1400亿美元 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[沙特和阿联酋投资公司拟向SpaceX投资数十亿美元 估值1400亿美元]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350723.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350723.htm"/>
         <updated>2023-03-23T09:19:53.552Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350723.htm">沙特和阿联酋投资公司拟向SpaceX投资数十亿美元 估值1400亿美元</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软AI全家桶上新 GPT-4进军程序员大本营GitHub (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[微软AI全家桶上新 GPT-4进军程序员大本营GitHub]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350721.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350721.htm"/>
         <updated>2023-03-23T09:19:53.555Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350721.htm">微软AI全家桶上新 GPT-4进军程序员大本营GitHub</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[当AI开始画画和“摄影”：不仅娱乐人，还会愚弄人 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[当AI开始画画和“摄影”：不仅娱乐人，还会愚弄人]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350719.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350719.htm"/>
         <updated>2023-03-23T09:19:53.556Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350719.htm">当AI开始画画和“摄影”：不仅娱乐人，还会愚弄人</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[谷歌的“GPT”终于憋出来了 但也就和百度打得有来有回 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[谷歌的“GPT”终于憋出来了 但也就和百度打得有来有回]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350717.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350717.htm"/>
         <updated>2023-03-23T09:19:53.556Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350717.htm">谷歌的“GPT”终于憋出来了 但也就和百度打得有来有回</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-4比ChatGPT有何进步？黄仁勋与OpenAI联合创始人进行了一次“炉边谈话” (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[GPT-4比ChatGPT有何进步？黄仁勋与OpenAI联合创始人进行了一次“炉边谈话”]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350715.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350715.htm"/>
         <updated>2023-03-23T09:19:53.565Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350715.htm">GPT-4比ChatGPT有何进步？黄仁勋与OpenAI联合创始人进行了一次“炉边谈话”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022图灵奖授予以太网之父Bob Metcalfe 其同名定律成为互联网经济基石 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[2022图灵奖授予以太网之父Bob Metcalfe 其同名定律成为互联网经济基石]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350713.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350713.htm"/>
         <updated>2023-03-23T09:19:53.565Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350713.htm">2022图灵奖授予以太网之父Bob Metcalfe 其同名定律成为互联网经济基石</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[研究发现每天少刷15分钟手机可改善免疫力 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[研究发现每天少刷15分钟手机可改善免疫力]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350711.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350711.htm"/>
         <updated>2023-03-23T09:19:53.566Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350711.htm">研究发现每天少刷15分钟手机可改善免疫力</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[只差不到100亿 英伟达马上要取代伯克希尔成为全球市值第五大公司 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[只差不到100亿 英伟达马上要取代伯克希尔成为全球市值第五大公司]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350709.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350709.htm"/>
         <updated>2023-03-23T09:19:53.569Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350709.htm">只差不到100亿 英伟达马上要取代伯克希尔成为全球市值第五大公司</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国监管指控孙宇晨涉嫌通过名人诱导投资者买入代币 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[美国监管指控孙宇晨涉嫌通过名人诱导投资者买入代币]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350707.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350707.htm"/>
         <updated>2023-03-23T09:19:53.570Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350707.htm">美国监管指控孙宇晨涉嫌通过名人诱导投资者买入代币</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国CDC召回被细菌污染的滴眼液 已致3人死亡12人失明 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[美国CDC召回被细菌污染的滴眼液 已致3人死亡12人失明]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350705.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350705.htm"/>
         <updated>2023-03-23T09:19:53.570Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350705.htm">美国CDC召回被细菌污染的滴眼液 已致3人死亡12人失明</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[贝佐斯前妻又承诺捐赠2.5亿美元 此前已捐出140多亿 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[贝佐斯前妻又承诺捐赠2.5亿美元 此前已捐出140多亿]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350703.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350703.htm"/>
         <updated>2023-03-23T09:19:53.570Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350703.htm">贝佐斯前妻又承诺捐赠2.5亿美元 此前已捐出140多亿</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[华为举办重磅会议称将“突破乌江天险” 孟晚舟等6位高层授旗 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[华为举办重磅会议称将“突破乌江天险” 孟晚舟等6位高层授旗]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350701.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350701.htm"/>
         <updated>2023-03-23T09:19:53.570Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350701.htm">华为举办重磅会议称将“突破乌江天险” 孟晚舟等6位高层授旗</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[联想再“断臂求生”：拯救者手机被曝裁撤 好牌为何打得稀烂？ (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[联想再“断臂求生”：拯救者手机被曝裁撤 好牌为何打得稀烂？]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350699.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350699.htm"/>
         <updated>2023-03-23T09:19:53.576Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350699.htm">联想再“断臂求生”：拯救者手机被曝裁撤 好牌为何打得稀烂？</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[美国SEC向加密货币交易所Coinbase发出警告通知 或将提起诉讼 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[美国SEC向加密货币交易所Coinbase发出警告通知 或将提起诉讼]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350697.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350697.htm"/>
         <updated>2023-03-23T09:19:53.576Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350697.htm">美国SEC向加密货币交易所Coinbase发出警告通知 或将提起诉讼</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软必应搜索下载量翻了8倍 谷歌下跌2% (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[微软必应搜索下载量翻了8倍 谷歌下跌2%]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350695.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350695.htm"/>
         <updated>2023-03-23T09:19:53.579Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350695.htm">微软必应搜索下载量翻了8倍 谷歌下跌2%</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[苹果自动驾驶项目新进展：测试司机人数增加到200人以上 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[苹果自动驾驶项目新进展：测试司机人数增加到200人以上]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350693.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350693.htm"/>
         <updated>2023-03-23T09:19:53.579Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350693.htm">苹果自动驾驶项目新进展：测试司机人数增加到200人以上</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[沃尔玛再掀“关店潮”：3个月关5家 业绩全靠“儿子”山姆？ (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[沃尔玛再掀“关店潮”：3个月关5家 业绩全靠“儿子”山姆？]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350691.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350691.htm"/>
         <updated>2023-03-23T09:19:53.583Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350691.htm">沃尔玛再掀“关店潮”：3个月关5家 业绩全靠“儿子”山姆？</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[多年前买的熊猫金币涨了800元 有人8斤黄金变现174万 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[多年前买的熊猫金币涨了800元 有人8斤黄金变现174万]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350689.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350689.htm"/>
         <updated>2023-03-23T09:19:53.584Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350689.htm">多年前买的熊猫金币涨了800元 有人8斤黄金变现174万</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Windows 10/11截屏工具存可怕漏洞 裁剪内容可被还原 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[Windows 10/11截屏工具存可怕漏洞 裁剪内容可被还原]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350687.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350687.htm"/>
         <updated>2023-03-23T09:19:53.584Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350687.htm">Windows 10/11截屏工具存可怕漏洞 裁剪内容可被还原</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[泰国一冶炼厂遗失含放射性元素铯137的部件 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[泰国一冶炼厂遗失含放射性元素铯137的部件]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350685.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350685.htm"/>
         <updated>2023-03-23T09:19:53.586Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350685.htm">泰国一冶炼厂遗失含放射性元素铯137的部件</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9岁女孩豪掷18.9万打赏游戏主播 偷偷记下密码还删除转账记录 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[9岁女孩豪掷18.9万打赏游戏主播 偷偷记下密码还删除转账记录]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350683.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350683.htm"/>
         <updated>2023-03-23T09:19:53.588Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350683.htm">9岁女孩豪掷18.9万打赏游戏主播 偷偷记下密码还删除转账记录</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D打印食品的配方：可食用材料的增材制造 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[3D打印食品的配方：可食用材料的增材制造]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350681.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350681.htm"/>
         <updated>2023-03-23T09:19:53.595Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350681.htm">3D打印食品的配方：可食用材料的增材制造</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[科学家发现失去关键类型的胰腺细胞可能导致糖尿病的发生 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[科学家发现失去关键类型的胰腺细胞可能导致糖尿病的发生]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350679.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350679.htm"/>
         <updated>2023-03-23T09:19:53.596Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350679.htm">科学家发现失去关键类型的胰腺细胞可能导致糖尿病的发生</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[操控"量子光"的空前突破 让光子与人造原子相互作用 (cnbeta 首页)]]></title>
+        <title type="html"><![CDATA[操控"量子光"的空前突破 让光子与人造原子相互作用]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350677.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1350677.htm"/>
         <updated>2023-03-23T09:19:53.818Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350677.htm">操控"量子光"的空前突破 让光子与人造原子相互作用</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[British Columbia (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/British_Columbia</id>
-        <link href="https://en.wikivoyage.org/wiki/British_Columbia"/>
-        <updated>2023-03-23T09:01:54.304Z</updated>
-        <content type="html"><![CDATA[<style data-mw-deduplicate="TemplateStyles:r4523569">.mw-parser-output .mainpage-shadowbox{color:white;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px}.mw-parser-output .mainpage-shadowbox h2,.mw-parser-output .mainpage-shadowbox h3{color:white;border:none;font-family:sans-serif;line-height:1.2em;margin:0;padding:0}.mw-parser-output .mainpage-shadowbox a{color:white;font-weight:bold}.mw-parser-output .banner-image{position:relative;max-width:1125px;height:auto;margin-bottom:.6em}.mw-parser-output .banner-image img{max-width:100%;height:auto}.mw-parser-output .banner-box-wide{width:80%}.mw-parser-output .banner-box-left,.mw-parser-output .banner-box-right{padding:8px 7px;background:rgb(16,16,16);background:rgba(0,0,0,0.3);border-radius:4px;width:40%}.mw-parser-output .banner-box-left{text-align:left}.mw-parser-output .banner-box-right{text-align:right}.mw-parser-output .banner-box-2{position:absolute;z-index:2;min-width:20em}@media screen and (min-width:720px){.mw-parser-output .banner-image img.nolink{display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"].nolink{display:none}.mw-parser-output .mainpage-shadowbox h2{font-size:190%}.mw-parser-output .mainpage-shadowbox h3{font-size:150%}.mw-parser-output .banner-image{overflow:hidden}.mw-parser-output .banner-box-left{left:3%}.mw-parser-output .banner-box-right{right:3%}.mw-parser-output .banner-box-2{margin-top:2em}.mw-parser-output .banner-box-2 .quote{font-size:80%;line-height:1.2em}}@media screen and (max-width:720px){.mw-parser-output .banner-image img:not(.nolink){display:none}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"] img{display:inline-block}.mw-parser-output .banner-image span[typeof~="mw:File/Frameless"]:not(.nolink){display:none}.mw-parser-output .banner-image>.mainpage-shadowbox{width:inherit!important;min-height:100%;margin-left:-150%;margin-right:150%;opacity:0;background:black}.mw-parser-output .mainpage-shadowbox .quote>a:after{content:"\a Tap to learn more.";white-space:pre}.mw-parser-output .jcarousel-item:hover .mainpage-shadowbox{margin:unset;opacity:1;transition:margin 0.5s;bottom:50%}.mw-parser-output .jcarousel-control-prev,.mw-parser-output .jcarousel-control-next{display:none}.mw-parser-output img.interactiveIcon,.mw-parser-output .interactiveIcon img{position:absolute;opacity:0.4;height:75%!important;width:auto;bottom:0;right:0}}</style>
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
-<p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331"></span></span>
-</p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:20%">
-		<h2><span class="mw-headline" id="British_Columbia"><a href="/wiki/British_Columbia" title="British Columbia">British Columbia</a></span></h2>
-		<h3><span class="mw-headline" id="Destination_of_the_month"><a href="/wiki/Previous_Destinations_of_the_month" title="Previous Destinations of the month">Destination of the month</a></span></h3>
-		<div class="quote"><a href="/wiki/British_Columbia" title="British Columbia">This province, which extends from Canada's Pacific Coast to snow-capped mountains, offers spectacular scenery and great outdoor activities plus the cosmopolitan city of Vancouver.</a></div>
-	</div>
-<p>	<span class="nolink" typeof="mw:File/Frameless"><span title="British Columbia"><img alt="British Columbia" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BC_banner_3.jpg/1700px-BC_banner_3.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BC_banner_3.jpg/2550px-BC_banner_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BC_banner_3.jpg/3400px-BC_banner_3.jpg 2x" data-file-width="5472" data-file-height="1825" width="1700" height="567"></span></span>
-</p>
-	<span typeof="mw:File/Frameless"><a href="/wiki/British_Columbia" title="British Columbia"><img alt="British Columbia" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BC_banner_3.jpg/1700px-BC_banner_3.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BC_banner_3.jpg/2550px-BC_banner_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BC_banner_3.jpg/3400px-BC_banner_3.jpg 2x" data-file-width="5472" data-file-height="1825" width="1700" height="567"></a></span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guanajuato (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Guanajuato</id>
-        <link href="https://en.wikivoyage.org/wiki/Guanajuato"/>
-        <updated>2023-03-23T09:01:54.314Z</updated>
-        <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
-<p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331"></span></span>
-</p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right" style="width:20%">
-		<h2><span class="mw-headline" id="Guanajuato"><a href="/wiki/Guanajuato" title="Guanajuato">Guanajuato</a></span></h2>
-		<h3><span class="mw-headline" id="Off_the_Beaten_Path"><a href="/wiki/Previously_Off_the_beaten_path" title="Previously Off the beaten path">Off the Beaten Path</a></span></h3>
-		<div class="quote"><a href="/wiki/Guanajuato" title="Guanajuato">The capital of the namesake state in Mexico is known for its silver mines and flood tunnels.</a></div>
-	</div>
-<p>	<span class="nolink" typeof="mw:File/Frameless"><span title="Guanajuato"><img alt="Guanajuato" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg/1700px-Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg/2550px-Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg/3400px-Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg 2x" data-file-width="5536" data-file-height="1846" width="1700" height="567"></span></span>
-</p>
-	<span typeof="mw:File/Frameless"><a href="/wiki/Guanajuato" title="Guanajuato"><img alt="Guanajuato" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg/1700px-Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg/2550px-Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg/3400px-Guanajuato_otbp_banner_La_Galere%C3%B1a_Tunnel.jpg 2x" data-file-width="5536" data-file-height="1846" width="1700" height="567"></a></span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mount Kosciuszko summit trails (Wikivoyage recommendations)]]></title>
-        <id>https://en.wikivoyage.org/wiki/Mount_Kosciuszko_summit_trails</id>
-        <link href="https://en.wikivoyage.org/wiki/Mount_Kosciuszko_summit_trails"/>
-        <updated>2023-03-23T09:01:54.315Z</updated>
-        <content type="html"><![CDATA[<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r4523569">
-<div class="banner-image js-proportonal-resize" style="font-size: 117.222%;">
-<p>	<span class="mw-default-size nolink interactiveIcon" typeof="mw:File/Frameless"><span><img src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/220px-Interactive_icon.svg.png" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/330px-Interactive_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Interactive_icon.svg/440px-Interactive_icon.svg.png 2x" data-file-width="133" data-file-height="200" width="220" height="331"></span></span>
-</p>
-	<div class="mainpage-shadowbox banner-box-2 banner-box-right">
-		<h2><span class="mw-headline" id="Mount_Kosciuszko_summit_trails"><a href="/wiki/Mount_Kosciuszko_summit_trails" title="Mount Kosciuszko summit trails">Mount Kosciuszko summit trails</a></span></h2>
-		<h3><span class="mw-headline" id="Featured_Travel_Topic"><a href="/wiki/Previous_Featured_travel_topics" title="Previous Featured travel topics">Featured Travel Topic</a></span></h3>
-		<div class="quote"><a href="/wiki/Mount_Kosciuszko_summit_trails" title="Mount Kosciuszko summit trails">Climbing a Seven Summit can be a real challenge, but the world's shortest Seven Summit at only 2,228 metres, is the equivalent of your Sunday afternoon stroll.</a></div>
-	</div>
-<p>	<span class="nolink" typeof="mw:File/Frameless"><span title="Mount Kosciuszko summit trails"><img alt="Mount Kosciuszko summit trails" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mt_Kosciuszko_summit_trails_banner_4.jpg/1700px-Mt_Kosciuszko_summit_trails_banner_4.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mt_Kosciuszko_summit_trails_banner_4.jpg/2550px-Mt_Kosciuszko_summit_trails_banner_4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mt_Kosciuszko_summit_trails_banner_4.jpg/3400px-Mt_Kosciuszko_summit_trails_banner_4.jpg 2x" data-file-width="6480" data-file-height="2161" width="1700" height="567"></span></span>
-</p>
-	<span typeof="mw:File/Frameless"><a href="/wiki/Mount_Kosciuszko_summit_trails" title="Mount Kosciuszko summit trails"><img alt="Mount Kosciuszko summit trails" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mt_Kosciuszko_summit_trails_banner_4.jpg/1700px-Mt_Kosciuszko_summit_trails_banner_4.jpg" decoding="async" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mt_Kosciuszko_summit_trails_banner_4.jpg/2550px-Mt_Kosciuszko_summit_trails_banner_4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Mt_Kosciuszko_summit_trails_banner_4.jpg/3400px-Mt_Kosciuszko_summit_trails_banner_4.jpg 2x" data-file-width="6480" data-file-height="2161" width="1700" height="567"></a></span></div>]]></content>
     </entry>
 </feed>
