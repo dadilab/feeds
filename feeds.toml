@@ -1,3 +1,10 @@
+[52pojie-today]
+title = "吾爱破解 今日热帖"
+url = "https://www.52pojie.cn/misc.php?mod=ranklist&type=thread&view=replies&orderby=today"
+entrySelector = "td.icn + th"
+titleSelector = "a"
+linkSelector = "a"
+
 [cnbeta_front]
 title = "cnbeta 首页"
 url = "https://m.cnbeta.com.tw/wap"
