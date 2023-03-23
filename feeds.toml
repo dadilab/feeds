@@ -33,13 +33,6 @@ entrySelector = "div.mobile-post-outer"
 titleSelector = "a > h3"
 linkSelector = "a"
 
-[52pojie-today]
-title = "吾爱破解 今日热帖"
-url = "https://www.52pojie.cn/misc.php?mod=ranklist&type=thread&view=replies&orderby=today"
-entrySelector = "div.tl > table > tbody:nth-of-type(2) th"
-titleSelector = "a"
-linkSelector = "a"
-
 [codenews]
 title = "codenews 最新帖子"
 url = "https://codenews.cc"
