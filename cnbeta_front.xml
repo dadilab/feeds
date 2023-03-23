@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-03-23T10:00:05.612Z</updated>
+    <updated>2023-03-23T10:11:07.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[三星手机“增强”相片功能再次露馅：给婴儿加牙齿]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350807.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350807.htm"/>
+        <updated>2023-03-23T10:10:29.027Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350807.htm">三星手机“增强”相片功能再次露馅：给婴儿加牙齿</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《反恐精英2》官方提醒玩家谨防诈骗信息 不存在测试密钥]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350805.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350805.htm"/>
+        <updated>2023-03-23T10:10:29.030Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350805.htm">《反恐精英2》官方提醒玩家谨防诈骗信息 不存在测试密钥</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科技媒体指控谷歌Bard抄袭文章 被发现后道歉]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350803.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350803.htm"/>
+        <updated>2023-03-23T10:10:29.032Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350803.htm">科技媒体指控谷歌Bard抄袭文章 被发现后道歉</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[华为P60系列发布 双星北斗卫星消息+鸿蒙3.1售价4488元起]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1350801.htm</id>
@@ -403,26 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1350689.htm"/>
         <updated>2023-03-23T09:19:53.584Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350689.htm">多年前买的熊猫金币涨了800元 有人8斤黄金变现174万</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 10/11截屏工具存可怕漏洞 裁剪内容可被还原]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350687.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350687.htm"/>
-        <updated>2023-03-23T09:19:53.584Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350687.htm">Windows 10/11截屏工具存可怕漏洞 裁剪内容可被还原</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[泰国一冶炼厂遗失含放射性元素铯137的部件]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350685.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350685.htm"/>
-        <updated>2023-03-23T09:19:53.586Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350685.htm">泰国一冶炼厂遗失含放射性元素铯137的部件</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9岁女孩豪掷18.9万打赏游戏主播 偷偷记下密码还删除转账记录]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350683.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350683.htm"/>
-        <updated>2023-03-23T09:19:53.588Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350683.htm">9岁女孩豪掷18.9万打赏游戏主播 偷偷记下密码还删除转账记录</a>]]></content>
     </entry>
 </feed>
