@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rsyqvthv.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-24T12:13:05.251Z</updated>
+    <updated>2023-03-24T20:08:27.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Pandora占星小巫天蝎座一周塔罗运势（3.20-3.26） (美国神婆 天蝎)]]></title>
@@ -145,7 +145,7 @@
         <content type="html"><![CDATA[<a href="https://www.zuixingzuo.net/tianxie/show355906.html" target="_blank">Pandora占星小巫天蝎座一周塔罗运势（2.27-3.5）</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[有效日期：2023-03-24 (新浪 天蝎日运)]]></title>
+        <title type="html"><![CDATA[有效日期：2023-03-25 (新浪 天蝎日运)]]></title>
         <id>javascript:void(0)</id>
         <link href="javascript:void(0)"/>
         <updated>2023-03-23T16:32:23.501Z</updated>
@@ -160,7 +160,7 @@
 								<span class="sp2">作者：<span class="a1">每少 </span>新浪独家撰稿</span>
 							</div>
 							<div class="time">
-								有效日期：2023-03-24
+								有效日期：2023-03-25
 							</div>
 						</div>
 					</div>
@@ -168,7 +168,7 @@
 						<table class="tb">
 							<tbody><tr>
 								<td class="tb_td1">今日幸运值</td>
-								<td>90%</td>
+								<td>70%</td>
 								<td class="tb_td1">爱情指数</td>
 								<td>90%</td>
 							</tr>
@@ -176,34 +176,34 @@
 								<td class="tb_td1">工作指数</td>
 								<td>30%</td>
 								<td class="tb_td1">财运指数</td>
-								<td>50%</td>
+								<td>60%</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">健康指数</td>
-								<td>80%</td>
+								<td>20%</td>
 								<td class="tb_td1">幸运数字</td>
-								<td>8</td>
+								<td>7</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">幸运颜色</td>
-								<td>粉色</td>
+								<td>黑色</td>
 								<td class="tb_td1">贵人星座</td>
-								<td>巨蟹座</td>
+								<td>魔羯座</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">今日重要天象</td>
-								<td colspan="3"></td>
+								<td colspan="3">火星进入巨蟹座</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">精评</td>
-								<td colspan="3">一句话顶你：需要空间。</td>
+								<td colspan="3">一句话激你：心胸不够广。</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">详述</td>
-								<td colspan="3" style="line-height: 25px;">需要个人空间的一天，你会更倾向于有一个独立的空间，无论你做什么，都不被别人干扰。感情里容易受到来自原生家庭或者过去感情的影响。</td>
+								<td colspan="3" style="line-height: 25px;">遇事太容易执着，很难看到其他机会，今天你需要少一点情绪化，多给自己给别人一些机会，当你注意到周围的环境而不一味自苦，自然能找到新的机会。</td>
 							</tr>
 						</tbody></table>
-						<div class="chart-box" style="height: 400px; user-select: none; position: relative;" _echarts_instance_="ec_1679659920703"><div style="position: relative; width: 680px; height: 400px; padding: 0px; margin: 0px; border-width: 0px;"><canvas style="position: absolute; left: 0px; top: 0px; width: 680px; height: 400px; user-select: none; padding: 0px; margin: 0px; border-width: 0px;" data-zr-dom-id="zr_0" width="680" height="400"></canvas></div><div></div></div>
+						<div class="chart-box" style="height: 400px; user-select: none; position: relative;" _echarts_instance_="ec_1679688452984"><div style="position: relative; width: 680px; height: 400px; padding: 0px; margin: 0px; border-width: 0px;"><canvas style="position: absolute; left: 0px; top: 0px; width: 680px; height: 400px; user-select: none; padding: 0px; margin: 0px; border-width: 0px;" data-zr-dom-id="zr_0" width="680" height="400"></canvas></div><div></div></div>
 						<!-- <div class="words"></div> -->
 
 						<!-- 自定义按钮及分享 -->
@@ -227,7 +227,7 @@
 									bdWbuid : '1644291782'
 								},
 								share : [{
-									bdText : '【天蝎座今日运势】今日幸运值：90%。爱情指数：90%工作指数：30%幸运颜色：粉色。贵人星座：巨蟹座。',
+									bdText : '【天蝎座今日运势】今日幸运值：70%。爱情指数：90%工作指数：30%幸运颜色：黑色。贵人星座：魔羯座。',
 									bdDesc : '',
 									bdUrl : 'http://astro.sina.com.cn/fate_day_Scorpio/index.html',
 									bdPic : 'http://n.sinaimg.cn/723ccdcf/20150817/bshare.jpg'
@@ -355,56 +355,56 @@
         <id>https://m.163.com/news/article/I0H7VI9K0514R9P4.html</id>
         <link href="https://m.163.com/news/article/I0H7VI9K0514R9P4.html"/>
         <updated>2023-03-24T05:38:30.423Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0H7VI9K0514R9P4.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>网民吁取消“一患一陪护”政策：河北不再执行</h4><div class="s-info"><!----><span class="s-source">澎湃新闻</span><span class="s-replyCount">491跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0324%2F424b62e1j00rrzvj0002nc0009c0070c.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" alt="网民吁取消“一患一陪护”政策：河北不再执行" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0324%2F424b62e1j00rrzvj0002nc0009c0070c.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loaded"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0H7VI9K0514R9P4.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>网民吁取消“一患一陪护”政策：河北不再执行</h4><div class="s-info"><!----><span class="s-source">澎湃新闻</span><span class="s-replyCount">495跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0324%2F424b62e1j00rrzvj0002nc0009c0070c.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" alt="网民吁取消“一患一陪护”政策：河北不再执行" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0324%2F424b62e1j00rrzvj0002nc0009c0070c.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loaded"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[敛财22年，去年首个女“老虎”受审，曾被指“晋升太快” (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I0HTGDPC00018AP2.html</id>
         <link href="https://m.163.com/news/article/I0HTGDPC00018AP2.html"/>
         <updated>2023-03-24T05:38:30.423Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0HTGDPC00018AP2.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>敛财22年，去年首个女“老虎”受审，曾被指“晋升太快”</h4><div class="s-info"><!----><span class="s-source">上观新闻</span><span class="s-replyCount">316跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="敛财22年，去年首个女“老虎”受审，曾被指“晋升太快”" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F920a1fbej00rryujw014lc004g002i0c.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0HTGDPC00018AP2.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>敛财22年，去年首个女“老虎”受审，曾被指“晋升太快”</h4><div class="s-info"><!----><span class="s-source">上观新闻</span><span class="s-replyCount">320跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="敛财22年，去年首个女“老虎”受审，曾被指“晋升太快”" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F920a1fbej00rryujw014lc004g002i0c.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[湖南常德市委原书记杨懿文获刑16年半 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I0HKEF3G0001899O.html</id>
         <link href="https://m.163.com/news/article/I0HKEF3G0001899O.html"/>
         <updated>2023-03-23T15:57:12.753Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0HKEF3G0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>湖南常德市委原书记杨懿文获刑16年半</h4><div class="s-info"><!----><span class="s-source">株洲中院</span><span class="s-replyCount">4099跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="湖南常德市委原书记杨懿文获刑16年半" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F3b41f4f9j00rryyep0008c0006q004ic.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0HKEF3G0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>湖南常德市委原书记杨懿文获刑16年半</h4><div class="s-info"><!----><span class="s-source">株洲中院</span><span class="s-replyCount">4149跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="湖南常德市委原书记杨懿文获刑16年半" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F3b41f4f9j00rryyep0008c0006q004ic.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[受贿1883万！辽宁省原副省长郝春荣受审 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I0HFPQ5V000189PS.html</id>
         <link href="https://m.163.com/news/article/I0HFPQ5V000189PS.html"/>
         <updated>2023-03-23T15:57:12.756Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0HFPQ5V000189PS.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>受贿1883万！辽宁省原副省长郝春荣受审</h4><div class="s-info"><!----><span class="s-source">央视新闻客户端</span><span class="s-replyCount">1052跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="受贿1883万！辽宁省原副省长郝春荣受审" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2Fb852943ej00rrywas000lc000fk008rc.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0HFPQ5V000189PS.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>受贿1883万！辽宁省原副省长郝春荣受审</h4><div class="s-info"><!----><span class="s-source">央视新闻客户端</span><span class="s-replyCount">856跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="受贿1883万！辽宁省原副省长郝春荣受审" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2Fb852943ej00rrywas000lc000fk008rc.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[官方：把足球工作重心转移到青少年足球 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I0HDKF780001899O.html</id>
         <link href="https://m.163.com/news/article/I0HDKF780001899O.html"/>
         <updated>2023-03-23T15:57:12.756Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0HDKF780001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>官方：把足球工作重心转移到青少年足球</h4><div class="s-info"><!----><span class="s-source">新华社</span><span class="s-replyCount">3907跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="官方：把足球工作重心转移到青少年足球" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F30b39166j00rryt2z002gc0009c0070c.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0HDKF780001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>官方：把足球工作重心转移到青少年足球</h4><div class="s-info"><!----><span class="s-source">新华社</span><span class="s-replyCount">3917跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="官方：把足球工作重心转移到青少年足球" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F30b39166j00rryt2z002gc0009c0070c.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新冠感染治疗药物来瑞特韦片获批上市 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I0HAIO4M0001899O.html</id>
         <link href="https://m.163.com/news/article/I0HAIO4M0001899O.html"/>
         <updated>2023-03-23T15:57:12.756Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0HAIO4M0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>新冠感染治疗药物来瑞特韦片获批上市</h4><div class="s-info"><!----><span class="s-source">财联社</span><span class="s-replyCount">3468跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="新冠感染治疗药物来瑞特韦片获批上市" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F83afd569j00rryqms000uc000hs00bvc.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0HAIO4M0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>新冠感染治疗药物来瑞特韦片获批上市</h4><div class="s-info"><!----><span class="s-source">财联社</span><span class="s-replyCount">3474跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="新冠感染治疗药物来瑞特韦片获批上市" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F83afd569j00rryqms000uc000hs00bvc.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[女子疑受邀赴泰旅游失联21天 警方回应 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I0H9HLAT0001899O.html</id>
         <link href="https://m.163.com/news/article/I0H9HLAT0001899O.html"/>
         <updated>2023-03-23T15:57:12.759Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0H9HLAT0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>女子疑受邀赴泰旅游失联21天 警方回应</h4><div class="s-info"><!----><span class="s-source">红星新闻</span><span class="s-replyCount">5924跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="女子疑受邀赴泰旅游失联21天 警方回应" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F219e0f6cj00rryqaz002xc0009c0070c.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0H9HLAT0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>女子疑受邀赴泰旅游失联21天 警方回应</h4><div class="s-info"><!----><span class="s-source">红星新闻</span><span class="s-replyCount">6297跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="女子疑受邀赴泰旅游失联21天 警方回应" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F219e0f6cj00rryqaz002xc0009c0070c.jpg&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[游客在长城城墙上刻字 北京警方：已拘留 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I0H7EPTH0001899O.html</id>
         <link href="https://m.163.com/news/article/I0H7EPTH0001899O.html"/>
         <updated>2023-03-23T15:57:12.759Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0H7EPTH0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>游客在长城城墙上刻字 北京警方：已拘留</h4><div class="s-info"><!----><span class="s-source">延庆警方</span><span class="s-replyCount">1.8万跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="游客在长城城墙上刻字 北京警方：已拘留" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F4410fee5p00rryo7i001tc000gl00eic.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0H7EPTH0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>游客在长城城墙上刻字 北京警方：已拘留</h4><div class="s-info"><!----><span class="s-source">延庆警方</span><span class="s-replyCount">1.7万跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="游客在长城城墙上刻字 北京警方：已拘留" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F4410fee5p00rryo7i001tc000gl00eic.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[官方通报"前CBA球员实名举报天津篮协主席"：不属实 (网易 国内新闻)]]></title>
@@ -418,28 +418,28 @@
         <id>https://m.163.com/news/article/I0H6E4Q50001899O.html</id>
         <link href="https://m.163.com/news/article/I0H6E4Q50001899O.html"/>
         <updated>2023-03-23T15:57:12.759Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0H6E4Q50001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>现场视频：沙尘暴过后公路满地沙子厚处达1米多</h4><div class="s-info"><!----><span class="s-source">封面新闻</span><span class="s-replyCount">4105跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="现场视频：沙尘暴过后公路满地沙子厚处达1米多" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2Fb36451e7p00rrynoe000fc0006p0049c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0H6E4Q50001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>现场视频：沙尘暴过后公路满地沙子厚处达1米多</h4><div class="s-info"><!----><span class="s-source">封面新闻</span><span class="s-replyCount">4140跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="现场视频：沙尘暴过后公路满地沙子厚处达1米多" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2Fb36451e7p00rrynoe000fc0006p0049c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[颜宁获聘深圳湾实验室主任 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I0H2RKHP0001899O.html</id>
         <link href="https://m.163.com/news/article/I0H2RKHP0001899O.html"/>
         <updated>2023-03-23T15:57:12.759Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0H2RKHP0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>颜宁获聘深圳湾实验室主任</h4><div class="s-info"><!----><span class="s-source">长安街知事</span><span class="s-replyCount">4147跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="颜宁获聘深圳湾实验室主任" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2Fde12e4a9p00rryk7u0050c000m800etc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0H2RKHP0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>颜宁获聘深圳湾实验室主任</h4><div class="s-info"><!----><span class="s-source">长安街知事</span><span class="s-replyCount">4151跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="颜宁获聘深圳湾实验室主任" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2Fde12e4a9p00rryk7u0050c000m800etc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[深圳市交管局：5家网约车平台违规派单被罚57万元 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I0H01VOF0001899N.html</id>
         <link href="https://m.163.com/news/article/I0H01VOF0001899N.html"/>
         <updated>2023-03-23T15:57:12.759Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0H01VOF0001899N.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>深圳市交管局：5家网约车平台违规派单被罚57万元  </h4><div class="s-info"><!----><span class="s-source">界面新闻</span><span class="s-replyCount">720跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="深圳市交管局：5家网约车平台违规派单被罚57万元  " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F740e3c7ap00rryo15007gc000qg00hnc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0H01VOF0001899N.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>深圳市交管局：5家网约车平台违规派单被罚57万元  </h4><div class="s-info"><!----><span class="s-source">界面新闻</span><span class="s-replyCount">719跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="深圳市交管局：5家网约车平台违规派单被罚57万元  " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F740e3c7ap00rryo15007gc000qg00hnc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["新生儿骨折月子会所称无责"续：会所拒绝提供监控 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I0GQ1JK80001899O.html</id>
         <link href="https://m.163.com/news/article/I0GQ1JK80001899O.html"/>
         <updated>2023-03-23T15:57:12.759Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0GQ1JK80001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>"新生儿骨折月子会所称无责"续：会所拒绝提供监控</h4><div class="s-info"><!----><span class="s-source">澎湃新闻</span><span class="s-replyCount">1053跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="&quot;新生儿骨折月子会所称无责&quot;续：会所拒绝提供监控" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2Fb03f095bp00rryftr004qc000ku00e5c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0GQ1JK80001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>"新生儿骨折月子会所称无责"续：会所拒绝提供监控</h4><div class="s-info"><!----><span class="s-source">澎湃新闻</span><span class="s-replyCount">1062跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="&quot;新生儿骨折月子会所称无责&quot;续：会所拒绝提供监控" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2Fb03f095bp00rryftr004qc000ku00e5c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[教育部新任新闻发言人王磊亮相 系教育部办公厅副主任 (网易 国内新闻)]]></title>
@@ -453,14 +453,14 @@
         <id>https://m.163.com/news/article/I0GPT70F0001899N.html</id>
         <link href="https://m.163.com/news/article/I0GPT70F0001899N.html"/>
         <updated>2023-03-23T15:57:12.760Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0GPT70F0001899N.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>莫德纳新冠疫苗商业分销价格将定为130美元/剂</h4><div class="s-info"><!----><span class="s-source">界面新闻</span><span class="s-replyCount">274跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="莫德纳新冠疫苗商业分销价格将定为130美元/剂" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F535db1b9p00rrydz80081c000w200huc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0GPT70F0001899N.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>莫德纳新冠疫苗商业分销价格将定为130美元/剂</h4><div class="s-info"><!----><span class="s-source">界面新闻</span><span class="s-replyCount">275跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="莫德纳新冠疫苗商业分销价格将定为130美元/剂" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F535db1b9p00rrydz80081c000w200huc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5名中央企业领导人员接受纪律审查和监察调查 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I0GNTIJP0001899O.html</id>
         <link href="https://m.163.com/news/article/I0GNTIJP0001899O.html"/>
         <updated>2023-03-23T15:57:12.760Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0GNTIJP0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>5名中央企业领导人员接受纪律审查和监察调查 </h4><div class="s-info"><!----><span class="s-source">中央纪委国家监委网站客户端</span><span class="s-replyCount">3749跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="5名中央企业领导人员接受纪律审查和监察调查 " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F5ac8b618p00rryboh002lc000gk009zc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0GNTIJP0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>5名中央企业领导人员接受纪律审查和监察调查 </h4><div class="s-info"><!----><span class="s-source">中央纪委国家监委网站客户端</span><span class="s-replyCount">3759跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="5名中央企业领导人员接受纪律审查和监察调查 " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F5ac8b618p00rryboh002lc000gk009zc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[重庆一业主因物业纠纷持刀行凶致1死1伤 被刑拘 (网易 国内新闻)]]></title>
@@ -474,28 +474,28 @@
         <id>https://m.163.com/news/article/I0GM1BCP0001899N.html</id>
         <link href="https://m.163.com/news/article/I0GM1BCP0001899N.html"/>
         <updated>2023-03-23T15:57:12.761Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0GM1BCP0001899N.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>国家电投原副总经理夏忠被查 </h4><div class="s-info"><!----><span class="s-source">界面新闻</span><span class="s-replyCount">1676跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="国家电投原副总经理夏忠被查 " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2Fc185165cp00rryaay0049c000o300gvc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0GM1BCP0001899N.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>国家电投原副总经理夏忠被查 </h4><div class="s-info"><!----><span class="s-source">界面新闻</span><span class="s-replyCount">1685跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="国家电投原副总经理夏忠被查 " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2Fc185165cp00rryaay0049c000o300gvc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[护工5天多次殴打老人被警方带走 家政公司回应 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I0GL758P0001899O.html</id>
         <link href="https://m.163.com/news/article/I0GL758P0001899O.html"/>
         <updated>2023-03-23T15:57:12.762Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0GL758P0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>护工5天多次殴打老人被警方带走 家政公司回应</h4><div class="s-info"><!----><span class="s-source">中国新闻周刊</span><span class="s-replyCount">4212跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="护工5天多次殴打老人被警方带走 家政公司回应" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2Fd018ac67p00rryabo0040c0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0GL758P0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>护工5天多次殴打老人被警方带走 家政公司回应</h4><div class="s-info"><!----><span class="s-source">中国新闻周刊</span><span class="s-replyCount">4278跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="护工5天多次殴打老人被警方带走 家政公司回应" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2Fd018ac67p00rryabo0040c0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[游客租香港迪士尼年卡入园 港警：切勿以身试法 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I0GJEOIF0001899O.html</id>
         <link href="https://m.163.com/news/article/I0GJEOIF0001899O.html"/>
         <updated>2023-03-23T15:57:12.762Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0GJEOIF0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>游客租香港迪士尼年卡入园 港警：切勿以身试法 </h4><div class="s-info"><!----><span class="s-source">环球网</span><span class="s-replyCount">4003跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="游客租香港迪士尼年卡入园 港警：切勿以身试法 " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F0f960e0ap00rry8ks0030c000fi00a7c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0GJEOIF0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>游客租香港迪士尼年卡入园 港警：切勿以身试法 </h4><div class="s-info"><!----><span class="s-source">环球网</span><span class="s-replyCount">3987跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="游客租香港迪士尼年卡入园 港警：切勿以身试法 " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0323%2F0f960e0ap00rry8ks0030c000fi00a7c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[恒大境外债将重组成功 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I0FIEELT0001899O.html</id>
         <link href="https://m.163.com/news/article/I0FIEELT0001899O.html"/>
         <updated>2023-03-23T15:57:12.763Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0FIEELT0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>恒大境外债将重组成功</h4><div class="s-info"><!----><span class="s-source">中国网</span><span class="s-replyCount">4087跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="恒大境外债将重组成功" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0322%2F41eac602p00rrxha90081c0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0FIEELT0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>恒大境外债将重组成功</h4><div class="s-info"><!----><span class="s-source">中国网</span><span class="s-replyCount">4078跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="恒大境外债将重组成功" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0322%2F41eac602p00rrxha90081c0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国恒大预计重组协议将于10月1日起生效 (网易 国内新闻)]]></title>
@@ -551,7 +551,7 @@
         <id>https://m.163.com/news/article/I0D3C07S0519C6T9.html</id>
         <link href="https://m.163.com/news/article/I0D3C07S0519C6T9.html"/>
         <updated>2023-03-23T15:57:12.790Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I0D3C07S0519C6T9.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>南京邮政："243万存款被挪用"案件正重审</h4><div class="s-info"><!----><span class="s-source">中新经纬</span><span class="s-replyCount">6853跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="南京邮政：&quot;243万存款被挪用&quot;案件正重审" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0322%2F6dc35b54p00rrwj57002ic0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I0D3C07S0519C6T9.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>南京邮政："243万存款被挪用"案件正重审</h4><div class="s-info"><!----><span class="s-source">中新经纬</span><span class="s-replyCount">6867跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="南京邮政：&quot;243万存款被挪用&quot;案件正重审" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0322%2F6dc35b54p00rrwj57002ic0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[南华大学男学生造黄谣被取消保研资格 (网易 国内新闻)]]></title>
@@ -571,7 +571,7 @@
         <title type="html"><![CDATA[undefined (吾爱破解 今日热帖)]]></title>
         <id>https://rsyqvthv.github.io/feeds/all.xml</id>
         <link href="https://rsyqvthv.github.io/feeds/all.xml"/>
-        <updated>2023-03-24T12:12:23.424Z</updated>
+        <updated>2023-03-24T20:07:55.002Z</updated>
         <content type="html"><![CDATA[主题]]></content>
     </entry>
     <entry>
@@ -678,6 +678,202 @@
         <link href="https://www.52pojie.cn/thread-1763490-1-1.html"/>
         <updated>2023-03-24T05:38:37.052Z</updated>
         <content type="html"><![CDATA[<a href="thread-1763490-1-1.html" target="_blank">编程语言学习</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“减肥神药”上市以来诺和诺德股价已翻番 市值超雀巢 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351035.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351035.htm"/>
+        <updated>2023-03-24T20:08:01.475Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351035.htm">“减肥神药”上市以来诺和诺德股价已翻番 市值超雀巢</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[他们用ChatGPT方式搞自动驾驶 论文入选了ICRA 2023 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351033.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351033.htm"/>
+        <updated>2023-03-24T20:08:01.475Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351033.htm">他们用ChatGPT方式搞自动驾驶 论文入选了ICRA 2023</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI的小秘密：创始人奥尔特曼完全不持有公司股票 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351031.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351031.htm"/>
+        <updated>2023-03-24T20:08:01.476Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351031.htm">OpenAI的小秘密：创始人奥尔特曼完全不持有公司股票</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国可能在巴黎奥运会上使用基于AI的监控系统 尽管有反对意见 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351029.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351029.htm"/>
+        <updated>2023-03-24T20:08:01.481Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351029.htm">法国可能在巴黎奥运会上使用基于AI的监控系统 尽管有反对意见</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD RX 7900 XTX超频3.4GHz：功耗失控650W (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351027.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351027.htm"/>
+        <updated>2023-03-24T20:08:01.482Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351027.htm">AMD RX 7900 XTX超频3.4GHz：功耗失控650W</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狂飙14.1GB/s 这才是PCIe 5.0 SSD该有的样子 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351025.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351025.htm"/>
+        <updated>2023-03-24T20:08:01.482Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351025.htm">狂飙14.1GB/s 这才是PCIe 5.0 SSD该有的样子</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的"生物杂交"神经植入物可恢复瘫痪肢体的功能 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351023.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351023.htm"/>
+        <updated>2023-03-24T20:08:01.482Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351023.htm">新的"生物杂交"神经植入物可恢复瘫痪肢体的功能</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国不仅禁止政府设备使用TikTok 而且禁止所有所谓"娱乐性应用" (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351021.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351021.htm"/>
+        <updated>2023-03-24T20:08:01.483Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351021.htm">法国不仅禁止政府设备使用TikTok 而且禁止所有所谓"娱乐性应用"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不顾3万人签名反对 亚马逊仍要求员工5月重返办公室 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351019.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351019.htm"/>
+        <updated>2023-03-24T20:08:01.495Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351019.htm">不顾3万人签名反对 亚马逊仍要求员工5月重返办公室</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再见，永远的杰克奥特曼 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351017.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351017.htm"/>
+        <updated>2023-03-24T20:08:01.496Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351017.htm">再见，永远的杰克奥特曼</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[褪黑激素助眠剂可能有助于减少患有焦虑和抑郁症的年轻人的自残行为 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351015.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351015.htm"/>
+        <updated>2023-03-24T20:08:01.497Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351015.htm">褪黑激素助眠剂可能有助于减少患有焦虑和抑郁症的年轻人的自残行为</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[负面情绪可以激发更大的成功 但也有代价 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351013.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351013.htm"/>
+        <updated>2023-03-24T20:08:01.498Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351013.htm">负面情绪可以激发更大的成功 但也有代价</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Framework推出16寸模块化笔记本电脑：键盘、显卡全可换 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351011.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351011.htm"/>
+        <updated>2023-03-24T20:08:01.498Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351011.htm">Framework推出16寸模块化笔记本电脑：键盘、显卡全可换</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[领克08座舱核心公布：两颗吉利7nm车规芯片“龍鹰一号”加持 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351009.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351009.htm"/>
+        <updated>2023-03-24T20:08:01.498Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351009.htm">领克08座舱核心公布：两颗吉利7nm车规芯片“龍鹰一号”加持</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美团注册外卖配送员头盔新专利：小哥手不脱把接电话 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351007.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351007.htm"/>
+        <updated>2023-03-24T20:08:01.499Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351007.htm">美团注册外卖配送员头盔新专利：小哥手不脱把接电话</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4K 3D 高帧率重制 《泰坦尼克号》重映预售开启：4月3日上映 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351005.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351005.htm"/>
+        <updated>2023-03-24T20:08:01.503Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351005.htm">4K 3D 高帧率重制 《泰坦尼克号》重映预售开启：4月3日上映</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[女子生前贷款打赏男主播85万 给女儿留下200万债务 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351003.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351003.htm"/>
+        <updated>2023-03-24T20:08:01.508Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351003.htm">女子生前贷款打赏男主播85万 给女儿留下200万债务</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USB-C AirPods Pro 即将推出 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351001.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351001.htm"/>
+        <updated>2023-03-24T20:08:01.511Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351001.htm">USB-C AirPods Pro 即将推出</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“月掩金星”天文奇观正上演 错过得再等三年 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350999.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350999.htm"/>
+        <updated>2023-03-24T20:08:01.519Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350999.htm">“月掩金星”天文奇观正上演 错过得再等三年</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年轻人的第一辆电动汽车 小米汽车计划2024年上半年量产 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350997.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350997.htm"/>
+        <updated>2023-03-24T20:08:01.536Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350997.htm">年轻人的第一辆电动汽车 小米汽车计划2024年上半年量产</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[清华本科生发现诺奖背景报告笔误 对方诚挚接受并致信感谢 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350995.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350995.htm"/>
+        <updated>2023-03-24T20:08:01.536Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350995.htm">清华本科生发现诺奖背景报告笔误 对方诚挚接受并致信感谢</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CMA：微软收购动视暴雪不会威胁主机市场竞争 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350993.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350993.htm"/>
+        <updated>2023-03-24T20:08:01.536Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350993.htm">CMA：微软收购动视暴雪不会威胁主机市场竞争</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“ChatGPT之父”推虹膜扫描计划验证身份 未来可区分人与AI (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350991.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350991.htm"/>
+        <updated>2023-03-24T20:08:01.536Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350991.htm">“ChatGPT之父”推虹膜扫描计划验证身份 未来可区分人与AI</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国《芯片法案》细化限制条件 日韩能否真松口气？ (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350989.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350989.htm"/>
+        <updated>2023-03-24T20:08:01.537Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350989.htm">美国《芯片法案》细化限制条件 日韩能否真松口气？</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克：美联储主席换成GPT-4都比现在强 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350987.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350987.htm"/>
+        <updated>2023-03-24T20:08:01.537Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350987.htm">马斯克：美联储主席换成GPT-4都比现在强</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果CEO库克微博发文：我在北京三里屯 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350985.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350985.htm"/>
+        <updated>2023-03-24T20:08:01.537Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350985.htm">苹果CEO库克微博发文：我在北京三里屯</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT插件重磅上线 不只“联网” 还将打造强大AI生态 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350983.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350983.htm"/>
+        <updated>2023-03-24T20:08:01.537Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350983.htm">ChatGPT插件重磅上线 不只“联网” 还将打造强大AI生态</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[被打断的周受资 和遭“群嘲”的美国议员 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1350981.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1350981.htm"/>
+        <updated>2023-03-24T20:08:01.537Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1350981.htm">被打断的周受资 和遭“群嘲”的美国议员</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[加拿大YouTuber Linus频道被黑客入侵 上传马斯克诈骗视频 (cnbeta 首页)]]></title>
@@ -904,200 +1100,18 @@
         <content type="html"><![CDATA[<a href="/wap/view/1350917.htm">工程师3D打印出破纪录的包含7种成分的熟奶酪蛋糕</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[研究发现南极的降雪会短期影响海平面水平 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350915.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350915.htm"/>
-        <updated>2023-03-24T05:38:44.039Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350915.htm">研究发现南极的降雪会短期影响海平面水平</a>]]></content>
+        <title type="html"><![CDATA[Resolume Arena 7.14.2 rev 22221 Full Version (mazterize)]]></title>
+        <id>https://www.mazterize.com/resolume-arena-full.html</id>
+        <link href="https://www.mazterize.com/resolume-arena-full.html"/>
+        <updated>2023-03-24T20:08:05.214Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/resolume-arena-full.html">Resolume Arena 7.14.2 rev 22221 Full Version</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[小行星“龙宫”提供了关于地球上生命起源的线索 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350913.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350913.htm"/>
-        <updated>2023-03-24T05:38:44.041Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350913.htm">小行星“龙宫”提供了关于地球上生命起源的线索</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暴雪警告《暗黑破坏神4》周末大排队不可避免 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350911.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350911.htm"/>
-        <updated>2023-03-24T05:38:44.043Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350911.htm">暴雪警告《暗黑破坏神4》周末大排队不可避免</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大V实测百度AI画图：输入“刘慈欣” 打死也想不出画的是啥 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350909.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350909.htm"/>
-        <updated>2023-03-24T05:38:44.044Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350909.htm">大V实测百度AI画图：输入“刘慈欣” 打死也想不出画的是啥</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[浙大最新研究：野生活病毒直接转化成疫苗 有效性100% (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350907.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350907.htm"/>
-        <updated>2023-03-24T05:38:44.061Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350907.htm">浙大最新研究：野生活病毒直接转化成疫苗 有效性100%</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022中国智能手表出货量骤降9% 华为、苹果吃下“半壁江山” (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350905.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350905.htm"/>
-        <updated>2023-03-24T05:38:44.063Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350905.htm">2022中国智能手表出货量骤降9% 华为、苹果吃下“半壁江山”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高铁餐食又上新：星级酒店烹饪 30分钟极速送达 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350903.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350903.htm"/>
-        <updated>2023-03-24T05:38:44.063Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350903.htm">高铁餐食又上新：星级酒店烹饪 30分钟极速送达</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度回应“孙笑川吧”存辱女贴文：已开启整顿和全面清查 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350901.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350901.htm"/>
-        <updated>2023-03-24T05:38:44.065Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350901.htm">百度回应“孙笑川吧”存辱女贴文：已开启整顿和全面清查</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[东风本田全新紧凑型SUV车型HR-V量产下线：或16万起售 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350899.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350899.htm"/>
-        <updated>2023-03-24T05:38:44.066Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350899.htm">东风本田全新紧凑型SUV车型HR-V量产下线：或16万起售</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女生地摊套玩具熊拆开发现摄像头 已在卧室放了3个月 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350897.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350897.htm"/>
-        <updated>2023-03-24T05:38:44.077Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350897.htm">女生地摊套玩具熊拆开发现摄像头 已在卧室放了3个月</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因使用中国电池 特斯拉Model 3标准续航版或失7500美元税收优惠 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350895.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350895.htm"/>
-        <updated>2023-03-24T05:38:44.082Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350895.htm">因使用中国电池 特斯拉Model 3标准续航版或失7500美元税收优惠</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[支付宝新增“看一看”入口 首页能直接刷短视频 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350893.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350893.htm"/>
-        <updated>2023-03-24T05:38:44.089Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350893.htm">支付宝新增“看一看”入口 首页能直接刷短视频</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《阿凡达2》4K高清资源偷跑：容量13GB (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350891.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350891.htm"/>
-        <updated>2023-03-24T05:38:44.090Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350891.htm">《阿凡达2》4K高清资源偷跑：容量13GB</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球首款双座水上电动飞机RX1E-S交付 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350889.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350889.htm"/>
-        <updated>2023-03-24T05:38:44.094Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350889.htm">全球首款双座水上电动飞机RX1E-S交付</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉柏林超级工厂Model Y交付已满一年 产量仍在稳步提升 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350887.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350887.htm"/>
-        <updated>2023-03-24T05:38:44.107Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350887.htm">特斯拉柏林超级工厂Model Y交付已满一年 产量仍在稳步提升</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《暗黑破坏神4》公开Beta测试新预告 准备加入战斗！ (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350885.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350885.htm"/>
-        <updated>2023-03-24T05:38:44.110Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350885.htm">《暗黑破坏神4》公开Beta测试新预告 准备加入战斗！</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《杰克奥特曼》乡秀树饰演者团时朗去世 享年74岁 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350883.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350883.htm"/>
-        <updated>2023-03-24T05:38:44.110Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350883.htm">《杰克奥特曼》乡秀树饰演者团时朗去世 享年74岁</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《愤怒的小鸟》开发商Rovio收购谈判告终 继续寻找其他买家 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350881.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350881.htm"/>
-        <updated>2023-03-24T05:38:44.111Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350881.htm">《愤怒的小鸟》开发商Rovio收购谈判告终 继续寻找其他买家</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纽约时报：收购热门猜词游戏Wordle彻底改变了公司业务 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350879.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350879.htm"/>
-        <updated>2023-03-24T05:38:44.112Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350879.htm">纽约时报：收购热门猜词游戏Wordle彻底改变了公司业务</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暴雪和NVIDIA调查《暗黑破坏神4》让3080 Ti变砖问题 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350877.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350877.htm"/>
-        <updated>2023-03-24T05:38:44.113Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350877.htm">暴雪和NVIDIA调查《暗黑破坏神4》让3080 Ti变砖问题</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[俄罗斯电视台推出AI美女主播 灵感来自中国 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350875.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350875.htm"/>
-        <updated>2023-03-24T05:38:44.114Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350875.htm">俄罗斯电视台推出AI美女主播 灵感来自中国</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为马斯克生下双胞胎的女高管退出OpenAI董事会 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350873.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350873.htm"/>
-        <updated>2023-03-24T05:38:44.115Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350873.htm">为马斯克生下双胞胎的女高管退出OpenAI董事会</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA推迟波音Starliner飞船首次载人飞行  最早要等到今年夏季 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350871.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350871.htm"/>
-        <updated>2023-03-24T05:38:44.118Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350871.htm">NASA推迟波音Starliner飞船首次载人飞行  最早要等到今年夏季</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软高管称Bing领先Bard 6个月：但永远不会低估谷歌 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350869.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350869.htm"/>
-        <updated>2023-03-24T05:38:44.120Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350869.htm">微软高管称Bing领先Bard 6个月：但永远不会低估谷歌</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT开启联网解除封印 无敌插件彻底颠覆体验 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350867.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350867.htm"/>
-        <updated>2023-03-24T05:38:44.124Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350867.htm">ChatGPT开启联网解除封印 无敌插件彻底颠覆体验</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC警告：加密投资者面临重大损失风险 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350865.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350865.htm"/>
-        <updated>2023-03-24T05:38:44.126Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350865.htm">SEC警告：加密投资者面临重大损失风险</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盖茨再谈ChatGPT：功能非常强大，数学是最大弱点 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350863.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350863.htm"/>
-        <updated>2023-03-24T05:38:44.127Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350863.htm">盖茨再谈ChatGPT：功能非常强大，数学是最大弱点</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国犹他州率先通过立法 限制青少年访问社交媒体网站 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350861.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350861.htm"/>
-        <updated>2023-03-24T05:38:44.132Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350861.htm">美国犹他州率先通过立法 限制青少年访问社交媒体网站</a>]]></content>
+        <title type="html"><![CDATA[MemTest86 Pro 10.3 Build 1000 Full Version (mazterize)]]></title>
+        <id>https://www.mazterize.com/memtest86-pro-edition-full-version.html</id>
+        <link href="https://www.mazterize.com/memtest86-pro-edition-full-version.html"/>
+        <updated>2023-03-24T20:08:05.216Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/memtest86-pro-edition-full-version.html">MemTest86 Pro 10.3 Build 1000 Full Version</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Serato DJ Pro 3.0.4.526 Full Version (mazterize)]]></title>
@@ -1233,18 +1247,58 @@
         <content type="html"><![CDATA[<a href="https://www.mazterize.com/cloanto-amiga-forever-full.html">Cloanto Amiga Forever 10.0.13 Plus Edition Full Version</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Richardson RazorSQL 10.3.2 Full Version (mazterize)]]></title>
-        <id>https://www.mazterize.com/razorsql-full.html</id>
-        <link href="https://www.mazterize.com/razorsql-full.html"/>
-        <updated>2023-03-23T09:59:24.687Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/razorsql-full.html">Richardson RazorSQL 10.3.2 Full Version</a>]]></content>
+        <title type="html"><![CDATA[APS invests £5m into Preston Brook facility (printweek news)]]></title>
+        <id>https://www.printweek.com/news/article/aps-invests-5m-into-preston-brook-facility</id>
+        <link href="https://www.printweek.com/news/article/aps-invests-5m-into-preston-brook-facility"/>
+        <updated>2023-03-24T20:08:10.547Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/aps-invests-5m-into-preston-brook-facility">
+                            APS invests £5m into Preston Brook facility
+                        </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MAGIX SOUND FORGE Audio Studio 17.0.0.81 Full Version (mazterize)]]></title>
-        <id>https://www.mazterize.com/magix-sound-forge-audio-studio-full.html</id>
-        <link href="https://www.mazterize.com/magix-sound-forge-audio-studio-full.html"/>
-        <updated>2023-03-23T09:59:24.688Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/magix-sound-forge-audio-studio-full.html">MAGIX SOUND FORGE Audio Studio 17.0.0.81 Full Version</a>]]></content>
+        <title type="html"><![CDATA[Bell & Bain investigates inkjet options (printweek news)]]></title>
+        <id>https://www.printweek.com/news/article/bell-bain-investigates-inkjet-options</id>
+        <link href="https://www.printweek.com/news/article/bell-bain-investigates-inkjet-options"/>
+        <updated>2023-03-24T20:08:10.547Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/bell-bain-investigates-inkjet-options">
+                            Bell &amp; Bain investigates inkjet options
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sirane to install first UK HP Indigo 200k (printweek news)]]></title>
+        <id>https://www.printweek.com/news/article/sirane-to-install-first-uk-hp-indigo-200k</id>
+        <link href="https://www.printweek.com/news/article/sirane-to-install-first-uk-hp-indigo-200k"/>
+        <updated>2023-03-24T20:08:10.547Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/sirane-to-install-first-uk-hp-indigo-200k">
+                            Sirane to install first UK HP Indigo 200k
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sign & Digital UK impresses at the NEC (printweek news)]]></title>
+        <id>https://www.printweek.com/news/article/sign-digital-uk-impresses-at-the-nec</id>
+        <link href="https://www.printweek.com/news/article/sign-digital-uk-impresses-at-the-nec"/>
+        <updated>2023-03-24T20:08:10.548Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/sign-digital-uk-impresses-at-the-nec">
+                            Sign &amp; Digital UK impresses at the NEC
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snows Business Forms admins reveal more as various assets sold (printweek news)]]></title>
+        <id>https://www.printweek.com/news/article/snows-business-forms-admins-reveal-more-as-various-assets-sold</id>
+        <link href="https://www.printweek.com/news/article/snows-business-forms-admins-reveal-more-as-various-assets-sold"/>
+        <updated>2023-03-24T20:08:10.549Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/snows-business-forms-admins-reveal-more-as-various-assets-sold">
+                            Snows Business Forms admins reveal more as various assets sold
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Komori's Sutton to retire (printweek news)]]></title>
+        <id>https://www.printweek.com/news/article/komori-s-sutton-to-retire</id>
+        <link href="https://www.printweek.com/news/article/komori-s-sutton-to-retire"/>
+        <updated>2023-03-24T20:08:10.551Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/komori-s-sutton-to-retire">
+                            Komori's Sutton to retire
+                        </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Industry leaders react, three years on from lockdown (printweek news)]]></title>
@@ -1325,60 +1379,6 @@
         <updated>2023-03-23T09:59:30.410Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/positive-auctions-spare-kit-after-successful-installs">
                             Positive+ auctions spare kit after successful installs
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruddocks revamps strategic offering (printweek news)]]></title>
-        <id>https://www.printweek.com/news/article/ruddocks-revamps-strategic-offering</id>
-        <link href="https://www.printweek.com/news/article/ruddocks-revamps-strategic-offering"/>
-        <updated>2023-03-23T09:59:30.415Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/ruddocks-revamps-strategic-offering">
-                            Ruddocks revamps strategic offering
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fespa to feature expanded exhibitor line-up (printweek news)]]></title>
-        <id>https://www.printweek.com/news/article/fespa-to-feature-expanded-exhibitor-line-up</id>
-        <link href="https://www.printweek.com/news/article/fespa-to-feature-expanded-exhibitor-line-up"/>
-        <updated>2023-03-23T09:59:30.415Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/fespa-to-feature-expanded-exhibitor-line-up">
-                            Fespa to feature expanded exhibitor line-up
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crystal Amber continues its criticism of De La Rue (printweek news)]]></title>
-        <id>https://www.printweek.com/news/article/crystal-amber-continues-its-criticism-of-de-la-rue</id>
-        <link href="https://www.printweek.com/news/article/crystal-amber-continues-its-criticism-of-de-la-rue"/>
-        <updated>2023-03-23T09:59:30.416Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/crystal-amber-continues-its-criticism-of-de-la-rue">
-                            Crystal Amber continues its criticism of De La Rue
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smurfit Kappa completes Russian exit (printweek news)]]></title>
-        <id>https://www.printweek.com/news/article/smurfit-kappa-completes-russian-exit</id>
-        <link href="https://www.printweek.com/news/article/smurfit-kappa-completes-russian-exit"/>
-        <updated>2023-03-23T09:59:30.417Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/smurfit-kappa-completes-russian-exit">
-                            Smurfit Kappa completes Russian exit
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven figure mail tender and bumper signage contract up for grabs (printweek news)]]></title>
-        <id>https://www.printweek.com/news/article/seven-figure-mail-tender-and-bumper-signage-contract-up-for-grabs</id>
-        <link href="https://www.printweek.com/news/article/seven-figure-mail-tender-and-bumper-signage-contract-up-for-grabs"/>
-        <updated>2023-03-23T09:59:30.418Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/seven-figure-mail-tender-and-bumper-signage-contract-up-for-grabs">
-                            Seven figure mail tender and bumper signage contract up for grabs
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nomoq eyes up UK for digital can expansion (printweek news)]]></title>
-        <id>https://www.printweek.com/news/article/nomoq-eyes-up-uk-for-digital-can-expansion</id>
-        <link href="https://www.printweek.com/news/article/nomoq-eyes-up-uk-for-digital-can-expansion"/>
-        <updated>2023-03-23T09:59:30.419Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/nomoq-eyes-up-uk-for-digital-can-expansion">
-                            Nomoq eyes up UK for digital can expansion
                         </a>]]></content>
     </entry>
     <entry>
@@ -2105,7 +2105,7 @@ Vivaldi 5.7.2921.65 32-64 bit Multilingual
 </a>
 <div class="mobile-index-comment">
 <a class="comment-link" href="http://portableappz.blogspot.com/2015/01/vivaldi-108338-multilingual-tech-preview.html?m=1#comment-form" onclick="javascript:window.open(this.href, &quot;bloggerPopup&quot;, &quot;toolbar=0,location=0,statusbar=1,menubar=0,scrollbars=yes,width=640,height=500&quot;); return false;">
-50 comments:
+52 comments:
   </a>
 </div>]]></content>
     </entry>

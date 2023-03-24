@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-03-24T12:13:05.196Z</updated>
+    <updated>2023-03-24T20:08:27.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Resolume Arena 7.14.2 rev 22221 Full Version]]></title>
+        <id>https://www.mazterize.com/resolume-arena-full.html</id>
+        <link href="https://www.mazterize.com/resolume-arena-full.html"/>
+        <updated>2023-03-24T20:08:05.214Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/resolume-arena-full.html">Resolume Arena 7.14.2 rev 22221 Full Version</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MemTest86 Pro 10.3 Build 1000 Full Version]]></title>
+        <id>https://www.mazterize.com/memtest86-pro-edition-full-version.html</id>
+        <link href="https://www.mazterize.com/memtest86-pro-edition-full-version.html"/>
+        <updated>2023-03-24T20:08:05.216Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/memtest86-pro-edition-full-version.html">MemTest86 Pro 10.3 Build 1000 Full Version</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Serato DJ Pro 3.0.4.526 Full Version]]></title>
         <id>https://www.mazterize.com/serato-dj-pro-full-version.html</id>
@@ -137,19 +151,5 @@
         <link href="https://www.mazterize.com/cloanto-amiga-forever-full.html"/>
         <updated>2023-03-23T09:59:24.685Z</updated>
         <content type="html"><![CDATA[<a href="https://www.mazterize.com/cloanto-amiga-forever-full.html">Cloanto Amiga Forever 10.0.13 Plus Edition Full Version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Richardson RazorSQL 10.3.2 Full Version]]></title>
-        <id>https://www.mazterize.com/razorsql-full.html</id>
-        <link href="https://www.mazterize.com/razorsql-full.html"/>
-        <updated>2023-03-23T09:59:24.687Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/razorsql-full.html">Richardson RazorSQL 10.3.2 Full Version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAGIX SOUND FORGE Audio Studio 17.0.0.81 Full Version]]></title>
-        <id>https://www.mazterize.com/magix-sound-forge-audio-studio-full.html</id>
-        <link href="https://www.mazterize.com/magix-sound-forge-audio-studio-full.html"/>
-        <updated>2023-03-23T09:59:24.688Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/magix-sound-forge-audio-studio-full.html">MAGIX SOUND FORGE Audio Studio 17.0.0.81 Full Version</a>]]></content>
     </entry>
 </feed>
