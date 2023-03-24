@@ -3,6 +3,8 @@
 You can fork this repository and edit `feeds.toml` to start generating your own
 RSS feeds.
 
+setup ref: https://feed-me-up-scotty.vincenttunru.com/docs/setup/
+
 # Automatically generate feeds
 
 ## On GitHub
