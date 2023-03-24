@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-03-24T20:08:27.846Z</updated>
+    <updated>2023-03-24T22:55:09.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[必应开始在一些搜索结果中显示"人工智能生成的演示"]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351051.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351051.htm"/>
+        <updated>2023-03-24T22:54:41.979Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351051.htm">必应开始在一些搜索结果中显示"人工智能生成的演示"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最先进的人工智能为寻找神秘的第一批恒星提供了新的线索]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351049.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351049.htm"/>
+        <updated>2023-03-24T22:54:41.987Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351049.htm">最先进的人工智能为寻找神秘的第一批恒星提供了新的线索</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[软体机器人可模仿毛毛虫挤过缝隙]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351047.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351047.htm"/>
+        <updated>2023-03-24T22:54:41.988Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351047.htm">软体机器人可模仿毛毛虫挤过缝隙</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蓝色起源发布关于发射异常的报告 并表示"很快"将再次升空]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351045.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351045.htm"/>
+        <updated>2023-03-24T22:54:41.988Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351045.htm">蓝色起源发布关于发射异常的报告 并表示"很快"将再次升空</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[丝微粒子可以帮助挫败种子造假者]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351043.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351043.htm"/>
+        <updated>2023-03-24T22:54:41.989Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351043.htm">丝微粒子可以帮助挫败种子造假者</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用电子纱线制作的裤子可以向穿着者传递疲惫警报]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351041.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351041.htm"/>
+        <updated>2023-03-24T22:54:41.989Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351041.htm">用电子纱线制作的裤子可以向穿着者传递疲惫警报</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT就能用插件了？搞得其他AI好像绝望的文盲…]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351039.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351039.htm"/>
+        <updated>2023-03-24T22:54:41.994Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351039.htm">ChatGPT就能用插件了？搞得其他AI好像绝望的文盲…</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel又要换接口了 一个庞然大物 但在AMD面前还是小弟]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351037.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351037.htm"/>
+        <updated>2023-03-24T22:54:41.995Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351037.htm">Intel又要换接口了 一个庞然大物 但在AMD面前还是小弟</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“减肥神药”上市以来诺和诺德股价已翻番 市值超雀巢]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1351035.htm</id>
@@ -368,61 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1350933.htm"/>
         <updated>2023-03-24T11:32:04.165Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350933.htm">韩国寻求引渡TerraUSD创始人权道亨</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉Model S/X圆形方向盘改装已售罄]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350931.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350931.htm"/>
-        <updated>2023-03-24T11:32:04.166Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350931.htm">特斯拉Model S/X圆形方向盘改装已售罄</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA举办挑战赛 征集大学生解决登月过程扬起尘埃问题的想法]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350929.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350929.htm"/>
-        <updated>2023-03-24T11:32:04.167Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350929.htm">NASA举办挑战赛 征集大学生解决登月过程扬起尘埃问题的想法</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家借助仿生学意外地创造出世界上最轻的涂料]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350927.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350927.htm"/>
-        <updated>2023-03-24T11:32:04.167Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350927.htm">科学家借助仿生学意外地创造出世界上最轻的涂料</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google涂鸦今日聚焦聋哑特技女演员Kitty O'Neil]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350925.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350925.htm"/>
-        <updated>2023-03-24T11:32:04.168Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350925.htm">Google涂鸦今日聚焦聋哑特技女演员Kitty O'Neil</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员找到预防常见视力丧失原因的新方法]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350923.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350923.htm"/>
-        <updated>2023-03-24T11:32:04.170Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350923.htm">研究人员找到预防常见视力丧失原因的新方法</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究人员发现了两个之前未知的与精神分裂症有关的基因]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350921.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350921.htm"/>
-        <updated>2023-03-24T05:38:44.024Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350921.htm">研究人员发现了两个之前未知的与精神分裂症有关的基因</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[研究发现药物对缓解下背部疼痛的效果并不比安慰剂好]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350919.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350919.htm"/>
-        <updated>2023-03-24T05:38:44.033Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350919.htm">研究发现药物对缓解下背部疼痛的效果并不比安慰剂好</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[工程师3D打印出破纪录的包含7种成分的熟奶酪蛋糕]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350917.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350917.htm"/>
-        <updated>2023-03-24T05:38:44.038Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350917.htm">工程师3D打印出破纪录的包含7种成分的熟奶酪蛋糕</a>]]></content>
     </entry>
 </feed>
