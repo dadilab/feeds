@@ -6,14 +6,6 @@ titleSelector = "a.title"
 linkSelector = "a.title"
 contentSelector = "a.img > img"
 
-[thepaper-uk-chinese]
-title = "李文读报"
-url = "http://www.chineseineurope.com/category/news/papers"
-entrySelector = "div.thumb"
-titleSelector = "a"
-linkSelector = "a"
-contentSelector = "img"
-
 [zuixingzuo-scropio]
 title = "美国神婆 天蝎"
 url = "https://www.zuixingzuo.net/tianxie/yunshi.html"
