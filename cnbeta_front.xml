@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-03-25T07:47:41.331Z</updated>
+    <updated>2023-03-25T08:09:46.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《圣斗士星矢》真人电影预告 5月12日北美上映]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351091.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351091.htm"/>
+        <updated>2023-03-25T08:09:16.350Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351091.htm">《圣斗士星矢》真人电影预告 5月12日北美上映</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《三体》动画今日正式完结 豆瓣评分仅获3.8分]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1351089.htm</id>
@@ -417,12 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1350973.htm"/>
         <updated>2023-03-24T11:32:04.119Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350973.htm">戴尔推出新款49英寸带鱼屏显示器：IPS Black屏、90W反向供电</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[明日《暗黑破坏神4》公开测试玩家仍将排起长队 暴雪：我故意的]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350971.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350971.htm"/>
-        <updated>2023-03-24T11:32:04.121Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350971.htm">明日《暗黑破坏神4》公开测试玩家仍将排起长队 暴雪：我故意的</a>]]></content>
     </entry>
 </feed>
