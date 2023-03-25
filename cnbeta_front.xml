@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-03-25T00:35:14.033Z</updated>
+    <updated>2023-03-25T04:09:02.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[哈佛大学的研究表明脸盲症比以前认为的更加普遍]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351071.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351071.htm"/>
+        <updated>2023-03-25T04:08:36.130Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351071.htm">哈佛大学的研究表明脸盲症比以前认为的更加普遍</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美联航提供的电动飞机通勤出租服务即将在芝加哥出现]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351069.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351069.htm"/>
+        <updated>2023-03-25T04:08:36.141Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351069.htm">美联航提供的电动飞机通勤出租服务即将在芝加哥出现</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星今年可能推出三重折叠设备 Galaxy S23 FE不会出现]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351067.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351067.htm"/>
+        <updated>2023-03-25T04:08:36.142Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351067.htm">三星今年可能推出三重折叠设备 Galaxy S23 FE不会出现</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《奥本海默》或为诺兰最长的电影 片长约三小时]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351065.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351065.htm"/>
+        <updated>2023-03-25T04:08:36.143Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351065.htm">《奥本海默》或为诺兰最长的电影 片长约三小时</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDC 2023引擎开发商Unity在分享今年路线图细节]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351063.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351063.htm"/>
+        <updated>2023-03-25T04:08:36.145Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351063.htm">GDC 2023引擎开发商Unity在分享今年路线图细节</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《反恐精英2》反作弊升级：检测到作弊者将直接终止比赛]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351061.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351061.htm"/>
+        <updated>2023-03-25T04:08:36.146Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351061.htm">《反恐精英2》反作弊升级：检测到作弊者将直接终止比赛</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 15全系正面前置玻璃曝光 统一了灵动岛设计]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351059.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351059.htm"/>
+        <updated>2023-03-25T04:08:36.156Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351059.htm">iPhone 15全系正面前置玻璃曝光 统一了灵动岛设计</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夺权失败？揭秘马斯克与OpenAI创始人的权力斗争]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351057.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351057.htm"/>
+        <updated>2023-03-25T04:08:36.157Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351057.htm">夺权失败？揭秘马斯克与OpenAI创始人的权力斗争</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果累计捐赠1亿元 助力中国教育发展]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351055.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351055.htm"/>
+        <updated>2023-03-25T04:08:36.158Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351055.htm">苹果累计捐赠1亿元 助力中国教育发展</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英特尔创始人、“摩尔定律”发明者戈登·摩尔去世，享年94岁]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351053.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351053.htm"/>
+        <updated>2023-03-25T04:08:36.160Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351053.htm">英特尔创始人、“摩尔定律”发明者戈登·摩尔去世，享年94岁</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[必应开始在一些搜索结果中显示"人工智能生成的演示"]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1351051.htm</id>
@@ -354,75 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1350953.htm"/>
         <updated>2023-03-24T11:32:04.151Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350953.htm">健康男性的尿道口充满了生命力 两性行为带来独特微生物组合</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[机器蜂箱可在寒冷中为蜂群提供重要的生命支持并引导其行为]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350951.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350951.htm"/>
-        <updated>2023-03-24T11:32:04.153Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350951.htm">机器蜂箱可在寒冷中为蜂群提供重要的生命支持并引导其行为</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克否认SpaceX将获沙特和阿联酋注资]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350949.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350949.htm"/>
-        <updated>2023-03-24T11:32:04.155Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350949.htm">马斯克否认SpaceX将获沙特和阿联酋注资</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[徐直军：华为基本实现了14nm以上EDA工具国产化]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350947.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350947.htm"/>
-        <updated>2023-03-24T11:32:04.155Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350947.htm">徐直军：华为基本实现了14nm以上EDA工具国产化</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广告商为何还是不回Twitter打广告？主要是因为马斯克]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350945.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350945.htm"/>
-        <updated>2023-03-24T11:32:04.156Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350945.htm">广告商为何还是不回Twitter打广告？主要是因为马斯克</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克想要在得州建乌托邦遭不少居民反对 担忧废水排入河流]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350943.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350943.htm"/>
-        <updated>2023-03-24T11:32:04.156Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350943.htm">马斯克想要在得州建乌托邦遭不少居民反对 担忧废水排入河流</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抵制汽车行业网络水军 比亚迪、长城、蔚小理等发起联合倡议]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350941.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350941.htm"/>
-        <updated>2023-03-24T11:32:04.157Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350941.htm">抵制汽车行业网络水军 比亚迪、长城、蔚小理等发起联合倡议</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok周受资发内部信：听证会澄清空间不多 充满挑战]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350939.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350939.htm"/>
-        <updated>2023-03-24T11:32:04.158Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350939.htm">TikTok周受资发内部信：听证会澄清空间不多 充满挑战</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG新能源将继续推进去年暂停的美国建厂计划，投资增至近56亿美元]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350937.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350937.htm"/>
-        <updated>2023-03-24T11:32:04.164Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350937.htm">LG新能源将继续推进去年暂停的美国建厂计划，投资增至近56亿美元</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT宣布支持第三方插件 还能联网学习新知识]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350935.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350935.htm"/>
-        <updated>2023-03-24T11:32:04.165Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350935.htm">ChatGPT宣布支持第三方插件 还能联网学习新知识</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国寻求引渡TerraUSD创始人权道亨]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350933.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350933.htm"/>
-        <updated>2023-03-24T11:32:04.165Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350933.htm">韩国寻求引渡TerraUSD创始人权道亨</a>]]></content>
     </entry>
 </feed>

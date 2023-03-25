@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-03-25T00:35:14.004Z</updated>
+    <updated>2023-03-25T04:09:02.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Schoolhouse Test Professional 6.1.71.0 Full Version]]></title>
+        <id>https://www.mazterize.com/schoolhouse-test-full-version.html</id>
+        <link href="https://www.mazterize.com/schoolhouse-test-full-version.html"/>
+        <updated>2023-03-25T04:08:39.849Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/schoolhouse-test-full-version.html">Schoolhouse Test Professional 6.1.71.0 Full Version</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ashampoo Burning Studio 24.0.3 Full Version]]></title>
+        <id>https://www.mazterize.com/ashampoo-burning-studio-full.html</id>
+        <link href="https://www.mazterize.com/ashampoo-burning-studio-full.html"/>
+        <updated>2023-03-25T04:08:39.849Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/ashampoo-burning-studio-full.html">Ashampoo Burning Studio 24.0.3 Full Version</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Resolume Arena 7.14.2 rev 22221 Full Version]]></title>
         <id>https://www.mazterize.com/resolume-arena-full.html</id>
@@ -137,19 +151,5 @@
         <link href="https://www.mazterize.com/gilisoft-video-editor-full-version.html"/>
         <updated>2023-03-23T09:59:24.684Z</updated>
         <content type="html"><![CDATA[<a href="https://www.mazterize.com/gilisoft-video-editor-full-version.html">GiliSoft Video Editor Pro 16.0.0 Full Version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yamicsoft Windows 10 Manager 3.7.8 Full Version]]></title>
-        <id>https://www.mazterize.com/yamicsoft-windows-10-manager-full.html</id>
-        <link href="https://www.mazterize.com/yamicsoft-windows-10-manager-full.html"/>
-        <updated>2023-03-23T09:59:24.684Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/yamicsoft-windows-10-manager-full.html">Yamicsoft Windows 10 Manager 3.7.8 Full Version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloanto Amiga Forever 10.0.13 Plus Edition Full Version]]></title>
-        <id>https://www.mazterize.com/cloanto-amiga-forever-full.html</id>
-        <link href="https://www.mazterize.com/cloanto-amiga-forever-full.html"/>
-        <updated>2023-03-23T09:59:24.685Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/cloanto-amiga-forever-full.html">Cloanto Amiga Forever 10.0.13 Plus Edition Full Version</a>]]></content>
     </entry>
 </feed>
