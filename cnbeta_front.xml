@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-03-25T08:09:46.729Z</updated>
+    <updated>2023-03-25T16:09:05.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[《暗黑破坏神4》BETA会导致一些GPU过热]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351105.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351105.htm"/>
+        <updated>2023-03-25T16:08:37.280Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351105.htm">《暗黑破坏神4》BETA会导致一些GPU过热</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD重申FSR 3技术会开源 仍未给出具体发布时间]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351103.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351103.htm"/>
+        <updated>2023-03-25T16:08:37.281Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351103.htm">AMD重申FSR 3技术会开源 仍未给出具体发布时间</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[律师称被拘的加密货币大亨Do Kwon否认伪造护照指控]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351101.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351101.htm"/>
+        <updated>2023-03-25T16:08:37.282Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351101.htm">律师称被拘的加密货币大亨Do Kwon否认伪造护照指控</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[量子研究领域的新突破：对量子湍流的新认识]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351099.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351099.htm"/>
+        <updated>2023-03-25T16:08:37.284Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351099.htm">量子研究领域的新突破：对量子湍流的新认识</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博主硬核拆解特斯拉Model 3刹车助力泵展示工作原理]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351097.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351097.htm"/>
+        <updated>2023-03-25T16:08:37.285Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351097.htm">博主硬核拆解特斯拉Model 3刹车助力泵展示工作原理</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小彭汽车向小鹏汽车道歉 盘点那些神级模仿的老年代步车]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351095.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351095.htm"/>
+        <updated>2023-03-25T16:08:37.287Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351095.htm">小彭汽车向小鹏汽车道歉 盘点那些神级模仿的老年代步车</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[气候变化在全球范围内增加了人类与野生动物的冲突]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351093.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351093.htm"/>
+        <updated>2023-03-25T16:08:37.290Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351093.htm">气候变化在全球范围内增加了人类与野生动物的冲突</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《圣斗士星矢》真人电影预告 5月12日北美上映]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1351091.htm</id>
@@ -375,54 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1350987.htm"/>
         <updated>2023-03-24T20:08:01.537Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1350987.htm">马斯克：美联储主席换成GPT-4都比现在强</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果CEO库克微博发文：我在北京三里屯]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350985.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350985.htm"/>
-        <updated>2023-03-24T20:08:01.537Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350985.htm">苹果CEO库克微博发文：我在北京三里屯</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT插件重磅上线 不只“联网” 还将打造强大AI生态]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350983.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350983.htm"/>
-        <updated>2023-03-24T20:08:01.537Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350983.htm">ChatGPT插件重磅上线 不只“联网” 还将打造强大AI生态</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被打断的周受资 和遭“群嘲”的美国议员]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350981.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350981.htm"/>
-        <updated>2023-03-24T20:08:01.537Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350981.htm">被打断的周受资 和遭“群嘲”的美国议员</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加拿大YouTuber Linus频道被黑客入侵 上传马斯克诈骗视频]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350979.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350979.htm"/>
-        <updated>2023-03-24T11:32:04.099Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350979.htm">加拿大YouTuber Linus频道被黑客入侵 上传马斯克诈骗视频</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PimEyes竟盗用死人照片来训练面部识别算法]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350977.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350977.htm"/>
-        <updated>2023-03-24T11:32:04.112Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350977.htm">PimEyes竟盗用死人照片来训练面部识别算法</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[和硕计划在印度建立第二家用于生产iPhone的工厂]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350975.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350975.htm"/>
-        <updated>2023-03-24T11:32:04.115Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350975.htm">和硕计划在印度建立第二家用于生产iPhone的工厂</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[戴尔推出新款49英寸带鱼屏显示器：IPS Black屏、90W反向供电]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1350973.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1350973.htm"/>
-        <updated>2023-03-24T11:32:04.119Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1350973.htm">戴尔推出新款49英寸带鱼屏显示器：IPS Black屏、90W反向供电</a>]]></content>
     </entry>
 </feed>

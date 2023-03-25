@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-03-25T08:09:46.699Z</updated>
+    <updated>2023-03-25T16:09:06.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="/view/8302">ChatGPT 机器人进行 Code Review</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Komga 一个免费的开源漫画/漫画服务器]]></title>
-        <id>https://codenews.cc/view/8276</id>
-        <link href="https://codenews.cc/view/8276"/>
-        <updated>2023-03-24T22:55:08.986Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8276">Komga 一个免费的开源漫画/漫画服务器</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[推荐一个 开源的 API 管理工具，以后可能会更名了，完全开源，完全免费。]]></title>
         <id>https://codenews.cc/view/7961</id>
         <link href="https://codenews.cc/view/7961"/>
         <updated>2023-03-24T22:55:08.988Z</updated>
         <content type="html"><![CDATA[<a href="/view/7961">推荐一个 开源的 API 管理工具，以后可能会更名了，完全开源，完全免费。</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Komga 一个免费的开源漫画/漫画服务器]]></title>
+        <id>https://codenews.cc/view/8276</id>
+        <link href="https://codenews.cc/view/8276"/>
+        <updated>2023-03-24T22:55:08.986Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8276">Komga 一个免费的开源漫画/漫画服务器</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[基于vitepress 的简约风博客主题]]></title>
@@ -139,18 +139,18 @@
         <content type="html"><![CDATA[<a href="/view/8313">基于 Canvas 编写的在线多功能画板 paint-board</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[开源证件照小程序，自动扣图、换装换发饰]]></title>
-        <id>https://codenews.cc/view/8098</id>
-        <link href="https://codenews.cc/view/8098"/>
-        <updated>2023-03-24T22:55:09.002Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8098">开源证件照小程序，自动扣图、换装换发饰</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[goobe.io，一个程序员搜索引擎]]></title>
         <id>https://codenews.cc/view/7949</id>
         <link href="https://codenews.cc/view/7949"/>
         <updated>2023-03-24T22:55:09.004Z</updated>
         <content type="html"><![CDATA[<a href="/view/7949">goobe.io，一个程序员搜索引擎</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源证件照小程序，自动扣图、换装换发饰]]></title>
+        <id>https://codenews.cc/view/8098</id>
+        <link href="https://codenews.cc/view/8098"/>
+        <updated>2023-03-24T22:55:09.002Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8098">开源证件照小程序，自动扣图、换装换发饰</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[蘑菇博客(MoguBlog)，一个基于微服务架构的前后端分离博客系统]]></title>
@@ -174,18 +174,18 @@
         <content type="html"><![CDATA[<a href="/view/8163">audioFlux - 一个用于音频和音乐分析、特征提取的库</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本]]></title>
-        <id>https://codenews.cc/view/8079</id>
-        <link href="https://codenews.cc/view/8079"/>
-        <updated>2023-03-24T22:55:09.014Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8079">用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[支持在搜索引擎右侧显示ChatGPT的响应的插件：ChatGPT for Search Engines]]></title>
         <id>https://codenews.cc/view/7956</id>
         <link href="https://codenews.cc/view/7956"/>
         <updated>2023-03-24T22:55:09.015Z</updated>
         <content type="html"><![CDATA[<a href="/view/7956">支持在搜索引擎右侧显示ChatGPT的响应的插件：ChatGPT for Search Engines</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本]]></title>
+        <id>https://codenews.cc/view/8079</id>
+        <link href="https://codenews.cc/view/8079"/>
+        <updated>2023-03-24T22:55:09.014Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8079">用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[关键词（短语）提取（Keyphrase Extraction）神器]]></title>
@@ -209,18 +209,18 @@
         <content type="html"><![CDATA[<a href="/view/8068">通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃]]></title>
-        <id>https://codenews.cc/view/8095</id>
-        <link href="https://codenews.cc/view/8095"/>
-        <updated>2023-03-24T22:55:09.021Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8095">🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[亲戚称呼计算器]]></title>
         <id>https://codenews.cc/view/8021</id>
         <link href="https://codenews.cc/view/8021"/>
         <updated>2023-03-24T22:55:09.026Z</updated>
         <content type="html"><![CDATA[<a href="/view/8021">亲戚称呼计算器</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃]]></title>
+        <id>https://codenews.cc/view/8095</id>
+        <link href="https://codenews.cc/view/8095"/>
+        <updated>2023-03-24T22:55:09.021Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8095">🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[无需安装、无需创建账户、在线、实时、可共享的在线白板 Witeboard，快速创建草图，支持团队实时协作]]></title>
