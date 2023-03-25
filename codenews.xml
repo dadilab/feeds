@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-03-25T04:09:02.969Z</updated>
+    <updated>2023-03-25T07:47:41.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[<a href="/view/8020">创建了一个 类似github的网站  www.webhub123.com ，用于分享各类好的文章和项目</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGPT 机器人进行 Code Review]]></title>
-        <id>https://codenews.cc/view/8302</id>
-        <link href="https://codenews.cc/view/8302"/>
-        <updated>2023-03-24T22:55:08.981Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8302">ChatGPT 机器人进行 Code Review</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux 命令行图形化的性能监控工具 gtop，安装和启动只需要一行命令特别简单]]></title>
         <id>https://codenews.cc/view/8059</id>
         <link href="https://codenews.cc/view/8059"/>
         <updated>2023-03-24T22:55:08.984Z</updated>
         <content type="html"><![CDATA[<a href="/view/8059">Linux 命令行图形化的性能监控工具 gtop，安装和启动只需要一行命令特别简单</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT 机器人进行 Code Review]]></title>
+        <id>https://codenews.cc/view/8302</id>
+        <link href="https://codenews.cc/view/8302"/>
+        <updated>2023-03-24T22:55:08.981Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8302">ChatGPT 机器人进行 Code Review</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Komga 一个免费的开源漫画/漫画服务器]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[<a href="/view/8018">我开发了一个工具类微信小程序[小功能匣子]，页面简洁清晰，后面会不断完善和新增小功能！</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[基于 Canvas 编写的在线多功能画板 paint-board]]></title>
-        <id>https://codenews.cc/view/8313</id>
-        <link href="https://codenews.cc/view/8313"/>
-        <updated>2023-03-24T22:55:08.997Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8313">基于 Canvas 编写的在线多功能画板 paint-board</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[密码学工具箱📦]]></title>
         <id>https://codenews.cc/view/8065</id>
         <link href="https://codenews.cc/view/8065"/>
         <updated>2023-03-24T22:55:09.000Z</updated>
         <content type="html"><![CDATA[<a href="/view/8065">密码学工具箱📦</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于 Canvas 编写的在线多功能画板 paint-board]]></title>
+        <id>https://codenews.cc/view/8313</id>
+        <link href="https://codenews.cc/view/8313"/>
+        <updated>2023-03-24T22:55:08.997Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8313">基于 Canvas 编写的在线多功能画板 paint-board</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[开源证件照小程序，自动扣图、换装换发饰]]></title>
@@ -202,18 +202,18 @@
         <content type="html"><![CDATA[<a href="/view/7977">🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便的部署及调度</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃]]></title>
-        <id>https://codenews.cc/view/8095</id>
-        <link href="https://codenews.cc/view/8095"/>
-        <updated>2023-03-24T22:55:09.021Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8095">🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互]]></title>
         <id>https://codenews.cc/view/8068</id>
         <link href="https://codenews.cc/view/8068"/>
         <updated>2023-03-24T22:55:09.023Z</updated>
         <content type="html"><![CDATA[<a href="/view/8068">通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃]]></title>
+        <id>https://codenews.cc/view/8095</id>
+        <link href="https://codenews.cc/view/8095"/>
+        <updated>2023-03-24T22:55:09.021Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8095">🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[亲戚称呼计算器]]></title>
