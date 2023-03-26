@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-03-26T00:38:21.664Z</updated>
+    <updated>2023-03-26T04:09:23.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -202,18 +202,18 @@
         <content type="html"><![CDATA[<a href="/view/7977">🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便的部署及调度</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互]]></title>
-        <id>https://codenews.cc/view/8068</id>
-        <link href="https://codenews.cc/view/8068"/>
-        <updated>2023-03-24T22:55:09.023Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8068">通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[亲戚称呼计算器]]></title>
         <id>https://codenews.cc/view/8021</id>
         <link href="https://codenews.cc/view/8021"/>
         <updated>2023-03-24T22:55:09.026Z</updated>
         <content type="html"><![CDATA[<a href="/view/8021">亲戚称呼计算器</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互]]></title>
+        <id>https://codenews.cc/view/8068</id>
+        <link href="https://codenews.cc/view/8068"/>
+        <updated>2023-03-24T22:55:09.023Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8068">通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃]]></title>
@@ -258,18 +258,18 @@
         <content type="html"><![CDATA[<a href="/view/7992">Wgcloud 基于SpringBoot的新一代极简&amp;高效的主机监控运维系统，全自动化运行，无模板和脚本</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[超多免费API接口分享]]></title>
-        <id>https://codenews.cc/view/8084</id>
-        <link href="https://codenews.cc/view/8084"/>
-        <updated>2023-03-24T22:55:09.036Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LiteFlow：国产优秀的Java组件式规则引擎，构建复杂逻辑系统的神器！]]></title>
         <id>https://codenews.cc/view/7990</id>
         <link href="https://codenews.cc/view/7990"/>
         <updated>2023-03-24T22:55:09.038Z</updated>
         <content type="html"><![CDATA[<a href="/view/7990">LiteFlow：国产优秀的Java组件式规则引擎，构建复杂逻辑系统的神器！</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超多免费API接口分享]]></title>
+        <id>https://codenews.cc/view/8084</id>
+        <link href="https://codenews.cc/view/8084"/>
+        <updated>2023-03-24T22:55:09.036Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[doccano：面向机器学习从业者的开源标注工具]]></title>

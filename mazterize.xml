@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-03-26T00:38:21.641Z</updated>
+    <updated>2023-03-26T04:09:23.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SUPERAntiSpyware Professional X 10.0.1250 Full Version]]></title>
+        <id>https://www.mazterize.com/superantispyware-professional-full-version.html</id>
+        <link href="https://www.mazterize.com/superantispyware-professional-full-version.html"/>
+        <updated>2023-03-26T04:08:56.882Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/superantispyware-professional-full-version.html">SUPERAntiSpyware Professional X 10.0.1250 Full Version</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Studio One 6 Professional v6.1.0 Full Version]]></title>
         <id>https://www.mazterize.com/studio-one-pro-full-version.html</id>
@@ -144,12 +151,5 @@
         <link href="https://www.mazterize.com/perfectly-clear-workbench-full-version.html"/>
         <updated>2023-03-23T09:59:24.680Z</updated>
         <content type="html"><![CDATA[<a href="https://www.mazterize.com/perfectly-clear-workbench-full-version.html">Perfectly Clear WorkBench 4.3.0.2448 Full Version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apowersoft ApowerREC 1.6.3.18 Full Crack]]></title>
-        <id>https://www.mazterize.com/apowerrec-full-crack.html</id>
-        <link href="https://www.mazterize.com/apowerrec-full-crack.html"/>
-        <updated>2023-03-23T09:59:24.682Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/apowerrec-full-crack.html">Apowersoft ApowerREC 1.6.3.18 Full Crack</a>]]></content>
     </entry>
 </feed>
