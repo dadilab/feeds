@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-03-26T12:11:59.260Z</updated>
+    <updated>2023-03-26T16:08:53.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[OpenAI “宫斗”史：马斯克提前离场 阿尔特曼一股不持]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351207.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351207.htm"/>
+        <updated>2023-03-26T16:08:24.314Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351207.htm">OpenAI “宫斗”史：马斯克提前离场 阿尔特曼一股不持</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[95后夫妻摆摊自称日入9千 网友冲进直播间质疑数据造假]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351205.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351205.htm"/>
+        <updated>2023-03-26T16:08:24.315Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351205.htm">95后夫妻摆摊自称日入9千 网友冲进直播间质疑数据造假</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[骁龙8 Gen4传闻将使用台积电N3E工艺制造 定制Nuvia内核]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351203.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351203.htm"/>
+        <updated>2023-03-26T16:08:24.316Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351203.htm">骁龙8 Gen4传闻将使用台积电N3E工艺制造 定制Nuvia内核</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称苹果iOS 17将提供几个"最需要的功能"]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351201.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351201.htm"/>
+        <updated>2023-03-26T16:08:24.317Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351201.htm">消息称苹果iOS 17将提供几个"最需要的功能"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Artemis II的任务里程碑：月球火箭核心级的所有主要结构都已连接起来]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1351199.htm</id>
@@ -396,33 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1351089.htm"/>
         <updated>2023-03-26T12:11:33.533Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1351089.htm">《三体》动画今日正式完结 豆瓣评分仅获3.8分</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美妆品牌露诗联动任天堂推出马里奥兄弟主题沐浴露]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351087.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351087.htm"/>
-        <updated>2023-03-26T12:11:33.534Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351087.htm">美妆品牌露诗联动任天堂推出马里奥兄弟主题沐浴露</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-4满分第一名通过大厂模拟面试 微软154页研究刷屏]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351085.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351085.htm"/>
-        <updated>2023-03-26T12:11:33.535Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351085.htm">GPT-4满分第一名通过大厂模拟面试 微软154页研究刷屏</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软警告：新推AI工具不得使用必应数据库 否则限制访问！]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351083.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351083.htm"/>
-        <updated>2023-03-26T12:11:33.536Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351083.htm">微软警告：新推AI工具不得使用必应数据库 否则限制访问！</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[联网之后的ChatGPT 已经远不止“iPhone时刻”那么简单]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351081.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351081.htm"/>
-        <updated>2023-03-26T12:11:33.538Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351081.htm">联网之后的ChatGPT 已经远不止“iPhone时刻”那么简单</a>]]></content>
     </entry>
 </feed>

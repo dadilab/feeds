@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-03-26T12:11:59.263Z</updated>
+    <updated>2023-03-26T16:08:53.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Helium Music Manager 16.2.18222 Premium Full Version]]></title>
+        <id>https://www.mazterize.com/helium-music-manager-premium-full.html</id>
+        <link href="https://www.mazterize.com/helium-music-manager-premium-full.html"/>
+        <updated>2023-03-26T16:08:28.164Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/helium-music-manager-premium-full.html">Helium Music Manager 16.2.18222 Premium Full Version</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aidfile Recovery Software Professional 3.7.7.3 Full Version]]></title>
         <id>https://www.mazterize.com/aidfile-recovery-software-professional.html</id>
@@ -144,12 +151,5 @@
         <link href="https://www.mazterize.com/cyberlink-youcam-deluxe-full.html"/>
         <updated>2023-03-23T09:59:24.674Z</updated>
         <content type="html"><![CDATA[<a href="https://www.mazterize.com/cyberlink-youcam-deluxe-full.html">CyberLink YouCam Deluxe 10.1.2717.0 Full Version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ableton Live Suite 11.2.11 Full Version]]></title>
-        <id>https://www.mazterize.com/ableton-live-suite.html</id>
-        <link href="https://www.mazterize.com/ableton-live-suite.html"/>
-        <updated>2023-03-23T09:59:24.676Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/ableton-live-suite.html">Ableton Live Suite 11.2.11 Full Version</a>]]></content>
     </entry>
 </feed>
