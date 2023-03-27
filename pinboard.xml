@@ -2,225 +2,169 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.pinboard.in/popular</id>
     <title>pinboard popular</title>
-    <updated>2023-03-27T04:10:14.982Z</updated>
+    <updated>2023-03-27T08:12:28.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.pinboard.in/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT plugins]]></title>
-        <id>https://openai.com/blog/chatgpt-plugins</id>
-        <link href="https://openai.com/blog/chatgpt-plugins"/>
-        <updated>2023-03-24T11:32:18.451Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://openai.com/blog/chatgpt-plugins">ChatGPT plugins</a> &nbsp;<a href="/url:d0fa947b8fc8541445015f934d47dcd07cfc601b" class="bookmark_count">57</a><br><a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:AI/" class="tag">AI</a> <a href="/t:plugins/" class="tag">plugins</a> <a href="/t:plugin/" class="tag">plugin</a> <a href="/t:api/" class="tag">api</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheating is All You Need]]></title>
-        <id>https://about.sourcegraph.com/blog/cheating-is-all-you-need</id>
-        <link href="https://about.sourcegraph.com/blog/cheating-is-all-you-need"/>
-        <updated>2023-03-24T11:32:18.459Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://about.sourcegraph.com/blog/cheating-is-all-you-need">Cheating is All You Need</a> &nbsp;<a href="/url:70a6313d61baeb46e5e9763f95d53501472e7ca9" class="bookmark_count">41</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:llm/" class="tag">llm</a> <a href="/t:Unread/" class="tag">Unread</a> <a href="/t:machinelearning/" class="tag">machinelearning</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT Gets Its “Wolfram Superpowers”!—Stephen Wolfram Writings]]></title>
-        <id>https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/</id>
-        <link href="https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/"/>
-        <updated>2023-03-24T11:32:18.462Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/">ChatGPT Gets Its “Wolfram Superpowers”!—Stephen Wolfram Writings</a> &nbsp;<a href="/url:b9a235feec588928ccf785493f24fddc6a2b6bbe" class="bookmark_count">40</a><br><a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:ai/" class="tag">ai</a> <a href="/t:wolfram/" class="tag">wolfram</a> <a href="/t:gpt/" class="tag">gpt</a> <a href="/t:llm/" class="tag">llm</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Juice]]></title>
         <id>https://garden.bradwoods.io/notes/design/juice</id>
         <link href="https://garden.bradwoods.io/notes/design/juice"/>
         <updated>2023-03-25T07:47:27.354Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://garden.bradwoods.io/notes/design/juice">Juice</a> &nbsp;<a href="/url:4505b45f5dd2a48c6aa8520c11f3bbd8182ed252" class="bookmark_count">33</a><br><a href="/t:design/" class="tag">design</a> <a href="/t:ux/" class="tag">ux</a> <a href="/t:animation/" class="tag">animation</a> <a href="/t:games/" class="tag">games</a> <a href="/t:ui/" class="tag">ui</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2303.12712] Sparks of Artificial General Intelligence: Early experiments with GPT-4]]></title>
-        <id>https://arxiv.org/abs/2303.12712</id>
-        <link href="https://arxiv.org/abs/2303.12712"/>
-        <updated>2023-03-24T11:32:18.456Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://arxiv.org/abs/2303.12712">[2303.12712] Sparks of Artificial General Intelligence: Early experiments with GPT-4</a> &nbsp;<a href="/url:e4f48f6da8664c6ab166025371edb84539cc4389" class="bookmark_count">32</a><br><a href="/t:GPT4/" class="tag">GPT4</a> <a href="/t:AGI/" class="tag">AGI</a> <a href="/t:openai/" class="tag">openai</a> <a href="/t:AI/" class="tag">AI</a> <a href="/t:gpt/" class="tag">gpt</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ThumbHash: A very compact representation of an image placeholder]]></title>
-        <id>https://evanw.github.io/thumbhash/</id>
-        <link href="https://evanw.github.io/thumbhash/"/>
-        <updated>2023-03-23T09:59:36.658Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://evanw.github.io/thumbhash/">ThumbHash: A very compact representation of an image placeholder</a> &nbsp;<a href="/url:2769f4377ff21599209a6b19ccd35f365c5a370e" class="bookmark_count">31</a><br><a href="/t:image/" class="tag">image</a> <a href="/t:graphics/" class="tag">graphics</a> <a href="/t:images/" class="tag">images</a> <a href="/t:thumbnail/" class="tag">thumbnail</a> <a href="/t:web/" class="tag">web</a>]]></content>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://garden.bradwoods.io/notes/design/juice">Juice</a> &nbsp;<a href="/url:4505b45f5dd2a48c6aa8520c11f3bbd8182ed252" class="bookmark_count">35</a><br><a href="/t:design/" class="tag">design</a> <a href="/t:ux/" class="tag">ux</a> <a href="/t:animation/" class="tag">animation</a> <a href="/t:games/" class="tag">games</a> <a href="/t:ui/" class="tag">ui</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[We updated our RSA SSH host key | The GitHub Blog]]></title>
         <id>https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/</id>
         <link href="https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/"/>
         <updated>2023-03-25T07:47:27.354Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/">We updated our RSA SSH host key | The GitHub Blog</a> &nbsp;<a href="/url:0a124f13ed38d7defbb659752c7a19bc8910747e" class="bookmark_count">26</a><br><a href="/t:github/" class="tag">github</a> <a href="/t:ssh/" class="tag">ssh</a> <a href="/t:security/" class="tag">security</a> <a href="/t:dev/" class="tag">dev</a> <a href="/t:IFTTT/" class="tag">IFTTT</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Eulogy for Dark Sky, a Data Visualization Masterpiece]]></title>
-        <id>https://nightingaledvs.com/dark-sky-weather-data-viz/</id>
-        <link href="https://nightingaledvs.com/dark-sky-weather-data-viz/"/>
-        <updated>2023-03-23T09:59:36.664Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://nightingaledvs.com/dark-sky-weather-data-viz/">A Eulogy for Dark Sky, a Data Visualization Masterpiece</a> &nbsp;<a href="/url:afcac135fbe1e2662cec61b68f79e4af43e6c792" class="bookmark_count">22</a><br><a href="/t:visualization/" class="tag">visualization</a> <a href="/t:design/" class="tag">design</a> <a href="/t:weather/" class="tag">weather</a> <a href="/t:darksky/" class="tag">darksky</a> <a href="/t:iOS/" class="tag">iOS</a>]]></content>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.blog/2023-03-23-we-updated-our-rsa-ssh-host-key/">We updated our RSA SSH host key | The GitHub Blog</a> &nbsp;<a href="/url:0a124f13ed38d7defbb659752c7a19bc8910747e" class="bookmark_count">29</a><br><a href="/t:github/" class="tag">github</a> <a href="/t:ssh/" class="tag">ssh</a> <a href="/t:security/" class="tag">security</a> <a href="/t:key/" class="tag">key</a> <a href="/t:dev/" class="tag">dev</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Dolly: Democratizing the magic of ChatGPT with open models]]></title>
         <id>https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html</id>
         <link href="https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html"/>
         <updated>2023-03-25T07:47:27.357Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html">Hello Dolly: Democratizing the magic of ChatGPT with open models</a> &nbsp;<a href="/url:980ed13b1ec42249b419b57862f88fdeef1a7ffe" class="bookmark_count">20</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:llm/" class="tag">llm</a> <a href="/t:gpt/" class="tag">gpt</a> <a href="/t:alpacca/" class="tag">alpacca</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Age of AI has begun | Bill Gates]]></title>
-        <id>https://www.gatesnotes.com/The-Age-of-AI-Has-Begun</id>
-        <link href="https://www.gatesnotes.com/The-Age-of-AI-Has-Begun"/>
-        <updated>2023-03-23T09:59:36.649Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.gatesnotes.com/The-Age-of-AI-Has-Begun">The Age of AI has begun | Bill Gates</a> &nbsp;<a href="/url:6de70f69cb1da1cc83a5f518e5fddc02df181aac" class="bookmark_count">19</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:artificialintelligence/" class="tag">artificialintelligence</a> <a href="/t:billgates/" class="tag">billgates</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:920/" class="tag">920</a>]]></content>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html">Hello Dolly: Democratizing the magic of ChatGPT with open models</a> &nbsp;<a href="/url:980ed13b1ec42249b419b57862f88fdeef1a7ffe" class="bookmark_count">27</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:llm/" class="tag">llm</a> <a href="/t:gpt/" class="tag">gpt</a> <a href="/t:alpacca/" class="tag">alpacca</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Non-Disparagement Clauses Are Retroactively Voided, NLRB’s Top Cop Clarifies]]></title>
         <id>https://www.vice.com/en/article/n7ewy7/non-disparagement-clauses-are-retroactively-voided-nlrbs-top-cop-clarifies</id>
         <link href="https://www.vice.com/en/article/n7ewy7/non-disparagement-clauses-are-retroactively-voided-nlrbs-top-cop-clarifies"/>
         <updated>2023-03-25T07:47:27.385Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.vice.com/en/article/n7ewy7/non-disparagement-clauses-are-retroactively-voided-nlrbs-top-cop-clarifies">Non-Disparagement Clauses Are Retroactively Voided, NLRB’s Top Cop Clarifies</a> &nbsp;<a href="/url:eee0025b0e3d0e4a1217ac9ff36dd8676324dff1" class="bookmark_count">18</a>]]></content>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.vice.com/en/article/n7ewy7/non-disparagement-clauses-are-retroactively-voided-nlrbs-top-cop-clarifies">Non-Disparagement Clauses Are Retroactively Voided, NLRB’s Top Cop Clarifies</a> &nbsp;<a href="/url:eee0025b0e3d0e4a1217ac9ff36dd8676324dff1" class="bookmark_count">20</a><br><a href="/t:clause/" class="tag">clause</a> <a href="/t:compensation/" class="tag">compensation</a> <a href="/t:non-disparage/" class="tag">non-disparage</a> <a href="/t:severance/" class="tag">severance</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everything I, an Italian, thought I knew about Italian food is wrong | Financial Times]]></title>
-        <id>https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c</id>
-        <link href="https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c"/>
-        <updated>2023-03-24T11:32:18.485Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c">Everything I, an Italian, thought I knew about Italian food is wrong | Financial Times</a> &nbsp;<a href="/url:488e1426e1dea8782d5595efcdbc6396bb6c67f4" class="bookmark_count">17</a><br><a href="/t:food/" class="tag">food</a> <a href="/t:italy/" class="tag">italy</a> <a href="/t:%23italien/" class="tag">#italien</a> <a href="/t:Affairs/" class="tag">Affairs</a> <a href="/t:Current/" class="tag">Current</a>]]></content>
+        <title type="html"><![CDATA[ChatGPT Gets Its “Wolfram Superpowers”!—Stephen Wolfram Writings]]></title>
+        <id>https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/</id>
+        <link href="https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/"/>
+        <updated>2023-03-24T11:32:18.462Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/">ChatGPT Gets Its “Wolfram Superpowers”!—Stephen Wolfram Writings</a> &nbsp;<a href="/url:b9a235feec588928ccf785493f24fddc6a2b6bbe" class="bookmark_count">19</a><br><a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:ai/" class="tag">ai</a> <a href="/t:wolfram/" class="tag">wolfram</a> <a href="/t:gpt/" class="tag">gpt</a> <a href="/t:llm/" class="tag">llm</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[typst/typst: A new markup-based typesetting system that is powerful and easy to learn.]]></title>
-        <id>https://github.com/typst/typst</id>
-        <link href="https://github.com/typst/typst"/>
-        <updated>2023-03-23T09:59:36.591Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/typst/typst">typst/typst: A new markup-based typesetting system that is powerful and easy to learn.</a> &nbsp;<a href="/url:41f611aec7fe18b21f17555bbee52932b7bf1d5f" class="bookmark_count">15</a><br><a href="/t:typesetting/" class="tag">typesetting</a> <a href="/t:github/" class="tag">github</a> <a href="/t:documentation/" class="tag">documentation</a> <a href="/t:writing/" class="tag">writing</a> <a href="/t:markup/" class="tag">markup</a>]]></content>
+        <title type="html"><![CDATA[Cheating is All You Need]]></title>
+        <id>https://about.sourcegraph.com/blog/cheating-is-all-you-need</id>
+        <link href="https://about.sourcegraph.com/blog/cheating-is-all-you-need"/>
+        <updated>2023-03-24T11:32:18.459Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://about.sourcegraph.com/blog/cheating-is-all-you-need">Cheating is All You Need</a> &nbsp;<a href="/url:70a6313d61baeb46e5e9763f95d53501472e7ca9" class="bookmark_count">18</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:llm/" class="tag">llm</a> <a href="/t:machinelearning/" class="tag">machinelearning</a> <a href="/t:Unread/" class="tag">Unread</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(500) https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai]]></title>
         <id>https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai</id>
         <link href="https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai"/>
         <updated>2023-03-25T07:47:27.380Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai">(500) https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai</a> &nbsp;<a href="/url:e7b48523b841267e3431abc1af5184f30f06900f" class="bookmark_count">15</a><br><a href="/t:artificialintelligence/" class="tag">artificialintelligence</a> <a href="/t:chatbots/" class="tag">chatbots</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:elonmusk/" class="tag">elonmusk</a> <a href="/t:openai/" class="tag">openai</a>]]></content>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai">(500) https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai</a> &nbsp;<a href="/url:e7b48523b841267e3431abc1af5184f30f06900f" class="bookmark_count">18</a><br><a href="/t:artificialintelligence/" class="tag">artificialintelligence</a> <a href="/t:chatbots/" class="tag">chatbots</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:elonmusk/" class="tag">elonmusk</a> <a href="/t:openai/" class="tag">openai</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tech guru Jaron Lanier: ‘The danger isn’t that AI destroys us. It’s that it drives us insane’ | Jaron Lanier | The Guardian]]></title>
-        <id>https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane</id>
-        <link href="https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane"/>
-        <updated>2023-03-24T11:32:18.484Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane">Tech guru Jaron Lanier: ‘The danger isn’t that AI destroys us. It’s that it drives us insane’ | Jaron Lanier | The Guardian</a> &nbsp;<a href="/url:622397af19c3dfb762be4abf45805b005ed52013" class="bookmark_count">15</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:ethics/" class="tag">ethics</a> <a href="/t:technology/" class="tag">technology</a> <a href="/t:computing/" class="tag">computing</a> <a href="/t:article/" class="tag">article</a>]]></content>
+        <title type="html"><![CDATA[ThumbHash: A very compact representation of an image placeholder]]></title>
+        <id>https://evanw.github.io/thumbhash/</id>
+        <link href="https://evanw.github.io/thumbhash/"/>
+        <updated>2023-03-23T09:59:36.658Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://evanw.github.io/thumbhash/">ThumbHash: A very compact representation of an image placeholder</a> &nbsp;<a href="/url:2769f4377ff21599209a6b19ccd35f365c5a370e" class="bookmark_count">17</a><br><a href="/t:image/" class="tag">image</a> <a href="/t:graphics/" class="tag">graphics</a> <a href="/t:images/" class="tag">images</a> <a href="/t:thumbnail/" class="tag">thumbnail</a> <a href="/t:web/" class="tag">web</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled (https://github.com/openai/chatgpt-retrieval-plugin)]]></title>
-        <id>https://github.com/openai/chatgpt-retrieval-plugin</id>
-        <link href="https://github.com/openai/chatgpt-retrieval-plugin"/>
-        <updated>2023-03-25T07:47:27.396Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/openai/chatgpt-retrieval-plugin">Untitled (https://github.com/openai/chatgpt-retrieval-plugin)</a> &nbsp;<a href="/url:4ed0b38ec8cacb0dd40fb1e25621a488635b7f92" class="bookmark_count">14</a><br><a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:search/" class="tag">search</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:openai/" class="tag">openai</a> <a href="/t:plugin/" class="tag">plugin</a>]]></content>
+        <title type="html"><![CDATA[How Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them — ProPublica]]></title>
+        <id>https://www.propublica.org/article/cigna-pxdx-medical-health-insurance-rejection-claims</id>
+        <link href="https://www.propublica.org/article/cigna-pxdx-medical-health-insurance-rejection-claims"/>
+        <updated>2023-03-26T08:09:20.235Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.propublica.org/article/cigna-pxdx-medical-health-insurance-rejection-claims">How Cigna Saves Millions by Having Its Doctors Reject Claims Without Reading Them — ProPublica</a> &nbsp;<a href="/url:74008652ed47f640fad265568a55a94e5fbef1a2" class="bookmark_count">17</a><br><a href="/t:healthcare/" class="tag">healthcare</a> <a href="/t:insurance/" class="tag">insurance</a> <a href="/t:business/" class="tag">business</a> <a href="/t:Cigna/" class="tag">Cigna</a> <a href="/t:claim/" class="tag">claim</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Will Transformers Transform? – Rodney Brooks]]></title>
-        <id>https://rodneybrooks.com/what-will-transformers-transform/</id>
-        <link href="https://rodneybrooks.com/what-will-transformers-transform/"/>
-        <updated>2023-03-24T11:32:18.588Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://rodneybrooks.com/what-will-transformers-transform/">What Will Transformers Transform? – Rodney Brooks</a> &nbsp;<a href="/url:ae0e74f16e1d5d05f30f2ecb43a28d911a86205b" class="bookmark_count">12</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:%252B/" class="tag">+</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:intelligence/" class="tag">intelligence</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fascination of AWK | Volodymyr Gubarkov]]></title>
-        <id>https://maximullaris.com/awk.html</id>
-        <link href="https://maximullaris.com/awk.html"/>
-        <updated>2023-03-25T07:47:27.385Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://maximullaris.com/awk.html">Fascination of AWK | Volodymyr Gubarkov</a> &nbsp;<a href="/url:4c8cbc91a2fa04affad667ff6fda631300d2d5d6" class="bookmark_count">12</a><br><a href="/t:awk/" class="tag">awk</a> <a href="/t:shell/" class="tag">shell</a> <a href="/t:ide/" class="tag">ide</a> <a href="/t:unix/" class="tag">unix</a> <a href="/t:Unread/" class="tag">Unread</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians discover shape that can tile a wall and never repeat | New Scientist]]></title>
-        <id>https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/</id>
-        <link href="https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/"/>
-        <updated>2023-03-24T11:32:18.487Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/">Mathematicians discover shape that can tile a wall and never repeat | New Scientist</a> &nbsp;<a href="/url:b552f11f7f148531d3836d3274da05c1628758e5" class="bookmark_count">12</a><br><a href="/t:math/" class="tag">math</a> <a href="/t:geometry/" class="tag">geometry</a> <a href="/t:design/" class="tag">design</a> <a href="/t:tiling/" class="tag">tiling</a> <a href="/t:diy/" class="tag">diy</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Snitch Mini]]></title>
-        <id>https://obdev.at/products/littlesnitch-mini/index.html</id>
-        <link href="https://obdev.at/products/littlesnitch-mini/index.html"/>
-        <updated>2023-03-24T11:32:18.483Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://obdev.at/products/littlesnitch-mini/index.html">Little Snitch Mini</a> &nbsp;<a href="/url:ec2327704e916e51a6fa873d606866b8729090b8" class="bookmark_count">12</a><br><a href="/t:networking/" class="tag">networking</a> <a href="/t:privacy/" class="tag">privacy</a> <a href="/t:mac/" class="tag">mac</a> <a href="/t:apple/" class="tag">apple</a> <a href="/t:app/" class="tag">app</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Florida principal fired: Interview with the school board chair who ousted a principal after Michelangelo’s David was shown in class.]]></title>
-        <id>https://slate.com/human-interest/2023/03/florida-principal-fired-michelangelo-david-statue.html</id>
-        <link href="https://slate.com/human-interest/2023/03/florida-principal-fired-michelangelo-david-statue.html"/>
-        <updated>2023-03-25T07:47:27.373Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://slate.com/human-interest/2023/03/florida-principal-fired-michelangelo-david-statue.html">Florida principal fired: Interview with the school board chair who ousted a principal after Michelangelo’s David was shown in class.</a> &nbsp;<a href="/url:b221e158b73685fd6275c317358737e77c5f2022" class="bookmark_count">12</a><br><a href="/t:art/" class="tag">art</a> <a href="/t:charter/" class="tag">charter</a> <a href="/t:florida/" class="tag">florida</a> <a href="/t:government/" class="tag">government</a> <a href="/t:learn/" class="tag">learn</a>]]></content>
+        <title type="html"><![CDATA[scrapeghost]]></title>
+        <id>https://jamesturk.github.io/scrapeghost/</id>
+        <link href="https://jamesturk.github.io/scrapeghost/"/>
+        <updated>2023-03-26T08:09:20.230Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://jamesturk.github.io/scrapeghost/">scrapeghost</a> &nbsp;<a href="/url:77f26d471dbe6b2918958b4414d17f9e78794c12" class="bookmark_count">16</a><br><a href="/t:scraping/" class="tag">scraping</a> <a href="/t:GPT4/" class="tag">GPT4</a> <a href="/t:ai/" class="tag">ai</a> <a href="/t:python/" class="tag">python</a> <a href="/t:ChatGPT/" class="tag">ChatGPT</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(500) https://markprompt.com/]]></title>
         <id>https://markprompt.com/</id>
         <link href="https://markprompt.com/"/>
         <updated>2023-03-25T07:47:27.537Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://markprompt.com/">(500) https://markprompt.com/</a> &nbsp;<a href="/url:2f8a8a2bf242fa34388977126a16f5a2940b8595" class="bookmark_count">12</a><br><a href="/t:AI/" class="tag">AI</a> <a href="/t:markdown/" class="tag">markdown</a> <a href="/t:api/" class="tag">api</a> <a href="/t:gpt4/" class="tag">gpt4</a> <a href="/t:docs/" class="tag">docs</a>]]></content>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://markprompt.com/">(500) https://markprompt.com/</a> &nbsp;<a href="/url:2f8a8a2bf242fa34388977126a16f5a2940b8595" class="bookmark_count">15</a><br><a href="/t:AI/" class="tag">AI</a> <a href="/t:markdown/" class="tag">markdown</a> <a href="/t:api/" class="tag">api</a> <a href="/t:gpt4/" class="tag">gpt4</a> <a href="/t:docs/" class="tag">docs</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brandon Sanderson Is Your God | WIRED]]></title>
-        <id>https://www.wired.com/story/brandon-sanderson-is-your-god/</id>
-        <link href="https://www.wired.com/story/brandon-sanderson-is-your-god/"/>
-        <updated>2023-03-25T07:47:27.445Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.wired.com/story/brandon-sanderson-is-your-god/">Brandon Sanderson Is Your God | WIRED</a> &nbsp;<a href="/url:13354acbc05ac4a6e36aa9f5ed7a00dbc9ada379" class="bookmark_count">11</a><br><a href="/t:fantasy/" class="tag">fantasy</a> <a href="/t:writing/" class="tag">writing</a> <a href="/t:author/" class="tag">author</a> <a href="/t:books/" class="tag">books</a> <a href="/t:IFTTT/" class="tag">IFTTT</a>]]></content>
+        <title type="html"><![CDATA[Superhuman: What can AI do in 30 minutes?]]></title>
+        <id>https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes</id>
+        <link href="https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes"/>
+        <updated>2023-03-27T08:12:16.844Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://oneusefulthing.substack.com/p/superhuman-what-can-ai-do-in-30-minutes">Superhuman: What can AI do in 30 minutes?</a> &nbsp;<a href="/url:c527058ea077a5bc21696783fc22955bbf03b438" class="bookmark_count">15</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:marketing/" class="tag">marketing</a> <a href="/t:articles/" class="tag">articles</a> <a href="/t:bing/" class="tag">bing</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT + Code Interpreter = Magic – @AndrewMayne]]></title>
+        <id>https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/</id>
+        <link href="https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/"/>
+        <updated>2023-03-27T08:12:16.844Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://andrewmayneblog.wordpress.com/2023/03/23/chatgpt-code-interpreter-magic/">ChatGPT + Code Interpreter = Magic – @AndrewMayne</a> &nbsp;<a href="/url:0eccbf66dd1627cc2e5cceffb6b426b637d1f476" class="bookmark_count">14</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:development/" class="tag">development</a> <a href="/t:ideas/" class="tag">ideas</a> <a href="/t:animation/" class="tag">animation</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Age of AI has begun | Bill Gates]]></title>
+        <id>https://www.gatesnotes.com/The-Age-of-AI-Has-Begun</id>
+        <link href="https://www.gatesnotes.com/The-Age-of-AI-Has-Begun"/>
+        <updated>2023-03-23T09:59:36.649Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.gatesnotes.com/The-Age-of-AI-Has-Begun">The Age of AI has begun | Bill Gates</a> &nbsp;<a href="/url:6de70f69cb1da1cc83a5f518e5fddc02df181aac" class="bookmark_count">13</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:artificialintelligence/" class="tag">artificialintelligence</a> <a href="/t:billgates/" class="tag">billgates</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:920/" class="tag">920</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Twitter Blue subscribers will be able to hide their checkmarks to avoid shaming and mockery | Boing Boing]]></title>
         <id>https://boingboing.net/2023/03/23/twitter-blue-subscribers-will-be-able-to-hide-their-checkmarks-to-avoid-shaming-and-mockery.html</id>
         <link href="https://boingboing.net/2023/03/23/twitter-blue-subscribers-will-be-able-to-hide-their-checkmarks-to-avoid-shaming-and-mockery.html"/>
         <updated>2023-03-25T07:47:27.392Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://boingboing.net/2023/03/23/twitter-blue-subscribers-will-be-able-to-hide-their-checkmarks-to-avoid-shaming-and-mockery.html">Twitter Blue subscribers will be able to hide their checkmarks to avoid shaming and mockery | Boing Boing</a> &nbsp;<a href="/url:09dbdd0c17288e82d859292c291217e5ebdae39f" class="bookmark_count">11</a><br><a href="/t:ElonMusk/" class="tag">ElonMusk</a> <a href="/t:TwitterBlue/" class="tag">TwitterBlue</a>]]></content>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://boingboing.net/2023/03/23/twitter-blue-subscribers-will-be-able-to-hide-their-checkmarks-to-avoid-shaming-and-mockery.html">Twitter Blue subscribers will be able to hide their checkmarks to avoid shaming and mockery | Boing Boing</a> &nbsp;<a href="/url:09dbdd0c17288e82d859292c291217e5ebdae39f" class="bookmark_count">12</a><br><a href="/t:ElonMusk/" class="tag">ElonMusk</a> <a href="/t:TwitterBlue/" class="tag">TwitterBlue</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to start a React Project in 2023]]></title>
-        <id>https://www.robinwieruch.de/react-starter/</id>
-        <link href="https://www.robinwieruch.de/react-starter/"/>
-        <updated>2023-03-23T09:59:36.758Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.robinwieruch.de/react-starter/">How to start a React Project in 2023</a> &nbsp;<a href="/url:fca88067ddaacfe8ba7173bec2f2aca0d01bec8f" class="bookmark_count">11</a><br><a href="/t:react/" class="tag">react</a> <a href="/t:JavaScript/" class="tag">JavaScript</a> <a href="/t:learning/" class="tag">learning</a> <a href="/t:tutorial/" class="tag">tutorial</a> <a href="/t:webdev/" class="tag">webdev</a>]]></content>
+        <title type="html"><![CDATA[Fascination of AWK]]></title>
+        <id>https://maximullaris.com/awk.html</id>
+        <link href="https://maximullaris.com/awk.html"/>
+        <updated>2023-03-25T07:47:27.385Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://maximullaris.com/awk.html">Fascination of AWK</a> &nbsp;<a href="/url:4c8cbc91a2fa04affad667ff6fda631300d2d5d6" class="bookmark_count">11</a><br><a href="/t:awk/" class="tag">awk</a> <a href="/t:shell/" class="tag">shell</a> <a href="/t:ide/" class="tag">ide</a> <a href="/t:unix/" class="tag">unix</a> <a href="/t:Unread/" class="tag">Unread</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The End of Front-End Development]]></title>
-        <id>https://www.joshwcomeau.com/blog/the-end-of-frontend-development/</id>
-        <link href="https://www.joshwcomeau.com/blog/the-end-of-frontend-development/"/>
-        <updated>2023-03-23T09:59:36.608Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.joshwcomeau.com/blog/the-end-of-frontend-development/">The End of Front-End Development</a> &nbsp;<a href="/url:0c610d6aeeacb0ce8dd5ca8d9b019c6531a0ca66" class="bookmark_count">10</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:Development/" class="tag">Development</a> <a href="/t:frontend/" class="tag">frontend</a> <a href="/t:programming/" class="tag">programming</a> <a href="/t:css/" class="tag">css</a>]]></content>
+        <title type="html"><![CDATA[Everything I, an Italian, thought I knew about Italian food is wrong | Financial Times]]></title>
+        <id>https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c</id>
+        <link href="https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c"/>
+        <updated>2023-03-24T11:32:18.485Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.ft.com/content/6ac009d5-dbfd-4a86-839e-28bb44b2b64c">Everything I, an Italian, thought I knew about Italian food is wrong | Financial Times</a> &nbsp;<a href="/url:488e1426e1dea8782d5595efcdbc6396bb6c67f4" class="bookmark_count">11</a><br><a href="/t:food/" class="tag">food</a> <a href="/t:italy/" class="tag">italy</a> <a href="/t:%23italien/" class="tag">#italien</a> <a href="/t:Affairs/" class="tag">Affairs</a> <a href="/t:Current/" class="tag">Current</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Block: How Inflated User Metrics and “Frictionless” Fraud Facilitation Enabled Insiders To Cash Out Over $1 Billion – Hindenburg Research]]></title>
-        <id>https://hindenburgresearch.com/block/</id>
-        <link href="https://hindenburgresearch.com/block/"/>
-        <updated>2023-03-24T11:32:18.560Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://hindenburgresearch.com/block/">Block: How Inflated User Metrics and “Frictionless” Fraud Facilitation Enabled Insiders To Cash Out Over $1 Billion – Hindenburg Research</a> &nbsp;<a href="/url:1b9c8a577fc3d3e2c2ad7254b8d26932d4d9896d" class="bookmark_count">9</a><br><a href="/t:block/" class="tag">block</a> <a href="/t:crime/" class="tag">crime</a> <a href="/t:fraud/" class="tag">fraud</a> <a href="/t:hindenburg-research/" class="tag">hindenburg-research</a> <a href="/t:square/" class="tag">square</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(500) https://www.theverge.com/2023/3/23/23652373/ftc-click-to-cancel-subscription-service-dark-patterns-ban]]></title>
-        <id>https://www.theverge.com/2023/3/23/23652373/ftc-click-to-cancel-subscription-service-dark-patterns-ban</id>
-        <link href="https://www.theverge.com/2023/3/23/23652373/ftc-click-to-cancel-subscription-service-dark-patterns-ban"/>
-        <updated>2023-03-24T11:32:18.569Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.theverge.com/2023/3/23/23652373/ftc-click-to-cancel-subscription-service-dark-patterns-ban">(500) https://www.theverge.com/2023/3/23/23652373/ftc-click-to-cancel-subscription-service-dark-patterns-ban</a> &nbsp;<a href="/url:e2f36e656de5dac14dd5721398d2f06237e12f5f" class="bookmark_count">9</a><br><a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:Twitter/" class="tag">Twitter</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fight Continues - Internet Archive Blogs]]></title>
-        <id>https://blog.archive.org/2023/03/25/the-fight-continues/</id>
-        <link href="https://blog.archive.org/2023/03/25/the-fight-continues/"/>
-        <updated>2023-03-26T08:09:20.221Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://blog.archive.org/2023/03/25/the-fight-continues/">The Fight Continues - Internet Archive Blogs</a> &nbsp;<a href="/url:4c0b364c90ab9a605528d7482ba7c0f72fef8a76" class="bookmark_count">9</a><br><a href="/t:DigitalRightsForLibraries/" class="tag">DigitalRightsForLibraries</a> <a href="/t:EmpoweringLibraries/" class="tag">EmpoweringLibraries</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:Pocket/" class="tag">Pocket</a> <a href="/t:readlater/" class="tag">readlater</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web fingerprinting is worse than I thought - Bitestring's Blog]]></title>
-        <id>https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html</id>
-        <link href="https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html"/>
-        <updated>2023-03-23T09:59:36.608Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html">Web fingerprinting is worse than I thought - Bitestring's Blog</a> &nbsp;<a href="/url:e92fa03f7748266c72eab21c0637a426647fadda" class="bookmark_count">9</a><br><a href="/t:privacy/" class="tag">privacy</a> <a href="/t:security/" class="tag">security</a> <a href="/t:fingerprinting/" class="tag">fingerprinting</a> <a href="/t:browser/" class="tag">browser</a> <a href="/t:firefox/" class="tag">firefox</a>]]></content>
+        <title type="html"><![CDATA[Florida principal fired: Interview with the school board chair who ousted a principal after Michelangelo’s David was shown in class.]]></title>
+        <id>https://slate.com/human-interest/2023/03/florida-principal-fired-michelangelo-david-statue.html</id>
+        <link href="https://slate.com/human-interest/2023/03/florida-principal-fired-michelangelo-david-statue.html"/>
+        <updated>2023-03-25T07:47:27.373Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://slate.com/human-interest/2023/03/florida-principal-fired-michelangelo-david-statue.html">Florida principal fired: Interview with the school board chair who ousted a principal after Michelangelo’s David was shown in class.</a> &nbsp;<a href="/url:b221e158b73685fd6275c317358737e77c5f2022" class="bookmark_count">11</a><br><a href="/t:florida/" class="tag">florida</a> <a href="/t:art/" class="tag">art</a> <a href="/t:charter/" class="tag">charter</a> <a href="/t:government/" class="tag">government</a> <a href="/t:learn/" class="tag">learn</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Why Engineers Need To Write - by Ryan Peterman]]></title>
         <id>https://www.developing.dev/p/why-engineers-need-to-write</id>
         <link href="https://www.developing.dev/p/why-engineers-need-to-write"/>
         <updated>2023-03-25T07:47:27.442Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.developing.dev/p/why-engineers-need-to-write">Why Engineers Need To Write - by Ryan Peterman</a> &nbsp;<a href="/url:e9cd4ef931eb60757cc92cb79643c3e222eeb567" class="bookmark_count">9</a><br><a href="/t:writing/" class="tag">writing</a> <a href="/t:career/" class="tag">career</a> <a href="/t:engineering/" class="tag">engineering</a> <a href="/t:article/" class="tag">article</a> <a href="/t:programming/" class="tag">programming</a>]]></content>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.developing.dev/p/why-engineers-need-to-write">Why Engineers Need To Write - by Ryan Peterman</a> &nbsp;<a href="/url:e9cd4ef931eb60757cc92cb79643c3e222eeb567" class="bookmark_count">10</a><br><a href="/t:writing/" class="tag">writing</a> <a href="/t:career/" class="tag">career</a> <a href="/t:engineering/" class="tag">engineering</a> <a href="/t:programming/" class="tag">programming</a> <a href="/t:article/" class="tag">article</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rogue Amoeba - Under the Microscope » Blog Archive » The RIAA v. Steve Jobs]]></title>
+        <id>https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/</id>
+        <link href="https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/"/>
+        <updated>2023-03-25T07:47:27.537Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/">Rogue Amoeba - Under the Microscope » Blog Archive » The RIAA v. Steve Jobs</a> &nbsp;<a href="/url:0927df92a5a196965a33ae5f40a7e063b22b7998" class="bookmark_count">10</a><br><a href="/t:apple/" class="tag">apple</a> <a href="/t:history/" class="tag">history</a> <a href="/t:america/" class="tag">america</a> <a href="/t:business/" class="tag">business</a> <a href="/t:copyright/" class="tag">copyright</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub - typst/typst: A new markup-based typesetting system that is powerful and easy to learn.]]></title>
+        <id>https://github.com/typst/typst</id>
+        <link href="https://github.com/typst/typst"/>
+        <updated>2023-03-23T09:59:36.591Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/typst/typst">GitHub - typst/typst: A new markup-based typesetting system that is powerful and easy to learn.</a> &nbsp;<a href="/url:41f611aec7fe18b21f17555bbee52932b7bf1d5f" class="bookmark_count">10</a><br><a href="/t:typesetting/" class="tag">typesetting</a> <a href="/t:github/" class="tag">github</a> <a href="/t:documentation/" class="tag">documentation</a> <a href="/t:writing/" class="tag">writing</a> <a href="/t:markup/" class="tag">markup</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fight Continues - Internet Archive Blogs]]></title>
+        <id>https://blog.archive.org/2023/03/25/the-fight-continues/</id>
+        <link href="https://blog.archive.org/2023/03/25/the-fight-continues/"/>
+        <updated>2023-03-26T08:09:20.221Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://blog.archive.org/2023/03/25/the-fight-continues/">The Fight Continues - Internet Archive Blogs</a> &nbsp;<a href="/url:4c0b364c90ab9a605528d7482ba7c0f72fef8a76" class="bookmark_count">10</a><br><a href="/t:DigitalRightsForLibraries/" class="tag">DigitalRightsForLibraries</a> <a href="/t:EmpoweringLibraries/" class="tag">EmpoweringLibraries</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:IP/" class="tag">IP</a> <a href="/t:libraries/" class="tag">libraries</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists warned a decade ago American lives were shortening. Then it got worse : Shots - Health News : NPR]]></title>
+        <id>https://www.npr.org/sections/health-shots/2023/03/25/1164819944/live-free-and-die-the-sad-state-of-u-s-life-expectancy</id>
+        <link href="https://www.npr.org/sections/health-shots/2023/03/25/1164819944/live-free-and-die-the-sad-state-of-u-s-life-expectancy"/>
+        <updated>2023-03-27T08:12:16.852Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.npr.org/sections/health-shots/2023/03/25/1164819944/live-free-and-die-the-sad-state-of-u-s-life-expectancy">Scientists warned a decade ago American lives were shortening. Then it got worse : Shots - Health News : NPR</a> &nbsp;<a href="/url:0a53ecb7c7e6aee2bd694a212009c7202657427b" class="bookmark_count">10</a><br><a href="/t:healthcare/" class="tag">healthcare</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:Instapaper/" class="tag">Instapaper</a> <a href="/t:MedTwitter/" class="tag">MedTwitter</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Reviving Chromebooks with Ubuntu: Autonomous Servers, Planned Obsolescence, and Permacomputing]]></title>
@@ -230,46 +174,60 @@
         <content type="html"><![CDATA[<a class="bookmark_title " href="https://anarchosolarpunk.substack.com/p/chromebook-revive">Reviving Chromebooks with Ubuntu: Autonomous Servers, Planned Obsolescence, and Permacomputing</a> &nbsp;<a href="/url:0b1496a2560d5f56bd64faf78573671f36f6088e" class="bookmark_count">9</a><br><a href="/t:Linux/" class="tag">Linux</a> <a href="/t:Ubuntu/" class="tag">Ubuntu</a> <a href="/t:chromebook/" class="tag">chromebook</a> <a href="/t:chrome/" class="tag">chrome</a> <a href="/t:Unread/" class="tag">Unread</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI is massively expanding ChatGPT’s capabilities to let it browse the web and more - The Verge]]></title>
-        <id>https://www.theverge.com/2023/3/23/23653591/openai-chatgpt-plugins-launch-web-browsing-third-party</id>
-        <link href="https://www.theverge.com/2023/3/23/23653591/openai-chatgpt-plugins-launch-web-browsing-third-party"/>
-        <updated>2023-03-25T07:47:27.403Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.theverge.com/2023/3/23/23653591/openai-chatgpt-plugins-launch-web-browsing-third-party">OpenAI is massively expanding ChatGPT’s capabilities to let it browse the web and more - The Verge</a> &nbsp;<a href="/url:f1aca14cbeb1e46a159bfc6f7de3ff7af3c457c3" class="bookmark_count">8</a><br><a href="/t:chatGPT/" class="tag">chatGPT</a> <a href="/t:ai/" class="tag">ai</a> <a href="/t:artificialintelligence/" class="tag">artificialintelligence</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:openAI/" class="tag">openAI</a>]]></content>
+        <title type="html"><![CDATA[ChatGPT plugins]]></title>
+        <id>https://openai.com/blog/chatgpt-plugins</id>
+        <link href="https://openai.com/blog/chatgpt-plugins"/>
+        <updated>2023-03-24T11:32:18.451Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://openai.com/blog/chatgpt-plugins">ChatGPT plugins</a> &nbsp;<a href="/url:d0fa947b8fc8541445015f934d47dcd07cfc601b" class="bookmark_count">9</a><br><a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:AI/" class="tag">AI</a> <a href="/t:plugins/" class="tag">plugins</a> <a href="/t:plugin/" class="tag">plugin</a> <a href="/t:api/" class="tag">api</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(500) https://www.fox19.com/2023/03/22/afroman-sued-by-law-enforcment-officers-who-raided-his-home/]]></title>
-        <id>https://www.fox19.com/2023/03/22/afroman-sued-by-law-enforcment-officers-who-raided-his-home/</id>
-        <link href="https://www.fox19.com/2023/03/22/afroman-sued-by-law-enforcment-officers-who-raided-his-home/"/>
-        <updated>2023-03-24T11:32:18.565Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.fox19.com/2023/03/22/afroman-sued-by-law-enforcment-officers-who-raided-his-home/">(500) https://www.fox19.com/2023/03/22/afroman-sued-by-law-enforcment-officers-who-raided-his-home/</a> &nbsp;<a href="/url:85898d75361a13ea95e14548508489abe3dc9363" class="bookmark_count">8</a><br><a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:Pocket/" class="tag">Pocket</a>]]></content>
+        <title type="html"><![CDATA[GitHub - openai/chatgpt-retrieval-plugin]]></title>
+        <id>https://github.com/openai/chatgpt-retrieval-plugin</id>
+        <link href="https://github.com/openai/chatgpt-retrieval-plugin"/>
+        <updated>2023-03-25T07:47:27.396Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/openai/chatgpt-retrieval-plugin">GitHub - openai/chatgpt-retrieval-plugin</a> &nbsp;<a href="/url:4ed0b38ec8cacb0dd40fb1e25621a488635b7f92" class="bookmark_count">9</a><br><a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:search/" class="tag">search</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:openai/" class="tag">openai</a> <a href="/t:plugin/" class="tag">plugin</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to start a React Project in 2023]]></title>
+        <id>https://www.robinwieruch.de/react-starter/</id>
+        <link href="https://www.robinwieruch.de/react-starter/"/>
+        <updated>2023-03-23T09:59:36.758Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.robinwieruch.de/react-starter/">How to start a React Project in 2023</a> &nbsp;<a href="/url:fca88067ddaacfe8ba7173bec2f2aca0d01bec8f" class="bookmark_count">9</a><br><a href="/t:react/" class="tag">react</a> <a href="/t:JavaScript/" class="tag">JavaScript</a> <a href="/t:learning/" class="tag">learning</a> <a href="/t:tutorial/" class="tag">tutorial</a> <a href="/t:webdev/" class="tag">webdev</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I built a ChatGPT plugin to answer questions about data hosted in Datasette]]></title>
         <id>https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/</id>
         <link href="https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/"/>
         <updated>2023-03-25T07:47:27.443Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/">I built a ChatGPT plugin to answer questions about data hosted in Datasette</a> &nbsp;<a href="/url:15970c77aa8bb61224a18815da57a9e798d84df2" class="bookmark_count">8</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatGPT/" class="tag">chatGPT</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:interesting-link/" class="tag">interesting-link</a> <a href="/t:NewsBlur/" class="tag">NewsBlur</a>]]></content>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/">I built a ChatGPT plugin to answer questions about data hosted in Datasette</a> &nbsp;<a href="/url:15970c77aa8bb61224a18815da57a9e798d84df2" class="bookmark_count">9</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatGPT/" class="tag">chatGPT</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:interesting-link/" class="tag">interesting-link</a> <a href="/t:NewsBlur/" class="tag">NewsBlur</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled (https://github.com/apple/ml-ane-transformers)]]></title>
-        <id>https://github.com/apple/ml-ane-transformers</id>
-        <link href="https://github.com/apple/ml-ane-transformers"/>
-        <updated>2023-03-25T07:47:27.415Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/apple/ml-ane-transformers">Untitled (https://github.com/apple/ml-ane-transformers)</a> &nbsp;<a href="/url:920f38dd747ec497f56120a9b400854743122643" class="bookmark_count">8</a><br><a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:apple/" class="tag">apple</a> <a href="/t:github/" class="tag">github</a> <a href="/t:ml/" class="tag">ml</a> <a href="/t:nn/" class="tag">nn</a>]]></content>
+        <title type="html"><![CDATA[What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings]]></title>
+        <id>https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/</id>
+        <link href="https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"/>
+        <updated>2023-03-25T07:47:27.401Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/">What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings</a> &nbsp;<a href="/url:ca944f1dedac63b6489a8e911212142d1c5feb0d" class="bookmark_count">9</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatGPT/" class="tag">chatGPT</a> <a href="/t:llm/" class="tag">llm</a> <a href="/t:chat-gpt/" class="tag">chat-gpt</a> <a href="/t:2023/" class="tag">2023</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Book Publishers Won’t Stop Until Libraries Are Dead | Techdirt]]></title>
-        <id>https://www.techdirt.com/2023/03/22/book-publishers-wont-stop-until-libraries-are-dead/</id>
-        <link href="https://www.techdirt.com/2023/03/22/book-publishers-wont-stop-until-libraries-are-dead/"/>
-        <updated>2023-03-25T07:47:27.421Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.techdirt.com/2023/03/22/book-publishers-wont-stop-until-libraries-are-dead/">Book Publishers Won’t Stop Until Libraries Are Dead | Techdirt</a> &nbsp;<a href="/url:f575cb1e096fc0a5447ae9e04ca78d4c6357ac1b" class="bookmark_count">8</a><br><a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:books/" class="tag">books</a> <a href="/t:library/" class="tag">library</a> <a href="/t:Pocket/" class="tag">Pocket</a> <a href="/t:publishing/" class="tag">publishing</a>]]></content>
+        <title type="html"><![CDATA[Brandon Sanderson Is Your God | WIRED]]></title>
+        <id>https://www.wired.com/story/brandon-sanderson-is-your-god/</id>
+        <link href="https://www.wired.com/story/brandon-sanderson-is-your-god/"/>
+        <updated>2023-03-25T07:47:27.445Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.wired.com/story/brandon-sanderson-is-your-god/">Brandon Sanderson Is Your God | WIRED</a> &nbsp;<a href="/url:13354acbc05ac4a6e36aa9f5ed7a00dbc9ada379" class="bookmark_count">8</a><br><a href="/t:fantasy/" class="tag">fantasy</a> <a href="/t:writing/" class="tag">writing</a> <a href="/t:author/" class="tag">author</a> <a href="/t:books/" class="tag">books</a> <a href="/t:IFTTT/" class="tag">IFTTT</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[scrapeghost]]></title>
-        <id>https://jamesturk.github.io/scrapeghost/</id>
-        <link href="https://jamesturk.github.io/scrapeghost/"/>
-        <updated>2023-03-26T08:09:20.230Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://jamesturk.github.io/scrapeghost/">scrapeghost</a> &nbsp;<a href="/url:77f26d471dbe6b2918958b4414d17f9e78794c12" class="bookmark_count">8</a><br><a href="/t:scraping/" class="tag">scraping</a> <a href="/t:GPT4/" class="tag">GPT4</a> <a href="/t:python/" class="tag">python</a> <a href="/t:ai/" class="tag">ai</a> <a href="/t:ChatGPT/" class="tag">ChatGPT</a>]]></content>
+        <title type="html"><![CDATA[A Simple Framework for Architectural Decisions]]></title>
+        <id>https://www.infoq.com/articles/framework-architectural-decisions/</id>
+        <link href="https://www.infoq.com/articles/framework-architectural-decisions/"/>
+        <updated>2023-03-27T08:12:16.860Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.infoq.com/articles/framework-architectural-decisions/">A Simple Framework for Architectural Decisions</a> &nbsp;<a href="/url:d98ceae636d6162facb3009105c8b04f1cb5a39c" class="bookmark_count">8</a><br><a href="/t:architecture/" class="tag">architecture</a> <a href="/t:adr/" class="tag">adr</a> <a href="/t:agile/" class="tag">agile</a> <a href="/t:documentation/" class="tag">documentation</a> <a href="/t:decision/" class="tag">decision</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 CSS snippets every front-end developer should know in 2023]]></title>
+        <id>https://web.dev/6-css-snippets-every-front-end-developer-should-know-in-2023/</id>
+        <link href="https://web.dev/6-css-snippets-every-front-end-developer-should-know-in-2023/"/>
+        <updated>2023-03-25T07:47:27.429Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://web.dev/6-css-snippets-every-front-end-developer-should-know-in-2023/">6 CSS snippets every front-end developer should know in 2023</a> &nbsp;<a href="/url:a392504f8e91dde6cafac38bd3222049cda7919a" class="bookmark_count">8</a><br><a href="/t:css/" class="tag">css</a> <a href="/t:reference/" class="tag">reference</a> <a href="/t:development/" class="tag">development</a> <a href="/t:dev/" class="tag">dev</a> <a href="/t:4cola/" class="tag">4cola</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask HN: Tools to learn music theory? | Hacker News]]></title>
@@ -279,130 +237,144 @@
         <content type="html"><![CDATA[<a class="bookmark_title " href="https://news.ycombinator.com/item?id=35272536">Ask HN: Tools to learn music theory? | Hacker News</a> &nbsp;<a href="/url:fed2cd4bde69fce78538eca3873ea04f1e77bc52" class="bookmark_count">8</a><br><a href="/t:music/" class="tag">music</a> <a href="/t:@read/" class="tag">@read</a> <a href="/t:discussion/" class="tag">discussion</a> <a href="/t:hackernews/" class="tag">hackernews</a> <a href="/t:learning/" class="tag">learning</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings]]></title>
-        <id>https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/</id>
-        <link href="https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/"/>
-        <updated>2023-03-25T07:47:27.401Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/">What Is ChatGPT Doing … and Why Does It Work?—Stephen Wolfram Writings</a> &nbsp;<a href="/url:ca944f1dedac63b6489a8e911212142d1c5feb0d" class="bookmark_count">8</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatGPT/" class="tag">chatGPT</a> <a href="/t:llm/" class="tag">llm</a> <a href="/t:chat-gpt/" class="tag">chat-gpt</a> <a href="/t:2023/" class="tag">2023</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled (https://www.propublica.org/article/cigna-pxdx-medical-health-insurance-rejection-claims)]]></title>
-        <id>https://www.propublica.org/article/cigna-pxdx-medical-health-insurance-rejection-claims</id>
-        <link href="https://www.propublica.org/article/cigna-pxdx-medical-health-insurance-rejection-claims"/>
-        <updated>2023-03-26T08:09:20.235Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.propublica.org/article/cigna-pxdx-medical-health-insurance-rejection-claims">Untitled (https://www.propublica.org/article/cigna-pxdx-medical-health-insurance-rejection-claims)</a> &nbsp;<a href="/url:74008652ed47f640fad265568a55a94e5fbef1a2" class="bookmark_count">7</a><br><a href="/t:health-care/" class="tag">health-care</a> <a href="/t:healthcareCorruption/" class="tag">healthcareCorruption</a> <a href="/t:healthcareIncompetence/" class="tag">healthcareIncompetence</a> <a href="/t:healthcareMalfeasance/" class="tag">healthcareMalfeasance</a> <a href="/t:IFTTT/" class="tag">IFTTT</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peerless Whisper – Eric’s Archived Thoughts]]></title>
-        <id>https://meyerweb.com/eric/thoughts/2023/03/23/peerless-whisper/</id>
-        <link href="https://meyerweb.com/eric/thoughts/2023/03/23/peerless-whisper/"/>
-        <updated>2023-03-25T07:47:27.432Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://meyerweb.com/eric/thoughts/2023/03/23/peerless-whisper/">Peerless Whisper – Eric’s Archived Thoughts</a> &nbsp;<a href="/url:6833ffc582377232a3ba1336723cc04e714c3a08" class="bookmark_count">7</a><br><a href="/t:transcription/" class="tag">transcription</a> <a href="/t:ai/" class="tag">ai</a> <a href="/t:captions/" class="tag">captions</a> <a href="/t:Eric-Meyer/" class="tag">Eric-Meyer</a> <a href="/t:feedbin/" class="tag">feedbin</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 CSS snippets every front-end developer should know in 2023]]></title>
-        <id>https://web.dev/6-css-snippets-every-front-end-developer-should-know-in-2023/</id>
-        <link href="https://web.dev/6-css-snippets-every-front-end-developer-should-know-in-2023/"/>
-        <updated>2023-03-25T07:47:27.429Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://web.dev/6-css-snippets-every-front-end-developer-should-know-in-2023/">6 CSS snippets every front-end developer should know in 2023</a> &nbsp;<a href="/url:a392504f8e91dde6cafac38bd3222049cda7919a" class="bookmark_count">7</a><br><a href="/t:css/" class="tag">css</a> <a href="/t:reference/" class="tag">reference</a> <a href="/t:development/" class="tag">development</a> <a href="/t:dev/" class="tag">dev</a> <a href="/t:4cola/" class="tag">4cola</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[2303.12003] Artificial muses: Generative Artificial Intelligence Chatbots Have Risen to Human-Level Creativity]]></title>
-        <id>https://arxiv.org/abs/2303.12003</id>
-        <link href="https://arxiv.org/abs/2303.12003"/>
-        <updated>2023-03-25T07:47:27.426Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://arxiv.org/abs/2303.12003">[2303.12003] Artificial muses: Generative Artificial Intelligence Chatbots Have Risen to Human-Level Creativity</a> &nbsp;<a href="/url:9ec23e67dbdd35b367ee9cafde24f0db07e7b77f" class="bookmark_count">7</a><br><a href="/t:AI/" class="tag">AI</a> <a href="/t:Creativity/" class="tag">Creativity</a> <a href="/t:2023/" class="tag">2023</a> <a href="/t:AI-Creativity/" class="tag">AI-Creativity</a> <a href="/t:AI-Papers/" class="tag">AI-Papers</a>]]></content>
+        <title type="html"><![CDATA[A Eulogy for Dark Sky, a Data Visualization Masterpiece]]></title>
+        <id>https://nightingaledvs.com/dark-sky-weather-data-viz/</id>
+        <link href="https://nightingaledvs.com/dark-sky-weather-data-viz/"/>
+        <updated>2023-03-23T09:59:36.664Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://nightingaledvs.com/dark-sky-weather-data-viz/">A Eulogy for Dark Sky, a Data Visualization Masterpiece</a> &nbsp;<a href="/url:afcac135fbe1e2662cec61b68f79e4af43e6c792" class="bookmark_count">8</a><br><a href="/t:visualization/" class="tag">visualization</a> <a href="/t:design/" class="tag">design</a> <a href="/t:weather/" class="tag">weather</a> <a href="/t:darksky/" class="tag">darksky</a> <a href="/t:iOS/" class="tag">iOS</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Untitled (https://www.youtube.com/watch?v=L_Guz73e6fw)]]></title>
         <id>https://www.youtube.com/watch?v=L_Guz73e6fw</id>
         <link href="https://www.youtube.com/watch?v=L_Guz73e6fw"/>
         <updated>2023-03-26T08:09:20.238Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.youtube.com/watch?v=L_Guz73e6fw">Untitled (https://www.youtube.com/watch?v=L_Guz73e6fw)</a> &nbsp;<a href="/url:a0e5889dd3ce924b32890a8e1f795b137f827336" class="bookmark_count">7</a><br><a href="/t:gpt/" class="tag">gpt</a> <a href="/t:llm/" class="tag">llm</a> <a href="/t:sam_altman/" class="tag">sam_altman</a> <a href="/t:XDN/" class="tag">XDN</a>]]></content>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.youtube.com/watch?v=L_Guz73e6fw">Untitled (https://www.youtube.com/watch?v=L_Guz73e6fw)</a> &nbsp;<a href="/url:a0e5889dd3ce924b32890a8e1f795b137f827336" class="bookmark_count">8</a><br><a href="/t:gpt/" class="tag">gpt</a> <a href="/t:llm/" class="tag">llm</a> <a href="/t:sam_altman/" class="tag">sam_altman</a> <a href="/t:XDN/" class="tag">XDN</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smoke screen | A Working Library]]></title>
-        <id>https://aworkinglibrary.com/writing/smoke-screen</id>
-        <link href="https://aworkinglibrary.com/writing/smoke-screen"/>
-        <updated>2023-03-24T11:32:18.538Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://aworkinglibrary.com/writing/smoke-screen">Smoke screen | A Working Library</a> &nbsp;<a href="/url:212f605afc52bdea3cdf89a4effa1188b073a5d8" class="bookmark_count">7</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:politics/" class="tag">politics</a> <a href="/t:culture/" class="tag">culture</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:machine-learning/" class="tag">machine-learning</a>]]></content>
+        <title type="html"><![CDATA[Computers Are Bad]]></title>
+        <id>https://computer.rip/2023-03-24-docker.html</id>
+        <link href="https://computer.rip/2023-03-24-docker.html"/>
+        <updated>2023-03-27T08:12:16.864Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://computer.rip/2023-03-24-docker.html">Computers Are Bad</a> &nbsp;<a href="/url:031f6a9f9be290bfdd965de1dbcec982ebe72495" class="bookmark_count">8</a><br><a href="/t:Docker/" class="tag">Docker</a> <a href="/t:devops/" class="tag">devops</a> <a href="/t:containers/" class="tag">containers</a> <a href="/t:Unread/" class="tag">Unread</a> <a href="/t:2023/" class="tag">2023</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You Might Not Need an Effect – React]]></title>
-        <id>https://react.dev/learn/you-might-not-need-an-effect</id>
-        <link href="https://react.dev/learn/you-might-not-need-an-effect"/>
-        <updated>2023-03-24T11:32:18.552Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://react.dev/learn/you-might-not-need-an-effect">You Might Not Need an Effect – React</a> &nbsp;<a href="/url:cf1a0a559897e9cd25ecde9485a61612b99c47e3" class="bookmark_count">7</a><br><a href="/t:react/" class="tag">react</a> <a href="/t:javascript/" class="tag">javascript</a> <a href="/t:programming/" class="tag">programming</a> <a href="/t:toread/" class="tag">toread</a> <a href="/t:webdev/" class="tag">webdev</a>]]></content>
+        <title type="html"><![CDATA[Tech guru Jaron Lanier: ‘The danger isn’t that AI destroys us. It’s that it drives us insane’ | Jaron Lanier | The Guardian]]></title>
+        <id>https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane</id>
+        <link href="https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane"/>
+        <updated>2023-03-24T11:32:18.484Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.theguardian.com/technology/2023/mar/23/tech-guru-jaron-lanier-the-danger-isnt-that-ai-destroys-us-its-that-it-drives-us-insane">Tech guru Jaron Lanier: ‘The danger isn’t that AI destroys us. It’s that it drives us insane’ | Jaron Lanier | The Guardian</a> &nbsp;<a href="/url:622397af19c3dfb762be4abf45805b005ed52013" class="bookmark_count">8</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:ethics/" class="tag">ethics</a> <a href="/t:technology/" class="tag">technology</a> <a href="/t:computing/" class="tag">computing</a> <a href="/t:IFTTT/" class="tag">IFTTT</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[hwchase17/langchain: ⚡ Building applications with LLMs through composability ⚡]]></title>
-        <id>https://github.com/hwchase17/langchain</id>
-        <link href="https://github.com/hwchase17/langchain"/>
-        <updated>2023-03-24T11:32:18.617Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/hwchase17/langchain">hwchase17/langchain: ⚡ Building applications with LLMs through composability ⚡</a> &nbsp;<a href="/url:44f84cbc1cc679c994e6b4d5580d96342e98e483" class="bookmark_count">7</a><br><a href="/t:llm/" class="tag">llm</a> <a href="/t:github/" class="tag">github</a> <a href="/t:tools/" class="tag">tools</a> <a href="/t:ml/" class="tag">ml</a> <a href="/t:github-starred/" class="tag">github-starred</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rogue Amoeba - Under the Microscope » Blog Archive » The RIAA v. Steve Jobs]]></title>
-        <id>https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/</id>
-        <link href="https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/"/>
-        <updated>2023-03-25T07:47:27.537Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://weblog.rogueamoeba.com/2023/03/24/the-riaa-v-steve-jobs/">Rogue Amoeba - Under the Microscope » Blog Archive » The RIAA v. Steve Jobs</a> &nbsp;<a href="/url:0927df92a5a196965a33ae5f40a7e063b22b7998" class="bookmark_count">7</a><br><a href="/t:apple/" class="tag">apple</a> <a href="/t:history/" class="tag">history</a> <a href="/t:america/" class="tag">america</a> <a href="/t:business/" class="tag">business</a> <a href="/t:copyright/" class="tag">copyright</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Block: How Inflated User Metrics and “Frictionless” Fraud Facilitation Enabled Insiders To Cash Out Over $1 Billion – Hindenburg Research]]></title>
-        <id>https://hindenburgresearch.com/block</id>
-        <link href="https://hindenburgresearch.com/block"/>
-        <updated>2023-03-24T11:32:18.583Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://hindenburgresearch.com/block">Block: How Inflated User Metrics and “Frictionless” Fraud Facilitation Enabled Insiders To Cash Out Over $1 Billion – Hindenburg Research</a> &nbsp;<a href="/url:bc4bf0766e4ea2b3298f28153cbc6859bc23aeb2" class="bookmark_count">7</a><br><a href="/t:Unread/" class="tag">Unread</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[https://andrew-quinn.me/fzf/]]></title>
-        <id>https://andrew-quinn.me/fzf/</id>
-        <link href="https://andrew-quinn.me/fzf/"/>
-        <updated>2023-03-23T09:59:36.591Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://andrew-quinn.me/fzf/">https://andrew-quinn.me/fzf/</a> &nbsp;<a href="/url:d18655b6df0ca26b9f313a5bba23c18034752bc4" class="bookmark_count">7</a><br><a href="/t:cli/" class="tag">cli</a> <a href="/t:fzf/" class="tag">fzf</a> <a href="/t:tools/" class="tag">tools</a> <a href="/t:unix/" class="tag">unix</a> <a href="/t:Linux/" class="tag">Linux</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google and Microsoft’s chatbots are already citing one another in a misinformation shitshow - The Verge]]></title>
-        <id>https://www.theverge.com/2023/3/22/23651564/google-microsoft-bard-bing-chatbots-misinformation</id>
-        <link href="https://www.theverge.com/2023/3/22/23651564/google-microsoft-bard-bing-chatbots-misinformation"/>
-        <updated>2023-03-23T09:59:36.757Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.theverge.com/2023/3/22/23651564/google-microsoft-bard-bing-chatbots-misinformation">Google and Microsoft’s chatbots are already citing one another in a misinformation shitshow - The Verge</a> &nbsp;<a href="/url:d8fc71d95dee40ebea02311fc10d2e07e749165c" class="bookmark_count">7</a><br><a href="/t:misinformation/" class="tag">misinformation</a> <a href="/t:ai/" class="tag">ai</a> <a href="/t:google/" class="tag">google</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:microsoft/" class="tag">microsoft</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled (https://ogletree.com/insights/nlrb-general-counsel-says-confidentiality-nondisparagement-clause-decision-applies-retroactively/)]]></title>
-        <id>https://ogletree.com/insights/nlrb-general-counsel-says-confidentiality-nondisparagement-clause-decision-applies-retroactively/</id>
-        <link href="https://ogletree.com/insights/nlrb-general-counsel-says-confidentiality-nondisparagement-clause-decision-applies-retroactively/"/>
-        <updated>2023-03-24T11:32:18.574Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://ogletree.com/insights/nlrb-general-counsel-says-confidentiality-nondisparagement-clause-decision-applies-retroactively/">Untitled (https://ogletree.com/insights/nlrb-general-counsel-says-confidentiality-nondisparagement-clause-decision-applies-retroactively/)</a> &nbsp;<a href="/url:5a85278ffacaa6abf0bf98a4f1953579ad76990c" class="bookmark_count">7</a><br><a href="/t:WrasslinStoryTime/" class="tag">WrasslinStoryTime</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prompt Engineering | Lil'Log]]></title>
-        <id>https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/</id>
-        <link href="https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/"/>
-        <updated>2023-03-23T09:59:36.603Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/">Prompt Engineering | Lil'Log</a> &nbsp;<a href="/url:d09aaa8132d9d0bb8515817559f85a9e1b8217fc" class="bookmark_count">7</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:llm/" class="tag">llm</a> <a href="/t:nlp/" class="tag">nlp</a> <a href="/t:prompts/" class="tag">prompts</a> <a href="/t:awesome/" class="tag">awesome</a>]]></content>
+        <title type="html"><![CDATA[GitHub - freedmand/textra: A command-line application to convert images, PDFs, and audio files to text using Apple's APIs]]></title>
+        <id>https://github.com/freedmand/textra</id>
+        <link href="https://github.com/freedmand/textra"/>
+        <updated>2023-03-26T08:09:20.265Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/freedmand/textra">GitHub - freedmand/textra: A command-line application to convert images, PDFs, and audio files to text using Apple's APIs</a> &nbsp;<a href="/url:98cf62ad8231b3967ffb7c9703ff0cf404909198" class="bookmark_count">7</a><br><a href="/t:ocr/" class="tag">ocr</a> <a href="/t:mac/" class="tag">mac</a> <a href="/t:software/" class="tag">software</a> <a href="/t:text/" class="tag">text</a> <a href="/t:tools/" class="tag">tools</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Common Lisp Quick Reference]]></title>
         <id>http://clqr.boundp.org/</id>
         <link href="http://clqr.boundp.org/"/>
         <updated>2023-03-26T08:09:20.256Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="http://clqr.boundp.org/">Common Lisp Quick Reference</a> &nbsp;<a href="/url:cb5bac3ce1a82d3261718a34f39d9559e9fbc23c" class="bookmark_count">6</a><br><a href="/t:lisp/" class="tag">lisp</a> <a href="/t:reference/" class="tag">reference</a> <a href="/t:programming/" class="tag">programming</a> <a href="/t:commonlisp/" class="tag">commonlisp</a> <a href="/t:cheatsheet/" class="tag">cheatsheet</a>]]></content>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="http://clqr.boundp.org/">Common Lisp Quick Reference</a> &nbsp;<a href="/url:cb5bac3ce1a82d3261718a34f39d9559e9fbc23c" class="bookmark_count">7</a><br><a href="/t:lisp/" class="tag">lisp</a> <a href="/t:reference/" class="tag">reference</a> <a href="/t:programming/" class="tag">programming</a> <a href="/t:commonlisp/" class="tag">commonlisp</a> <a href="/t:cheatsheet/" class="tag">cheatsheet</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2303.12712.pdf]]></title>
-        <id>https://arxiv.org/pdf/2303.12712.pdf</id>
-        <link href="https://arxiv.org/pdf/2303.12712.pdf"/>
-        <updated>2023-03-25T07:47:27.446Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://arxiv.org/pdf/2303.12712.pdf">2303.12712.pdf</a> &nbsp;<a href="/url:de75dbb2957524cc2286faca70e8aae3f65ce4cc" class="bookmark_count">6</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:AI_Democracy_Class/" class="tag">AI_Democracy_Class</a> <a href="/t:AI_madness/" class="tag">AI_madness</a> <a href="/t:gpt3/" class="tag">gpt3</a>]]></content>
+        <title type="html"><![CDATA[At Apple, Rare Dissent Over a New Product: Interactive Goggles - The New York Times]]></title>
+        <id>https://www.nytimes.com/2023/03/26/technology/apple-augmented-reality-dissent.html</id>
+        <link href="https://www.nytimes.com/2023/03/26/technology/apple-augmented-reality-dissent.html"/>
+        <updated>2023-03-27T08:12:16.867Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.nytimes.com/2023/03/26/technology/apple-augmented-reality-dissent.html">At Apple, Rare Dissent Over a New Product: Interactive Goggles - The New York Times</a> &nbsp;<a href="/url:207e29912fcb0f767be59592b69c24a308d70d25" class="bookmark_count">7</a><br><a href="/t:apple/" class="tag">apple</a> <a href="/t:headset/" class="tag">headset</a> <a href="/t:ifttt/" class="tag">ifttt</a> <a href="/t:2020s/" class="tag">2020s</a> <a href="/t:920/" class="tag">920</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Habitat Chronicles: You can't tell people anything]]></title>
-        <id>http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/</id>
-        <link href="http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/"/>
-        <updated>2023-03-25T07:47:27.540Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/">Habitat Chronicles: You can't tell people anything</a> &nbsp;<a href="/url:ac817f2387c6f19ff45c9b204663a36d6f0cd593" class="bookmark_count">6</a><br><a href="/t:communication/" class="tag">communication</a> <a href="/t:advice/" class="tag">advice</a> <a href="/t:management/" class="tag">management</a> <a href="/t:inspiration/" class="tag">inspiration</a> <a href="/t:wisdom/" class="tag">wisdom</a>]]></content>
+        <title type="html"><![CDATA[(500) https://www.theverge.com/2023/3/24/23655804/internet-archive-hatchette-publisher-ebook-library-lawsuit?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter]]></title>
+        <id>https://www.theverge.com/2023/3/24/23655804/internet-archive-hatchette-publisher-ebook-library-lawsuit</id>
+        <link href="https://www.theverge.com/2023/3/24/23655804/internet-archive-hatchette-publisher-ebook-library-lawsuit"/>
+        <updated>2023-03-26T08:09:20.284Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.theverge.com/2023/3/24/23655804/internet-archive-hatchette-publisher-ebook-library-lawsuit">(500) https://www.theverge.com/2023/3/24/23655804/internet-archive-hatchette-publisher-ebook-library-lawsuit?utm_campaign=theverge&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter</a> &nbsp;<a href="/url:22f5a4775fe0558c274266d391319a94322a1221" class="bookmark_count">7</a><br><a href="/t:920/" class="tag">920</a> <a href="/t:copyright/" class="tag">copyright</a> <a href="/t:ebook/" class="tag">ebook</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:internetarchive/" class="tag">internetarchive</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled (https://www.nytimes.com/2023/03/26/technology/twitter-source-code-leak.html)]]></title>
+        <id>https://www.nytimes.com/2023/03/26/technology/twitter-source-code-leak.html</id>
+        <link href="https://www.nytimes.com/2023/03/26/technology/twitter-source-code-leak.html"/>
+        <updated>2023-03-27T08:12:16.868Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.nytimes.com/2023/03/26/technology/twitter-source-code-leak.html">Untitled (https://www.nytimes.com/2023/03/26/technology/twitter-source-code-leak.html)</a> &nbsp;<a href="/url:2b932a3e4dfe7c8ba0ec613b703a3007f9f32240" class="bookmark_count">7</a><br><a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:Instapaper/" class="tag">Instapaper</a> <a href="/t:Neu_aus_Instapaper/" class="tag">Neu_aus_Instapaper</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In Held v. Montana, Young People Sue Montana Over Use of Fossil Fuels - The New York Times]]></title>
+        <id>https://www.nytimes.com/2023/03/24/climate/montana-youth-climate-lawsuit.html</id>
+        <link href="https://www.nytimes.com/2023/03/24/climate/montana-youth-climate-lawsuit.html"/>
+        <updated>2023-03-26T08:09:20.287Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.nytimes.com/2023/03/24/climate/montana-youth-climate-lawsuit.html">In Held v. Montana, Young People Sue Montana Over Use of Fossil Fuels - The New York Times</a> &nbsp;<a href="/url:b9dfb265a7d7c5b55ec67b94b56b9a4f7b4d5af3" class="bookmark_count">7</a><br><a href="/t:law/" class="tag">law</a> <a href="/t:Montana/" class="tag">Montana</a> <a href="/t:climate/" class="tag">climate</a> <a href="/t:environment/" class="tag">environment</a> <a href="/t:youth/" class="tag">youth</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Society's Technical Debt and Software's Gutenberg Moment]]></title>
+        <id>https://skventures.substack.com/p/societys-technical-debt-and-softwares</id>
+        <link href="https://skventures.substack.com/p/societys-technical-debt-and-softwares"/>
+        <updated>2023-03-26T08:09:20.283Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://skventures.substack.com/p/societys-technical-debt-and-softwares">Society's Technical Debt and Software's Gutenberg Moment</a> &nbsp;<a href="/url:320baaf7cc17c4819446456682ca2ae40fae59d3" class="bookmark_count">7</a><br><a href="/t:AI/" class="tag">AI</a> <a href="/t:economics/" class="tag">economics</a> <a href="/t:software/" class="tag">software</a> <a href="/t:llm/" class="tag">llm</a> <a href="/t:programming/" class="tag">programming</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transcript of Raiders of the Lost Ark Brainstorming Session]]></title>
+        <id>https://kottke.org/13/03/transcript-of-raiders-of-the-lost-ark-brainstorming-session</id>
+        <link href="https://kottke.org/13/03/transcript-of-raiders-of-the-lost-ark-brainstorming-session"/>
+        <updated>2023-03-27T08:12:16.871Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://kottke.org/13/03/transcript-of-raiders-of-the-lost-ark-brainstorming-session">Transcript of Raiders of the Lost Ark Brainstorming Session</a> &nbsp;<a href="/url:5b0643c32d4c68bbcf8a3566853834393f50d1d1" class="bookmark_count">7</a><br><a href="/t:creativity/" class="tag">creativity</a> <a href="/t:brainstorming/" class="tag">brainstorming</a> <a href="/t:cinema/" class="tag">cinema</a> <a href="/t:Feedly/" class="tag">Feedly</a> <a href="/t:film/" class="tag">film</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled (https://john-joseph-horton.com/papers/schumpeter.pdf)]]></title>
+        <id>https://john-joseph-horton.com/papers/schumpeter.pdf</id>
+        <link href="https://john-joseph-horton.com/papers/schumpeter.pdf"/>
+        <updated>2023-03-26T08:09:20.267Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://john-joseph-horton.com/papers/schumpeter.pdf">Untitled (https://john-joseph-horton.com/papers/schumpeter.pdf)</a> &nbsp;<a href="/url:f12fc89f7c2217eb92fd3f7e7936263e8d26abe7" class="bookmark_count">7</a><br><a href="/t:digipres/" class="tag">digipres</a> <a href="/t:economics/" class="tag">economics</a> <a href="/t:ifttt/" class="tag">ifttt</a> <a href="/t:labor/" class="tag">labor</a> <a href="/t:natural_experiment/" class="tag">natural_experiment</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled (https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html)]]></title>
+        <id>https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html</id>
+        <link href="https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html"/>
+        <updated>2023-03-27T08:12:16.873Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html">Untitled (https://www.nytimes.com/2023/03/24/opinion/yuval-harari-ai-chatgpt.html)</a> &nbsp;<a href="/url:e693c555b4c853d4f23e6c757f65b498af98fd14" class="bookmark_count">7</a><br><a href="/t:2023/" class="tag">2023</a> <a href="/t:AI/" class="tag">AI</a> <a href="/t:identity/" class="tag">identity</a> <a href="/t:März/" class="tag">März</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Texas Observer, the legendary liberal magazine, is shutting down | The Texas Tribune]]></title>
+        <id>https://www.texastribune.org/2023/03/26/texas-observer-shutting-down/</id>
+        <link href="https://www.texastribune.org/2023/03/26/texas-observer-shutting-down/"/>
+        <updated>2023-03-27T08:12:16.873Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.texastribune.org/2023/03/26/texas-observer-shutting-down/">Texas Observer, the legendary liberal magazine, is shutting down | The Texas Tribune</a> &nbsp;<a href="/url:8c2b2d56e3bac3d8dc895eeb6cae9bb5b790ab0e" class="bookmark_count">6</a><br><a href="/t:journalism/" class="tag">journalism</a> <a href="/t:txpoli/" class="tag">txpoli</a> <a href="/t:uspoli/" class="tag">uspoli</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Concrete Diagramming Models, a Lightweight Alternative to C4 | Ilograph Blog]]></title>
+        <id>https://www.ilograph.com/blog/posts/concrete-diagramming-models/</id>
+        <link href="https://www.ilograph.com/blog/posts/concrete-diagramming-models/"/>
+        <updated>2023-03-26T08:09:20.298Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.ilograph.com/blog/posts/concrete-diagramming-models/">Concrete Diagramming Models, a Lightweight Alternative to C4 | Ilograph Blog</a> &nbsp;<a href="/url:d1699ee13aebb27c81a334837fb14cb9055139f5" class="bookmark_count">6</a><br><a href="/t:diagrams/" class="tag">diagrams</a> <a href="/t:diagramming/" class="tag">diagramming</a> <a href="/t:documentation/" class="tag">documentation</a> <a href="/t:C4-Model/" class="tag">C4-Model</a> <a href="/t:diagramming_c4/" class="tag">diagramming_c4</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little Snitch Mini]]></title>
+        <id>https://obdev.at/products/littlesnitch-mini/index.html</id>
+        <link href="https://obdev.at/products/littlesnitch-mini/index.html"/>
+        <updated>2023-03-24T11:32:18.483Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://obdev.at/products/littlesnitch-mini/index.html">Little Snitch Mini</a> &nbsp;<a href="/url:ec2327704e916e51a6fa873d606866b8729090b8" class="bookmark_count">6</a><br><a href="/t:networking/" class="tag">networking</a> <a href="/t:privacy/" class="tag">privacy</a> <a href="/t:mac/" class="tag">mac</a> <a href="/t:apple/" class="tag">apple</a> <a href="/t:app/" class="tag">app</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding ChatGPT - Atmosera]]></title>
+        <id>https://www.atmosera.com/ai/understanding-chatgpt/</id>
+        <link href="https://www.atmosera.com/ai/understanding-chatgpt/"/>
+        <updated>2023-03-27T08:12:16.877Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.atmosera.com/ai/understanding-chatgpt/">Understanding ChatGPT - Atmosera</a> &nbsp;<a href="/url:2c8ca9a2af0fe1226d88de573a0de0211d0cde63" class="bookmark_count">6</a><br><a href="/t:AI/" class="tag">AI</a> <a href="/t:ChatGPT/" class="tag">ChatGPT</a> <a href="/t:gpt/" class="tag">gpt</a> <a href="/t:transformer/" class="tag">transformer</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Anti-Productivity Manifesto - Inverted Passion]]></title>
+        <id>https://invertedpassion.com/the-anti-productivity-manifesto/</id>
+        <link href="https://invertedpassion.com/the-anti-productivity-manifesto/"/>
+        <updated>2023-03-27T08:12:16.878Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://invertedpassion.com/the-anti-productivity-manifesto/">The Anti-Productivity Manifesto - Inverted Passion</a> &nbsp;<a href="/url:6f02b8d6a16b1aac8b01df01433983b1ec17dee2" class="bookmark_count">6</a><br><a href="/t:happiness/" class="tag">happiness</a> <a href="/t:productivity/" class="tag">productivity</a> <a href="/t:advice/" class="tag">advice</a> <a href="/t:exemplary/" class="tag">exemplary</a> <a href="/t:life/" class="tag">life</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Saw the Face of God in a TSMC Semiconductor Factory | WIRED]]></title>
+        <id>https://www.wired.com/story/i-saw-the-face-of-god-in-a-tsmc-factory/</id>
+        <link href="https://www.wired.com/story/i-saw-the-face-of-god-in-a-tsmc-factory/"/>
+        <updated>2023-03-24T11:32:18.585Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.wired.com/story/i-saw-the-face-of-god-in-a-tsmc-factory/">I Saw the Face of God in a TSMC Semiconductor Factory | WIRED</a> &nbsp;<a href="/url:e8c5e8a345578e942d2464309946cb4e80a4fdb7" class="bookmark_count">6</a><br><a href="/t:hardware/" class="tag">hardware</a> <a href="/t:chips/" class="tag">chips</a> <a href="/t:technology/" class="tag">technology</a> <a href="/t:TSMC/" class="tag">TSMC</a> <a href="/t:factory/" class="tag">factory</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AI chatbots compared: Bard vs. Bing vs. ChatGPT - The Verge]]></title>
@@ -412,46 +384,67 @@
         <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.theverge.com/2023/3/24/23653377/ai-chatbots-comparison-bard-bing-chatgpt-gpt-4">AI chatbots compared: Bard vs. Bing vs. ChatGPT - The Verge</a> &nbsp;<a href="/url:85bc6255bb0b66956412dc2b29a0e4424e7ac758" class="bookmark_count">6</a><br><a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:google/" class="tag">google</a> <a href="/t:microsoft/" class="tag">microsoft</a> <a href="/t:artificialintelligence/" class="tag">artificialintelligence</a> <a href="/t:bard/" class="tag">bard</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NPR cancels 4 podcasts amid mass layoffs : NPR]]></title>
-        <id>https://www.npr.org/2023/03/23/1165559810/npr-layoffs-cancels-podcasts-invisibilia-rough-translation</id>
-        <link href="https://www.npr.org/2023/03/23/1165559810/npr-layoffs-cancels-podcasts-invisibilia-rough-translation"/>
-        <updated>2023-03-24T11:32:18.629Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.npr.org/2023/03/23/1165559810/npr-layoffs-cancels-podcasts-invisibilia-rough-translation">NPR cancels 4 podcasts amid mass layoffs : NPR</a> &nbsp;<a href="/url:5edde97e7a40f3827fba3a798fc919ccf59faccb" class="bookmark_count">6</a><br><a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:Pocket/" class="tag">Pocket</a> <a href="/t:rue/" class="tag">rue</a>]]></content>
+        <title type="html"><![CDATA[Use the XDG Base Directory Specification!]]></title>
+        <id>https://xdgbasedirectoryspecification.com/</id>
+        <link href="https://xdgbasedirectoryspecification.com/"/>
+        <updated>2023-03-25T07:47:27.538Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://xdgbasedirectoryspecification.com/">Use the XDG Base Directory Specification!</a> &nbsp;<a href="/url:727bd9e55296a4b47a0c6dda0a782c574546e930" class="bookmark_count">6</a><br><a href="/t:dotfiles/" class="tag">dotfiles</a> <a href="/t:linux/" class="tag">linux</a> <a href="/t:xdg/" class="tag">xdg</a> <a href="/t:shell/" class="tag">shell</a> <a href="/t:bestpractices/" class="tag">bestpractices</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions]]></title>
-        <id>https://instruct-nerf2nerf.github.io/</id>
-        <link href="https://instruct-nerf2nerf.github.io/"/>
-        <updated>2023-03-24T11:32:18.579Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://instruct-nerf2nerf.github.io/">Instruct-NeRF2NeRF: Editing 3D Scenes with Instructions</a> &nbsp;<a href="/url:d816c59aaef097df36d0ee6b2e65942680c4e5e2" class="bookmark_count">6</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:image/" class="tag">image</a> <a href="/t:ml/" class="tag">ml</a> <a href="/t:nerf/" class="tag">nerf</a> <a href="/t:video/" class="tag">video</a>]]></content>
+        <title type="html"><![CDATA[OpenAI is massively expanding ChatGPT’s capabilities to let it browse the web and more - The Verge]]></title>
+        <id>https://www.theverge.com/2023/3/23/23653591/openai-chatgpt-plugins-launch-web-browsing-third-party</id>
+        <link href="https://www.theverge.com/2023/3/23/23653591/openai-chatgpt-plugins-launch-web-browsing-third-party"/>
+        <updated>2023-03-25T07:47:27.403Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.theverge.com/2023/3/23/23653591/openai-chatgpt-plugins-launch-web-browsing-third-party">OpenAI is massively expanding ChatGPT’s capabilities to let it browse the web and more - The Verge</a> &nbsp;<a href="/url:f1aca14cbeb1e46a159bfc6f7de3ff7af3c457c3" class="bookmark_count">6</a><br><a href="/t:chatGPT/" class="tag">chatGPT</a> <a href="/t:ai/" class="tag">ai</a> <a href="/t:artificialintelligence/" class="tag">artificialintelligence</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:openAI/" class="tag">openAI</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stanford’s War Against Its Own Students]]></title>
-        <id>https://www.thefp.com/p/stanfords-war-against-its-own-students</id>
-        <link href="https://www.thefp.com/p/stanfords-war-against-its-own-students"/>
-        <updated>2023-03-25T07:47:27.449Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.thefp.com/p/stanfords-war-against-its-own-students">Stanford’s War Against Its Own Students</a> &nbsp;<a href="/url:53231a7566fa132199a1ceb6b31ea8b0972d2901" class="bookmark_count">6</a><br><a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:Stuff/" class="tag">Stuff</a>]]></content>
+        <title type="html"><![CDATA[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.]]></title>
+        <id>https://orangeblog.notion.site/GPT-4-AGI-8fc50010291d47efb92cbbd668c8c893</id>
+        <link href="https://orangeblog.notion.site/GPT-4-AGI-8fc50010291d47efb92cbbd668c8c893"/>
+        <updated>2023-03-27T08:12:16.882Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://orangeblog.notion.site/GPT-4-AGI-8fc50010291d47efb92cbbd668c8c893">Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.</a> &nbsp;<a href="/url:4e1c6c7e9f93dcfae9954c14aed7fe7df90d70ee" class="bookmark_count">6</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(500) https://www.washingtonpost.com/dc-md-va/2023/03/23/transgender-adults-transitioning-poll/]]></title>
-        <id>https://www.washingtonpost.com/dc-md-va/2023/03/23/transgender-adults-transitioning-poll/</id>
-        <link href="https://www.washingtonpost.com/dc-md-va/2023/03/23/transgender-adults-transitioning-poll/"/>
-        <updated>2023-03-24T11:32:18.614Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.washingtonpost.com/dc-md-va/2023/03/23/transgender-adults-transitioning-poll/">(500) https://www.washingtonpost.com/dc-md-va/2023/03/23/transgender-adults-transitioning-poll/</a> &nbsp;<a href="/url:18b55d5a47012fadca1495a1132e64dfdf8aaffa" class="bookmark_count">6</a><br><a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:Instapaper/" class="tag">Instapaper</a>]]></content>
+        <title type="html"><![CDATA[AI Cover Letter Generator]]></title>
+        <id>https://www.careered.ai/tool/cover-letter</id>
+        <link href="https://www.careered.ai/tool/cover-letter"/>
+        <updated>2023-03-27T08:12:16.883Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.careered.ai/tool/cover-letter">AI Cover Letter Generator</a> &nbsp;<a href="/url:82ccf8e9bb50ea525ee4c32c7986335a156d0d94" class="bookmark_count">6</a><br><a href="/t:AI/" class="tag">AI</a> <a href="/t:career/" class="tag">career</a> <a href="/t:resume/" class="tag">resume</a> <a href="/t:Tools/" class="tag">Tools</a> <a href="/t:jobs/" class="tag">jobs</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dungeon Map Doodler]]></title>
-        <id>https://dungeonmapdoodler.com/beta/</id>
-        <link href="https://dungeonmapdoodler.com/beta/"/>
-        <updated>2023-03-24T11:32:18.576Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://dungeonmapdoodler.com/beta/">Dungeon Map Doodler</a> &nbsp;<a href="/url:317bfa7a918c7df22a9663249f579cb814fed7be" class="bookmark_count">6</a><br><a href="/t:maps/" class="tag">maps</a> <a href="/t:generator/" class="tag">generator</a> <a href="/t:rpg/" class="tag">rpg</a> <a href="/t:tools/" class="tag">tools</a> <a href="/t:DnD/" class="tag">DnD</a>]]></content>
+        <title type="html"><![CDATA[Vector database - Milvus]]></title>
+        <id>https://milvus.io/</id>
+        <link href="https://milvus.io/"/>
+        <updated>2023-03-27T08:12:16.884Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://milvus.io/">Vector database - Milvus</a> &nbsp;<a href="/url:fe8a2b6e9e6c2c0cfe70509c988d5ed795467d5f" class="bookmark_count">6</a><br><a href="/t:search/" class="tag">search</a> <a href="/t:database/" class="tag">database</a> <a href="/t:vector/" class="tag">vector</a> <a href="/t:similarity/" class="tag">similarity</a> <a href="/t:ai/" class="tag">ai</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[freedmand/textra: A command-line application to convert images, PDFs, and audio files to text using Apple's APIs]]></title>
-        <id>https://github.com/freedmand/textra</id>
-        <link href="https://github.com/freedmand/textra"/>
-        <updated>2023-03-26T08:09:20.265Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/freedmand/textra">freedmand/textra: A command-line application to convert images, PDFs, and audio files to text using Apple's APIs</a> &nbsp;<a href="/url:98cf62ad8231b3967ffb7c9703ff0cf404909198" class="bookmark_count">6</a><br><a href="/t:ocr/" class="tag">ocr</a> <a href="/t:mac/" class="tag">mac</a> <a href="/t:software/" class="tag">software</a> <a href="/t:text/" class="tag">text</a> <a href="/t:tools/" class="tag">tools</a>]]></content>
+        <title type="html"><![CDATA[Untitled (https://github.com/apple/ml-ane-transformers)]]></title>
+        <id>https://github.com/apple/ml-ane-transformers</id>
+        <link href="https://github.com/apple/ml-ane-transformers"/>
+        <updated>2023-03-25T07:47:27.415Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/apple/ml-ane-transformers">Untitled (https://github.com/apple/ml-ane-transformers)</a> &nbsp;<a href="/url:920f38dd747ec497f56120a9b400854743122643" class="bookmark_count">6</a><br><a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:apple/" class="tag">apple</a> <a href="/t:github/" class="tag">github</a> <a href="/t:ml/" class="tag">ml</a> <a href="/t:nn/" class="tag">nn</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians discover shape that can tile a wall and never repeat | New Scientist]]></title>
+        <id>https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/</id>
+        <link href="https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/"/>
+        <updated>2023-03-24T11:32:18.487Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.newscientist.com/article/2365363-mathematicians-discover-shape-that-can-tile-a-wall-and-never-repeat/">Mathematicians discover shape that can tile a wall and never repeat | New Scientist</a> &nbsp;<a href="/url:b552f11f7f148531d3836d3274da05c1628758e5" class="bookmark_count">6</a><br><a href="/t:math/" class="tag">math</a> <a href="/t:design/" class="tag">design</a> <a href="/t:geometry/" class="tag">geometry</a> <a href="/t:tiling/" class="tag">tiling</a> <a href="/t:diy/" class="tag">diy</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The End of Front-End Development]]></title>
+        <id>https://www.joshwcomeau.com/blog/the-end-of-frontend-development/</id>
+        <link href="https://www.joshwcomeau.com/blog/the-end-of-frontend-development/"/>
+        <updated>2023-03-23T09:59:36.608Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.joshwcomeau.com/blog/the-end-of-frontend-development/">The End of Front-End Development</a> &nbsp;<a href="/url:0c610d6aeeacb0ce8dd5ca8d9b019c6531a0ca66" class="bookmark_count">6</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:Development/" class="tag">Development</a> <a href="/t:frontend/" class="tag">frontend</a> <a href="/t:programming/" class="tag">programming</a> <a href="/t:css/" class="tag">css</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2303.12712] Sparks of Artificial General Intelligence: Early experiments with GPT-4]]></title>
+        <id>https://arxiv.org/abs/2303.12712</id>
+        <link href="https://arxiv.org/abs/2303.12712"/>
+        <updated>2023-03-24T11:32:18.456Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://arxiv.org/abs/2303.12712">[2303.12712] Sparks of Artificial General Intelligence: Early experiments with GPT-4</a> &nbsp;<a href="/url:e4f48f6da8664c6ab166025371edb84539cc4389" class="bookmark_count">6</a><br><a href="/t:GPT4/" class="tag">GPT4</a> <a href="/t:AGI/" class="tag">AGI</a> <a href="/t:openai/" class="tag">openai</a> <a href="/t:AI/" class="tag">AI</a> <a href="/t:gpt/" class="tag">gpt</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Laying Out a Print Book With CSS | Ian G McDowell's Blog]]></title>
@@ -461,109 +454,18 @@
         <content type="html"><![CDATA[<a class="bookmark_title " href="https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/">Laying Out a Print Book With CSS | Ian G McDowell's Blog</a> &nbsp;<a href="/url:72648ba74afa4df812672e08cc03d490c81d7bfc" class="bookmark_count">6</a><br><a href="/t:css/" class="tag">css</a> <a href="/t:design/" class="tag">design</a> <a href="/t:publishing/" class="tag">publishing</a> <a href="/t:book/" class="tag">book</a> <a href="/t:books/" class="tag">books</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled (https://john-joseph-horton.com/papers/schumpeter.pdf)]]></title>
-        <id>https://john-joseph-horton.com/papers/schumpeter.pdf</id>
-        <link href="https://john-joseph-horton.com/papers/schumpeter.pdf"/>
-        <updated>2023-03-26T08:09:20.267Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://john-joseph-horton.com/papers/schumpeter.pdf">Untitled (https://john-joseph-horton.com/papers/schumpeter.pdf)</a> &nbsp;<a href="/url:f12fc89f7c2217eb92fd3f7e7936263e8d26abe7" class="bookmark_count">6</a><br><a href="/t:digipres/" class="tag">digipres</a> <a href="/t:economics/" class="tag">economics</a> <a href="/t:ifttt/" class="tag">ifttt</a> <a href="/t:labor/" class="tag">labor</a> <a href="/t:natural_experiment/" class="tag">natural_experiment</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use the XDG Base Directory Specification!]]></title>
-        <id>https://xdgbasedirectoryspecification.com/</id>
-        <link href="https://xdgbasedirectoryspecification.com/"/>
-        <updated>2023-03-25T07:47:27.538Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://xdgbasedirectoryspecification.com/">Use the XDG Base Directory Specification!</a> &nbsp;<a href="/url:727bd9e55296a4b47a0c6dda0a782c574546e930" class="bookmark_count">6</a><br><a href="/t:dotfiles/" class="tag">dotfiles</a> <a href="/t:linux/" class="tag">linux</a> <a href="/t:xdg/" class="tag">xdg</a> <a href="/t:bestpractices/" class="tag">bestpractices</a> <a href="/t:interesting/" class="tag">interesting</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On trust in software development]]></title>
-        <id>https://blog.ploeh.dk/2023/03/20/on-trust-in-software-development/</id>
-        <link href="https://blog.ploeh.dk/2023/03/20/on-trust-in-software-development/"/>
-        <updated>2023-03-24T11:32:18.622Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://blog.ploeh.dk/2023/03/20/on-trust-in-software-development/">On trust in software development</a> &nbsp;<a href="/url:07400d35f22354fb575d6a13e8bfce9c331e8d1a" class="bookmark_count">6</a><br><a href="/t:development/" class="tag">development</a> <a href="/t:programming/" class="tag">programming</a> <a href="/t:2023/" class="tag">2023</a> <a href="/t:article/" class="tag">article</a> <a href="/t:collaboration/" class="tag">collaboration</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeons & Developers - Allen Pike]]></title>
-        <id>https://allenpike.com/2022/dungeons-devs-simulation-roleplaying</id>
-        <link href="https://allenpike.com/2022/dungeons-devs-simulation-roleplaying"/>
-        <updated>2023-03-25T07:47:27.453Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://allenpike.com/2022/dungeons-devs-simulation-roleplaying">Dungeons &amp; Developers - Allen Pike</a> &nbsp;<a href="/url:9613dcd093754a8792ab0cc7b862806140fba3e6" class="bookmark_count">6</a><br><a href="/t:administrative/" class="tag">administrative</a> <a href="/t:business/" class="tag">business</a> <a href="/t:dialog/" class="tag">dialog</a> <a href="/t:roleplaying/" class="tag">roleplaying</a> <a href="/t:simulation/" class="tag">simulation</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bridge Saw Big Profits in African Education. Children Paid the Price.]]></title>
-        <id>https://theintercept.com/2023/03/23/bridge-schools-africa-kenya-education/</id>
-        <link href="https://theintercept.com/2023/03/23/bridge-schools-africa-kenya-education/"/>
-        <updated>2023-03-26T08:09:20.270Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://theintercept.com/2023/03/23/bridge-schools-africa-kenya-education/">Bridge Saw Big Profits in African Education. Children Paid the Price.</a> &nbsp;<a href="/url:82564ca386a98becc5e959a93f279c00c187a731" class="bookmark_count">6</a><br><a href="/t:dystopia/" class="tag">dystopia</a> <a href="/t:education/" class="tag">education</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:NewsBlur/" class="tag">NewsBlur</a> <a href="/t:profit/" class="tag">profit</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wyoming’s abortion ban is blocked by a judge for the most hilarious reason - Vox]]></title>
-        <id>https://www.vox.com/politics/2023/3/23/23653183/abortion-wyoming-obamacare-barack-obama-supreme-court-johnson</id>
-        <link href="https://www.vox.com/politics/2023/3/23/23653183/abortion-wyoming-obamacare-barack-obama-supreme-court-johnson"/>
-        <updated>2023-03-26T08:09:20.271Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.vox.com/politics/2023/3/23/23653183/abortion-wyoming-obamacare-barack-obama-supreme-court-johnson">Wyoming’s abortion ban is blocked by a judge for the most hilarious reason - Vox</a> &nbsp;<a href="/url:43aaa56ce975c1253a95ddbda3c55ce0fa9a5c04" class="bookmark_count">6</a><br><a href="/t:abortion/" class="tag">abortion</a> <a href="/t:amendment/" class="tag">amendment</a> <a href="/t:constitution/" class="tag">constitution</a> <a href="/t:court/" class="tag">court</a> <a href="/t:deathpanels/" class="tag">deathpanels</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT Plugins | Hacker News]]></title>
-        <id>https://news.ycombinator.com/item?id=35277677</id>
-        <link href="https://news.ycombinator.com/item?id=35277677"/>
-        <updated>2023-03-25T07:47:27.519Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://news.ycombinator.com/item?id=35277677">ChatGPT Plugins | Hacker News</a> &nbsp;<a href="/url:e1dd28964ccc53f2bdf1dc564e93872ab521d2e4" class="bookmark_count">5</a><br><a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:ai/" class="tag">ai</a> <a href="/t:ml/" class="tag">ml</a> <a href="/t:openai/" class="tag">openai</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brandon Sanderson Is Your God | WIRED]]></title>
-        <id>https://www.wired.com/story/brandon-sanderson-is-your-god/?utm_brand=wired&amp;utm_social-type=owned&amp;mbid=social_twitter</id>
-        <link href="https://www.wired.com/story/brandon-sanderson-is-your-god/?utm_brand=wired&amp;utm_social-type=owned&amp;mbid=social_twitter"/>
-        <updated>2023-03-25T07:47:27.465Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.wired.com/story/brandon-sanderson-is-your-god/?utm_brand=wired&amp;utm_social-type=owned&amp;mbid=social_twitter">Brandon Sanderson Is Your God | WIRED</a> &nbsp;<a href="/url:68d4d73c6187324ab4bbab910d5d8a7937b4c941" class="bookmark_count">5</a><br><a href="/t:books/" class="tag">books</a> <a href="/t:brian-sanderson/" class="tag">brian-sanderson</a> <a href="/t:mormons/" class="tag">mormons</a> <a href="/t:via:tkmharris/" class="tag">via:tkmharris</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Death of Peter Thiel Romantic Partner Investigated as Suicide]]></title>
-        <id>https://theintercept.com/2023/03/23/peter-thiel-jeff-thomas/</id>
-        <link href="https://theintercept.com/2023/03/23/peter-thiel-jeff-thomas/"/>
-        <updated>2023-03-25T07:47:27.461Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://theintercept.com/2023/03/23/peter-thiel-jeff-thomas/">Death of Peter Thiel Romantic Partner Investigated as Suicide</a> &nbsp;<a href="/url:809efba528fa95d10d1f0c2421b2424c0f9bb6a7" class="bookmark_count">5</a><br><a href="/t:thiel/" class="tag">thiel</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Saw the Face of God in a TSMC Semiconductor Factory | WIRED]]></title>
-        <id>https://www.wired.com/story/i-saw-the-face-of-god-in-a-tsmc-factory/</id>
-        <link href="https://www.wired.com/story/i-saw-the-face-of-god-in-a-tsmc-factory/"/>
-        <updated>2023-03-24T11:32:18.585Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.wired.com/story/i-saw-the-face-of-god-in-a-tsmc-factory/">I Saw the Face of God in a TSMC Semiconductor Factory | WIRED</a> &nbsp;<a href="/url:e8c5e8a345578e942d2464309946cb4e80a4fdb7" class="bookmark_count">5</a><br><a href="/t:hardware/" class="tag">hardware</a> <a href="/t:chips/" class="tag">chips</a> <a href="/t:factory/" class="tag">factory</a> <a href="/t:technology/" class="tag">technology</a> <a href="/t:TSMC/" class="tag">TSMC</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT for Me]]></title>
-        <id>https://www.rewind.ai/chatgpt-for-me</id>
-        <link href="https://www.rewind.ai/chatgpt-for-me"/>
-        <updated>2023-03-26T08:09:20.276Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.rewind.ai/chatgpt-for-me">ChatGPT for Me</a> &nbsp;<a href="/url:b5cf202b330b3e35456ad3f583bd344a34817525" class="bookmark_count">5</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI connects ChatGPT to the internet | TechCrunch]]></title>
-        <id>https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/</id>
-        <link href="https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/"/>
-        <updated>2023-03-26T08:09:20.277Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://techcrunch.com/2023/03/23/openai-connects-chatgpt-to-the-internet/">OpenAI connects ChatGPT to the internet | TechCrunch</a> &nbsp;<a href="/url:6e3fb2da12605d79e0cf722af5264a9fe856215e" class="bookmark_count">5</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:bf/" class="tag">bf</a> <a href="/t:dd/" class="tag">dd</a> <a href="/t:future/" class="tag">future</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My new job is AI sommelier and I detect the bouquet of progress (Interconnected)]]></title>
-        <id>https://interconnected.org/home/2023/03/22/tuning</id>
-        <link href="https://interconnected.org/home/2023/03/22/tuning"/>
-        <updated>2023-03-25T07:47:27.537Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://interconnected.org/home/2023/03/22/tuning">My new job is AI sommelier and I detect the bouquet of progress (Interconnected)</a> &nbsp;<a href="/url:3b4fb564aa6110530c6e32a48d0a98ccea7d6942" class="bookmark_count">5</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:clock/" class="tag">clock</a> <a href="/t:interconnected/" class="tag">interconnected</a> <a href="/t:literary/" class="tag">literary</a> <a href="/t:matt/" class="tag">matt</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conservatives Aim to Build an A.I. Chatbot of Their Own - The New York Times]]></title>
-        <id>https://www.nytimes.com/2023/03/22/business/media/ai-chatbots-right-wing-conservative.html</id>
-        <link href="https://www.nytimes.com/2023/03/22/business/media/ai-chatbots-right-wing-conservative.html"/>
-        <updated>2023-03-24T11:32:18.586Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.nytimes.com/2023/03/22/business/media/ai-chatbots-right-wing-conservative.html">Conservatives Aim to Build an A.I. Chatbot of Their Own - The New York Times</a> &nbsp;<a href="/url:df3de67661db974c622c70b9624238f9afb6367f" class="bookmark_count">5</a><br><a href="/t:AI/" class="tag">AI</a> <a href="/t:altright/" class="tag">altright</a> <a href="/t:GenML/" class="tag">GenML</a> <a href="/t:j450/" class="tag">j450</a> <a href="/t:llms/" class="tag">llms</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ask HN: How are you using GPT to be productive? | Hacker News]]></title>
         <id>https://news.ycombinator.com/item?id=35299071</id>
         <link href="https://news.ycombinator.com/item?id=35299071"/>
         <updated>2023-03-26T08:09:20.280Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://news.ycombinator.com/item?id=35299071">Ask HN: How are you using GPT to be productive? | Hacker News</a> &nbsp;<a href="/url:e2c4b3d43e4cadeb44c11521453d5e6d50de74ef" class="bookmark_count">5</a><br><a href="/t:gpt/" class="tag">gpt</a> <a href="/t:AI/" class="tag">AI</a> <a href="/t:gpt-and-llm/" class="tag">gpt-and-llm</a> <a href="/t:hacker.news/" class="tag">hacker.news</a> <a href="/t:Unread/" class="tag">Unread</a>]]></content>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://news.ycombinator.com/item?id=35299071">Ask HN: How are you using GPT to be productive? | Hacker News</a> &nbsp;<a href="/url:e2c4b3d43e4cadeb44c11521453d5e6d50de74ef" class="bookmark_count">6</a><br><a href="/t:gpt/" class="tag">gpt</a> <a href="/t:Unread/" class="tag">Unread</a> <a href="/t:AI/" class="tag">AI</a> <a href="/t:gpt-and-llm/" class="tag">gpt-and-llm</a> <a href="/t:via:popular/" class="tag">via:popular</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Engineers Need to Write | Hacker News]]></title>
+        <id>https://news.ycombinator.com/item?id=35292422</id>
+        <link href="https://news.ycombinator.com/item?id=35292422"/>
+        <updated>2023-03-27T08:12:16.887Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://news.ycombinator.com/item?id=35292422">Engineers Need to Write | Hacker News</a> &nbsp;<a href="/url:5d1be848008f40cfd868f6163b225d83183c1839" class="bookmark_count">5</a><br><a href="/t:writing/" class="tag">writing</a> <a href="/t:docs/" class="tag">docs</a> <a href="/t:GPT/" class="tag">GPT</a> <a href="/t:hacker-news-comments/" class="tag">hacker-news-comments</a> <a href="/t:mgmt/" class="tag">mgmt</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Republicans, led by Mitch McConnell, are reviving a 1980s tactic for breaking democracy.]]></title>
@@ -573,97 +475,6 @@
         <content type="html"><![CDATA[<a class="bookmark_title " href="https://slate.com/news-and-politics/2023/03/republicans-mitch-mcconnell-1980s-breaking-democracy.html">Republicans, led by Mitch McConnell, are reviving a 1980s tactic for breaking democracy.</a> &nbsp;<a href="/url:a41d6cea7ad514a3a7c009932916b66d04128fa8" class="bookmark_count">5</a><br><a href="/t:government/" class="tag">government</a> <a href="/t:history/" class="tag">history</a> <a href="/t:law/" class="tag">law</a> <a href="/t:politics/" class="tag">politics</a> <a href="/t:wsv/" class="tag">wsv</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Untitled (https://www.youtube.com/watch?v=ih9PBGVVOO4)]]></title>
-        <id>https://www.youtube.com/watch?v=ih9PBGVVOO4</id>
-        <link href="https://www.youtube.com/watch?v=ih9PBGVVOO4"/>
-        <updated>2023-03-26T08:09:20.282Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.youtube.com/watch?v=ih9PBGVVOO4">Untitled (https://www.youtube.com/watch?v=ih9PBGVVOO4)</a> &nbsp;<a href="/url:0933f7cf630fec4bd1d8aba2d05dbe2cf31725a6" class="bookmark_count">5</a><br><a href="/t:and/" class="tag">and</a> <a href="/t:answer/" class="tag">answer</a> <a href="/t:answers/" class="tag">answers</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:openai/" class="tag">openai</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Society's Technical Debt and Software's Gutenberg Moment]]></title>
-        <id>https://skventures.substack.com/p/societys-technical-debt-and-softwares</id>
-        <link href="https://skventures.substack.com/p/societys-technical-debt-and-softwares"/>
-        <updated>2023-03-26T08:09:20.283Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://skventures.substack.com/p/societys-technical-debt-and-softwares">Society's Technical Debt and Software's Gutenberg Moment</a> &nbsp;<a href="/url:320baaf7cc17c4819446456682ca2ae40fae59d3" class="bookmark_count">5</a><br><a href="/t:AI/" class="tag">AI</a> <a href="/t:software/" class="tag">software</a> <a href="/t:economics/" class="tag">economics</a> <a href="/t:llm/" class="tag">llm</a> <a href="/t:programming/" class="tag">programming</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(500) https://www.theverge.com/2023/3/24/23655804/internet-archive-hatchette-publisher-ebook-library-lawsuit?utm_campaign=theverge&utm_content=chorus&utm_medium=social&utm_source=twitter]]></title>
-        <id>https://www.theverge.com/2023/3/24/23655804/internet-archive-hatchette-publisher-ebook-library-lawsuit</id>
-        <link href="https://www.theverge.com/2023/3/24/23655804/internet-archive-hatchette-publisher-ebook-library-lawsuit"/>
-        <updated>2023-03-26T08:09:20.284Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.theverge.com/2023/3/24/23655804/internet-archive-hatchette-publisher-ebook-library-lawsuit">(500) https://www.theverge.com/2023/3/24/23655804/internet-archive-hatchette-publisher-ebook-library-lawsuit?utm_campaign=theverge&amp;utm_content=chorus&amp;utm_medium=social&amp;utm_source=twitter</a> &nbsp;<a href="/url:22f5a4775fe0558c274266d391319a94322a1221" class="bookmark_count">5</a><br><a href="/t:920/" class="tag">920</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:twig/" class="tag">twig</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Course introduction — MySQL for Developers — PlanetScale]]></title>
-        <id>https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction</id>
-        <link href="https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction"/>
-        <updated>2023-03-23T09:59:36.609Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction">Course introduction — MySQL for Developers — PlanetScale</a> &nbsp;<a href="/url:d68cb08f8aba5d5177eda4fe0f522afb4f16a32e" class="bookmark_count">5</a><br><a href="/t:mysql/" class="tag">mysql</a> <a href="/t:database/" class="tag">database</a> <a href="/t:learning/" class="tag">learning</a> <a href="/t:programming/" class="tag">programming</a> <a href="/t:courses/" class="tag">courses</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Held v. Montana, Young People Sue Montana Over Use of Fossil Fuels - The New York Times]]></title>
-        <id>https://www.nytimes.com/2023/03/24/climate/montana-youth-climate-lawsuit.html</id>
-        <link href="https://www.nytimes.com/2023/03/24/climate/montana-youth-climate-lawsuit.html"/>
-        <updated>2023-03-26T08:09:20.287Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.nytimes.com/2023/03/24/climate/montana-youth-climate-lawsuit.html">In Held v. Montana, Young People Sue Montana Over Use of Fossil Fuels - The New York Times</a> &nbsp;<a href="/url:b9dfb265a7d7c5b55ec67b94b56b9a4f7b4d5af3" class="bookmark_count">5</a><br><a href="/t:climate/" class="tag">climate</a> <a href="/t:articles/" class="tag">articles</a> <a href="/t:change/" class="tag">change</a> <a href="/t:constitution/" class="tag">constitution</a> <a href="/t:courts/" class="tag">courts</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surprising Scalability of Multitenancy - Marc's Blog]]></title>
-        <id>https://brooker.co.za/blog/2023/03/23/economics.html</id>
-        <link href="https://brooker.co.za/blog/2023/03/23/economics.html"/>
-        <updated>2023-03-25T07:47:27.459Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://brooker.co.za/blog/2023/03/23/economics.html">Surprising Scalability of Multitenancy - Marc's Blog</a> &nbsp;<a href="/url:9eacedfe7b3e1cb418cf8b46fd76010a009de6c2" class="bookmark_count">5</a><br><a href="/t:cloud/" class="tag">cloud</a> <a href="/t:lambda/" class="tag">lambda</a> <a href="/t:multitenancy/" class="tag">multitenancy</a> <a href="/t:scalability/" class="tag">scalability</a> <a href="/t:scaling/" class="tag">scaling</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The drama in trying to convert election PDFs to Spreadsheets - Mark Essien]]></title>
-        <id>https://markessien.com/posts/drama_of_transcription/</id>
-        <link href="https://markessien.com/posts/drama_of_transcription/"/>
-        <updated>2023-03-25T07:47:27.464Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://markessien.com/posts/drama_of_transcription/">The drama in trying to convert election PDFs to Spreadsheets - Mark Essien</a> &nbsp;<a href="/url:69ea0760811066d8633b82bb618ac4973dbd5c0b" class="bookmark_count">5</a><br><a href="/t:politics/" class="tag">politics</a> <a href="/t:ddhq/" class="tag">ddhq</a> <a href="/t:election/" class="tag">election</a> <a href="/t:election-security/" class="tag">election-security</a> <a href="/t:IFTTT/" class="tag">IFTTT</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘Poker Face’ Cinematographer on Why the Show Looks Like Film]]></title>
-        <id>https://www.vulture.com/article/poker-face-cinematographer-steve-yedlin-interview.html</id>
-        <link href="https://www.vulture.com/article/poker-face-cinematographer-steve-yedlin-interview.html"/>
-        <updated>2023-03-25T07:47:27.537Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.vulture.com/article/poker-face-cinematographer-steve-yedlin-interview.html">‘Poker Face’ Cinematographer on Why the Show Looks Like Film</a> &nbsp;<a href="/url:25709f928ed91a05006cedafc9f48a95ee5c682f" class="bookmark_count">5</a><br><a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:Feedly/" class="tag">Feedly</a> <a href="/t:film/" class="tag">film</a> <a href="/t:Twitter/" class="tag">Twitter</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[evanw/thumbhash: A very compact representation of an image placeholder]]></title>
-        <id>https://github.com/evanw/thumbhash</id>
-        <link href="https://github.com/evanw/thumbhash"/>
-        <updated>2023-03-24T11:32:18.599Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/evanw/thumbhash">evanw/thumbhash: A very compact representation of an image placeholder</a> &nbsp;<a href="/url:de7045aa4f813cb64cebaf121c07feeb9001ad36" class="bookmark_count">5</a><br><a href="/t:images/" class="tag">images</a> <a href="/t:compression/" class="tag">compression</a> <a href="/t:github/" class="tag">github</a> <a href="/t:blur/" class="tag">blur</a> <a href="/t:from:ifttt/" class="tag">from:ifttt</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Federal Trade Commission Proposes Rule Provision Making it Easier for Consumers to “Click to Cancel” Recurring Subscriptions and Memberships | Federal Trade Commission]]></title>
-        <id>https://www.ftc.gov/news-events/news/press-releases/2023/03/federal-trade-commission-proposes-rule-provision-making-it-easier-consumers-click-cancel-recurring</id>
-        <link href="https://www.ftc.gov/news-events/news/press-releases/2023/03/federal-trade-commission-proposes-rule-provision-making-it-easier-consumers-click-cancel-recurring"/>
-        <updated>2023-03-26T08:09:20.292Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.ftc.gov/news-events/news/press-releases/2023/03/federal-trade-commission-proposes-rule-provision-making-it-easier-consumers-click-cancel-recurring">Federal Trade Commission Proposes Rule Provision Making it Easier for Consumers to “Click to Cancel” Recurring Subscriptions and Memberships | Federal Trade Commission</a> &nbsp;<a href="/url:5bb7161ce406995417568eb3274d62b55fdc6674" class="bookmark_count">5</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practical libc-free threading on Linux]]></title>
-        <id>https://nullprogram.com/blog/2023/03/23/</id>
-        <link href="https://nullprogram.com/blog/2023/03/23/"/>
-        <updated>2023-03-26T08:09:20.293Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://nullprogram.com/blog/2023/03/23/">Practical libc-free threading on Linux</a> &nbsp;<a href="/url:c36842eeaf9238de6d7ffd979e5e0cd465c77d03" class="bookmark_count">5</a><br><a href="/t:c/" class="tag">c</a> <a href="/t:linux/" class="tag">linux</a> <a href="/t:runtime/" class="tag">runtime</a> <a href="/t:articles/" class="tag">articles</a> <a href="/t:concurrency/" class="tag">concurrency</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rich Bank Dumb Bank - The American Prospect]]></title>
-        <id>https://prospect.org/economy/2023-03-23-rich-bank-dumb-bank-signature/</id>
-        <link href="https://prospect.org/economy/2023-03-23-rich-bank-dumb-bank-signature/"/>
-        <updated>2023-03-26T08:09:20.295Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://prospect.org/economy/2023-03-23-rich-bank-dumb-bank-signature/">Rich Bank Dumb Bank - The American Prospect</a> &nbsp;<a href="/url:ebcc073802c8d3260cd171ff56b793532b81b274" class="bookmark_count">5</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians discover shape that can tile a wall and never repeat | Hacker News]]></title>
-        <id>https://news.ycombinator.com/item?id=35273707</id>
-        <link href="https://news.ycombinator.com/item?id=35273707"/>
-        <updated>2023-03-24T11:32:18.603Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://news.ycombinator.com/item?id=35273707">Mathematicians discover shape that can tile a wall and never repeat | Hacker News</a> &nbsp;<a href="/url:d23eef6e9378d2da38ac222018cd17b87c03757d" class="bookmark_count">5</a><br><a href="/t:math/" class="tag">math</a> <a href="/t:diy/" class="tag">diy</a> <a href="/t:background/" class="tag">background</a> <a href="/t:cool/" class="tag">cool</a> <a href="/t:hackernews/" class="tag">hackernews</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Untitled (https://github.com/microsoft/LoRA)]]></title>
         <id>https://github.com/microsoft/LoRA</id>
         <link href="https://github.com/microsoft/LoRA"/>
@@ -671,38 +482,227 @@
         <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/microsoft/LoRA">Untitled (https://github.com/microsoft/LoRA)</a> &nbsp;<a href="/url:508ed2127ad04a9988a36a32ce8025e31e7fd7a6" class="bookmark_count">5</a><br><a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:deeplearning/" class="tag">deeplearning</a> <a href="/t:llm/" class="tag">llm</a> <a href="/t:neuralnetwork/" class="tag">neuralnetwork</a> <a href="/t:python/" class="tag">python</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub - npiv/chatblade: A CLI Swiss Army Knife for ChatGPT]]></title>
+        <title type="html"><![CDATA[Untitled (https://github.com/context-labs/autodoc)]]></title>
+        <id>https://github.com/context-labs/autodoc</id>
+        <link href="https://github.com/context-labs/autodoc"/>
+        <updated>2023-03-27T08:12:16.888Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/context-labs/autodoc">Untitled (https://github.com/context-labs/autodoc)</a> &nbsp;<a href="/url:6dc2dff875356f98fdb17c14cda9595d577bbfc0" class="bookmark_count">5</a><br><a href="/t:AI/" class="tag">AI</a> <a href="/t:automation/" class="tag">automation</a> <a href="/t:code/" class="tag">code</a> <a href="/t:cr2/" class="tag">cr2</a> <a href="/t:document/" class="tag">document</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled (https://www.austinchronicle.com/news/2023-03-24/austin-jailer-breaks-elderly-deaf-womans-arm-after-misunderstanding-at-airport/)]]></title>
+        <id>https://www.austinchronicle.com/news/2023-03-24/austin-jailer-breaks-elderly-deaf-womans-arm-after-misunderstanding-at-airport/</id>
+        <link href="https://www.austinchronicle.com/news/2023-03-24/austin-jailer-breaks-elderly-deaf-womans-arm-after-misunderstanding-at-airport/"/>
+        <updated>2023-03-27T08:12:16.888Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.austinchronicle.com/news/2023-03-24/austin-jailer-breaks-elderly-deaf-womans-arm-after-misunderstanding-at-airport/">Untitled (https://www.austinchronicle.com/news/2023-03-24/austin-jailer-breaks-elderly-deaf-womans-arm-after-misunderstanding-at-airport/)</a> &nbsp;<a href="/url:4a6aff3049789d0b712a61fe5c07f30a73b3997e" class="bookmark_count">5</a><br><a href="/t:justice/" class="tag">justice</a> <a href="/t:police-accountability/" class="tag">police-accountability</a> <a href="/t:police-violence/" class="tag">police-violence</a> <a href="/t:tx-needs-improvement/" class="tag">tx-needs-improvement</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web fingerprinting is worse than I thought - Bitestring's Blog]]></title>
+        <id>https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html</id>
+        <link href="https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html"/>
+        <updated>2023-03-23T09:59:36.608Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html">Web fingerprinting is worse than I thought - Bitestring's Blog</a> &nbsp;<a href="/url:e92fa03f7748266c72eab21c0637a426647fadda" class="bookmark_count">5</a><br><a href="/t:privacy/" class="tag">privacy</a> <a href="/t:security/" class="tag">security</a> <a href="/t:fingerprinting/" class="tag">fingerprinting</a> <a href="/t:browser/" class="tag">browser</a> <a href="/t:firefox/" class="tag">firefox</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chatblade]]></title>
         <id>https://github.com/npiv/chatblade</id>
         <link href="https://github.com/npiv/chatblade"/>
         <updated>2023-03-23T09:59:36.650Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/npiv/chatblade">GitHub - npiv/chatblade: A CLI Swiss Army Knife for ChatGPT</a> &nbsp;<a href="/url:71fbd439f05000e145ce9875fdf57147ddfa4d43" class="bookmark_count">5</a><br><a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:cli/" class="tag">cli</a> <a href="/t:ai/" class="tag">ai</a> <a href="/t:shell/" class="tag">shell</a> <a href="/t:2023/" class="tag">2023</a>]]></content>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/npiv/chatblade">chatblade</a> &nbsp;<a href="/url:71fbd439f05000e145ce9875fdf57147ddfa4d43" class="bookmark_count">5</a><br><a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:cli/" class="tag">cli</a> <a href="/t:ai/" class="tag">ai</a> <a href="/t:shell/" class="tag">shell</a> <a href="/t:2023/" class="tag">2023</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Concrete Diagramming Models, a Lightweight Alternative to C4 | Ilograph Blog]]></title>
-        <id>https://www.ilograph.com/blog/posts/concrete-diagramming-models/</id>
-        <link href="https://www.ilograph.com/blog/posts/concrete-diagramming-models/"/>
-        <updated>2023-03-26T08:09:20.298Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.ilograph.com/blog/posts/concrete-diagramming-models/">Concrete Diagramming Models, a Lightweight Alternative to C4 | Ilograph Blog</a> &nbsp;<a href="/url:d1699ee13aebb27c81a334837fb14cb9055139f5" class="bookmark_count">5</a><br><a href="/t:diagrams/" class="tag">diagrams</a> <a href="/t:diagramming/" class="tag">diagramming</a> <a href="/t:documentation/" class="tag">documentation</a> <a href="/t:C4-Model/" class="tag">C4-Model</a> <a href="/t:diagramming_c4/" class="tag">diagramming_c4</a>]]></content>
+        <title type="html"><![CDATA[What Will Transformers Transform? – Rodney Brooks]]></title>
+        <id>https://rodneybrooks.com/what-will-transformers-transform/</id>
+        <link href="https://rodneybrooks.com/what-will-transformers-transform/"/>
+        <updated>2023-03-24T11:32:18.588Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://rodneybrooks.com/what-will-transformers-transform/">What Will Transformers Transform? – Rodney Brooks</a> &nbsp;<a href="/url:ae0e74f16e1d5d05f30f2ecb43a28d911a86205b" class="bookmark_count">5</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:%252B/" class="tag">+</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:intelligence/" class="tag">intelligence</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mozilla.ai]]></title>
-        <id>https://mozilla.ai/</id>
-        <link href="https://mozilla.ai/"/>
-        <updated>2023-03-23T09:59:36.768Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://mozilla.ai/">Mozilla.ai</a> &nbsp;<a href="/url:d78ceae91a0a08e5280e244ecf6b2e1e54b967aa" class="bookmark_count">5</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:mozilla/" class="tag">mozilla</a>]]></content>
+        <title type="html"><![CDATA[Stolen Valor: The U.S. Volunteers in Ukraine Who Lie, Waste and Bicker]]></title>
+        <id>https://www.nytimes.com/2023/03/25/world/europe/volunteers-us-ukraine-lies.html</id>
+        <link href="https://www.nytimes.com/2023/03/25/world/europe/volunteers-us-ukraine-lies.html"/>
+        <updated>2023-03-27T08:12:16.889Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.nytimes.com/2023/03/25/world/europe/volunteers-us-ukraine-lies.html">Stolen Valor: The U.S. Volunteers in Ukraine Who Lie, Waste and Bicker</a> &nbsp;<a href="/url:b43776691da047f9d36b4e03cd56c1a5c0535d10" class="bookmark_count">5</a><br><a href="/t:2020s/" class="tag">2020s</a> <a href="/t:corruption/" class="tag">corruption</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:Instapaper/" class="tag">Instapaper</a> <a href="/t:military/" class="tag">military</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adobe Firefly (Beta)]]></title>
-        <id>https://firefly.adobe.com/</id>
-        <link href="https://firefly.adobe.com/"/>
-        <updated>2023-03-23T09:59:36.651Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://firefly.adobe.com/">Adobe Firefly (Beta)</a> &nbsp;<a href="/url:e2a2e071ea7e207130000e335af1604a50e95d4b" class="bookmark_count">5</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:image/" class="tag">image</a> <a href="/t:adobe/" class="tag">adobe</a> <a href="/t:AdobeFirefly/" class="tag">AdobeFirefly</a> <a href="/t:design/" class="tag">design</a>]]></content>
+        <title type="html"><![CDATA[Bridge Saw Big Profits in African Education. Children Paid the Price.]]></title>
+        <id>https://theintercept.com/2023/03/23/bridge-schools-africa-kenya-education/</id>
+        <link href="https://theintercept.com/2023/03/23/bridge-schools-africa-kenya-education/"/>
+        <updated>2023-03-26T08:09:20.270Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://theintercept.com/2023/03/23/bridge-schools-africa-kenya-education/">Bridge Saw Big Profits in African Education. Children Paid the Price.</a> &nbsp;<a href="/url:82564ca386a98becc5e959a93f279c00c187a731" class="bookmark_count">5</a><br><a href="/t:education/" class="tag">education</a> <a href="/t:capitalism/" class="tag">capitalism</a> <a href="/t:dystopia/" class="tag">dystopia</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:NewsBlur/" class="tag">NewsBlur</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Every Possible Wordle Solution Visualized]]></title>
-        <id>https://www.perthirtysix.com/essay/wordle-solutions-visualized</id>
-        <link href="https://www.perthirtysix.com/essay/wordle-solutions-visualized"/>
-        <updated>2023-03-23T09:59:36.668Z</updated>
-        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.perthirtysix.com/essay/wordle-solutions-visualized">Every Possible Wordle Solution Visualized</a> &nbsp;<a href="/url:54f36eacf13919a1735d36c55612bce764c559f8" class="bookmark_count">5</a><br><a href="/t:wordle/" class="tag">wordle</a> <a href="/t:language/" class="tag">language</a> <a href="/t:games/" class="tag">games</a> <a href="/t:interesting/" class="tag">interesting</a> <a href="/t:cool/" class="tag">cool</a>]]></content>
+        <title type="html"><![CDATA[Google and Microsoft’s chatbots are already citing one another in a misinformation shitshow - The Verge]]></title>
+        <id>https://www.theverge.com/2023/3/22/23651564/google-microsoft-bard-bing-chatbots-misinformation</id>
+        <link href="https://www.theverge.com/2023/3/22/23651564/google-microsoft-bard-bing-chatbots-misinformation"/>
+        <updated>2023-03-23T09:59:36.757Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.theverge.com/2023/3/22/23651564/google-microsoft-bard-bing-chatbots-misinformation">Google and Microsoft’s chatbots are already citing one another in a misinformation shitshow - The Verge</a> &nbsp;<a href="/url:d8fc71d95dee40ebea02311fc10d2e07e749165c" class="bookmark_count">5</a><br><a href="/t:misinformation/" class="tag">misinformation</a> <a href="/t:ai/" class="tag">ai</a> <a href="/t:google/" class="tag">google</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:microsoft/" class="tag">microsoft</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wyoming’s abortion ban is blocked by a judge for the most hilarious reason - Vox]]></title>
+        <id>https://www.vox.com/politics/2023/3/23/23653183/abortion-wyoming-obamacare-barack-obama-supreme-court-johnson</id>
+        <link href="https://www.vox.com/politics/2023/3/23/23653183/abortion-wyoming-obamacare-barack-obama-supreme-court-johnson"/>
+        <updated>2023-03-26T08:09:20.271Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.vox.com/politics/2023/3/23/23653183/abortion-wyoming-obamacare-barack-obama-supreme-court-johnson">Wyoming’s abortion ban is blocked by a judge for the most hilarious reason - Vox</a> &nbsp;<a href="/url:43aaa56ce975c1253a95ddbda3c55ce0fa9a5c04" class="bookmark_count">5</a><br><a href="/t:abortion/" class="tag">abortion</a> <a href="/t:amendment/" class="tag">amendment</a> <a href="/t:constitution/" class="tag">constitution</a> <a href="/t:court/" class="tag">court</a> <a href="/t:deathpanels/" class="tag">deathpanels</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(500) https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html]]></title>
+        <id>https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html</id>
+        <link href="https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html"/>
+        <updated>2023-03-27T08:12:16.890Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html">(500) https://www.intel.com/content/www/us/en/newsroom/news/gordon-moore-obituary.html</a> &nbsp;<a href="/url:b75a9cbf53c685d35330c0d56db2a40b2476e527" class="bookmark_count">5</a><br><a href="/t:920/" class="tag">920</a> <a href="/t:atg/" class="tag">atg</a> <a href="/t:daringfireball/" class="tag">daringfireball</a> <a href="/t:ifttt/" class="tag">ifttt</a> <a href="/t:twig/" class="tag">twig</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bell System Vehicle Graphics Manual : AT&T : Free Download, Borrow, and Streaming : Internet Archive]]></title>
+        <id>https://archive.org/details/bell-system-vehicle-graphics-manual-1970-03</id>
+        <link href="https://archive.org/details/bell-system-vehicle-graphics-manual-1970-03"/>
+        <updated>2023-03-27T08:12:16.891Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://archive.org/details/bell-system-vehicle-graphics-manual-1970-03">Bell System Vehicle Graphics Manual : AT&amp;T : Free Download, Borrow, and Streaming : Internet Archive</a> &nbsp;<a href="/url:802ed53bd2b1386cbc9810c662beb76a2377093f" class="bookmark_count">5</a><br><a href="/t:archiveorg/" class="tag">archiveorg</a> <a href="/t:graphics/" class="tag">graphics</a> <a href="/t:logo/" class="tag">logo</a> <a href="/t:tildenews/" class="tag">tildenews</a> <a href="/t:trademarks/" class="tag">trademarks</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-4 Reverse Turing Test]]></title>
+        <id>https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c</id>
+        <link href="https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c"/>
+        <updated>2023-03-27T08:12:16.891Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://gist.github.com/rain-1/3bf56122b0ebeac929dff0f881ee8e4c">GPT-4 Reverse Turing Test</a> &nbsp;<a href="/url:ceb8f37740a6acc2d66c1f794d249ce6038fc55b" class="bookmark_count">5</a><br><a href="/t:AI/" class="tag">AI</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:2023/" class="tag">2023</a> <a href="/t:artificial-intelligence/" class="tag">artificial-intelligence</a> <a href="/t:consciousness/" class="tag">consciousness</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An aperiodic monotile]]></title>
+        <id>https://cs.uwaterloo.ca/~csk/hat/</id>
+        <link href="https://cs.uwaterloo.ca/~csk/hat/"/>
+        <updated>2023-03-27T08:12:16.891Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://cs.uwaterloo.ca/~csk/hat/">An aperiodic monotile</a> &nbsp;<a href="/url:87b347b5dd1cfa0b97f7ba96e49cf25a2ee50f5b" class="bookmark_count">4</a><br><a href="/t:geometry/" class="tag">geometry</a> <a href="/t:graphics/" class="tag">graphics</a> <a href="/t:tiling/" class="tag">tiling</a> <a href="/t:arcana/" class="tag">arcana</a> <a href="/t:do-it/" class="tag">do-it</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Stratechery – Stratechery by Ben Thompson]]></title>
+        <id>https://stratechery.com/2013/welcome-to-stratechery/</id>
+        <link href="https://stratechery.com/2013/welcome-to-stratechery/"/>
+        <updated>2023-03-27T08:12:16.892Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://stratechery.com/2013/welcome-to-stratechery/">Welcome to Stratechery – Stratechery by Ben Thompson</a> &nbsp;<a href="/url:51fc61e90a519efbc8520e9ac6144c613a3c1229" class="bookmark_count">4</a><br><a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:Twitter/" class="tag">Twitter</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(500) https://www.reuters.com/investigates/special-report/us-china-tech-cables/]]></title>
+        <id>https://www.reuters.com/investigates/special-report/us-china-tech-cables/</id>
+        <link href="https://www.reuters.com/investigates/special-report/us-china-tech-cables/"/>
+        <updated>2023-03-27T08:12:16.893Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.reuters.com/investigates/special-report/us-china-tech-cables/">(500) https://www.reuters.com/investigates/special-report/us-china-tech-cables/</a> &nbsp;<a href="/url:17b8e290d651f8030e14c515658dad6cc59f4f83" class="bookmark_count">4</a><br><a href="/t:global/" class="tag">global</a> <a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:logistics/" class="tag">logistics</a> <a href="/t:politics/" class="tag">politics</a> <a href="/t:security/" class="tag">security</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathematicians have finally discovered an elusive ‘einstein’ tile]]></title>
+        <id>https://www.sciencenews.org/article/mathematicians-discovered-einstein-tile</id>
+        <link href="https://www.sciencenews.org/article/mathematicians-discovered-einstein-tile"/>
+        <updated>2023-03-27T08:12:16.893Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.sciencenews.org/article/mathematicians-discovered-einstein-tile">Mathematicians have finally discovered an elusive ‘einstein’ tile</a> &nbsp;<a href="/url:2c5b2ec464a4d6afc0dd3f4e6f504da4871ed274" class="bookmark_count">4</a><br><a href="/t:math/" class="tag">math</a> <a href="/t:!03-24-2023/" class="tag">!03-24-2023</a> <a href="/t:geometry/" class="tag">geometry</a> <a href="/t:Mann.Casey/" class="tag">Mann.Casey</a> <a href="/t:maths/" class="tag">maths</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[run wild gpt, run free... · refcell/run-wild@7b71a4c]]></title>
+        <id>https://github.com/refcell/run-wild/commit/7b71a4cd928b4382dd3086e7843170880075c098</id>
+        <link href="https://github.com/refcell/run-wild/commit/7b71a4cd928b4382dd3086e7843170880075c098"/>
+        <updated>2023-03-27T08:12:16.894Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/refcell/run-wild/commit/7b71a4cd928b4382dd3086e7843170880075c098">run wild gpt, run free... · refcell/run-wild@7b71a4c</a> &nbsp;<a href="/url:2e82347fe28b3cebabe9eedc8e533a78789ef8ff" class="bookmark_count">4</a><br><a href="/t:ChatGPT/" class="tag">ChatGPT</a> <a href="/t:plugins/" class="tag">plugins</a> <a href="/t:Unread/" class="tag">Unread</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logseq: A privacy-first, open-source knowledge base]]></title>
+        <id>https://logseq.com/</id>
+        <link href="https://logseq.com/"/>
+        <updated>2023-03-27T08:12:16.894Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://logseq.com/">Logseq: A privacy-first, open-source knowledge base</a> &nbsp;<a href="/url:89f7ce842300e4ecb7e201315387a9233e48bd22" class="bookmark_count">4</a><br><a href="/t:notes/" class="tag">notes</a> <a href="/t:opensource/" class="tag">opensource</a> <a href="/t:knowledge/" class="tag">knowledge</a> <a href="/t:software/" class="tag">software</a> <a href="/t:Wiki/" class="tag">Wiki</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Problem With AI Is the Problem With Capitalism]]></title>
+        <id>https://jacobin.com/2023/03/ai-artificial-intelligence-art-chatgpt-jobs-capitalism</id>
+        <link href="https://jacobin.com/2023/03/ai-artificial-intelligence-art-chatgpt-jobs-capitalism"/>
+        <updated>2023-03-27T08:12:16.894Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://jacobin.com/2023/03/ai-artificial-intelligence-art-chatgpt-jobs-capitalism">The Problem With AI Is the Problem With Capitalism</a> &nbsp;<a href="/url:e34de2aa483aa6f79e52e53c7eba9be610b4bb07" class="bookmark_count">4</a><br><a href="/t:automation/" class="tag">automation</a> <a href="/t:capitalism/" class="tag">capitalism</a> <a href="/t:Unread/" class="tag">Unread</a> <a href="/t:AI/" class="tag">AI</a> <a href="/t:artificialintelligence/" class="tag">artificialintelligence</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled (https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full)]]></title>
+        <id>https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full</id>
+        <link href="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full"/>
+        <updated>2023-03-27T08:12:16.895Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full">Untitled (https://www.frontiersin.org/articles/10.3389/fpsyg.2020.513474/full)</a> &nbsp;<a href="/url:6ccba320147ed7af0c3b8d81a0d7ee59cbf5505a" class="bookmark_count">4</a><br><a href="/t:AI/" class="tag">AI</a> <a href="/t:2021/" class="tag">2021</a> <a href="/t:AI-Papers/" class="tag">AI-Papers</a> <a href="/t:art/" class="tag">art</a> <a href="/t:chatGPT/" class="tag">chatGPT</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dungeon Map Doodler]]></title>
+        <id>https://dungeonmapdoodler.com/beta/</id>
+        <link href="https://dungeonmapdoodler.com/beta/"/>
+        <updated>2023-03-24T11:32:18.576Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://dungeonmapdoodler.com/beta/">Dungeon Map Doodler</a> &nbsp;<a href="/url:317bfa7a918c7df22a9663249f579cb814fed7be" class="bookmark_count">4</a><br><a href="/t:maps/" class="tag">maps</a> <a href="/t:generator/" class="tag">generator</a> <a href="/t:rpg/" class="tag">rpg</a> <a href="/t:tools/" class="tag">tools</a> <a href="/t:DnD/" class="tag">DnD</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minimal Gallery – Website inspiration]]></title>
+        <id>https://minimal.gallery/</id>
+        <link href="https://minimal.gallery/"/>
+        <updated>2023-03-27T08:12:16.904Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://minimal.gallery/">Minimal Gallery – Website inspiration</a> &nbsp;<a href="/url:c56be0c36f07f44776813c82518ab0fbc5286d4e" class="bookmark_count">4</a><br><a href="/t:design/" class="tag">design</a> <a href="/t:inspiration/" class="tag">inspiration</a> <a href="/t:gallery/" class="tag">gallery</a> <a href="/t:minimalist/" class="tag">minimalist</a> <a href="/t:web-design/" class="tag">web-design</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Post-GPT Computing | Grady Simon]]></title>
+        <id>https://grady.io/post-gpt-computing/</id>
+        <link href="https://grady.io/post-gpt-computing/"/>
+        <updated>2023-03-27T08:12:16.905Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://grady.io/post-gpt-computing/">Post-GPT Computing | Grady Simon</a> &nbsp;<a href="/url:0a49c9c7cec8710f6f44e4c93015b09f7104b926" class="bookmark_count">4</a><br><a href="/t:ai/" class="tag">ai</a> <a href="/t:chatgpt/" class="tag">chatgpt</a> <a href="/t:software/" class="tag">software</a> <a href="/t:career/" class="tag">career</a> <a href="/t:engineering/" class="tag">engineering</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cocktailpeanut/dalai: The simplest way to run LLaMA on your local machine]]></title>
+        <id>https://github.com/cocktailpeanut/dalai</id>
+        <link href="https://github.com/cocktailpeanut/dalai"/>
+        <updated>2023-03-27T08:12:16.905Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://github.com/cocktailpeanut/dalai">cocktailpeanut/dalai: The simplest way to run LLaMA on your local machine</a> &nbsp;<a href="/url:f75f5a4d301e54119d6f6c07ef2c813de54e33bc" class="bookmark_count">4</a><br><a href="/t:github/" class="tag">github</a> <a href="/t:llama/" class="tag">llama</a> <a href="/t:ai/" class="tag">ai</a> <a href="/t:llm/" class="tag">llm</a> <a href="/t:from:ifttt/" class="tag">from:ifttt</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We're no longer sunsetting the Free Team plan | Docker]]></title>
+        <id>https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/</id>
+        <link href="https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/"/>
+        <updated>2023-03-27T08:12:16.905Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.docker.com/blog/no-longer-sunsetting-the-free-team-plan/">We're no longer sunsetting the Free Team plan | Docker</a> &nbsp;<a href="/url:67b514fb67b746b28bacbc960bea0d8ac8a9ed47" class="bookmark_count">4</a><br><a href="/t:Docker/" class="tag">Docker</a> <a href="/t:DockerHub/" class="tag">DockerHub</a> <a href="/t:lan/" class="tag">lan</a> <a href="/t:lup/" class="tag">lup</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The age of average — Alex Murrell]]></title>
+        <id>https://www.alexmurrell.co.uk/articles/the-age-of-average</id>
+        <link href="https://www.alexmurrell.co.uk/articles/the-age-of-average"/>
+        <updated>2023-03-27T08:12:16.905Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.alexmurrell.co.uk/articles/the-age-of-average">The age of average — Alex Murrell</a> &nbsp;<a href="/url:527b6e5e70ec029a4c42892ea6c32bc052529873" class="bookmark_count">4</a><br><a href="/t:ad/" class="tag">ad</a> <a href="/t:aesthetics/" class="tag">aesthetics</a> <a href="/t:branding/" class="tag">branding</a> <a href="/t:essay/" class="tag">essay</a> <a href="/t:ruffian/" class="tag">ruffian</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rich Bank Dumb Bank - The American Prospect]]></title>
+        <id>https://prospect.org/economy/2023-03-23-rich-bank-dumb-bank-signature/</id>
+        <link href="https://prospect.org/economy/2023-03-23-rich-bank-dumb-bank-signature/"/>
+        <updated>2023-03-26T08:09:20.295Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://prospect.org/economy/2023-03-23-rich-bank-dumb-bank-signature/">Rich Bank Dumb Bank - The American Prospect</a> &nbsp;<a href="/url:ebcc073802c8d3260cd171ff56b793532b81b274" class="bookmark_count">4</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge Decides Against Internet Archive | File 770]]></title>
+        <id>https://file770.com/judge-decides-against-internet-archive/</id>
+        <link href="https://file770.com/judge-decides-against-internet-archive/"/>
+        <updated>2023-03-27T08:12:16.906Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://file770.com/judge-decides-against-internet-archive/">Judge Decides Against Internet Archive | File 770</a> &nbsp;<a href="/url:687c58ff27c598fe7af8a7b2f569c7d10635ec60" class="bookmark_count">4</a><br><a href="/t:Copyright/" class="tag">Copyright</a> <a href="/t:2023/" class="tag">2023</a> <a href="/t:archive/" class="tag">archive</a> <a href="/t:intellectualProperty/" class="tag">intellectualProperty</a> <a href="/t:internet/" class="tag">internet</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mjg59 | We need better support for SSH host certificates]]></title>
+        <id>https://mjg59.dreamwidth.org/65874.html</id>
+        <link href="https://mjg59.dreamwidth.org/65874.html"/>
+        <updated>2023-03-27T08:12:16.906Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://mjg59.dreamwidth.org/65874.html">mjg59 | We need better support for SSH host certificates</a> &nbsp;<a href="/url:a08f0f7cc1bc312916c085f317dc543fe90d7514" class="bookmark_count">4</a><br><a href="/t:SSH/" class="tag">SSH</a> <a href="/t:security/" class="tag">security</a> <a href="/t:certificates/" class="tag">certificates</a> <a href="/t:cryptography/" class="tag">cryptography</a> <a href="/t:2023/" class="tag">2023</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dungeons & Developers - Allen Pike]]></title>
+        <id>https://allenpike.com/2022/dungeons-devs-simulation-roleplaying</id>
+        <link href="https://allenpike.com/2022/dungeons-devs-simulation-roleplaying"/>
+        <updated>2023-03-25T07:47:27.453Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://allenpike.com/2022/dungeons-devs-simulation-roleplaying">Dungeons &amp; Developers - Allen Pike</a> &nbsp;<a href="/url:9613dcd093754a8792ab0cc7b862806140fba3e6" class="bookmark_count">4</a><br><a href="/t:administrative/" class="tag">administrative</a> <a href="/t:business/" class="tag">business</a> <a href="/t:dialog/" class="tag">dialog</a> <a href="/t:roleplaying/" class="tag">roleplaying</a> <a href="/t:simulation/" class="tag">simulation</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 bedroom detached house for sale in The Laurels, Watling Street, Leighton Buzzard, Bedfordshire, LU7]]></title>
+        <id>https://www.rightmove.co.uk/properties/129384167</id>
+        <link href="https://www.rightmove.co.uk/properties/129384167"/>
+        <updated>2023-03-27T08:12:16.907Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="https://www.rightmove.co.uk/properties/129384167">5 bedroom detached house for sale in The Laurels, Watling Street, Leighton Buzzard, Bedfordshire, LU7</a> &nbsp;<a href="/url:6652acfe18ac430f4edb542fa8e673dabf087280" class="bookmark_count">4</a><br><a href="/t:IFTTT/" class="tag">IFTTT</a> <a href="/t:Twitter/" class="tag">Twitter</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Habitat Chronicles: You can't tell people anything]]></title>
+        <id>http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/</id>
+        <link href="http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/"/>
+        <updated>2023-03-25T07:47:27.540Z</updated>
+        <content type="html"><![CDATA[<a class="bookmark_title " href="http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/">Habitat Chronicles: You can't tell people anything</a> &nbsp;<a href="/url:ac817f2387c6f19ff45c9b204663a36d6f0cd593" class="bookmark_count">4</a><br><a href="/t:communication/" class="tag">communication</a> <a href="/t:advice/" class="tag">advice</a> <a href="/t:management/" class="tag">management</a> <a href="/t:inspiration/" class="tag">inspiration</a> <a href="/t:wisdom/" class="tag">wisdom</a>]]></content>
     </entry>
 </feed>
