@@ -2,9 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printweek.com/news/all-news</id>
     <title>printweek news</title>
-    <updated>2023-03-27T08:12:28.616Z</updated>
+    <updated>2023-03-27T16:10:29.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printweek.com/media/182863/printweek-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ePS acquires Tharstern]]></title>
+        <id>https://www.printweek.com/news/article/eps-acquires-tharstern</id>
+        <link href="https://www.printweek.com/news/article/eps-acquires-tharstern"/>
+        <updated>2023-03-27T16:10:06.962Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/eps-acquires-tharstern">
+                            ePS acquires Tharstern
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CWU warns of further strikes at Royal Mail]]></title>
+        <id>https://www.printweek.com/news/article/cwu-warns-of-further-strikes-at-royal-mail</id>
+        <link href="https://www.printweek.com/news/article/cwu-warns-of-further-strikes-at-royal-mail"/>
+        <updated>2023-03-27T16:10:06.964Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/cwu-warns-of-further-strikes-at-royal-mail">
+                            CWU warns of further strikes at Royal Mail
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paramount4 goes back for seconds after Mimaki install]]></title>
+        <id>https://www.printweek.com/news/article/paramount4-goes-back-for-seconds-after-mimaki-install</id>
+        <link href="https://www.printweek.com/news/article/paramount4-goes-back-for-seconds-after-mimaki-install"/>
+        <updated>2023-03-27T16:10:06.965Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/paramount4-goes-back-for-seconds-after-mimaki-install">
+                            Paramount4 goes back for seconds after Mimaki install
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penguin Books vending machine installed in Exeter station]]></title>
+        <id>https://www.printweek.com/news/article/penguin-books-vending-machine-installed-in-exeter-station</id>
+        <link href="https://www.printweek.com/news/article/penguin-books-vending-machine-installed-in-exeter-station"/>
+        <updated>2023-03-27T16:10:06.966Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/penguin-books-vending-machine-installed-in-exeter-station">
+                            Penguin Books vending machine installed in Exeter station
+                        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[APS invests £5m into Preston Brook facility]]></title>
         <id>https://www.printweek.com/news/article/aps-invests-5m-into-preston-brook-facility</id>
@@ -102,42 +138,6 @@
         <updated>2023-03-23T15:04:53.633Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/fusion-digital-expands-with-agfa-install">
                             Fusion Digital expands with Agfa install
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UPM makes further reduction to uncoated capacity]]></title>
-        <id>https://www.printweek.com/news/article/upm-makes-further-reduction-to-uncoated-capacity</id>
-        <link href="https://www.printweek.com/news/article/upm-makes-further-reduction-to-uncoated-capacity"/>
-        <updated>2023-03-23T09:59:30.402Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/upm-makes-further-reduction-to-uncoated-capacity">
-                            UPM makes further reduction to uncoated capacity
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HP unveils Indigo 200K]]></title>
-        <id>https://www.printweek.com/news/article/hp-unveils-indigo-200k</id>
-        <link href="https://www.printweek.com/news/article/hp-unveils-indigo-200k"/>
-        <updated>2023-03-23T09:59:30.403Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/hp-unveils-indigo-200k">
-                            HP unveils Indigo 200K
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Total refit for University of Leeds’ print centre]]></title>
-        <id>https://www.printweek.com/news/article/total-refit-for-university-of-leeds-print-centre</id>
-        <link href="https://www.printweek.com/news/article/total-refit-for-university-of-leeds-print-centre"/>
-        <updated>2023-03-23T09:59:30.404Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/total-refit-for-university-of-leeds-print-centre">
-                            Total refit for University of Leeds’ print centre
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Positive+ auctions spare kit after successful installs]]></title>
-        <id>https://www.printweek.com/news/article/positive-auctions-spare-kit-after-successful-installs</id>
-        <link href="https://www.printweek.com/news/article/positive-auctions-spare-kit-after-successful-installs"/>
-        <updated>2023-03-23T09:59:30.410Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/positive-auctions-spare-kit-after-successful-installs">
-                            Positive+ auctions spare kit after successful installs
                         </a>]]></content>
     </entry>
 </feed>
