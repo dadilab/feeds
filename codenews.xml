@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-03-26T20:07:38.151Z</updated>
+    <updated>2023-03-27T00:33:37.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -181,18 +181,18 @@
         <content type="html"><![CDATA[<a href="/view/7956">支持在搜索引擎右侧显示ChatGPT的响应的插件：ChatGPT for Search Engines</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本]]></title>
-        <id>https://codenews.cc/view/8079</id>
-        <link href="https://codenews.cc/view/8079"/>
-        <updated>2023-03-24T22:55:09.014Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8079">用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[关键词（短语）提取（Keyphrase Extraction）神器]]></title>
         <id>https://codenews.cc/view/7981</id>
         <link href="https://codenews.cc/view/7981"/>
         <updated>2023-03-24T22:55:09.017Z</updated>
         <content type="html"><![CDATA[<a href="/view/7981">关键词（短语）提取（Keyphrase Extraction）神器</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本]]></title>
+        <id>https://codenews.cc/view/8079</id>
+        <link href="https://codenews.cc/view/8079"/>
+        <updated>2023-03-24T22:55:09.014Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8079">用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🚀🚀🚀feapder is an easy to use, powerful crawler framework | feapder是一款上手简单，功能强大的Python爬虫框架。内置AirSpider、Spider、TaskSpider、BatchSpider四种爬虫解决不同场景的需求。且支持断点续爬、监控报警、浏览器渲染、海量数据去重等功能。更有功能强大的爬虫管理系统feaplat为其提供方便的部署及调度]]></title>
@@ -307,18 +307,18 @@
         <content type="html"><![CDATA[<a href="/view/8037">imglib 一个轻量级的 JAVA 图像处理库，立足于简化对图像的常见处理</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SSCMS - 开源免费、企业级、可商用 CMS 系统]]></title>
-        <id>https://codenews.cc/view/8070</id>
-        <link href="https://codenews.cc/view/8070"/>
-        <updated>2023-03-24T22:55:09.049Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8070">SSCMS - 开源免费、企业级、可商用 CMS 系统</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MockingBird：🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容]]></title>
         <id>https://codenews.cc/view/7989</id>
         <link href="https://codenews.cc/view/7989"/>
         <updated>2023-03-24T22:55:09.053Z</updated>
         <content type="html"><![CDATA[<a href="/view/7989">MockingBird：🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SSCMS - 开源免费、企业级、可商用 CMS 系统]]></title>
+        <id>https://codenews.cc/view/8070</id>
+        <link href="https://codenews.cc/view/8070"/>
+        <updated>2023-03-24T22:55:09.049Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8070">SSCMS - 开源免费、企业级、可商用 CMS 系统</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[一个企业级的云原生监控系统，可以用来替代 Prometheus 的警报和 Grafana 的可视化。]]></title>

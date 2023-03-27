@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.zuixingzuo.net/tianxie/yunshi.html</id>
     <title>美国神婆 天蝎</title>
-    <updated>2023-03-26T20:07:38.139Z</updated>
+    <updated>2023-03-27T00:33:37.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.zuixingzuo.net/tianxie/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[闹闹女巫店天蝎座一周运势（3.27-4.2）]]></title>
+        <id>https://www.zuixingzuo.net/tianxie/show356838.html</id>
+        <link href="https://www.zuixingzuo.net/tianxie/show356838.html"/>
+        <updated>2023-03-27T00:32:37.700Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.zuixingzuo.net/tianxie/show356838.html" target="_blank">闹闹女巫店天蝎座一周运势（3.27-4.2）</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[爱莎公主天蝎座一周星座运势(3.27-4.2)]]></title>
         <id>https://www.zuixingzuo.net/tianxie/show356796.html</id>
@@ -137,12 +144,5 @@
         <link href="https://www.zuixingzuo.net/tianxie/show356002.html"/>
         <updated>2023-03-23T16:32:13.665Z</updated>
         <content type="html"><![CDATA[<a href="https://www.zuixingzuo.net/tianxie/show356002.html" target="_blank">氧气占星天蝎座2023年3月运势</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pandora占星小巫天蝎座2023年3月运势]]></title>
-        <id>https://www.zuixingzuo.net/tianxie/show355967.html</id>
-        <link href="https://www.zuixingzuo.net/tianxie/show355967.html"/>
-        <updated>2023-03-23T16:32:13.667Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.zuixingzuo.net/tianxie/show355967.html" target="_blank">Pandora占星小巫天蝎座2023年3月运势</a>]]></content>
     </entry>
 </feed>

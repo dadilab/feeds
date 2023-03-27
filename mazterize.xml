@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-03-26T20:07:38.146Z</updated>
+    <updated>2023-03-27T00:33:37.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Artweaver Plus 7.0.15.15562 Full Version]]></title>
+        <id>https://www.mazterize.com/artweaver-plus-full.html</id>
+        <link href="https://www.mazterize.com/artweaver-plus-full.html"/>
+        <updated>2023-03-27T00:33:14.612Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/artweaver-plus-full.html">Artweaver Plus 7.0.15.15562 Full Version</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Helium Music Manager 16.2.18222 Premium Full Version]]></title>
         <id>https://www.mazterize.com/helium-music-manager-premium-full.html</id>
@@ -144,12 +151,5 @@
         <link href="https://www.mazterize.com/cyberlink-photodirector-ultra-full-version.html"/>
         <updated>2023-03-23T09:59:24.672Z</updated>
         <content type="html"><![CDATA[<a href="https://www.mazterize.com/cyberlink-photodirector-ultra-full-version.html">CyberLink PhotoDirector Ultra 14.1.1514.0 Full Version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberLink YouCam Deluxe 10.1.2717.0 Full Version]]></title>
-        <id>https://www.mazterize.com/cyberlink-youcam-deluxe-full.html</id>
-        <link href="https://www.mazterize.com/cyberlink-youcam-deluxe-full.html"/>
-        <updated>2023-03-23T09:59:24.674Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/cyberlink-youcam-deluxe-full.html">CyberLink YouCam Deluxe 10.1.2717.0 Full Version</a>]]></content>
     </entry>
 </feed>
