@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-03-27T20:10:10.104Z</updated>
+    <updated>2023-03-28T00:35:44.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BS.Player Pro 2.78 Build 1094 Full Version]]></title>
+        <id>https://www.mazterize.com/bs-player-pro-full.html</id>
+        <link href="https://www.mazterize.com/bs-player-pro-full.html"/>
+        <updated>2023-03-28T00:35:21.824Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/bs-player-pro-full.html">BS.Player Pro 2.78 Build 1094 Full Version</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IM-Magic Partition Resizer 6.3 + WinPE Full Version]]></title>
         <id>https://www.mazterize.com/im-magic-partition-resizer-full-version.html</id>
@@ -144,12 +151,5 @@
         <link href="https://www.mazterize.com/photo-mechanic-full-crack.html"/>
         <updated>2023-03-24T05:38:48.477Z</updated>
         <content type="html"><![CDATA[<a href="https://www.mazterize.com/photo-mechanic-full-crack.html">Photo Mechanic Plus 6.0.6784 Full Version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4K Video Downloader 4.24.0.5340 Full Crack]]></title>
-        <id>https://www.mazterize.com/4k-video-downloader-full.html</id>
-        <link href="https://www.mazterize.com/4k-video-downloader-full.html"/>
-        <updated>2023-03-23T15:04:47.953Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/4k-video-downloader-full.html">4K Video Downloader 4.24.0.5340 Full Crack</a>]]></content>
     </entry>
 </feed>

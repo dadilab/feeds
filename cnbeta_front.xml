@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-03-27T20:10:10.092Z</updated>
+    <updated>2023-03-28T00:35:44.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[新的Omega-3补充剂可以防止阿尔茨海默氏症、糖尿病等引起的视力丧失]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351445.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351445.htm"/>
+        <updated>2023-03-28T00:35:18.216Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351445.htm">新的Omega-3补充剂可以防止阿尔茨海默氏症、糖尿病等引起的视力丧失</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[总统乔·拜登称美国不能购买其他国家用来对付它的商业间谍软件]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351443.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351443.htm"/>
+        <updated>2023-03-28T00:35:18.216Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351443.htm">总统乔·拜登称美国不能购买其他国家用来对付它的商业间谍软件</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员发现纽约市的老鼠携带有SARS-CoV-2病毒]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351441.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351441.htm"/>
+        <updated>2023-03-28T00:35:18.218Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351441.htm">研究人员发现纽约市的老鼠携带有SARS-CoV-2病毒</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[教皇方济各赞扬人工智能的进步 但提醒说要以道德方式使用它]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351439.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351439.htm"/>
+        <updated>2023-03-28T00:35:18.218Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351439.htm">教皇方济各赞扬人工智能的进步 但提醒说要以道德方式使用它</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被认为已经灭绝了36年的秃鹫在人类帮助下回到保加利亚定居]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1351437.htm</id>
@@ -396,33 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1351327.htm"/>
         <updated>2023-03-27T08:12:00.625Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1351327.htm">微软在必应聊天上测试20/200的聊天回合限制</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家确定关键代谢酶在肾脏疾病中的作用]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351325.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351325.htm"/>
-        <updated>2023-03-27T08:12:00.636Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351325.htm">科学家确定关键代谢酶在肾脏疾病中的作用</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《暗黑破坏神4》玩家希望有离线模式：不想排队和掉线]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351323.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351323.htm"/>
-        <updated>2023-03-27T08:12:00.636Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351323.htm">《暗黑破坏神4》玩家希望有离线模式：不想排队和掉线</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马云现身云谷学校 证实回国传闻]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351321.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351321.htm"/>
-        <updated>2023-03-27T08:12:00.639Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351321.htm"><span style="color:#c00000;">马云现身云谷学校 证实回国传闻</span></a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“ChatGPT之母”：她35岁，OpenAI神秘CTO]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351319.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351319.htm"/>
-        <updated>2023-03-27T08:12:00.640Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351319.htm">“ChatGPT之母”：她35岁，OpenAI神秘CTO</a>]]></content>
     </entry>
 </feed>
