@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-03-28T16:12:52.774Z</updated>
+    <updated>2023-03-28T20:09:54.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Google搜索新增"视角"和"关于此作者"功能 以帮助用户验证信息]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351639.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351639.htm"/>
+        <updated>2023-03-28T20:09:26.284Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351639.htm">Google搜索新增"视角"和"关于此作者"功能 以帮助用户验证信息</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推迟数月姗姗来迟 苹果版花呗Apple Pay Later在美上线]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351637.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351637.htm"/>
+        <updated>2023-03-28T20:09:26.284Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351637.htm">推迟数月姗姗来迟 苹果版花呗Apple Pay Later在美上线</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌牵手AI初创公司Replit 与微软在编码工具领域展开竞争]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351635.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351635.htm"/>
+        <updated>2023-03-28T20:09:26.298Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351635.htm">谷歌牵手AI初创公司Replit 与微软在编码工具领域展开竞争</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[故事讲不下去了？迪士尼撤销整个元宇宙研发部门]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351633.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351633.htm"/>
+        <updated>2023-03-28T20:09:26.299Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351633.htm">故事讲不下去了？迪士尼撤销整个元宇宙研发部门</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国监管机构对5万辆Model X展开调查 汽车骤停导致安全带脱落]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351631.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351631.htm"/>
+        <updated>2023-03-28T20:09:26.301Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351631.htm">美国监管机构对5万辆Model X展开调查 汽车骤停导致安全带脱落</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家创造出折叠玻璃制品 灵感来自东方折纸]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351629.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351629.htm"/>
+        <updated>2023-03-28T20:09:26.303Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351629.htm">科学家创造出折叠玻璃制品 灵感来自东方折纸</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OPPO和OnePlus确认2023年继续留在欧洲 否认退出市场的传闻]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351627.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351627.htm"/>
+        <updated>2023-03-28T20:09:26.303Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351627.htm">OPPO和OnePlus确认2023年继续留在欧洲 否认退出市场的传闻</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AirPower四年前被取消 但仍在苹果的长期路线图上]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351625.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351625.htm"/>
+        <updated>2023-03-28T20:09:26.303Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351625.htm">AirPower四年前被取消 但仍在苹果的长期路线图上</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[微软宣布推出Security Copilot - "将人工智能的力量引入网络防御"]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1351623.htm</id>
@@ -368,61 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1351519.htm"/>
         <updated>2023-03-28T12:13:51.040Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1351519.htm">中国首例取缔日本向动画盗版站 日本用户占95%比例</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克遭员工报复？推特源代码据称已“裸奔”好几个月]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351517.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351517.htm"/>
-        <updated>2023-03-28T12:13:51.044Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351517.htm">马斯克遭员工报复？推特源代码据称已“裸奔”好几个月</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网友拍到Tim Cook坐S65L到北京东四吃顶级日料]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351521.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351521.htm"/>
-        <updated>2023-03-28T12:13:51.044Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351521.htm">网友拍到Tim Cook坐S65L到北京东四吃顶级日料</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[200多万份文件都未找到证据 谷歌要求法官驳回美司法部反垄断诉讼]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351515.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351515.htm"/>
-        <updated>2023-03-28T12:13:51.047Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351515.htm">200多万份文件都未找到证据 谷歌要求法官驳回美司法部反垄断诉讼</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南极"末日冰川"的主冰流拓宽过程将加速冰的流失]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351513.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351513.htm"/>
-        <updated>2023-03-28T12:13:51.048Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351513.htm">南极"末日冰川"的主冰流拓宽过程将加速冰的流失</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[育碧确认不会参加E3 2023 而是在洛杉矶举办育碧前瞻直播]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351511.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351511.htm"/>
-        <updated>2023-03-28T12:13:51.048Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351511.htm">育碧确认不会参加E3 2023 而是在洛杉矶举办育碧前瞻直播</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[油车还能开多久？中石油回应：距离新能源拐点还有很长的路]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351509.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351509.htm"/>
-        <updated>2023-03-28T12:13:51.048Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351509.htm">油车还能开多久？中石油回应：距离新能源拐点还有很长的路</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任天堂爆款续作《塞尔达传说：王国之泪》新实机今晚公布 5月12日发售]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351507.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351507.htm"/>
-        <updated>2023-03-28T12:13:51.055Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351507.htm">任天堂爆款续作《塞尔达传说：王国之泪》新实机今晚公布 5月12日发售</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昔日超市霸主 家乐福中国内地首店关闭：在北京开了28年]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351505.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351505.htm"/>
-        <updated>2023-03-28T12:13:51.055Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351505.htm">昔日超市霸主 家乐福中国内地首店关闭：在北京开了28年</a>]]></content>
     </entry>
 </feed>
