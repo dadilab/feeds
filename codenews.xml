@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-03-28T00:35:44.821Z</updated>
+    <updated>2023-03-28T04:10:23.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[chatgpt-dingtalk：支持在钉钉聊天中让 ChatGPT 绘图]]></title>
-        <id>https://codenews.cc/view/13199</id>
-        <link href="https://codenews.cc/view/13199"/>
-        <updated>2023-03-24T22:55:08.973Z</updated>
-        <content type="html"><![CDATA[<a href="/view/13199">chatgpt-dingtalk：支持在钉钉聊天中让 ChatGPT 绘图</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[体验 ChatGPT，不需要设置 key，更加便捷！好用！]]></title>
         <id>https://codenews.cc/view/9849</id>
         <link href="https://codenews.cc/view/9849"/>
         <updated>2023-03-24T22:55:08.973Z</updated>
         <content type="html"><![CDATA[<a href="/view/9849">体验 ChatGPT，不需要设置 key，更加便捷！好用！</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chatgpt-dingtalk：支持在钉钉聊天中让 ChatGPT 绘图]]></title>
+        <id>https://codenews.cc/view/13199</id>
+        <link href="https://codenews.cc/view/13199"/>
+        <updated>2023-03-24T22:55:08.973Z</updated>
+        <content type="html"><![CDATA[<a href="/view/13199">chatgpt-dingtalk：支持在钉钉聊天中让 ChatGPT 绘图</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[好用的 JSON 在线解析格式化工具]]></title>
