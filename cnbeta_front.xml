@@ -2,9 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-03-28T12:14:18.099Z</updated>
+    <updated>2023-03-28T16:12:52.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[微软宣布推出Security Copilot - "将人工智能的力量引入网络防御"]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351623.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351623.htm"/>
+        <updated>2023-03-28T16:12:27.747Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351623.htm">微软宣布推出Security Copilot - "将人工智能的力量引入网络防御"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软正在开发"CorePC"项目以实现Windows平台的进一步现代化]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351621.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351621.htm"/>
+        <updated>2023-03-28T16:12:27.747Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351621.htm"><span style="color:#c00000;">微软正在开发"CorePC"项目以实现Windows平台的进一步现代化</span></a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基因焊接：释放进化的未来还是在伦理道德上玩火？]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351619.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351619.htm"/>
+        <updated>2023-03-28T16:12:27.747Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351619.htm">基因焊接：释放进化的未来还是在伦理道德上玩火？</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[发生泄漏的联盟号MS-22飞船成功返回地球并伞降在哈萨克斯坦]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351617.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351617.htm"/>
+        <updated>2023-03-28T16:12:27.749Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351617.htm">发生泄漏的联盟号MS-22飞船成功返回地球并伞降在哈萨克斯坦</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家揭示了城市化对昆虫的影响]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351615.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351615.htm"/>
+        <updated>2023-03-28T16:12:27.754Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351615.htm">科学家揭示了城市化对昆虫的影响</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25年来南极阿蒙森海河口冰盖损失超过3万亿吨的冰]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351613.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351613.htm"/>
+        <updated>2023-03-28T16:12:27.756Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351613.htm">25年来南极阿蒙森海河口冰盖损失超过3万亿吨的冰</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[芬兰一生产碳负离子混凝土的规模化工厂设施正在建设中]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351611.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351611.htm"/>
+        <updated>2023-03-28T16:12:27.758Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351611.htm">芬兰一生产碳负离子混凝土的规模化工厂设施正在建设中</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[绿牌将会取消？网友：走好不送]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351609.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351609.htm"/>
+        <updated>2023-03-28T16:12:27.760Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351609.htm">绿牌将会取消？网友：走好不送</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[装机商晒桌面处理器销量：AMD/Intel份额全面反转]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351607.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351607.htm"/>
+        <updated>2023-03-28T16:12:27.762Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351607.htm">装机商晒桌面处理器销量：AMD/Intel份额全面反转</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12306回应免费坐高铁：积分存在有效期]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351605.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351605.htm"/>
+        <updated>2023-03-28T16:12:27.764Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351605.htm">12306回应免费坐高铁：积分存在有效期</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球AI大模型现状：日本几乎“错过一切” 韩国只有财阀巨头]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351603.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351603.htm"/>
+        <updated>2023-03-28T16:12:27.765Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351603.htm">全球AI大模型现状：日本几乎“错过一切” 韩国只有财阀巨头</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软2022年员工薪水大曝光：软件工程师最高年薪28.8万美元]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351601.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351601.htm"/>
+        <updated>2023-03-28T16:12:27.767Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351601.htm">微软2022年员工薪水大曝光：软件工程师最高年薪28.8万美元</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软收购动视暴雪 尚有多个国家未做出答复]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351599.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351599.htm"/>
+        <updated>2023-03-28T16:12:27.769Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351599.htm">微软收购动视暴雪 尚有多个国家未做出答复</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新消费出海日本 瞄准年轻女性]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351597.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351597.htm"/>
+        <updated>2023-03-28T16:12:27.769Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351597.htm">新消费出海日本 瞄准年轻女性</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本推出佛祖版ChatGPT 已经为20多万人解决烦恼]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351595.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351595.htm"/>
+        <updated>2023-03-28T16:12:27.769Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351595.htm">日本推出佛祖版ChatGPT 已经为20多万人解决烦恼</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里巴巴变革重组为控股公司 背后是如何考量的？]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351593.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351593.htm"/>
+        <updated>2023-03-28T16:12:27.771Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351593.htm">阿里巴巴变革重组为控股公司 背后是如何考量的？</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[部分稀有的海龟和鳄鱼物种正面临灭绝风险]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1351591.htm</id>
@@ -312,117 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1351505.htm"/>
         <updated>2023-03-28T12:13:51.055Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1351505.htm">昔日超市霸主 家乐福中国内地首店关闭：在北京开了28年</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 12用户界面抢先看 微软正秘密测试下代桌面操作系统]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351503.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351503.htm"/>
-        <updated>2023-03-28T12:13:51.056Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351503.htm">Windows 12用户界面抢先看 微软正秘密测试下代桌面操作系统</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周杰伦新作斩获2022全球唱片销量冠军]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351501.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351501.htm"/>
-        <updated>2023-03-28T12:13:51.057Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351501.htm">周杰伦新作斩获2022全球唱片销量冠军</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12306积分兑换高铁票免费乘车教程 100积分相当于1元人民币]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351499.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351499.htm"/>
-        <updated>2023-03-28T12:13:51.058Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351499.htm">12306积分兑换高铁票免费乘车教程 100积分相当于1元人民币</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[尤里·加加林坠机遇难地点照片首次公开]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351497.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351497.htm"/>
-        <updated>2023-03-28T12:13:51.059Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351497.htm">尤里·加加林坠机遇难地点照片首次公开</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蔚来第三代换电站首站上线：效率提升20% 比加油还方便]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351495.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351495.htm"/>
-        <updated>2023-03-28T12:13:51.060Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351495.htm">蔚来第三代换电站首站上线：效率提升20% 比加油还方便</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022年中国市场最畅销10款手机：iPhone 13遥遥领先]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351493.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351493.htm"/>
-        <updated>2023-03-28T12:13:51.060Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351493.htm">2022年中国市场最畅销10款手机：iPhone 13遥遥领先</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家发现不寻常的寄生虫菌种令海獭死亡 对人类也有潜在健康威胁]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351491.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351491.htm"/>
-        <updated>2023-03-28T12:13:51.060Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351491.htm">科学家发现不寻常的寄生虫菌种令海獭死亡 对人类也有潜在健康威胁</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[哥白尼哨兵2号《太空探索地球》系列：蒙特雷，墨西哥]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351489.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351489.htm"/>
-        <updated>2023-03-28T12:13:51.061Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351489.htm">哥白尼哨兵2号《太空探索地球》系列：蒙特雷，墨西哥</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[詹姆斯·韦伯测量了一颗岩石系外行星Trappist-1 b的温度]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351487.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351487.htm"/>
-        <updated>2023-03-28T12:13:51.067Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351487.htm">詹姆斯·韦伯测量了一颗岩石系外行星Trappist-1 b的温度</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Play以拼多多存在恶意软件问题下架该应用]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351485.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351485.htm"/>
-        <updated>2023-03-28T12:13:51.071Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351485.htm">Google Play以拼多多存在恶意软件问题下架该应用</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家就恒温箱对婴儿听力的风险敲响警钟]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351483.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351483.htm"/>
-        <updated>2023-03-28T12:13:51.071Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351483.htm">科学家就恒温箱对婴儿听力的风险敲响警钟</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[昔日明星掌机落幕：任天堂正式关闭3DS游戏商店]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351481.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351481.htm"/>
-        <updated>2023-03-28T12:13:51.077Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351481.htm">昔日明星掌机落幕：任天堂正式关闭3DS游戏商店</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果iOS 16.4正式版终于支持iPhone中国广电5G]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351479.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351479.htm"/>
-        <updated>2023-03-28T12:13:51.079Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351479.htm">苹果iOS 16.4正式版终于支持iPhone中国广电5G</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《小美人鱼》真人电影确定引进 国内档期待定]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351477.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351477.htm"/>
-        <updated>2023-03-28T12:13:51.083Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351477.htm">《小美人鱼》真人电影确定引进 国内档期待定</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玩家挂机试图加入《CS2》限量测试 官方：想多了]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351475.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351475.htm"/>
-        <updated>2023-03-28T12:13:51.086Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351475.htm">玩家挂机试图加入《CS2》限量测试 官方：想多了</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抢先首次太空飞行的维珍轨道濒临破产]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351473.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351473.htm"/>
-        <updated>2023-03-28T12:13:51.087Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351473.htm">抢先首次太空飞行的维珍轨道濒临破产</a>]]></content>
     </entry>
 </feed>
