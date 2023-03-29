@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-03-28T20:09:54.258Z</updated>
+    <updated>2023-03-29T00:40:07.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YouTube带来AV1格式的测试版直播方式 提高视频质量]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351645.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351645.htm"/>
+        <updated>2023-03-29T00:39:32.934Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351645.htm">YouTube带来AV1格式的测试版直播方式 提高视频质量</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pwn2Own 2023参赛者三天内利用27个零日漏洞 赢得超过100万美元奖金]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351643.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351643.htm"/>
+        <updated>2023-03-29T00:39:32.966Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351643.htm">Pwn2Own 2023参赛者三天内利用27个零日漏洞 赢得超过100万美元奖金</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saildrone展示Voyager自主航行研究船 已进入量产阶段]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1351641.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1351641.htm"/>
+        <updated>2023-03-29T00:39:32.980Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1351641.htm">Saildrone展示Voyager自主航行研究船 已进入量产阶段</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google搜索新增"视角"和"关于此作者"功能 以帮助用户验证信息]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1351639.htm</id>
@@ -403,26 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1351527.htm"/>
         <updated>2023-03-28T12:13:51.035Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1351527.htm">GPT-4老板：AI可能会杀死人类 已经出现我们无法解释的推理能力</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蚂蚁集团回应于隽涉嫌强奸：为外派员工，已离职，公司对此类行为绝不姑息]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351525.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351525.htm"/>
-        <updated>2023-03-28T12:13:51.038Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351525.htm">蚂蚁集团回应于隽涉嫌强奸：为外派员工，已离职，公司对此类行为绝不姑息</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软政府事务团队展开反击： "索尼的反竞争策略值得讨论"]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351523.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351523.htm"/>
-        <updated>2023-03-28T12:13:51.039Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351523.htm">微软政府事务团队展开反击： "索尼的反竞争策略值得讨论"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国首例取缔日本向动画盗版站 日本用户占95%比例]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1351519.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1351519.htm"/>
-        <updated>2023-03-28T12:13:51.040Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1351519.htm">中国首例取缔日本向动画盗版站 日本用户占95%比例</a>]]></content>
     </entry>
 </feed>
