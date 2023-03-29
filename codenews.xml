@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-03-29T04:10:00.312Z</updated>
+    <updated>2023-03-29T08:12:06.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[三款新插件上线， API 鉴权， API 网关， Swagger URL 同步文档！]]></title>
+        <id>https://codenews.cc/view/37763</id>
+        <link href="https://codenews.cc/view/37763"/>
+        <updated>2023-03-29T08:12:05.410Z</updated>
+        <content type="html"><![CDATA[<a href="/view/37763">三款新插件上线， API 鉴权， API 网关， Swagger URL 同步文档！</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[体验 ChatGPT，不需要设置 key，更加便捷！好用！]]></title>
         <id>https://codenews.cc/view/9849</id>
@@ -104,13 +111,6 @@
         <content type="html"><![CDATA[<a href="/view/8058">将个人照片变成卡通风格漫画头像的神器 photo2cartoon</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我开发了一个工具类微信小程序[小功能匣子]，页面简洁清晰，后面会不断完善和新增小功能！]]></title>
-        <id>https://codenews.cc/view/8018</id>
-        <link href="https://codenews.cc/view/8018"/>
-        <updated>2023-03-24T22:55:08.999Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8018">我开发了一个工具类微信小程序[小功能匣子]，页面简洁清晰，后面会不断完善和新增小功能！</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[密码学工具箱📦]]></title>
         <id>https://codenews.cc/view/8065</id>
         <link href="https://codenews.cc/view/8065"/>
@@ -195,18 +195,18 @@
         <content type="html"><![CDATA[<a href="/view/8053">doccano：面向机器学习从业者的开源标注工具</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[超多免费API接口分享]]></title>
-        <id>https://codenews.cc/view/8084</id>
-        <link href="https://codenews.cc/view/8084"/>
-        <updated>2023-03-24T22:55:09.036Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[轻量级、可嵌入式、Tableau 开源替代品 graphic-walker]]></title>
         <id>https://codenews.cc/view/8025</id>
         <link href="https://codenews.cc/view/8025"/>
         <updated>2023-03-24T22:55:09.042Z</updated>
         <content type="html"><![CDATA[<a href="/view/8025">轻量级、可嵌入式、Tableau 开源替代品 graphic-walker</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超多免费API接口分享]]></title>
+        <id>https://codenews.cc/view/8084</id>
+        <link href="https://codenews.cc/view/8084"/>
+        <updated>2023-03-24T22:55:09.036Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[imglib 一个轻量级的 JAVA 图像处理库，立足于简化对图像的常见处理]]></title>
