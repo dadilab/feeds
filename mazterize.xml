@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-03-29T00:40:07.199Z</updated>
+    <updated>2023-03-29T04:10:00.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Symantec Endpoint Protection 14.3.9681.7000 Full Version]]></title>
+        <id>https://www.mazterize.com/symantec-endpoint-protection-full.html</id>
+        <link href="https://www.mazterize.com/symantec-endpoint-protection-full.html"/>
+        <updated>2023-03-29T04:09:37.530Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/symantec-endpoint-protection-full.html">Symantec Endpoint Protection 14.3.9681.7000 Full Version</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VectorWorks 2023 SP4 Full Version]]></title>
+        <id>https://www.mazterize.com/vectorworks-full-version.html</id>
+        <link href="https://www.mazterize.com/vectorworks-full-version.html"/>
+        <updated>2023-03-29T04:09:37.531Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/vectorworks-full-version.html">VectorWorks 2023 SP4 Full Version</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CyberLink PowerDVD Ultra 22.0.2716.62 Full Version]]></title>
         <id>https://www.mazterize.com/cyberlink-powerdvd-ultra-full-version.html</id>
@@ -137,19 +151,5 @@
         <link href="https://www.mazterize.com/schoolhouse-test-full-version.html"/>
         <updated>2023-03-25T04:08:39.849Z</updated>
         <content type="html"><![CDATA[<a href="https://www.mazterize.com/schoolhouse-test-full-version.html">Schoolhouse Test Professional 6.1.71.0 Full Version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ashampoo Burning Studio 24.0.3 Full Version]]></title>
-        <id>https://www.mazterize.com/ashampoo-burning-studio-full.html</id>
-        <link href="https://www.mazterize.com/ashampoo-burning-studio-full.html"/>
-        <updated>2023-03-25T04:08:39.849Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/ashampoo-burning-studio-full.html">Ashampoo Burning Studio 24.0.3 Full Version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resolume Arena 7.14.2 rev 22221 Full Version]]></title>
-        <id>https://www.mazterize.com/resolume-arena-full.html</id>
-        <link href="https://www.mazterize.com/resolume-arena-full.html"/>
-        <updated>2023-03-24T20:08:05.214Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/resolume-arena-full.html">Resolume Arena 7.14.2 rev 22221 Full Version</a>]]></content>
     </entry>
 </feed>
