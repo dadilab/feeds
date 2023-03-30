@@ -2,18 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printweek.com/news/all-news</id>
     <title>printweek news</title>
-    <updated>2023-03-30T08:14:31.140Z</updated>
+    <updated>2023-03-30T12:15:27.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printweek.com/media/182863/printweek-favicon.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Telegraph Media Group acquires lifestyle publisher]]></title>
-        <id>https://www.printweek.com/news/article/telegraph-media-group-acquires-lifestyle-publisher</id>
-        <link href="https://www.printweek.com/news/article/telegraph-media-group-acquires-lifestyle-publisher"/>
-        <updated>2023-03-29T17:35:34.002Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/telegraph-media-group-acquires-lifestyle-publisher">
-                            Telegraph Media Group acquires lifestyle publisher
-                        </a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Service Graphics finesses footprint]]></title>
         <id>https://www.printweek.com/news/article/service-graphics-finesses-footprint</id>
@@ -48,6 +39,15 @@
         <updated>2023-03-29T17:35:34.007Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/yps-becomes-agfa-anapurna-reseller">
                             YPS becomes Agfa Anapurna reseller
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegraph Media Group acquires lifestyle publisher]]></title>
+        <id>https://www.printweek.com/news/article/telegraph-media-group-acquires-lifestyle-publisher</id>
+        <link href="https://www.printweek.com/news/article/telegraph-media-group-acquires-lifestyle-publisher"/>
+        <updated>2023-03-29T17:35:34.002Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/telegraph-media-group-acquires-lifestyle-publisher">
+                            Telegraph Media Group acquires lifestyle publisher
                         </a>]]></content>
     </entry>
     <entry>
