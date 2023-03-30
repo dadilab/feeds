@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-03-30T04:11:39.970Z</updated>
+    <updated>2023-03-30T08:14:31.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -188,18 +188,18 @@
         <content type="html"><![CDATA[<a href="/view/8033">AC印象 ( acimage) 是一个前后端分离的SpringCloud论坛系统。Web 端使用 Vue + ElementUi 。后端使用 SpringCloud+Mybatis-Plus+Reids+Rabbitmq。</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[doccano：面向机器学习从业者的开源标注工具]]></title>
-        <id>https://codenews.cc/view/8053</id>
-        <link href="https://codenews.cc/view/8053"/>
-        <updated>2023-03-24T22:55:09.040Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8053">doccano：面向机器学习从业者的开源标注工具</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[轻量级、可嵌入式、Tableau 开源替代品 graphic-walker]]></title>
         <id>https://codenews.cc/view/8025</id>
         <link href="https://codenews.cc/view/8025"/>
         <updated>2023-03-24T22:55:09.042Z</updated>
         <content type="html"><![CDATA[<a href="/view/8025">轻量级、可嵌入式、Tableau 开源替代品 graphic-walker</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[doccano：面向机器学习从业者的开源标注工具]]></title>
+        <id>https://codenews.cc/view/8053</id>
+        <link href="https://codenews.cc/view/8053"/>
+        <updated>2023-03-24T22:55:09.040Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8053">doccano：面向机器学习从业者的开源标注工具</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[超多免费API接口分享]]></title>
