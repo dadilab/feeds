@@ -2,9 +2,149 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-03-31T04:10:08.337Z</updated>
+    <updated>2023-03-31T08:10:54.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[研发5年 AMD Zen 5架构锐龙8000处理器预计年末发布]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352201.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352201.htm"/>
+        <updated>2023-03-31T08:10:28.507Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352201.htm">研发5年 AMD Zen 5架构锐龙8000处理器预计年末发布</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国省级“癌症地图”出炉：肺癌列第一 “穷癌”下降“富癌”上升]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352199.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352199.htm"/>
+        <updated>2023-03-31T08:10:28.510Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352199.htm">中国省级“癌症地图”出炉：肺癌列第一 “穷癌”下降“富癌”上升</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[孟晚舟首次当值华为轮值董事长]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352197.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352197.htm"/>
+        <updated>2023-03-31T08:10:28.511Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352197.htm">孟晚舟首次当值华为轮值董事长</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Zen4 104MB缓存锐龙7 7800X3D价格公布]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352195.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352195.htm"/>
+        <updated>2023-03-31T08:10:28.512Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352195.htm">AMD Zen4 104MB缓存锐龙7 7800X3D价格公布</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[几百名大佬联名给ChatGPT们踩刹车：AI到了失控边缘？]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352193.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352193.htm"/>
+        <updated>2023-03-31T08:10:28.513Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352193.htm">几百名大佬联名给ChatGPT们踩刹车：AI到了失控边缘？</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 Build 25330/23424版发布 首个官方ISO镜像免费下载]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352191.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352191.htm"/>
+        <updated>2023-03-31T08:10:28.514Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352191.htm">Windows 11 Build 25330/23424版发布 首个官方ISO镜像免费下载</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[消息称马斯克或最早4月来中国：特斯拉FSD有望落地]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352189.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352189.htm"/>
+        <updated>2023-03-31T08:10:28.519Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352189.htm">消息称马斯克或最早4月来中国：特斯拉FSD有望落地</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[西数、铠侠宣布218层闪存：技术很像中国长江存储 但有232层]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352187.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352187.htm"/>
+        <updated>2023-03-31T08:10:28.521Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352187.htm">西数、铠侠宣布218层闪存：技术很像中国长江存储 但有232层</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canonical发布Ubuntu 23.04"Lunar Lobster"测试版]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352185.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352185.htm"/>
+        <updated>2023-03-31T08:10:28.522Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352185.htm">Canonical发布Ubuntu 23.04"Lunar Lobster"测试版</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 15 Pro固态按钮的灵敏度可定制 以满足保护壳和手套的需要]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352183.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352183.htm"/>
+        <updated>2023-03-31T08:10:28.526Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352183.htm">iPhone 15 Pro固态按钮的灵敏度可定制 以满足保护壳和手套的需要</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又一车企倒下？天际汽车将停工停产 员工按照最低工资标准发放生活费]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352181.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352181.htm"/>
+        <updated>2023-03-31T08:10:28.528Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352181.htm">又一车企倒下？天际汽车将停工停产 员工按照最低工资标准发放生活费</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[E3宣布取消 主办方ESA采访：明年是否举办没定论]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352179.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352179.htm"/>
+        <updated>2023-03-31T08:10:28.534Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352179.htm">E3宣布取消 主办方ESA采访：明年是否举办没定论</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英伟达RTX 4070国行售价大曝光 老黄良心了?]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352177.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352177.htm"/>
+        <updated>2023-03-31T08:10:28.537Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352177.htm">英伟达RTX 4070国行售价大曝光 老黄良心了?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任正非再次强调华为不造车 汽车设计不得使用华为/HUAWEI标志]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352175.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352175.htm"/>
+        <updated>2023-03-31T08:10:28.539Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352175.htm">任正非再次强调华为不造车 汽车设计不得使用华为/HUAWEI标志</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《阿凡达》演员米歇尔·罗德格里斯表示无意回归续集]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352173.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352173.htm"/>
+        <updated>2023-03-31T08:10:28.540Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352173.htm">《阿凡达》演员米歇尔·罗德格里斯表示无意回归续集</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宝马CFO：要靠设计和回收降低电池成本 而不是采矿]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352171.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352171.htm"/>
+        <updated>2023-03-31T08:10:28.542Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352171.htm">宝马CFO：要靠设计和回收降低电池成本 而不是采矿</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国2月芯片减产幅度为金融危机以来最大 半导体的春天何时来？]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352169.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352169.htm"/>
+        <updated>2023-03-31T08:10:28.553Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352169.htm">韩国2月芯片减产幅度为金融危机以来最大 半导体的春天何时来？</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[奈飞拟重组电影部门 以实现减产提质目标]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352167.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352167.htm"/>
+        <updated>2023-03-31T08:10:28.554Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352167.htm">奈飞拟重组电影部门 以实现减产提质目标</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人大教授刘永谋：暂停ChatGPT研发不是应对风险的好办法]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352165.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352165.htm"/>
+        <updated>2023-03-31T08:10:28.556Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352165.htm">人大教授刘永谋：暂停ChatGPT研发不是应对风险的好办法</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌Bard被曝剽窃ChatGPT？BERT一作跳槽OpenAI揭惊天内幕]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352163.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352163.htm"/>
+        <updated>2023-03-31T08:10:28.558Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352163.htm">谷歌Bard被曝剽窃ChatGPT？BERT一作跳槽OpenAI揭惊天内幕</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《小丑2》电影全新片场照曝光 小丑略显狼狈]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1352161.htm</id>
@@ -284,145 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1352083.htm"/>
         <updated>2023-03-31T00:35:04.288Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1352083.htm">石墨烯添加剂可以用来生产性能更高的塑料薄膜</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[解开自然界的隐身法 科学家用人类细胞破译乌贼伪装的秘密]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352081.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352081.htm"/>
-        <updated>2023-03-31T00:35:04.289Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352081.htm">解开自然界的隐身法 科学家用人类细胞破译乌贼伪装的秘密</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英国反垄断监管机构将对博通收购VMware案其进行进一步调查]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352079.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352079.htm"/>
-        <updated>2023-03-31T00:35:04.292Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352079.htm">英国反垄断监管机构将对博通收购VMware案其进行进一步调查</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E3 2023 游戏展已被取消]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352077.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352077.htm"/>
-        <updated>2023-03-31T00:35:04.293Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352077.htm">E3 2023 游戏展已被取消</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国政府：对三星等韩企来说 美芯片补贴标准可能是“沉重负担”]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352075.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352075.htm"/>
-        <updated>2023-03-31T00:35:04.298Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352075.htm">韩国政府：对三星等韩企来说 美芯片补贴标准可能是“沉重负担”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[霸王龙的致命牙齿隐藏在有鳞的嘴唇后面 打破了考古认知]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352073.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352073.htm"/>
-        <updated>2023-03-30T20:08:37.682Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352073.htm">霸王龙的致命牙齿隐藏在有鳞的嘴唇后面 打破了考古认知</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FF91量产了 不过市场里已经没了贾老板的位置]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352071.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352071.htm"/>
-        <updated>2023-03-30T20:08:37.684Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352071.htm">FF91量产了 不过市场里已经没了贾老板的位置</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克等人抵制AI是糟糕的炒作？专家：他们歪曲了学术论文]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352069.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352069.htm"/>
-        <updated>2023-03-30T20:08:37.685Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352069.htm">马斯克等人抵制AI是糟糕的炒作？专家：他们歪曲了学术论文</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[蜜蜂蜂巢底部的碎片可以提供城市微生物组的快照]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352067.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352067.htm"/>
-        <updated>2023-03-30T20:08:37.687Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352067.htm">蜜蜂蜂巢底部的碎片可以提供城市微生物组的快照</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧盟达成重要协议：提高2030年可再生能源发展目标]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352065.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352065.htm"/>
-        <updated>2023-03-30T20:08:37.688Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352065.htm">欧盟达成重要协议：提高2030年可再生能源发展目标</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[银河航天承担研制的四颗干涉合成孔径雷达卫星发射成功]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352063.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352063.htm"/>
-        <updated>2023-03-30T20:08:37.690Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352063.htm">银河航天承担研制的四颗干涉合成孔径雷达卫星发射成功</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消息称菜鸟最早年底赴港IPO 目前估值逾200亿美元]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352061.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352061.htm"/>
-        <updated>2023-03-30T20:08:37.692Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352061.htm">消息称菜鸟最早年底赴港IPO 目前估值逾200亿美元</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美科技伦理组织要求FTC调查OpenAI 禁止发布新的商业版GPT-4]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352059.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352059.htm"/>
-        <updated>2023-03-30T20:08:37.696Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352059.htm">美科技伦理组织要求FTC调查OpenAI 禁止发布新的商业版GPT-4</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国产化x86 CPU 兆芯成立股份公司正推进上市进程]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352057.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352057.htm"/>
-        <updated>2023-03-30T16:09:39.854Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352057.htm">国产化x86 CPU 兆芯成立股份公司正推进上市进程</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel首秀第五代至强CPU：60+核心？]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352055.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352055.htm"/>
-        <updated>2023-03-30T16:09:39.857Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352055.htm">Intel首秀第五代至强CPU：60+核心？</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马克·哈米尔将天行者卢克的声音片段提供给乌克兰作为空袭警报]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352053.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352053.htm"/>
-        <updated>2023-03-30T16:09:39.871Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352053.htm">马克·哈米尔将天行者卢克的声音片段提供给乌克兰作为空袭警报</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如果双重征税规则持续 台积电可能不会在美国扩张]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352051.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352051.htm"/>
-        <updated>2023-03-30T16:09:39.875Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352051.htm">如果双重征税规则持续 台积电可能不会在美国扩张</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球最大盗版电子书网站Z-Library被封后复活]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352049.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352049.htm"/>
-        <updated>2023-03-30T16:09:39.877Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352049.htm">全球最大盗版电子书网站Z-Library被封后复活</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI会杀死我们所有人吗？纽约大学Gary Marcus：这不是当前需要考虑的问题]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352047.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352047.htm"/>
-        <updated>2023-03-30T16:09:39.881Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352047.htm">AI会杀死我们所有人吗？纽约大学Gary Marcus：这不是当前需要考虑的问题</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[感染的是COVID-19或流感？新的纳米传感器在短短10秒内可提供答案]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352045.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352045.htm"/>
-        <updated>2023-03-30T16:09:39.884Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352045.htm">感染的是COVID-19或流感？新的纳米传感器在短短10秒内可提供答案</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果混合现实头显可能不会出现在WWDC上 因为大规模生产再次被推迟]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352043.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352043.htm"/>
-        <updated>2023-03-30T16:09:39.887Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352043.htm">苹果混合现实头显可能不会出现在WWDC上 因为大规模生产再次被推迟</a>]]></content>
     </entry>
 </feed>
