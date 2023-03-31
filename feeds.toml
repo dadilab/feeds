@@ -1,3 +1,11 @@
+[rac-news]
+title = "RAC - Motoring news"
+url = "https://www.rac.co.uk/drive/news/motoring-news/"
+entrySelector = "ul.article-list > li"
+titleSelector = "h4"
+linkSelector = "a"
+contentSelector = "div.image-container > img"
+
 [163-fun-moment]
 title = "网易 轻松一刻"
 url = "https://www.163.com/dy/media/T1348654628034.html"
