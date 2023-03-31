@@ -51,9 +51,10 @@ linkSelector = "a"
 [mazterize]
 title = "mazterize"
 url = "https://www.mazterize.com"
-entrySelector = "#recent-posts-2 > ul > li"
-titleSelector = "a"
-linkSelector = "a"
+entrySelector = "li.full-left.clearfix"
+titleSelector = "h3 > a"
+linkSelector = "h3 > a"
+contentSelector = "div.magbig-thumb img"
 
 [printweek]
 title = "printweek news"
