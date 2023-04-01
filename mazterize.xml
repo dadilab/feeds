@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-04-01T12:11:57.367Z</updated>
+    <updated>2023-04-01T16:08:53.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Wing FTP Server Corporate 7.2.0 Full Version]]></title>
+        <id>https://www.mazterize.com/wing-ftp-server-corporate-full-version.html</id>
+        <link href="https://www.mazterize.com/wing-ftp-server-corporate-full-version.html"/>
+        <updated>2023-04-01T16:08:31.473Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QUICKSURFACE 2023 v5.0.38 Full Version]]></title>
         <id>https://www.mazterize.com/quicksurface-full-version.html</id>
@@ -40,11 +46,5 @@
         <id>https://www.mazterize.com/luminar-neo-dl-full.html</id>
         <link href="https://www.mazterize.com/luminar-neo-dl-full.html"/>
         <updated>2023-03-31T12:14:06.169Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixologic ZBrush 2023.1 Full Version]]></title>
-        <id>https://www.mazterize.com/pixologic-zbrush-full-version.html</id>
-        <link href="https://www.mazterize.com/pixologic-zbrush-full-version.html"/>
-        <updated>2023-03-31T08:10:32.336Z</updated>
     </entry>
 </feed>

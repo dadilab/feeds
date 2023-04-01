@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-04-01T12:11:57.379Z</updated>
+    <updated>2023-04-01T16:08:53.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[张艺谋：全世界只有一个成龙 无法重复]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352393.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352393.htm"/>
+        <updated>2023-04-01T16:08:27.843Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352393.htm">张艺谋：全世界只有一个成龙 无法重复</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[蚂蚁是如何跟随开花植物走出史前森林而占领世界的？]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352391.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352391.htm"/>
+        <updated>2023-04-01T16:08:27.844Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352391.htm">蚂蚁是如何跟随开花植物走出史前森林而占领世界的？</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的机器学习模型可提前8天准确预测龙卷风和冰雹等事件]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352389.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352389.htm"/>
+        <updated>2023-04-01T16:08:27.846Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352389.htm">新的机器学习模型可提前8天准确预测龙卷风和冰雹等事件</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOAA科学家在海底发现神秘的热浪]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352387.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352387.htm"/>
+        <updated>2023-04-01T16:08:27.855Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352387.htm">NOAA科学家在海底发现神秘的热浪</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冯小刚：《非诚勿扰3》7月开拍 葛优舒淇范伟等回归]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352385.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352385.htm"/>
+        <updated>2023-04-01T16:08:27.856Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352385.htm">冯小刚：《非诚勿扰3》7月开拍 葛优舒淇范伟等回归</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传索尼将在6月初举办PlayStation发布会]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352383.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352383.htm"/>
+        <updated>2023-04-01T16:08:27.858Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352383.htm">传索尼将在6月初举办PlayStation发布会</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现母亲食物中的微小塑料颗粒可能损害胎儿发育]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352381.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352381.htm"/>
+        <updated>2023-04-01T16:08:27.859Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352381.htm">研究发现母亲食物中的微小塑料颗粒可能损害胎儿发育</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DirectX 12更新 允许CPU和GPU同时访问显存]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352379.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352379.htm"/>
+        <updated>2023-04-01T16:08:27.860Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352379.htm">DirectX 12更新 允许CPU和GPU同时访问显存</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[继承Netscape的精神与价值观 Mozilla走过25周年]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1352377.htm</id>
@@ -368,61 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1352275.htm"/>
         <updated>2023-03-31T20:08:27.679Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1352275.htm">一种捕获二氧化碳的新工艺价值相当于再造一片德国大小的森林</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软在荷兰的一个数据中心正在引发当地人对环境的担忧]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352273.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352273.htm"/>
-        <updated>2023-03-31T20:08:27.680Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352273.htm">微软在荷兰的一个数据中心正在引发当地人对环境的担忧</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[植物压力大也会“大喊大叫”]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352271.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352271.htm"/>
-        <updated>2023-03-31T20:08:27.682Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352271.htm">植物压力大也会“大喊大叫”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华硕ROG游戏手机7真机曝光：无挖孔全面屏、后置三摄]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352269.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352269.htm"/>
-        <updated>2023-03-31T16:09:51.830Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352269.htm">华硕ROG游戏手机7真机曝光：无挖孔全面屏、后置三摄</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[孟晚舟谈接班：华为不是个人接班制度]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352267.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352267.htm"/>
-        <updated>2023-03-31T16:09:51.832Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352267.htm">孟晚舟谈接班：华为不是个人接班制度</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3GPP 5G标准化贡献量公布：华为全球第一 遥遥领先爱立信/高通等]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352265.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352265.htm"/>
-        <updated>2023-03-31T16:09:51.841Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352265.htm">3GPP 5G标准化贡献量公布：华为全球第一 遥遥领先爱立信/高通等</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[分析显示​丛集性头痛、偏头痛与昼夜节律系统有密切联系]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352263.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352263.htm"/>
-        <updated>2023-03-31T16:09:51.844Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352263.htm">分析显示​丛集性头痛、偏头痛与昼夜节律系统有密切联系</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用柠檬和椰子制成的建筑材料可以帮助家庭取暖]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352261.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352261.htm"/>
-        <updated>2023-03-31T16:09:51.845Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352261.htm">用柠檬和椰子制成的建筑材料可以帮助家庭取暖</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国太平洋西北国家实验室利用机器学习检测未知核威胁]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352259.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352259.htm"/>
-        <updated>2023-03-31T16:09:51.847Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352259.htm">美国太平洋西北国家实验室利用机器学习检测未知核威胁</a>]]></content>
     </entry>
 </feed>
