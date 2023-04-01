@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-04-01T16:08:53.282Z</updated>
+    <updated>2023-04-01T20:07:15.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[有史以来捕获的最亮的伽马射线暴继续令科学家感到困惑]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352407.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352407.htm"/>
+        <updated>2023-04-01T20:06:50.506Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352407.htm">有史以来捕获的最亮的伽马射线暴继续令科学家感到困惑</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opus.ai正在开发一种根据文本驱动的3D世界开发方法]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352405.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352405.htm"/>
+        <updated>2023-04-01T20:06:50.507Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352405.htm">Opus.ai正在开发一种根据文本驱动的3D世界开发方法</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google让Windows和Android之间的文件共享变得更加容易]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352403.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352403.htm"/>
+        <updated>2023-04-01T20:06:50.508Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352403.htm">Google让Windows和Android之间的文件共享变得更加容易</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[每五台电脑就有一台运行Windows 11 采用率达到历史最高水平]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352401.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352401.htm"/>
+        <updated>2023-04-01T20:06:50.510Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352401.htm">每五台电脑就有一台运行Windows 11 采用率达到历史最高水平</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史蒂夫·乔布斯档案馆将在4月11日发行《Make Something Wonderful》电子书]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352399.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352399.htm"/>
+        <updated>2023-04-01T20:06:50.511Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352399.htm">史蒂夫·乔布斯档案馆将在4月11日发行《Make Something Wonderful》电子书</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美法院裁决马斯克一条推文违法 要求其删帖]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352397.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352397.htm"/>
+        <updated>2023-04-01T20:06:50.515Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352397.htm">美法院裁决马斯克一条推文违法 要求其删帖</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[特朗普面临重罪指控 检察官警告共和党大佬“别乱来”]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352395.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352395.htm"/>
+        <updated>2023-04-01T20:06:50.518Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352395.htm">特朗普面临重罪指控 检察官警告共和党大佬“别乱来”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[张艺谋：全世界只有一个成龙 无法重复]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1352393.htm</id>
@@ -375,54 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1352289.htm"/>
         <updated>2023-03-31T20:08:27.665Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1352289.htm">5分钟测试可以发现并解决常见但又不严重的性传播疾病</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A620主板正式发布 猛降价32％ AMD Zen4真正便宜了]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352287.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352287.htm"/>
-        <updated>2023-03-31T20:08:27.667Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352287.htm">A620主板正式发布 猛降价32％ AMD Zen4真正便宜了</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星以未来将3D NAND为目标打造PB级固态硬盘 新技术预计2030年后发布]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352285.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352285.htm"/>
-        <updated>2023-03-31T20:08:27.668Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352285.htm">三星以未来将3D NAND为目标打造PB级固态硬盘 新技术预计2030年后发布</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[余承东在“华为不造车”帖子留言：这时代变了 只会让我们更加艰难]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352283.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352283.htm"/>
-        <updated>2023-03-31T20:08:27.671Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352283.htm">余承东在“华为不造车”帖子留言：这时代变了 只会让我们更加艰难</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为利润大跌 这日子过得是有点苦]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352281.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352281.htm"/>
-        <updated>2023-03-31T20:08:27.675Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352281.htm">华为利润大跌 这日子过得是有点苦</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果江南直营店在韩国首尔开业 携K-pop乐队一同亮相]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352279.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352279.htm"/>
-        <updated>2023-03-31T20:08:27.676Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352279.htm">苹果江南直营店在韩国首尔开业 携K-pop乐队一同亮相</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[麻省理工学院发布先进算法 彻底防止无人机在空中相撞]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352277.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352277.htm"/>
-        <updated>2023-03-31T20:08:27.678Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352277.htm">麻省理工学院发布先进算法 彻底防止无人机在空中相撞</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一种捕获二氧化碳的新工艺价值相当于再造一片德国大小的森林]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352275.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352275.htm"/>
-        <updated>2023-03-31T20:08:27.679Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352275.htm">一种捕获二氧化碳的新工艺价值相当于再造一片德国大小的森林</a>]]></content>
     </entry>
 </feed>
