@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-04-01T04:10:12.917Z</updated>
+    <updated>2023-04-01T08:10:27.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[工程师成功为AirPods带来了线缆和USB-C接头]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352355.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352355.htm"/>
+        <updated>2023-04-01T08:09:29.408Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352355.htm">工程师成功为AirPods带来了线缆和USB-C接头</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员创造出一种新型的量子材料 拥有戏剧性的鱼骨状扭曲]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352353.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352353.htm"/>
+        <updated>2023-04-01T08:09:29.436Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352353.htm">研究人员创造出一种新型的量子材料 拥有戏剧性的鱼骨状扭曲</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抗击疟疾的进展：科学家研发出遏制疟原虫蔓延的新药物]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352351.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352351.htm"/>
+        <updated>2023-04-01T08:09:29.449Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352351.htm">抗击疟疾的进展：科学家研发出遏制疟原虫蔓延的新药物</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epic老板蒂姆·斯威尼：我讨厌游戏中的广告]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352349.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352349.htm"/>
+        <updated>2023-04-01T08:09:29.455Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352349.htm">Epic老板蒂姆·斯威尼：我讨厌游戏中的广告</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那些尽享新冠红利的药企 不可持续的困境怎么破]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352347.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352347.htm"/>
+        <updated>2023-04-01T08:09:29.460Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352347.htm">那些尽享新冠红利的药企 不可持续的困境怎么破</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“那年马斯克在苏联”]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352345.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352345.htm"/>
+        <updated>2023-04-01T08:09:29.465Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352345.htm">“那年马斯克在苏联”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最终，科技大盘股成了美股一季度最大赢家]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352343.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352343.htm"/>
+        <updated>2023-04-01T08:09:29.467Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352343.htm">最终，科技大盘股成了美股一季度最大赢家</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[伦理学家回击"AI暂停发展"信件 称其过于戏剧化以至于忽略了现实危害]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1352341.htm</id>
@@ -375,54 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1352237.htm"/>
         <updated>2023-03-31T16:09:51.888Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1352237.htm">《小美人鱼》新泄露镜头：爱丽儿深情抚摸王子的脸</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为官宣实现14nm以上EDA工具国产化]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352235.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352235.htm"/>
-        <updated>2023-03-31T16:09:51.889Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352235.htm">华为官宣实现14nm以上EDA工具国产化</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球首个商用海底数据中心在海南下水：算力高、散热不费电]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352233.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352233.htm"/>
-        <updated>2023-03-31T16:09:51.890Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352233.htm">全球首个商用海底数据中心在海南下水：算力高、散热不费电</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[保姆级教程 12306官方详解如何用积分“免费坐高铁”]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352231.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352231.htm"/>
-        <updated>2023-03-31T16:09:51.892Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352231.htm">保姆级教程 12306官方详解如何用积分“免费坐高铁”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挖矿毫无意义 NVIDIA解释为何卖矿卡：客户愿意花钱 我们管不着]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352229.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352229.htm"/>
-        <updated>2023-03-31T16:09:51.893Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352229.htm">挖矿毫无意义 NVIDIA解释为何卖矿卡：客户愿意花钱 我们管不着</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[吃日料、听京剧 库克时隔3年再访中国]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352227.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352227.htm"/>
-        <updated>2023-03-31T16:09:51.895Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352227.htm">吃日料、听京剧 库克时隔3年再访中国</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华为净现金下滑至1763亿元 孟晚舟称财务状况依然稳健]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352225.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352225.htm"/>
-        <updated>2023-03-31T16:09:51.898Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352225.htm">华为净现金下滑至1763亿元 孟晚舟称财务状况依然稳健</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[任天堂Switch 2不会远了 开发者已收到新主机开发工具]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352223.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352223.htm"/>
-        <updated>2023-03-31T16:09:51.899Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352223.htm">任天堂Switch 2不会远了 开发者已收到新主机开发工具</a>]]></content>
     </entry>
 </feed>

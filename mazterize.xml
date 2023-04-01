@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-04-01T04:10:12.906Z</updated>
+    <updated>2023-04-01T08:10:27.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[QUICKSURFACE 2023 v5.0.38 Full Version]]></title>
+        <id>https://www.mazterize.com/quicksurface-full-version.html</id>
+        <link href="https://www.mazterize.com/quicksurface-full-version.html"/>
+        <updated>2023-04-01T08:09:33.852Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ViewCompanion Premium 14.20 Full Version]]></title>
+        <id>https://www.mazterize.com/viewcompanion-premium-full.html</id>
+        <link href="https://www.mazterize.com/viewcompanion-premium-full.html"/>
+        <updated>2023-04-01T08:09:33.853Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chief Architect Premier X15 25.1.0.45 Full Crack]]></title>
         <id>https://www.mazterize.com/chief-architect-premier-full.html</id>
@@ -34,17 +46,5 @@
         <id>https://www.mazterize.com/pixologic-zbrush-full-version.html</id>
         <link href="https://www.mazterize.com/pixologic-zbrush-full-version.html"/>
         <updated>2023-03-31T08:10:32.336Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bulk Image Downloader 6.22 Full Crack]]></title>
-        <id>https://www.mazterize.com/bulk-image-downloader-full.html</id>
-        <link href="https://www.mazterize.com/bulk-image-downloader-full.html"/>
-        <updated>2023-03-31T08:10:32.336Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remo Recover 6.0.0.214 Full Version]]></title>
-        <id>https://www.mazterize.com/remo-recover-full-version.html</id>
-        <link href="https://www.mazterize.com/remo-recover-full-version.html"/>
-        <updated>2023-03-31T04:09:43.468Z</updated>
     </entry>
 </feed>

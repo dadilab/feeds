@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-01T04:10:12.909Z</updated>
+    <updated>2023-04-01T08:10:27.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Twitter 推特开源其推荐算法]]></title>
+        <id>https://codenews.cc/view/59298</id>
+        <link href="https://codenews.cc/view/59298"/>
+        <updated>2023-04-01T08:10:26.208Z</updated>
+        <content type="html"><![CDATA[<a href="/view/59298">Twitter 推特开源其推荐算法</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三款新插件上线， API 鉴权， API 网关， Swagger URL 同步文档！]]></title>
         <id>https://codenews.cc/view/37763</id>
@@ -60,13 +67,6 @@
         <link href="https://codenews.cc/view/8295"/>
         <updated>2023-03-24T22:55:08.976Z</updated>
         <content type="html"><![CDATA[<a href="/view/8295">街景奇观，随机展示一张有趣的街景，并可与鼠标结合WSAD移动，虚拟元宇宙</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[创建了一个 类似github的网站  www.webhub123.com ，用于分享各类好的文章和项目]]></title>
-        <id>https://codenews.cc/view/8020</id>
-        <link href="https://codenews.cc/view/8020"/>
-        <updated>2023-03-24T22:55:08.979Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8020">创建了一个 类似github的网站  www.webhub123.com ，用于分享各类好的文章和项目</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub上 Star 20k 的功能强大但简单易用的屏幕截图软件🖥️ 📸]]></title>
