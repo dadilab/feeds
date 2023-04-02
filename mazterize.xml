@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-04-02T08:09:28.014Z</updated>
+    <updated>2023-04-02T16:09:06.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Studio One 6 Professional v6.1.1 Full Version]]></title>
+        <id>https://www.mazterize.com/studio-one-pro-full-version.html</id>
+        <link href="https://www.mazterize.com/studio-one-pro-full-version.html"/>
+        <updated>2023-04-02T16:08:38.909Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MobaXterm Professional 23.1 Full Version]]></title>
+        <id>https://www.mazterize.com/mobaxterm-professional-full.html</id>
+        <link href="https://www.mazterize.com/mobaxterm-professional-full.html"/>
+        <updated>2023-04-02T16:08:38.913Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DVD-Cloner Gold / Platinum 2023 20.0.0.1478 Full Crack]]></title>
         <id>https://www.mazterize.com/dvd-cloner-gold-platinum-full.html</id>
@@ -34,17 +46,5 @@
         <id>https://www.mazterize.com/chief-architect-premier-full.html</id>
         <link href="https://www.mazterize.com/chief-architect-premier-full.html"/>
         <updated>2023-04-01T00:36:10.792Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RocketCake Professional 5.0 Full Crack]]></title>
-        <id>https://www.mazterize.com/rocketcake-professional-full.html</id>
-        <link href="https://www.mazterize.com/rocketcake-professional-full.html"/>
-        <updated>2023-03-31T12:14:06.164Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autodesk Maya 2024 Full Version]]></title>
-        <id>https://www.mazterize.com/autodesk-maya-full-version.html</id>
-        <link href="https://www.mazterize.com/autodesk-maya-full-version.html"/>
-        <updated>2023-03-31T12:14:06.168Z</updated>
     </entry>
 </feed>
