@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-04-01T20:07:15.201Z</updated>
+    <updated>2023-04-02T00:36:24.531Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[智利北部发现超过2200只海豹和企鹅死于禽流感]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352409.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352409.htm"/>
+        <updated>2023-04-02T00:35:57.783Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352409.htm">智利北部发现超过2200只海豹和企鹅死于禽流感</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有史以来捕获的最亮的伽马射线暴继续令科学家感到困惑]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1352407.htm</id>
@@ -417,12 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1352291.htm"/>
         <updated>2023-03-31T20:08:27.663Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1352291.htm">包含罕见的"幸运的你"贴纸密封的初代iPhone以40000美元售出</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5分钟测试可以发现并解决常见但又不严重的性传播疾病]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352289.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352289.htm"/>
-        <updated>2023-03-31T20:08:27.665Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352289.htm">5分钟测试可以发现并解决常见但又不严重的性传播疾病</a>]]></content>
     </entry>
 </feed>
