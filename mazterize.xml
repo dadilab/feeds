@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-04-03T00:37:36.153Z</updated>
+    <updated>2023-04-03T04:10:06.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bigasoft Video Downloader Pro 3.25.7.8491 Full Version]]></title>
+        <id>https://www.mazterize.com/bigasoft-video-downloader-pro-full-version.html</id>
+        <link href="https://www.mazterize.com/bigasoft-video-downloader-pro-full-version.html"/>
+        <updated>2023-04-03T04:09:41.585Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pro Motion NG 8.0.3.1 Full Version]]></title>
+        <id>https://www.mazterize.com/pro-motion-ng-full-version.html</id>
+        <link href="https://www.mazterize.com/pro-motion-ng-full-version.html"/>
+        <updated>2023-04-03T04:09:41.588Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CyberLink PowerDirector Ultimate 21.3.2721.0 Full Version]]></title>
         <id>https://www.mazterize.com/cyberlink-powerdirector-ultimate-full-version.html</id>
@@ -34,17 +46,5 @@
         <id>https://www.mazterize.com/netsetman-pro.html</id>
         <link href="https://www.mazterize.com/netsetman-pro.html"/>
         <updated>2023-04-03T00:37:14.218Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Studio One 6 Professional v6.1.1 Full Version]]></title>
-        <id>https://www.mazterize.com/studio-one-pro-full-version.html</id>
-        <link href="https://www.mazterize.com/studio-one-pro-full-version.html"/>
-        <updated>2023-04-02T16:08:38.909Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MobaXterm Professional 23.1 Full Version]]></title>
-        <id>https://www.mazterize.com/mobaxterm-professional-full.html</id>
-        <link href="https://www.mazterize.com/mobaxterm-professional-full.html"/>
-        <updated>2023-04-02T16:08:38.913Z</updated>
     </entry>
 </feed>
