@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-03T16:09:37.621Z</updated>
+    <updated>2023-04-03T20:08:50.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[<a href="/view/8024">为了方便查询常用网站，利用Github Page写了一个Nav收藏网址</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！]]></title>
-        <id>https://codenews.cc/view/47592</id>
-        <link href="https://codenews.cc/view/47592"/>
-        <updated>2023-03-30T16:10:06.454Z</updated>
-        <content type="html"><![CDATA[<a href="/view/47592">ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[基于vitepress 的简约风博客主题]]></title>
         <id>https://codenews.cc/view/8082</id>
         <link href="https://codenews.cc/view/8082"/>
@@ -109,6 +102,13 @@
         <link href="https://codenews.cc/view/8302"/>
         <updated>2023-03-24T22:55:08.981Z</updated>
         <content type="html"><![CDATA[<a href="/view/8302">ChatGPT 机器人进行 Code Review</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！]]></title>
+        <id>https://codenews.cc/view/47592</id>
+        <link href="https://codenews.cc/view/47592"/>
+        <updated>2023-03-30T16:10:06.454Z</updated>
+        <content type="html"><![CDATA[<a href="/view/47592">ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[将个人照片变成卡通风格漫画头像的神器 photo2cartoon]]></title>
