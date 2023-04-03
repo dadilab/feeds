@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-02T20:06:46.275Z</updated>
+    <updated>2023-04-03T00:37:36.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[<a href="/view/13199">chatgpt-dingtalk：支持在钉钉聊天中让 ChatGPT 绘图</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[社区上线了ChatGPT，可以问ChatGPT一些有趣的问题，或许能得到意想不到的答案]]></title>
+        <id>https://codenews.cc/view/8099</id>
+        <link href="https://codenews.cc/view/8099"/>
+        <updated>2023-03-24T22:55:08.973Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8099">社区上线了ChatGPT，可以问ChatGPT一些有趣的问题，或许能得到意想不到的答案</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术]]></title>
         <id>https://codenews.cc/view/60590</id>
         <link href="https://codenews.cc/view/60590"/>
@@ -46,13 +53,6 @@
         <link href="https://codenews.cc/view/59298"/>
         <updated>2023-04-01T08:10:26.208Z</updated>
         <content type="html"><![CDATA[<a href="/view/59298">Twitter 推特开源其推荐算法</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[社区上线了ChatGPT，可以问ChatGPT一些有趣的问题，或许能得到意想不到的答案]]></title>
-        <id>https://codenews.cc/view/8099</id>
-        <link href="https://codenews.cc/view/8099"/>
-        <updated>2023-03-24T22:55:08.973Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8099">社区上线了ChatGPT，可以问ChatGPT一些有趣的问题，或许能得到意想不到的答案</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT 国内尝鲜入口，免登入，免梯]]></title>
