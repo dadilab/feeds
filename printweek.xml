@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printweek.com/news/all-news</id>
     <title>printweek news</title>
-    <updated>2023-04-03T12:13:28.301Z</updated>
+    <updated>2023-04-03T16:09:37.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printweek.com/media/182863/printweek-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hickling & Squires brings wide-format in-house]]></title>
+        <id>https://www.printweek.com/news/article/hickling-squires-brings-wide-format-in-house</id>
+        <link href="https://www.printweek.com/news/article/hickling-squires-brings-wide-format-in-house"/>
+        <updated>2023-04-03T16:09:21.214Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/hickling-squires-brings-wide-format-in-house">
+                            Hickling &amp; Squires brings wide-format in-house
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mediahuis CEO: daily papers set to disappear]]></title>
+        <id>https://www.printweek.com/news/article/mediahuis-ceo-daily-papers-set-to-disappear</id>
+        <link href="https://www.printweek.com/news/article/mediahuis-ceo-daily-papers-set-to-disappear"/>
+        <updated>2023-04-03T16:09:21.221Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/mediahuis-ceo-daily-papers-set-to-disappear">
+                            Mediahuis CEO: daily papers set to disappear
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Royal Mail woes dominate March headlines]]></title>
+        <id>https://www.printweek.com/news/article/royal-mail-woes-dominate-march-headlines</id>
+        <link href="https://www.printweek.com/news/article/royal-mail-woes-dominate-march-headlines"/>
+        <updated>2023-04-03T16:09:21.223Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/royal-mail-woes-dominate-march-headlines">
+                            Royal Mail woes dominate March headlines
+                        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rebrand and revamp at Paragon CC]]></title>
         <id>https://www.printweek.com/news/article/rebrand-and-revamp-at-paragon-cc</id>
@@ -111,33 +138,6 @@
         <updated>2023-03-29T17:35:34.003Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/cwu-royal-mail-board-to-meet-today-over-dispute-crisis">
                             CWU: Royal Mail board to meet today over dispute crisis
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Print Co launches after reunion with old owner]]></title>
-        <id>https://www.printweek.com/news/article/print-co-launches-after-reunion-with-old-owner</id>
-        <link href="https://www.printweek.com/news/article/print-co-launches-after-reunion-with-old-owner"/>
-        <updated>2023-03-29T17:35:34.007Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/print-co-launches-after-reunion-with-old-owner">
-                            Print Co launches after reunion with old owner
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YPS becomes Agfa Anapurna reseller]]></title>
-        <id>https://www.printweek.com/news/article/yps-becomes-agfa-anapurna-reseller</id>
-        <link href="https://www.printweek.com/news/article/yps-becomes-agfa-anapurna-reseller"/>
-        <updated>2023-03-29T17:35:34.007Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/yps-becomes-agfa-anapurna-reseller">
-                            YPS becomes Agfa Anapurna reseller
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Telegraph Media Group acquires lifestyle publisher]]></title>
-        <id>https://www.printweek.com/news/article/telegraph-media-group-acquires-lifestyle-publisher</id>
-        <link href="https://www.printweek.com/news/article/telegraph-media-group-acquires-lifestyle-publisher"/>
-        <updated>2023-03-29T17:35:34.002Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/telegraph-media-group-acquires-lifestyle-publisher">
-                            Telegraph Media Group acquires lifestyle publisher
                         </a>]]></content>
     </entry>
 </feed>
