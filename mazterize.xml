@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-04-03T08:13:58.037Z</updated>
+    <updated>2023-04-03T12:13:28.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[iZotope Neutron Pro 4.4 Advanced Full Version]]></title>
+        <id>https://www.mazterize.com/izotope-neutron-advanced-full-version.html</id>
+        <link href="https://www.mazterize.com/izotope-neutron-advanced-full-version.html"/>
+        <updated>2023-04-03T12:13:06.404Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bigasoft Video Downloader Pro 3.25.7.8491 Full Version]]></title>
         <id>https://www.mazterize.com/bigasoft-video-downloader-pro-full-version.html</id>
@@ -40,11 +46,5 @@
         <id>https://www.mazterize.com/textpad-full-version.html</id>
         <link href="https://www.mazterize.com/textpad-full-version.html"/>
         <updated>2023-04-03T00:37:14.217Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NetSetMan Pro 5.2 Full Version]]></title>
-        <id>https://www.mazterize.com/netsetman-pro.html</id>
-        <link href="https://www.mazterize.com/netsetman-pro.html"/>
-        <updated>2023-04-03T00:37:14.218Z</updated>
     </entry>
 </feed>
