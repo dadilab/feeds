@@ -2,8 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rsyqvthv.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-04T08:11:32.270Z</updated>
+    <updated>2023-04-04T12:13:42.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Good Friday could turn ‘bad’ on the roads as up to 17m Easter trips by car begin (RAC - Motoring news)]]></title>
+        <id>https://www.rac.co.uk/drive/news/motoring-news/good-friday-could-turn-bad-on-the-roads-as-up-to-17m-easter-trips-by-car/</id>
+        <link href="https://www.rac.co.uk/drive/news/motoring-news/good-friday-could-turn-bad-on-the-roads-as-up-to-17m-easter-trips-by-car/"/>
+        <updated>2023-04-04T12:12:02.499Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[69-year-old woman finally passes driving test after 960 attempts – costing more than £11,000 (RAC - Motoring news)]]></title>
         <id>https://www.rac.co.uk/drive/news/motoring-news/woman-finally-passes-driving-test-after-960-attempts-costing-more-than-1100/</id>
@@ -179,12 +185,6 @@
         <updated>2023-03-31T20:08:57.444Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Police data reveals Britain’s top ten speeding hotspots (RAC - Motoring news)]]></title>
-        <id>https://www.rac.co.uk/drive/news/motoring-news/police-data-reveals-britains-top-ten-speeding-hotspots/</id>
-        <link href="https://www.rac.co.uk/drive/news/motoring-news/police-data-reveals-britains-top-ten-speeding-hotspots/"/>
-        <updated>2023-03-31T20:08:57.445Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[undefined (RAC - Motoring news)]]></title>
         <id>https://www.rac.co.uk/drive/news/motoring-news/almost-a-million-drivers-at-risk-of-receiving-1000-fine-could-you-be-one-of/</id>
         <link href="https://www.rac.co.uk/drive/news/motoring-news/almost-a-million-drivers-at-risk-of-receiving-1000-fine-could-you-be-one-of/"/>
@@ -261,12 +261,6 @@
         <updated>2023-04-03T16:08:27.946Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[轻松一秒：网恋的女友只给我看身材，靠谱吗？ (网易 轻松一刻)]]></title>
-        <id>https://www.163.com/news/article/I191U241000181BT.html</id>
-        <link href="https://www.163.com/news/article/I191U241000181BT.html"/>
-        <updated>2023-04-01T16:07:44.416Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[轻松一秒：遇到这一幕，你是否有什么大胆的想法？ (网易 轻松一刻)]]></title>
         <id>https://www.163.com/news/article/I166AETD000181BT.html</id>
         <link href="https://www.163.com/news/article/I166AETD000181BT.html"/>
@@ -307,12 +301,6 @@
         <id>https://www.163.com/news/article/I0P6UBCU000181BR.html</id>
         <link href="https://www.163.com/news/article/I0P6UBCU000181BR.html"/>
         <updated>2023-03-26T12:10:45.908Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[午夜轻松一秒：女友头发形状很奇怪，是在暗示吗？ (网易 轻松一刻)]]></title>
-        <id>https://www.163.com/news/article/I0N83ULE000181BT.html</id>
-        <link href="https://www.163.com/news/article/I0N83ULE000181BT.html"/>
-        <updated>2023-03-25T16:07:47.971Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[轻松一秒：左边和右边这个，最大的区别是什么 (网易 轻松一刻)]]></title>
@@ -855,16 +843,22 @@
         <updated>2023-03-24T22:53:56.727Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[轻松一刻：和"90后"女孩谈恋爱，差点直接当继爷！ (网易 轻松一刻)]]></title>
+        <id>https://www.163.com/news/article/HQQN35SG000181BR.html</id>
+        <link href="https://www.163.com/news/article/HQQN35SG000181BR.html"/>
+        <updated>2023-04-04T12:12:15.836Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：两万的月薪算低薪？我狠狠破防了 (网易 轻松一刻)]]></title>
+        <id>https://www.163.com/news/article/HQOQMP22000181BR.html</id>
+        <link href="https://www.163.com/news/article/HQOQMP22000181BR.html"/>
+        <updated>2023-04-04T12:12:15.837Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[轻松一刻:清明节给祖宗烧个真奥迪,真是孝顺爆了！ (网易 轻松一刻)]]></title>
         <id>https://www.163.com/news/article/I1E648J0000181BR.html</id>
         <link href="https://www.163.com/news/article/I1E648J0000181BR.html"/>
         <updated>2023-04-03T16:08:27.946Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一秒：网恋的女友只给我看身材，靠谱吗？ (网易 轻松一刻)]]></title>
-        <id>https://www.163.com/news/article/I191U241000181BT.html</id>
-        <link href="https://www.163.com/news/article/I191U241000181BT.html"/>
-        <updated>2023-04-01T16:07:44.416Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[轻松一秒：遇到这一幕，你是否有什么大胆的想法？ (网易 轻松一刻)]]></title>
@@ -907,12 +901,6 @@
         <id>https://www.163.com/news/article/I0P6UBCU000181BR.html</id>
         <link href="https://www.163.com/news/article/I0P6UBCU000181BR.html"/>
         <updated>2023-03-26T12:10:45.908Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[午夜轻松一秒：女友头发形状很奇怪，是在暗示吗？ (网易 轻松一刻)]]></title>
-        <id>https://www.163.com/news/article/I0N83ULE000181BT.html</id>
-        <link href="https://www.163.com/news/article/I0N83ULE000181BT.html"/>
-        <updated>2023-03-25T16:07:47.971Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[轻松一秒：左边和右边这个，最大的区别是什么 (网易 轻松一刻)]]></title>
@@ -1437,6 +1425,18 @@
         <updated>2023-03-24T22:53:56.727Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[轻松一刻：和"90后"女孩谈恋爱，差点直接当继爷！ (网易 轻松一刻)]]></title>
+        <id>https://www.163.com/news/article/HQQN35SG000181BR.html</id>
+        <link href="https://www.163.com/news/article/HQQN35SG000181BR.html"/>
+        <updated>2023-04-04T12:12:16.005Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：两万的月薪算低薪？我狠狠破防了 (网易 轻松一刻)]]></title>
+        <id>https://www.163.com/news/article/HQOQMP22000181BR.html</id>
+        <link href="https://www.163.com/news/article/HQOQMP22000181BR.html"/>
+        <updated>2023-04-04T12:12:16.007Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pandora占星小巫天蝎座一周塔罗运势（4.3-4.9） (美国神婆 天蝎)]]></title>
         <id>https://www.zuixingzuo.net/tianxie/show357185.html</id>
         <link href="https://www.zuixingzuo.net/tianxie/show357185.html"/>
@@ -1635,7 +1635,7 @@
 								<td colspan="3" style="line-height: 25px;">很有耐心的一天，若是事情不在你们掌握，你们会耐心等待机会让事情拨乱反正，这也会是心态非常好的一天，你们会在各方面都逐渐绽放属于自己的魅力。</td>
 							</tr>
 						</tbody></table>
-						<div class="chart-box" style="height: 400px; user-select: none; position: relative;" _echarts_instance_="ec_1680595827970"><div style="position: relative; width: 680px; height: 400px; padding: 0px; margin: 0px; border-width: 0px;"><canvas style="position: absolute; left: 0px; top: 0px; width: 680px; height: 400px; user-select: none; padding: 0px; margin: 0px; border-width: 0px;" data-zr-dom-id="zr_0" width="680" height="400"></canvas></div><div></div></div>
+						<div class="chart-box" style="height: 400px; user-select: none; position: relative;" _echarts_instance_="ec_1680610359286"><div style="position: relative; width: 680px; height: 400px; padding: 0px; margin: 0px; border-width: 0px;"><canvas style="position: absolute; left: 0px; top: 0px; width: 680px; height: 400px; user-select: none; padding: 0px; margin: 0px; border-width: 0px;" data-zr-dom-id="zr_0" width="680" height="400"></canvas></div><div></div></div>
 						<!-- <div class="words"></div> -->
 
 						<!-- 自定义按钮及分享 -->
@@ -1786,63 +1786,63 @@
         <id>https://m.163.com/news/article/I1E6O2UA0001899O.html</id>
         <link href="https://m.163.com/news/article/I1E6O2UA0001899O.html"/>
         <updated>2023-04-03T16:08:56.176Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1E6O2UA0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>中国新任驻朝鲜大使王亚军抵达平壤</h4><div class="s-info"><!----><span class="s-source">中国驻朝鲜大使馆网站</span><span class="s-replyCount">622跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="中国新任驻朝鲜大使王亚军抵达平壤" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2Fabe031a7p00rsjj2q004hc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1E6O2UA0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>中国新任驻朝鲜大使王亚军抵达平壤</h4><div class="s-info"><!----><span class="s-source">中国驻朝鲜大使馆网站</span><span class="s-replyCount">578跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="中国新任驻朝鲜大使王亚军抵达平壤" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2Fabe031a7p00rsjj2q004hc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[李明远任陕西省委常委 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I1DUHM4U0001899O.html</id>
         <link href="https://m.163.com/news/article/I1DUHM4U0001899O.html"/>
         <updated>2023-04-03T16:08:56.184Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1DUHM4U0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>李明远任陕西省委常委 </h4><div class="s-info"><!----><span class="s-source">界面新闻</span><span class="s-replyCount">987跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="李明远任陕西省委常委 " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F4b496a5ap00rsjbml001kc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1DUHM4U0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>李明远任陕西省委常委 </h4><div class="s-info"><!----><span class="s-source">界面新闻</span><span class="s-replyCount">1017跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="李明远任陕西省委常委 " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F4b496a5ap00rsjbml001kc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[马英九湖南祭祖后抵达重庆，参访海峡两岸文化教育基地 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I1DRRR840001899O.html</id>
         <link href="https://m.163.com/news/article/I1DRRR840001899O.html"/>
         <updated>2023-04-03T12:12:47.357Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1DRRR840001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>马英九湖南祭祖后抵达重庆，参访海峡两岸文化教育基地 </h4><div class="s-info"><!----><span class="s-source">环球网</span><span class="s-replyCount">619跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="马英九湖南祭祖后抵达重庆，参访海峡两岸文化教育基地 " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F75625607p00rsj9ib0038c0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1DRRR840001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>马英九湖南祭祖后抵达重庆，参访海峡两岸文化教育基地 </h4><div class="s-info"><!----><span class="s-source">环球网</span><span class="s-replyCount">620跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="马英九湖南祭祖后抵达重庆，参访海峡两岸文化教育基地 " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F75625607p00rsj9ib0038c0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[海南副省长:2024年底前完成封关各项准备 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I1DOSN7O051492T3.html</id>
         <link href="https://m.163.com/news/article/I1DOSN7O051492T3.html"/>
         <updated>2023-04-03T12:12:47.357Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1DOSN7O051492T3.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>海南副省长:2024年底前完成封关各项准备</h4><div class="s-info"><!----><span class="s-source">红星新闻</span><span class="s-replyCount">1555跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="海南副省长:2024年底前完成封关各项准备" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F1bd98f3ap00rsj867001tc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1DOSN7O051492T3.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>海南副省长:2024年底前完成封关各项准备</h4><div class="s-info"><!----><span class="s-source">红星新闻</span><span class="s-replyCount">1583跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="海南副省长:2024年底前完成封关各项准备" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F1bd98f3ap00rsj867001tc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[外交部：对坂本龙一先生去世表示哀悼 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I1DN0D5H0001899O.html</id>
         <link href="https://m.163.com/news/article/I1DN0D5H0001899O.html"/>
         <updated>2023-04-03T12:12:47.357Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1DN0D5H0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>外交部：对坂本龙一先生去世表示哀悼 </h4><div class="s-info"><!----><span class="s-source">北京日报客户端</span><span class="s-replyCount">1817跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="外交部：对坂本龙一先生去世表示哀悼 " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F7a64ac0cp00rsj7g0001bc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1DN0D5H0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>外交部：对坂本龙一先生去世表示哀悼 </h4><div class="s-info"><!----><span class="s-source">北京日报客户端</span><span class="s-replyCount">1834跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="外交部：对坂本龙一先生去世表示哀悼 " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F7a64ac0cp00rsj7g0001bc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[郑州二环外取消限购 限售政策也调整 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I1DO7L3L0001899O.html</id>
         <link href="https://m.163.com/news/article/I1DO7L3L0001899O.html"/>
         <updated>2023-04-03T12:12:47.357Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1DO7L3L0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>郑州二环外取消限购 限售政策也调整</h4><div class="s-info"><!----><span class="s-source">财联社</span><span class="s-replyCount">4130跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="郑州二环外取消限购 限售政策也调整" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F69b67452p00rsj6x90028c0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1DO7L3L0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>郑州二环外取消限购 限售政策也调整</h4><div class="s-info"><!----><span class="s-source">财联社</span><span class="s-replyCount">4175跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="郑州二环外取消限购 限售政策也调整" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F69b67452p00rsj6x90028c0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[普京称同中印加强关系是优先事项 中方回应 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I1DN8ADH0001899O.html</id>
         <link href="https://m.163.com/news/article/I1DN8ADH0001899O.html"/>
         <updated>2023-04-03T12:12:47.359Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1DN8ADH0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>普京称同中印加强关系是优先事项 中方回应</h4><div class="s-info"><!----><span class="s-source">环球网</span><span class="s-replyCount">643跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="普京称同中印加强关系是优先事项 中方回应" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F62753a2dp00rsj6au0037c0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1DN8ADH0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>普京称同中印加强关系是优先事项 中方回应</h4><div class="s-info"><!----><span class="s-source">环球网</span><span class="s-replyCount">646跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="普京称同中印加强关系是优先事项 中方回应" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F62753a2dp00rsj6au0037c0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[外交部回应日本半导体制造设备出口管制 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I1DM9LOI0001899O.html</id>
         <link href="https://m.163.com/news/article/I1DM9LOI0001899O.html"/>
         <updated>2023-04-03T12:12:47.359Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1DM9LOI0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>外交部回应日本半导体制造设备出口管制</h4><div class="s-info"><!----><span class="s-source">财联社</span><span class="s-replyCount">2938跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="外交部回应日本半导体制造设备出口管制" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2Fe77c04d2p00rsj688001fc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1DM9LOI0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>外交部回应日本半导体制造设备出口管制</h4><div class="s-info"><!----><span class="s-source">财联社</span><span class="s-replyCount">2955跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="外交部回应日本半导体制造设备出口管制" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2Fe77c04d2p00rsj688001fc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[日本将取消中国大陆入境旅客新冠检测要求 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I1DMT5B3000189PS.html</id>
         <link href="https://m.163.com/news/article/I1DMT5B3000189PS.html"/>
         <updated>2023-04-03T12:12:47.362Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1DMT5B3000189PS.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>日本将取消中国大陆入境旅客新冠检测要求</h4><div class="s-info"><!----><span class="s-source">央视新闻客户端</span><span class="s-replyCount">57跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="日本将取消中国大陆入境旅客新冠检测要求" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F25c0826ep00rsj5sb002jc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1DMT5B3000189PS.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>日本将取消中国大陆入境旅客新冠检测要求</h4><div class="s-info"><!----><span class="s-source">央视新闻客户端</span><span class="s-replyCount">58跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="日本将取消中国大陆入境旅客新冠检测要求" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F25c0826ep00rsj5sb002jc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[外交部：在南海问题上 中方立场是明确的 (网易 国内新闻)]]></title>
@@ -1856,21 +1856,21 @@
         <id>https://m.163.com/news/article/I1DM0P050001899O.html</id>
         <link href="https://m.163.com/news/article/I1DM0P050001899O.html"/>
         <updated>2023-04-03T12:12:47.363Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1DM0P050001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>若麦卡锡和蔡英文会面 中国将采取坚定措施</h4><div class="s-info"><!----><span class="s-source">财联社</span><span class="s-replyCount">2726跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="若麦卡锡和蔡英文会面 中国将采取坚定措施" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F774caa0cp00rsj5v40011c0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1DM0P050001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>若麦卡锡和蔡英文会面 中国将采取坚定措施</h4><div class="s-info"><!----><span class="s-source">财联社</span><span class="s-replyCount">2749跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="若麦卡锡和蔡英文会面 中国将采取坚定措施" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F774caa0cp00rsj5v40011c0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中方对美芯片公司网络安全审查 外交部回应 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I1DM3O6S0001899O.html</id>
         <link href="https://m.163.com/news/article/I1DM3O6S0001899O.html"/>
         <updated>2023-04-03T12:12:47.363Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1DM3O6S0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>中方对美芯片公司网络安全审查 外交部回应</h4><div class="s-info"><!----><span class="s-source">财联社</span><span class="s-replyCount">1047跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="中方对美芯片公司网络安全审查 外交部回应" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F411d39fdp00rsj662004oc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1DM3O6S0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>中方对美芯片公司网络安全审查 外交部回应</h4><div class="s-info"><!----><span class="s-source">财联社</span><span class="s-replyCount">1061跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="中方对美芯片公司网络安全审查 外交部回应" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0403%2F411d39fdp00rsj662004oc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中疾控：近期新发现本土重点关注变异株22例 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I1943L400001899O.html</id>
         <link href="https://m.163.com/news/article/I1943L400001899O.html"/>
         <updated>2023-04-03T12:12:47.363Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1943L400001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>中疾控：近期新发现本土重点关注变异株22例  </h4><div class="s-info"><!----><span class="s-source">北京日报客户端</span><span class="s-replyCount">3904跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="中疾控：近期新发现本土重点关注变异株22例  " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0401%2F63307763p00rsfuqh006hc000p800hjc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1943L400001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>中疾控：近期新发现本土重点关注变异株22例  </h4><div class="s-info"><!----><span class="s-source">北京日报客户端</span><span class="s-replyCount">3905跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="中疾控：近期新发现本土重点关注变异株22例  " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0401%2F63307763p00rsfuqh006hc000p800hjc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[王卫东任青海省西宁市委书记 (网易 国内新闻)]]></title>
@@ -1884,7 +1884,7 @@
         <id>https://m.163.com/news/article/I18RBV6J0001899O.html</id>
         <link href="https://m.163.com/news/article/I18RBV6J0001899O.html"/>
         <updated>2023-04-01T12:11:11.085Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I18RBV6J0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>海南离岛旅客免税购物今起新增两种提货方式   </h4><div class="s-info"><!----><span class="s-source">财联社</span><span class="s-replyCount">945跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="海南离岛旅客免税购物今起新增两种提货方式   " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0401%2F11caac46p00rsfpak0011c0008z005vc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I18RBV6J0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>海南离岛旅客免税购物今起新增两种提货方式   </h4><div class="s-info"><!----><span class="s-source">财联社</span><span class="s-replyCount">934跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="海南离岛旅客免税购物今起新增两种提货方式   " class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0401%2F11caac46p00rsfpak0011c0008z005vc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[钟南山：感染BA.5后再感染XBB的几率仍较高 (网易 国内新闻)]]></title>
@@ -1912,14 +1912,14 @@
         <id>https://m.163.com/news/article/I18F3CG50001899O.html</id>
         <link href="https://m.163.com/news/article/I18F3CG50001899O.html"/>
         <updated>2023-04-01T12:11:11.097Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I18F3CG50001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>张继科否认“因欠债传播女演员隐私视频”</h4><div class="s-info"><!----><span class="s-source">新京报</span><span class="s-replyCount">1526跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="张继科否认“因欠债传播女演员隐私视频”" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0401%2Fc05103bbp00rsfe9r002cc000cp008oc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I18F3CG50001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>张继科否认“因欠债传播女演员隐私视频”</h4><div class="s-info"><!----><span class="s-source">新京报</span><span class="s-replyCount">1482跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="张继科否认“因欠债传播女演员隐私视频”" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0401%2Fc05103bbp00rsfe9r002cc000cp008oc.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[北京等9地区惠民殡葬政策已覆盖到全体户籍居民 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I17H3K290001899N.html</id>
         <link href="https://m.163.com/news/article/I17H3K290001899N.html"/>
         <updated>2023-04-01T12:11:11.098Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I17H3K290001899N.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>北京等9地区惠民殡葬政策已覆盖到全体户籍居民</h4><div class="s-info"><!----><span class="s-source">新京报</span><span class="s-replyCount">2096跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="北京等9地区惠民殡葬政策已覆盖到全体户籍居民" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0401%2Fc6230b23p00rsepbt002nc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I17H3K290001899N.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>北京等9地区惠民殡葬政策已覆盖到全体户籍居民</h4><div class="s-info"><!----><span class="s-source">新京报</span><span class="s-replyCount">2110跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/bg.png" alt="北京等9地区惠民殡葬政策已覆盖到全体户籍居民" class="nimg" data-src="https://nimg.ws.126.net/?url=http%3A%2F%2Fcms-bucket.ws.126.net%2F2023%2F0401%2Fc6230b23p00rsepbt002nc0009c0070c.png&amp;thumbnail=230x2147483647&amp;quality=75&amp;type=webp" lazy="loading"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新冠药物新支付政策今起执行：医保目录外A类产品可报销 (网易 国内新闻)]]></title>
@@ -2002,7 +2002,7 @@
         <title type="html"><![CDATA[undefined (吾爱破解 今日热帖)]]></title>
         <id>https://rsyqvthv.github.io/feeds/all.xml</id>
         <link href="https://rsyqvthv.github.io/feeds/all.xml"/>
-        <updated>2023-04-04T08:10:50.148Z</updated>
+        <updated>2023-04-04T12:12:59.510Z</updated>
         <content type="html"><![CDATA[主题]]></content>
     </entry>
     <entry>
@@ -2109,6 +2109,111 @@
         <link href="https://www.52pojie.cn/thread-1769096-1-1.html"/>
         <updated>2023-04-04T04:09:02.122Z</updated>
         <content type="html"><![CDATA[<a href="thread-1769096-1-1.html" target="_blank">家里三个路由器，经常卡顿断网，请问怎么回事？</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里版ChatGPT已开启内测 有望在4月11日亮相 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352919.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352919.htm"/>
+        <updated>2023-04-04T12:13:06.936Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352919.htm">阿里版ChatGPT已开启内测 有望在4月11日亮相</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[日本投资15万亿日元豪赌氢燃料汽车未来 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352917.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352917.htm"/>
+        <updated>2023-04-04T12:13:06.937Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352917.htm">日本投资15万亿日元豪赌氢燃料汽车未来</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软第一方大作退出XGP 官方回应：授权问题解决将回归 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352915.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352915.htm"/>
+        <updated>2023-04-04T12:13:06.941Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352915.htm">微软第一方大作退出XGP 官方回应：授权问题解决将回归</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3nm工艺！AMD Zen5 APU架构全面升级：大小核加持、集显逆天 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352913.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352913.htm"/>
+        <updated>2023-04-04T12:13:06.942Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352913.htm">3nm工艺！AMD Zen5 APU架构全面升级：大小核加持、集显逆天</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[精度优于10米 中科宇航海上垂直回收火箭试验圆满成功 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352911.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352911.htm"/>
+        <updated>2023-04-04T12:13:06.958Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352911.htm">精度优于10米 中科宇航海上垂直回收火箭试验圆满成功</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新海诚：想早日再来中国 想念中国菜和白酒 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352909.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352909.htm"/>
+        <updated>2023-04-04T12:13:06.958Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352909.htm">新海诚：想早日再来中国 想念中国菜和白酒</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年3月新能源汽车销量出炉：比亚迪独占超1/3 问界3000+辆 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352907.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352907.htm"/>
+        <updated>2023-04-04T12:13:06.958Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352907.htm">2023年3月新能源汽车销量出炉：比亚迪独占超1/3 问界3000+辆</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华硕首款ROG掌机上手：4nm Zen4处理器加持 性能是Steam Deck两倍 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352905.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352905.htm"/>
+        <updated>2023-04-04T12:13:06.958Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352905.htm">华硕首款ROG掌机上手：4nm Zen4处理器加持 性能是Steam Deck两倍</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工信部通报扫码支付新骗局：钻App漏子 远程扫付款码“偷钱” (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352903.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352903.htm"/>
+        <updated>2023-04-04T12:13:06.958Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352903.htm">工信部通报扫码支付新骗局：钻App漏子 远程扫付款码“偷钱”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6.4万买的软件终于能用了？特斯拉FSD被曝将于国内大范围测试 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352901.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352901.htm"/>
+        <updated>2023-04-04T12:13:06.958Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352901.htm">6.4万买的软件终于能用了？特斯拉FSD被曝将于国内大范围测试</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[徕卡发布预热海报：新品将于本月15日正式亮相 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352899.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352899.htm"/>
+        <updated>2023-04-04T12:13:06.958Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352899.htm">徕卡发布预热海报：新品将于本月15日正式亮相</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果天气应用遭遇罕见服务中断 官网已经挂出故障提示 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352897.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352897.htm"/>
+        <updated>2023-04-04T12:13:06.961Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352897.htm">苹果天气应用遭遇罕见服务中断 官网已经挂出故障提示</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTX 4070价格/性能对比4070 Ti：便宜25%、跑分低19% (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352895.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352895.htm"/>
+        <updated>2023-04-04T12:13:06.968Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352895.htm">RTX 4070价格/性能对比4070 Ti：便宜25%、跑分低19%</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“百蛛互指”名场面重现：动画电影《蜘蛛侠：纵横宇宙》新预告公开 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352893.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352893.htm"/>
+        <updated>2023-04-04T12:13:06.970Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352893.htm">“百蛛互指”名场面重现：动画电影《蜘蛛侠：纵横宇宙》新预告公开</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狂飙于00年代的小灵通退出历史舞台 回顾28年兴衰史 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1352891.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1352891.htm"/>
+        <updated>2023-04-04T12:13:06.970Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1352891.htm">狂飙于00年代的小灵通退出历史舞台 回顾28年兴衰史</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[更多的Cloud PC细节泄露 显示下一代Windows即将发生的有趣变化 (cnbeta 首页)]]></title>
@@ -2426,109 +2531,22 @@
         <content type="html"><![CDATA[<a href="/wap/view/1352801.htm">调查显示​苹果的"Find My"功能与AirTags时常被用来追踪配偶</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[三星Galaxy Tab S9+渲染图泄露 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352799.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352799.htm"/>
-        <updated>2023-04-04T04:09:08.281Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352799.htm">三星Galaxy Tab S9+渲染图泄露</a>]]></content>
+        <title type="html"><![CDATA[Virtual DJ 2023 Pro Infinity 8.5.7482 Full Version (mazterize)]]></title>
+        <id>https://www.mazterize.com/virtual-dj-pro-infinity-full.html</id>
+        <link href="https://www.mazterize.com/virtual-dj-pro-infinity-full.html"/>
+        <updated>2023-04-04T12:13:12.813Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[动视暴雪因电竞选手薪酬问题被美国政府起诉 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352797.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352797.htm"/>
-        <updated>2023-04-04T04:09:08.283Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352797.htm">动视暴雪因电竞选手薪酬问题被美国政府起诉</a>]]></content>
+        <title type="html"><![CDATA[Movavi Video Editor Plus 23.3.0 Full Version (mazterize)]]></title>
+        <id>https://www.mazterize.com/movavi-video-editor-plus-full-version.html</id>
+        <link href="https://www.mazterize.com/movavi-video-editor-plus-full-version.html"/>
+        <updated>2023-04-04T12:13:12.815Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[挑战Steam Deck 华硕打造自己的掌机ROG Ally (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352795.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352795.htm"/>
-        <updated>2023-04-04T04:09:08.284Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352795.htm">挑战Steam Deck 华硕打造自己的掌机ROG Ally</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疑似《星空》限定Xbox手柄泄露 有透明扳机键 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352793.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352793.htm"/>
-        <updated>2023-04-04T04:09:08.285Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352793.htm">疑似《星空》限定Xbox手柄泄露 有透明扳机键</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沙特阿拉伯政府投资380亿美元 打造游戏产业中心 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352791.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352791.htm"/>
-        <updated>2023-04-04T04:09:08.286Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352791.htm">沙特阿拉伯政府投资380亿美元 打造游戏产业中心</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[英伟达正在“垄断”AI产业，国内厂商准备好了吗？ (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352789.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352789.htm"/>
-        <updated>2023-04-04T04:09:08.287Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352789.htm">英伟达正在“垄断”AI产业，国内厂商准备好了吗？</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克将推特图标换成柴犬头像：还发了一幅漫画 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352787.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352787.htm"/>
-        <updated>2023-04-04T04:09:08.288Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352787.htm">马斯克将推特图标换成柴犬头像：还发了一幅漫画</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《哈利波特》真人剧来了？传华纳兄弟探索频道接近敲定协议 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352785.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352785.htm"/>
-        <updated>2023-04-04T04:09:08.288Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352785.htm">《哈利波特》真人剧来了？传华纳兄弟探索频道接近敲定协议</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世卫组织称全球六分之一人不孕不育 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352783.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352783.htm"/>
-        <updated>2023-04-04T04:09:08.289Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352783.htm">世卫组织称全球六分之一人不孕不育</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“印度硅谷”班加罗尔房租一年暴涨近一倍 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352781.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352781.htm"/>
-        <updated>2023-04-04T04:09:08.290Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352781.htm">“印度硅谷”班加罗尔房租一年暴涨近一倍</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球需求疲软 韩国大企业去年库存激增近30% (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352779.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352779.htm"/>
-        <updated>2023-04-04T04:09:08.291Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352779.htm">全球需求疲软 韩国大企业去年库存激增近30%</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沃尔玛在美国五个电商履约中心裁员2000多人 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352777.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352777.htm"/>
-        <updated>2023-04-04T04:09:08.292Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352777.htm">沃尔玛在美国五个电商履约中心裁员2000多人</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[挑起价格战或将自伤利润率？特斯拉股价大跌6% 市值蒸发401亿美元 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352775.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352775.htm"/>
-        <updated>2023-04-04T04:09:08.293Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352775.htm">挑起价格战或将自伤利润率？特斯拉股价大跌6% 市值蒸发401亿美元</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[库克谈与马斯克和特朗普会面：“即便意见不同也需要交流” (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352773.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352773.htm"/>
-        <updated>2023-04-04T04:09:08.294Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352773.htm">库克谈与马斯克和特朗普会面：“即便意见不同也需要交流”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌压缩员工福利待遇：延长电脑更换周期 减少免费办公用品 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1352771.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1352771.htm"/>
-        <updated>2023-04-04T04:09:08.297Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1352771.htm">谷歌压缩员工福利待遇：延长电脑更换周期 减少免费办公用品</a>]]></content>
+        <title type="html"><![CDATA[Driver Magician 5.9 Full Version (mazterize)]]></title>
+        <id>https://www.mazterize.com/driver-magician-full-version.html</id>
+        <link href="https://www.mazterize.com/driver-magician-full-version.html"/>
+        <updated>2023-04-04T12:13:12.818Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Autodesk 3ds Max 2024 Full Version (mazterize)]]></title>
@@ -2553,24 +2571,6 @@
         <id>https://www.mazterize.com/process-lasso-pro-full.html</id>
         <link href="https://www.mazterize.com/process-lasso-pro-full.html"/>
         <updated>2023-04-04T00:34:50.466Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iZotope Neutron Pro 4.4 Advanced Full Version (mazterize)]]></title>
-        <id>https://www.mazterize.com/izotope-neutron-advanced-full-version.html</id>
-        <link href="https://www.mazterize.com/izotope-neutron-advanced-full-version.html"/>
-        <updated>2023-04-03T12:13:06.404Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bigasoft Video Downloader Pro 3.25.7.8491 Full Version (mazterize)]]></title>
-        <id>https://www.mazterize.com/bigasoft-video-downloader-pro-full-version.html</id>
-        <link href="https://www.mazterize.com/bigasoft-video-downloader-pro-full-version.html"/>
-        <updated>2023-04-03T04:09:41.585Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pro Motion NG 8.0.3.1 Full Version (mazterize)]]></title>
-        <id>https://www.mazterize.com/pro-motion-ng-full-version.html</id>
-        <link href="https://www.mazterize.com/pro-motion-ng-full-version.html"/>
-        <updated>2023-04-03T04:09:41.588Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hickling & Squires brings wide-format in-house (printweek news)]]></title>
@@ -3727,18 +3727,18 @@ AIMP 5.11.2427 Multilingual
         <content type="html"><![CDATA[<a href="/view/8094">ChatGPT 国内尝鲜入口，免登入，免梯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术 (codenews 首页推荐)]]></title>
-        <id>https://codenews.cc/view/60590</id>
-        <link href="https://codenews.cc/view/60590"/>
-        <updated>2023-04-01T12:11:56.553Z</updated>
-        <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[街景奇观，随机展示一张有趣的街景，并可与鼠标结合WSAD移动，虚拟元宇宙 (codenews 首页推荐)]]></title>
         <id>https://codenews.cc/view/8295</id>
         <link href="https://codenews.cc/view/8295"/>
         <updated>2023-03-24T22:55:08.976Z</updated>
         <content type="html"><![CDATA[<a href="/view/8295">街景奇观，随机展示一张有趣的街景，并可与鼠标结合WSAD移动，虚拟元宇宙</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术 (codenews 首页推荐)]]></title>
+        <id>https://codenews.cc/view/60590</id>
+        <link href="https://codenews.cc/view/60590"/>
+        <updated>2023-04-01T12:11:56.553Z</updated>
+        <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Twitter 推特开源其推荐算法 (codenews 首页推荐)]]></title>
