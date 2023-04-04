@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-04T04:09:33.848Z</updated>
+    <updated>2023-04-04T08:11:32.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter 推特开源其推荐算法]]></title>
-        <id>https://codenews.cc/view/59298</id>
-        <link href="https://codenews.cc/view/59298"/>
-        <updated>2023-04-01T08:10:26.208Z</updated>
-        <content type="html"><![CDATA[<a href="/view/59298">Twitter 推特开源其推荐算法</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[街景奇观，随机展示一张有趣的街景，并可与鼠标结合WSAD移动，虚拟元宇宙]]></title>
         <id>https://codenews.cc/view/8295</id>
         <link href="https://codenews.cc/view/8295"/>
         <updated>2023-03-24T22:55:08.976Z</updated>
         <content type="html"><![CDATA[<a href="/view/8295">街景奇观，随机展示一张有趣的街景，并可与鼠标结合WSAD移动，虚拟元宇宙</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter 推特开源其推荐算法]]></title>
+        <id>https://codenews.cc/view/59298</id>
+        <link href="https://codenews.cc/view/59298"/>
+        <updated>2023-04-01T08:10:26.208Z</updated>
+        <content type="html"><![CDATA[<a href="/view/59298">Twitter 推特开源其推荐算法</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub上 Star 20k 的功能强大但简单易用的屏幕截图软件🖥️ 📸]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[<a href="/view/8276">Komga 一个免费的开源漫画/漫画服务器</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！]]></title>
-        <id>https://codenews.cc/view/47592</id>
-        <link href="https://codenews.cc/view/47592"/>
-        <updated>2023-03-30T16:10:06.454Z</updated>
-        <content type="html"><![CDATA[<a href="/view/47592">ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[密码学工具箱📦]]></title>
         <id>https://codenews.cc/view/8065</id>
         <link href="https://codenews.cc/view/8065"/>
         <updated>2023-03-24T22:55:09.000Z</updated>
         <content type="html"><![CDATA[<a href="/view/8065">密码学工具箱📦</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！]]></title>
+        <id>https://codenews.cc/view/47592</id>
+        <link href="https://codenews.cc/view/47592"/>
+        <updated>2023-03-30T16:10:06.454Z</updated>
+        <content type="html"><![CDATA[<a href="/view/47592">ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫]]></title>
@@ -181,18 +181,18 @@
         <content type="html"><![CDATA[<a href="/view/8079">用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃]]></title>
-        <id>https://codenews.cc/view/8095</id>
-        <link href="https://codenews.cc/view/8095"/>
-        <updated>2023-03-24T22:55:09.021Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8095">🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AC印象 ( acimage) 是一个前后端分离的SpringCloud论坛系统。Web 端使用 Vue + ElementUi 。后端使用 SpringCloud+Mybatis-Plus+Reids+Rabbitmq。]]></title>
         <id>https://codenews.cc/view/8033</id>
         <link href="https://codenews.cc/view/8033"/>
         <updated>2023-03-24T22:55:09.033Z</updated>
         <content type="html"><![CDATA[<a href="/view/8033">AC印象 ( acimage) 是一个前后端分离的SpringCloud论坛系统。Web 端使用 Vue + ElementUi 。后端使用 SpringCloud+Mybatis-Plus+Reids+Rabbitmq。</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃]]></title>
+        <id>https://codenews.cc/view/8095</id>
+        <link href="https://codenews.cc/view/8095"/>
+        <updated>2023-03-24T22:55:09.021Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8095">🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[轻量级、可嵌入式、Tableau 开源替代品 graphic-walker]]></title>
