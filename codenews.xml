@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-04T00:35:16.095Z</updated>
+    <updated>2023-04-04T04:09:33.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[<a href="/view/8099">社区上线了ChatGPT，可以问ChatGPT一些有趣的问题，或许能得到意想不到的答案</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术]]></title>
-        <id>https://codenews.cc/view/60590</id>
-        <link href="https://codenews.cc/view/60590"/>
-        <updated>2023-04-01T12:11:56.553Z</updated>
-        <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ChatGPT 国内尝鲜入口，免登入，免梯]]></title>
         <id>https://codenews.cc/view/8094</id>
         <link href="https://codenews.cc/view/8094"/>
         <updated>2023-03-24T22:55:08.973Z</updated>
         <content type="html"><![CDATA[<a href="/view/8094">ChatGPT 国内尝鲜入口，免登入，免梯</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术]]></title>
+        <id>https://codenews.cc/view/60590</id>
+        <link href="https://codenews.cc/view/60590"/>
+        <updated>2023-04-01T12:11:56.553Z</updated>
+        <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Twitter 推特开源其推荐算法]]></title>
@@ -111,18 +111,18 @@
         <content type="html"><![CDATA[<a href="/view/8058">将个人照片变成卡通风格漫画头像的神器 photo2cartoon</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！]]></title>
-        <id>https://codenews.cc/view/47592</id>
-        <link href="https://codenews.cc/view/47592"/>
-        <updated>2023-03-30T16:10:06.454Z</updated>
-        <content type="html"><![CDATA[<a href="/view/47592">ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Komga 一个免费的开源漫画/漫画服务器]]></title>
         <id>https://codenews.cc/view/8276</id>
         <link href="https://codenews.cc/view/8276"/>
         <updated>2023-03-24T22:55:08.986Z</updated>
         <content type="html"><![CDATA[<a href="/view/8276">Komga 一个免费的开源漫画/漫画服务器</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！]]></title>
+        <id>https://codenews.cc/view/47592</id>
+        <link href="https://codenews.cc/view/47592"/>
+        <updated>2023-03-30T16:10:06.454Z</updated>
+        <content type="html"><![CDATA[<a href="/view/47592">ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[密码学工具箱📦]]></title>

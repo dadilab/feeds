@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-04-04T00:35:16.099Z</updated>
+    <updated>2023-04-04T04:09:33.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WinSnap 6.0.4 Full Version]]></title>
+        <id>https://www.mazterize.com/winsnap.html</id>
+        <link href="https://www.mazterize.com/winsnap.html"/>
+        <updated>2023-04-04T04:09:11.968Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Process Lasso Pro 12.1.0.26 Full Version]]></title>
         <id>https://www.mazterize.com/process-lasso-pro-full.html</id>
@@ -40,11 +46,5 @@
         <id>https://www.mazterize.com/hex-editor-neo-full-crack.html</id>
         <link href="https://www.mazterize.com/hex-editor-neo-full-crack.html"/>
         <updated>2023-04-03T00:37:14.215Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WordWeb Pro Ultimate Reference Bundle 10.30 Full Version]]></title>
-        <id>https://www.mazterize.com/wordweb-pro-ultimate-full-version.html</id>
-        <link href="https://www.mazterize.com/wordweb-pro-ultimate-full-version.html"/>
-        <updated>2023-04-03T00:37:14.216Z</updated>
     </entry>
 </feed>
