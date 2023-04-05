@@ -2,9 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printweek.com/news/all-news</id>
     <title>printweek news</title>
-    <updated>2023-04-05T12:16:30.866Z</updated>
+    <updated>2023-04-05T16:14:28.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printweek.com/media/182863/printweek-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NHS goes live with huge tender]]></title>
+        <id>https://www.printweek.com/news/article/nhs-goes-live-with-huge-tender</id>
+        <link href="https://www.printweek.com/news/article/nhs-goes-live-with-huge-tender"/>
+        <updated>2023-04-05T16:14:08.621Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/nhs-goes-live-with-huge-tender">
+                            NHS goes live with huge tender
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Royal Mail: talks end with no deal]]></title>
+        <id>https://www.printweek.com/news/article/royal-mail-talks-end-with-no-deal</id>
+        <link href="https://www.printweek.com/news/article/royal-mail-talks-end-with-no-deal"/>
+        <updated>2023-04-05T16:14:08.625Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/royal-mail-talks-end-with-no-deal">
+                            Royal Mail: talks end with no deal
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Michael Grade named new Printing Charity president]]></title>
+        <id>https://www.printweek.com/news/article/michael-grade-named-new-printing-charity-president</id>
+        <link href="https://www.printweek.com/news/article/michael-grade-named-new-printing-charity-president"/>
+        <updated>2023-04-05T16:14:08.627Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/michael-grade-named-new-printing-charity-president">
+                            Michael Grade named new Printing Charity president
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Green Man and green card for Coronation invitations]]></title>
+        <id>https://www.printweek.com/news/article/green-man-and-green-card-for-coronation-invitations</id>
+        <link href="https://www.printweek.com/news/article/green-man-and-green-card-for-coronation-invitations"/>
+        <updated>2023-04-05T16:14:08.629Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/green-man-and-green-card-for-coronation-invitations">
+                            Green Man and green card for Coronation invitations
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimum Signs first to buy PrintIQ V46]]></title>
+        <id>https://www.printweek.com/news/article/optimum-signs-first-to-buy-printiq-v46</id>
+        <link href="https://www.printweek.com/news/article/optimum-signs-first-to-buy-printiq-v46"/>
+        <updated>2023-04-05T16:14:08.630Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/optimum-signs-first-to-buy-printiq-v46">
+                            Optimum Signs first to buy PrintIQ V46
+                        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MediaCo installs UK’s first SwissQprint Kudu]]></title>
         <id>https://www.printweek.com/news/article/mediaco-installs-uk-s-first-swissqprint-kudu</id>
@@ -93,51 +138,6 @@
         <updated>2023-03-31T13:47:36.138Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/rebrand-and-revamp-at-paragon-cc">
                             Rebrand and revamp at Paragon CC
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[David Holland RIP]]></title>
-        <id>https://www.printweek.com/news/article/david-holland-rip</id>
-        <link href="https://www.printweek.com/news/article/david-holland-rip"/>
-        <updated>2023-03-31T13:47:36.136Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/david-holland-rip">
-                            David Holland RIP
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bertelsmann reports on 2022]]></title>
-        <id>https://www.printweek.com/news/article/bertelsmann-reports-on-2022</id>
-        <link href="https://www.printweek.com/news/article/bertelsmann-reports-on-2022"/>
-        <updated>2023-03-31T20:08:36.349Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/bertelsmann-reports-on-2022">
-                            Bertelsmann reports on 2022
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fastsigns Birmingham aims high with new ownership]]></title>
-        <id>https://www.printweek.com/news/article/fastsigns-birmingham-aims-high-with-new-ownership</id>
-        <link href="https://www.printweek.com/news/article/fastsigns-birmingham-aims-high-with-new-ownership"/>
-        <updated>2023-03-31T13:47:36.140Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/fastsigns-birmingham-aims-high-with-new-ownership">
-                            Fastsigns Birmingham aims high with new ownership
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crystal Amber calls to replace De La Rue chair]]></title>
-        <id>https://www.printweek.com/news/article/crystal-amber-calls-to-replace-de-la-rue-chair</id>
-        <link href="https://www.printweek.com/news/article/crystal-amber-calls-to-replace-de-la-rue-chair"/>
-        <updated>2023-03-31T13:47:36.159Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/crystal-amber-calls-to-replace-de-la-rue-chair">
-                            Crystal Amber calls to replace De La Rue chair
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Futureprint widens horizons with bookletmaker install]]></title>
-        <id>https://www.printweek.com/news/article/futureprint-widens-horizons-with-bookletmaker-install</id>
-        <link href="https://www.printweek.com/news/article/futureprint-widens-horizons-with-bookletmaker-install"/>
-        <updated>2023-03-31T13:47:36.202Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/futureprint-widens-horizons-with-bookletmaker-install">
-                            Futureprint widens horizons with bookletmaker install
                         </a>]]></content>
     </entry>
 </feed>

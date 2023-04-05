@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-04-05T12:16:30.883Z</updated>
+    <updated>2023-04-05T16:14:28.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5种工艺1000亿晶体管 Intel造出有史以来最复杂的芯片？]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1353173.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1353173.htm"/>
+        <updated>2023-04-05T16:13:57.635Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1353173.htm">5种工艺1000亿晶体管 Intel造出有史以来最复杂的芯片？</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[揭开杏仁核的面纱：我们的大脑如何处理威胁、奖励和多巴胺]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1353171.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1353171.htm"/>
+        <updated>2023-04-05T16:13:57.637Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1353171.htm">揭开杏仁核的面纱：我们的大脑如何处理威胁、奖励和多巴胺</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023年PC游戏硬件市场将进一步萎缩 然后在未来两年内有所恢复]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1353169.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1353169.htm"/>
+        <updated>2023-04-05T16:13:57.638Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1353169.htm">2023年PC游戏硬件市场将进一步萎缩 然后在未来两年内有所恢复</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT需要1万张NVIDIA A100显卡 国内仅有6家公司做到]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1353167.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1353167.htm"/>
+        <updated>2023-04-05T16:13:57.646Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1353167.htm">ChatGPT需要1万张NVIDIA A100显卡 国内仅有6家公司做到</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel 11代酷睿又退役9款 明年1月26日之后不再出货]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1353165.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1353165.htm"/>
+        <updated>2023-04-05T16:13:57.650Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1353165.htm">Intel 11代酷睿又退役9款 明年1月26日之后不再出货</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[加拿大开始调查OpenAI：未经同意收集使用个人信息]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1353163.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1353163.htm"/>
+        <updated>2023-04-05T16:13:57.652Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1353163.htm">加拿大开始调查OpenAI：未经同意收集使用个人信息</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软推出Bing Chat v98 减少了拒绝回答的情况]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1353161.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1353161.htm"/>
+        <updated>2023-04-05T16:13:57.655Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1353161.htm">微软推出Bing Chat v98 减少了拒绝回答的情况</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[苹果产品制造过程目前使用13.7千兆瓦可再生能源 2030年实现碳中和]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1353159.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1353159.htm"/>
+        <updated>2023-04-05T16:13:57.656Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1353159.htm">苹果产品制造过程目前使用13.7千兆瓦可再生能源 2030年实现碳中和</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[消息称部分iPhone 15型号将首次由印度工厂参与首批供货]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1353157.htm</id>
@@ -69,11 +125,11 @@
         <content type="html"><![CDATA[<a href="/wap/view/1353141.htm">推特Logo变狗头 丢掉世界首富头衔的马斯克又在干什么？</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[消息称索尼不会推出PS Vita 2 或研发云串流掌机]]></title>
+        <title type="html"><![CDATA[传索尼开发新掌机 仍然需要PS5]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1353139.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1353139.htm"/>
         <updated>2023-04-05T12:16:04.504Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1353139.htm">消息称索尼不会推出PS Vita 2 或研发云串流掌机</a>]]></content>
+        <content type="html"><![CDATA[<a href="/wap/view/1353139.htm">传索尼开发新掌机 仍然需要PS5</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[给张图就能反推Prompt AI绘画神器Midjourney能够“看图说话”了]]></title>
@@ -368,61 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1353055.htm"/>
         <updated>2023-04-05T07:56:27.840Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1353055.htm">《超级马里奥兄弟大电影》IGN 8分：顶级动画效果</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[升级iOS 16.4的用户报告应用崩溃与电池缩水双重打击]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1353053.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1353053.htm"/>
-        <updated>2023-04-05T07:56:27.841Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1353053.htm">升级iOS 16.4的用户报告应用崩溃与电池缩水双重打击</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《芭比》真人版电影中文预告 7月上映]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1353051.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1353051.htm"/>
-        <updated>2023-04-05T07:56:27.842Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1353051.htm">《芭比》真人版电影中文预告 7月上映</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube主播恶搞路人引起不满 遭到枪击腹部中弹]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1353049.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1353049.htm"/>
-        <updated>2023-04-05T07:56:27.845Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1353049.htm">YouTube主播恶搞路人引起不满 遭到枪击腹部中弹</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[市场研究公司：EA是Xbox和PlayStation上用户粘性最高的公司]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1353047.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1353047.htm"/>
-        <updated>2023-04-05T07:56:27.846Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1353047.htm">市场研究公司：EA是Xbox和PlayStation上用户粘性最高的公司</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌公布新一代AI超算 称比英伟达A100更快、更节能]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1353045.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1353045.htm"/>
-        <updated>2023-04-05T07:56:27.850Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1353045.htm">谷歌公布新一代AI超算 称比英伟达A100更快、更节能</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国对加密行业展开“全政府”打击 加密资源正在逃离？]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1353043.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1353043.htm"/>
-        <updated>2023-04-05T07:56:27.854Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1353043.htm">美国对加密行业展开“全政府”打击 加密资源正在逃离？</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[还没量产就没了？自游家汽车官微被清空 官网无法访问]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1353041.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1353041.htm"/>
-        <updated>2023-04-05T07:56:27.859Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1353041.htm">还没量产就没了？自游家汽车官微被清空 官网无法访问</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[福布斯发布2023全球亿万富豪榜 路易威登巨头跃升全球首富]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1353039.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1353039.htm"/>
-        <updated>2023-04-05T07:56:27.863Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1353039.htm">福布斯发布2023全球亿万富豪榜 路易威登巨头跃升全球首富</a>]]></content>
     </entry>
 </feed>
