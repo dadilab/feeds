@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-04T20:09:00.203Z</updated>
+    <updated>2023-04-05T00:29:03.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[<a href="/view/8065">密码学工具箱📦</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！]]></title>
-        <id>https://codenews.cc/view/47592</id>
-        <link href="https://codenews.cc/view/47592"/>
-        <updated>2023-03-30T16:10:06.454Z</updated>
-        <content type="html"><![CDATA[<a href="/view/47592">ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫]]></title>
         <id>https://codenews.cc/view/8317</id>
         <link href="https://codenews.cc/view/8317"/>
         <updated>2023-03-24T22:55:08.995Z</updated>
         <content type="html"><![CDATA[<a href="/view/8317">新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！]]></title>
+        <id>https://codenews.cc/view/47592</id>
+        <link href="https://codenews.cc/view/47592"/>
+        <updated>2023-03-30T16:10:06.454Z</updated>
+        <content type="html"><![CDATA[<a href="/view/47592">ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[基于 Canvas 编写的在线多功能画板 paint-board]]></title>
