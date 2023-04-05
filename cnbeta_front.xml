@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-04-05T07:56:55.703Z</updated>
+    <updated>2023-04-05T08:11:39.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[三星Galaxy Z Fold 5和Galaxy Z Flip 5机身配色泄露 继续偏向保守]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1353125.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1353125.htm"/>
+        <updated>2023-04-05T08:11:14.508Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1353125.htm">三星Galaxy Z Fold 5和Galaxy Z Flip 5机身配色泄露 继续偏向保守</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三星提醒用户：使用镜头膜可能反而容易损坏手机]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1353123.htm</id>
@@ -417,12 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1353007.htm"/>
         <updated>2023-04-05T07:56:27.883Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1353007.htm">美国前总统特朗普面临34项重罪指控 最高刑期可达136年</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微软今天已经48岁了 这里有一些有关其创建过程的有趣小故事]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1353005.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1353005.htm"/>
-        <updated>2023-04-05T07:56:27.884Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1353005.htm">微软今天已经48岁了 这里有一些有关其创建过程的有趣小故事</a>]]></content>
     </entry>
 </feed>
