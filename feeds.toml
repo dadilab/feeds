@@ -59,7 +59,7 @@ linkSelector = "a"
 [mazterize]
 title = "mazterize"
 url = "https://www.mazterize.com"
-entrySelector = "recent-posts-2 > ul > li"
+entrySelector = "#recent-posts-2 > ul > li"
 titleSelector = "a"
 linkSelector = "a"
 
