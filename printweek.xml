@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printweek.com/news/all-news</id>
     <title>printweek news</title>
-    <updated>2023-04-06T16:12:44.421Z</updated>
+    <updated>2023-04-06T20:07:51.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printweek.com/media/182863/printweek-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ECO3 unveiled as new name for Offset Solutions]]></title>
+        <id>https://www.printweek.com/news/article/eco3-unveiled-as-new-name-for-offset-solutions</id>
+        <link href="https://www.printweek.com/news/article/eco3-unveiled-as-new-name-for-offset-solutions"/>
+        <updated>2023-04-06T20:07:34.644Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/eco3-unveiled-as-new-name-for-offset-solutions">
+                            ECO3 unveiled as new name for Offset Solutions
+                        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chelma Graphics back in independent ownership as Manchester Printers downsizing continues]]></title>
         <id>https://www.printweek.com/news/article/chelma-graphics-back-in-independent-ownership-as-manchester-printers-downsizing-continues</id>
@@ -129,15 +138,6 @@
         <updated>2023-04-04T16:09:21.789Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/vivid-scoops-biggest-ever-order">
                             Vivid scoops biggest-ever order
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All the world’s a page, and Blissetts merely the binder]]></title>
-        <id>https://www.printweek.com/news/article/all-the-world-s-a-page-and-blissetts-merely-the-binder</id>
-        <link href="https://www.printweek.com/news/article/all-the-world-s-a-page-and-blissetts-merely-the-binder"/>
-        <updated>2023-04-04T16:09:21.789Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/all-the-world-s-a-page-and-blissetts-merely-the-binder">
-                            All the world’s a page, and Blissetts merely the binder
                         </a>]]></content>
     </entry>
 </feed>
