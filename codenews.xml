@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-06T12:12:52.658Z</updated>
+    <updated>2023-04-06T15:32:11.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[你好]]></title>
+        <id>https://codenews.cc/view/101029</id>
+        <link href="https://codenews.cc/view/101029"/>
+        <updated>2023-04-06T15:32:11.101Z</updated>
+        <content type="html"><![CDATA[<a href="/view/101029">你好</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三款新插件上线， API 鉴权， API 网关， Swagger URL 同步文档！]]></title>
         <id>https://codenews.cc/view/37763</id>
@@ -207,12 +214,5 @@
         <link href="https://codenews.cc/view/8053"/>
         <updated>2023-03-24T22:55:09.040Z</updated>
         <content type="html"><![CDATA[<a href="/view/8053">doccano：面向机器学习从业者的开源标注工具</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[超多免费API接口分享]]></title>
-        <id>https://codenews.cc/view/8084</id>
-        <link href="https://codenews.cc/view/8084"/>
-        <updated>2023-03-24T22:55:09.036Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
     </entry>
 </feed>
