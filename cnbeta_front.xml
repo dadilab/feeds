@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-04-06T20:07:51.446Z</updated>
+    <updated>2023-04-07T00:30:27.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NASA上线互动式火星马赛克 带你探索红色星球的地表细节]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1353407.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1353407.htm"/>
+        <updated>2023-04-07T00:29:52.692Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1353407.htm">NASA上线互动式火星马赛克 带你探索红色星球的地表细节</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SpaceX证实Starship升空有望在本月晚些时候进行]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1353405.htm</id>
@@ -417,12 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1353289.htm"/>
         <updated>2023-04-06T08:10:24.988Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1353289.htm">年分成91亿还留不住人？Up主出走背后B站的两难命题</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-Sight HMD为直升机飞行员带来类似F-35的增强视觉效果]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1353287.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1353287.htm"/>
-        <updated>2023-04-06T08:10:24.989Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1353287.htm">X-Sight HMD为直升机飞行员带来类似F-35的增强视觉效果</a>]]></content>
     </entry>
 </feed>
