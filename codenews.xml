@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-08T04:12:08.847Z</updated>
+    <updated>2023-04-08T08:09:35.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了]]></title>
+        <id>https://codenews.cc/view/115122</id>
+        <link href="https://codenews.cc/view/115122"/>
+        <updated>2023-04-08T08:09:34.315Z</updated>
+        <content type="html"><![CDATA[<a href="/view/115122">应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三款新插件上线， API 鉴权， API 网关， Swagger URL 同步文档！]]></title>
         <id>https://codenews.cc/view/37763</id>
@@ -146,13 +153,6 @@
         <content type="html"><![CDATA[<a href="/view/8090">📝一个简单优雅的 markdown 编辑器，适用于 Linux、macOS 和 Windows。Typora完美替代者MarkText</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术]]></title>
-        <id>https://codenews.cc/view/60590</id>
-        <link href="https://codenews.cc/view/60590"/>
-        <updated>2023-04-01T12:11:56.553Z</updated>
-        <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本]]></title>
         <id>https://codenews.cc/view/8079</id>
         <link href="https://codenews.cc/view/8079"/>
@@ -165,6 +165,13 @@
         <link href="https://codenews.cc/view/8163"/>
         <updated>2023-03-24T22:55:09.010Z</updated>
         <content type="html"><![CDATA[<a href="/view/8163">audioFlux - 一个用于音频和音乐分析、特征提取的库</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术]]></title>
+        <id>https://codenews.cc/view/60590</id>
+        <link href="https://codenews.cc/view/60590"/>
+        <updated>2023-04-01T12:11:56.553Z</updated>
+        <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Twitter 推特开源其推荐算法]]></title>
@@ -207,12 +214,5 @@
         <link href="https://codenews.cc/view/8084"/>
         <updated>2023-04-07T00:30:26.924Z</updated>
         <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！]]></title>
-        <id>https://codenews.cc/view/47592</id>
-        <link href="https://codenews.cc/view/47592"/>
-        <updated>2023-03-30T16:10:06.454Z</updated>
-        <content type="html"><![CDATA[<a href="/view/47592">ColossalChat基于LLaMA模型，是第一个包含完整RLHF复制ChatGPT-like模型的实用开源项目，是最接近ChatGPT原技术路线的项目！</a>]]></content>
     </entry>
 </feed>
