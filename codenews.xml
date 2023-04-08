@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-08T16:08:27.842Z</updated>
+    <updated>2023-04-08T20:07:29.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -174,18 +174,18 @@
         <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter 推特开源其推荐算法]]></title>
-        <id>https://codenews.cc/view/59298</id>
-        <link href="https://codenews.cc/view/59298"/>
-        <updated>2023-04-01T08:10:26.208Z</updated>
-        <content type="html"><![CDATA[<a href="/view/59298">Twitter 推特开源其推荐算法</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AC印象 ( acimage) 是一个前后端分离的SpringCloud论坛系统。Web 端使用 Vue + ElementUi 。后端使用 SpringCloud+Mybatis-Plus+Reids+Rabbitmq。]]></title>
         <id>https://codenews.cc/view/8033</id>
         <link href="https://codenews.cc/view/8033"/>
         <updated>2023-03-24T22:55:09.033Z</updated>
         <content type="html"><![CDATA[<a href="/view/8033">AC印象 ( acimage) 是一个前后端分离的SpringCloud论坛系统。Web 端使用 Vue + ElementUi 。后端使用 SpringCloud+Mybatis-Plus+Reids+Rabbitmq。</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter 推特开源其推荐算法]]></title>
+        <id>https://codenews.cc/view/59298</id>
+        <link href="https://codenews.cc/view/59298"/>
+        <updated>2023-04-01T08:10:26.208Z</updated>
+        <content type="html"><![CDATA[<a href="/view/59298">Twitter 推特开源其推荐算法</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃]]></title>
