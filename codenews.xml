@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-08T00:31:29.815Z</updated>
+    <updated>2023-04-08T04:12:08.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -153,13 +153,6 @@
         <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter 推特开源其推荐算法]]></title>
-        <id>https://codenews.cc/view/59298</id>
-        <link href="https://codenews.cc/view/59298"/>
-        <updated>2023-04-01T08:10:26.208Z</updated>
-        <content type="html"><![CDATA[<a href="/view/59298">Twitter 推特开源其推荐算法</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本]]></title>
         <id>https://codenews.cc/view/8079</id>
         <link href="https://codenews.cc/view/8079"/>
@@ -172,6 +165,13 @@
         <link href="https://codenews.cc/view/8163"/>
         <updated>2023-03-24T22:55:09.010Z</updated>
         <content type="html"><![CDATA[<a href="/view/8163">audioFlux - 一个用于音频和音乐分析、特征提取的库</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter 推特开源其推荐算法]]></title>
+        <id>https://codenews.cc/view/59298</id>
+        <link href="https://codenews.cc/view/59298"/>
+        <updated>2023-04-01T08:10:26.208Z</updated>
+        <content type="html"><![CDATA[<a href="/view/59298">Twitter 推特开源其推荐算法</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AC印象 ( acimage) 是一个前后端分离的SpringCloud论坛系统。Web 端使用 Vue + ElementUi 。后端使用 SpringCloud+Mybatis-Plus+Reids+Rabbitmq。]]></title>
