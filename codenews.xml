@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-09T12:14:01.295Z</updated>
+    <updated>2023-04-09T16:08:28.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitter 推特开源其推荐算法]]></title>
-        <id>https://codenews.cc/view/59298</id>
-        <link href="https://codenews.cc/view/59298"/>
-        <updated>2023-04-01T08:10:26.208Z</updated>
-        <content type="html"><![CDATA[<a href="/view/59298">Twitter 推特开源其推荐算法</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[超多免费API接口分享]]></title>
         <id>https://codenews.cc/view/8084</id>
         <link href="https://codenews.cc/view/8084"/>
         <updated>2023-04-07T00:30:26.924Z</updated>
         <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter 推特开源其推荐算法]]></title>
+        <id>https://codenews.cc/view/59298</id>
+        <link href="https://codenews.cc/view/59298"/>
+        <updated>2023-04-01T08:10:26.208Z</updated>
+        <content type="html"><![CDATA[<a href="/view/59298">Twitter 推特开源其推荐算法</a>]]></content>
     </entry>
 </feed>
