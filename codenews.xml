@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-10T08:10:14.036Z</updated>
+    <updated>2023-04-10T12:14:40.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术]]></title>
-        <id>https://codenews.cc/view/60590</id>
-        <link href="https://codenews.cc/view/60590"/>
-        <updated>2023-04-01T12:11:56.553Z</updated>
-        <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[imglib 一个轻量级的 JAVA 图像处理库，立足于简化对图像的常见处理]]></title>
         <id>https://codenews.cc/view/8037</id>
         <link href="https://codenews.cc/view/8037"/>
         <updated>2023-04-10T04:09:17.678Z</updated>
         <content type="html"><![CDATA[<a href="/view/8037">imglib 一个轻量级的 JAVA 图像处理库，立足于简化对图像的常见处理</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术]]></title>
+        <id>https://codenews.cc/view/60590</id>
+        <link href="https://codenews.cc/view/60590"/>
+        <updated>2023-04-01T12:11:56.553Z</updated>
+        <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
     </entry>
 </feed>
