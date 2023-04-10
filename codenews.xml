@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-09T20:06:48.138Z</updated>
+    <updated>2023-04-10T00:33:22.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[<a href="/view/115122">应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[chatgpt-dingtalk：支持在钉钉聊天中让 ChatGPT 绘图]]></title>
-        <id>https://codenews.cc/view/13199</id>
-        <link href="https://codenews.cc/view/13199"/>
-        <updated>2023-03-24T22:55:08.973Z</updated>
-        <content type="html"><![CDATA[<a href="/view/13199">chatgpt-dingtalk：支持在钉钉聊天中让 ChatGPT 绘图</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[社区上线了ChatGPT，可以问ChatGPT一些有趣的问题，或许能得到意想不到的答案]]></title>
         <id>https://codenews.cc/view/8099</id>
         <link href="https://codenews.cc/view/8099"/>
         <updated>2023-03-24T22:55:08.973Z</updated>
         <content type="html"><![CDATA[<a href="/view/8099">社区上线了ChatGPT，可以问ChatGPT一些有趣的问题，或许能得到意想不到的答案</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chatgpt-dingtalk：支持在钉钉聊天中让 ChatGPT 绘图]]></title>
+        <id>https://codenews.cc/view/13199</id>
+        <link href="https://codenews.cc/view/13199"/>
+        <updated>2023-03-24T22:55:08.973Z</updated>
+        <content type="html"><![CDATA[<a href="/view/13199">chatgpt-dingtalk：支持在钉钉聊天中让 ChatGPT 绘图</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT 国内尝鲜入口，免登入，免梯]]></title>
@@ -195,18 +195,18 @@
         <content type="html"><![CDATA[<a href="/view/8053">doccano：面向机器学习从业者的开源标注工具</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术]]></title>
-        <id>https://codenews.cc/view/60590</id>
-        <link href="https://codenews.cc/view/60590"/>
-        <updated>2023-04-01T12:11:56.553Z</updated>
-        <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[超多免费API接口分享]]></title>
         <id>https://codenews.cc/view/8084</id>
         <link href="https://codenews.cc/view/8084"/>
         <updated>2023-04-07T00:30:26.924Z</updated>
         <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术]]></title>
+        <id>https://codenews.cc/view/60590</id>
+        <link href="https://codenews.cc/view/60590"/>
+        <updated>2023-04-01T12:11:56.553Z</updated>
+        <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Twitter 推特开源其推荐算法]]></title>

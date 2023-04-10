@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-04-09T20:06:48.151Z</updated>
+    <updated>2023-04-10T00:33:22.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[研究表明吃西兰花可以保护肠道内壁，减少疾病]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1353839.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1353839.htm"/>
+        <updated>2023-04-10T00:32:53.542Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1353839.htm">研究表明吃西兰花可以保护肠道内壁，减少疾病</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究发现呼吸过多的氧气容易导致人类健康问题]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1353837.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1353837.htm"/>
+        <updated>2023-04-10T00:32:53.549Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1353837.htm">研究发现呼吸过多的氧气容易导致人类健康问题</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[新的催化技术突破料将开启大规模的能源节约]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1353835.htm</id>
@@ -410,19 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1353721.htm"/>
         <updated>2023-04-09T04:08:32.768Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1353721.htm">通用自动驾驶汽车撞上公交车 300辆无人出租车被召回</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉美国市场今年来已3次降价 马斯克发表回应]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1353719.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1353719.htm"/>
-        <updated>2023-04-09T04:08:32.774Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1353719.htm">特斯拉美国市场今年来已3次降价 马斯克发表回应</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中疾控：新冠病毒由实验室引入是“极不可能”的]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1353717.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1353717.htm"/>
-        <updated>2023-04-09T04:08:32.780Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1353717.htm">中疾控：新冠病毒由实验室引入是“极不可能”的</a>]]></content>
     </entry>
 </feed>
