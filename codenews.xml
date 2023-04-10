@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-10T12:14:40.568Z</updated>
+    <updated>2023-04-10T16:09:55.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[<a href="/view/8302">ChatGPT 机器人进行 Code Review</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Komga 一个免费的开源漫画/漫画服务器]]></title>
-        <id>https://codenews.cc/view/8276</id>
-        <link href="https://codenews.cc/view/8276"/>
-        <updated>2023-03-24T22:55:08.986Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8276">Komga 一个免费的开源漫画/漫画服务器</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[密码学工具箱📦]]></title>
         <id>https://codenews.cc/view/8065</id>
         <link href="https://codenews.cc/view/8065"/>
         <updated>2023-03-24T22:55:09.000Z</updated>
         <content type="html"><![CDATA[<a href="/view/8065">密码学工具箱📦</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Komga 一个免费的开源漫画/漫画服务器]]></title>
+        <id>https://codenews.cc/view/8276</id>
+        <link href="https://codenews.cc/view/8276"/>
+        <updated>2023-03-24T22:55:08.986Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8276">Komga 一个免费的开源漫画/漫画服务器</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫]]></title>
@@ -174,18 +174,18 @@
         <content type="html"><![CDATA[<a href="/view/8033">AC印象 ( acimage) 是一个前后端分离的SpringCloud论坛系统。Web 端使用 Vue + ElementUi 。后端使用 SpringCloud+Mybatis-Plus+Reids+Rabbitmq。</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃]]></title>
-        <id>https://codenews.cc/view/8095</id>
-        <link href="https://codenews.cc/view/8095"/>
-        <updated>2023-03-24T22:55:09.021Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8095">🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[轻量级、可嵌入式、Tableau 开源替代品 graphic-walker]]></title>
         <id>https://codenews.cc/view/8025</id>
         <link href="https://codenews.cc/view/8025"/>
         <updated>2023-03-24T22:55:09.042Z</updated>
         <content type="html"><![CDATA[<a href="/view/8025">轻量级、可嵌入式、Tableau 开源替代品 graphic-walker</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃]]></title>
+        <id>https://codenews.cc/view/8095</id>
+        <link href="https://codenews.cc/view/8095"/>
+        <updated>2023-03-24T22:55:09.021Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8095">🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[doccano：面向机器学习从业者的开源标注工具]]></title>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[<a href="/view/8037">imglib 一个轻量级的 JAVA 图像处理库，立足于简化对图像的常见处理</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术]]></title>
-        <id>https://codenews.cc/view/60590</id>
-        <link href="https://codenews.cc/view/60590"/>
-        <updated>2023-04-01T12:11:56.553Z</updated>
-        <content type="html"><![CDATA[<a href="/view/60590">ChatGLM-6B：开源双语对话语言模型，使用了和 ChatGPT 相似的技术</a>]]></content>
+        <title type="html"><![CDATA[可能是最好用的 web 端代码文本编辑器 ACE]]></title>
+        <id>https://codenews.cc/view/8032</id>
+        <link href="https://codenews.cc/view/8032"/>
+        <updated>2023-04-10T16:09:54.912Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8032">可能是最好用的 web 端代码文本编辑器 ACE</a>]]></content>
     </entry>
 </feed>
