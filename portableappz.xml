@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://portableappz.blogspot.com/?m=1</id>
     <title>portableappz</title>
-    <updated>2023-04-10T16:09:55.765Z</updated>
+    <updated>2023-04-10T20:09:08.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://portableappz.blogspot.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Firefox 112.0 32-64 bit Multilingual]]></title>
+        <id>http://portableappz.blogspot.com/2012/07/mozilla-firefox-150-beta-2-multilingual.html?m=1</id>
+        <link href="http://portableappz.blogspot.com/2012/07/mozilla-firefox-150-beta-2-multilingual.html?m=1"/>
+        <updated>2023-04-10T20:09:01.274Z</updated>
+        <content type="html"><![CDATA[<a href="http://portableappz.blogspot.com/2012/07/mozilla-firefox-150-beta-2-multilingual.html?m=1">
+<h3 class="mobile-index-title entry-title" itemprop="name">
+Mozilla Firefox 112.0 32-64 bit Multilingual
+</h3>
+<div class="mobile-index-arrow">›</div>
+<div class="mobile-index-contents">
+<div class="mobile-index-thumbnail">
+<div class="Image">
+<img src="https://3.bp.blogspot.com/-DOfi1NAK7t0/Xa2KyFSrC7I/AAAAAAAAA4s/s9EsVamC5Wcbt7taCMqZCk-AIH_NZKK9ACLcBGAsYHQ/s72-c/Firefox.png">
+</div>
+</div>
+<div class="post-body">
+ Web browser  without installation.  Portable Nightly MultiVersion 32-64 bit Multilingual Online  (0.5 MB)  30/08/17  Select language and en...
+</div>
+</div>
+<div style="clear: both;"></div>
+</a>
+<div class="mobile-index-comment">
+<a class="comment-link" href="http://portableappz.blogspot.com/2012/07/mozilla-firefox-150-beta-2-multilingual.html?m=1#comment-form" onclick="javascript:window.open(this.href, &quot;bloggerPopup&quot;, &quot;toolbar=0,location=0,statusbar=1,menubar=0,scrollbars=yes,width=640,height=500&quot;); return false;">
+156 comments:
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Calibre 6.15.1 32-64 bit Multilingual]]></title>
         <id>http://portableappz.blogspot.com/2013/08/calibre-100-32-64-bit-multilingual.html?m=1</id>
@@ -252,34 +280,6 @@ Miranda NG 0.96.2 &amp; IM 0.10.80 32-64 bit Multilingual
 <div style="clear: both;"></div>
 </a>
 <div class="mobile-index-comment">
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice 7.5.2 32-64 bit Multilingual]]></title>
-        <id>http://portableappz.blogspot.com/2012/12/libreoffice-364-multilingual.html?m=1</id>
-        <link href="http://portableappz.blogspot.com/2012/12/libreoffice-364-multilingual.html?m=1"/>
-        <updated>2023-03-31T00:35:26.057Z</updated>
-        <content type="html"><![CDATA[<a href="http://portableappz.blogspot.com/2012/12/libreoffice-364-multilingual.html?m=1">
-<h3 class="mobile-index-title entry-title" itemprop="name">
-LibreOffice 7.5.2 32-64 bit Multilingual
-</h3>
-<div class="mobile-index-arrow">›</div>
-<div class="mobile-index-contents">
-<div class="mobile-index-thumbnail">
-<div class="Image">
-<img src="https://1.bp.blogspot.com/-Dh7q4e8iWmk/VjjLJ_tnWhI/AAAAAAAAAZA/IckBWXtKRlw/s72-c/LibreOffice.png">
-</div>
-</div>
-<div class="post-body">
-  Open Source personal productivity suite  without installation.  Download Portable LibreOffice 32-64 bit Multilingual Online  (0.3 MB)  02/...
-</div>
-</div>
-<div style="clear: both;"></div>
-</a>
-<div class="mobile-index-comment">
-<a class="comment-link" href="http://portableappz.blogspot.com/2012/12/libreoffice-364-multilingual.html?m=1#comment-form" onclick="javascript:window.open(this.href, &quot;bloggerPopup&quot;, &quot;toolbar=0,location=0,statusbar=1,menubar=0,scrollbars=yes,width=640,height=500&quot;); return false;">
-57 comments:
-  </a>
 </div>]]></content>
     </entry>
 </feed>
