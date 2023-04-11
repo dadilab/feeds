@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-04-11T16:10:48.436Z</updated>
+    <updated>2023-04-11T20:08:11.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Google Bard获得首次重大更新 迎来实验性质的新功能]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354245.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354245.htm"/>
+        <updated>2023-04-11T20:07:44.793Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354245.htm">Google Bard获得首次重大更新 迎来实验性质的新功能</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超导连接：晶体条带和量子电子的行为]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354243.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354243.htm"/>
+        <updated>2023-04-11T20:07:44.794Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354243.htm">超导连接：晶体条带和量子电子的行为</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[改版后的Winamp播放器功能细节和发布日期曝光]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354241.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354241.htm"/>
+        <updated>2023-04-11T20:07:44.795Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354241.htm">改版后的Winamp播放器功能细节和发布日期曝光</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比特币重回3万美元，抖音微博“立功”？]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354239.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354239.htm"/>
+        <updated>2023-04-11T20:07:44.796Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354239.htm">比特币重回3万美元，抖音微博“立功”？</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[近一半美国人不考虑购买电动汽车 调查显示充电难仍是主要障碍]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354237.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354237.htm"/>
+        <updated>2023-04-11T20:07:44.797Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354237.htm">近一半美国人不考虑购买电动汽车 调查显示充电难仍是主要障碍</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[经设计的益生菌帮助小鼠摆脱酒精的困扰]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354235.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354235.htm"/>
+        <updated>2023-04-11T20:07:44.805Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354235.htm">经设计的益生菌帮助小鼠摆脱酒精的困扰</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok被指助长年轻族群中不科学的饮食与减肥潮流]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354233.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354233.htm"/>
+        <updated>2023-04-11T20:07:44.806Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354233.htm">TikTok被指助长年轻族群中不科学的饮食与减肥潮流</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[福特在加拿大的奥克维尔工厂将于2024年开始生产电动汽车]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354231.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354231.htm"/>
+        <updated>2023-04-11T20:07:44.807Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354231.htm">福特在加拿大的奥克维尔工厂将于2024年开始生产电动汽车</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[来自深海的古火山线索：大规模水下喷发的危害和气候影响]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1354229.htm</id>
@@ -368,61 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1354127.htm"/>
         <updated>2023-04-11T08:10:08.977Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1354127.htm">特斯拉下代电机不用稀土 中国专家称马斯克是迫不得已</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国拟下调电动车里程数评级以满足燃油经济性规定]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354125.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354125.htm"/>
-        <updated>2023-04-11T08:10:08.978Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354125.htm">美国拟下调电动车里程数评级以满足燃油经济性规定</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果电脑出货量暴跌40% 疫情驱动需求的时代结束了]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354123.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354123.htm"/>
-        <updated>2023-04-11T08:10:08.982Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354123.htm">苹果电脑出货量暴跌40% 疫情驱动需求的时代结束了</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[起亚因电池起火风险召回近2700辆Soul电动汽车]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354121.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354121.htm"/>
-        <updated>2023-04-11T08:10:08.985Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354121.htm">起亚因电池起火风险召回近2700辆Soul电动汽车</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[比特币重回30000美元 年内涨幅超70% 较去年低点涨96%]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354119.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354119.htm"/>
-        <updated>2023-04-11T08:10:08.986Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354119.htm">比特币重回30000美元 年内涨幅超70% 较去年低点涨96%</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[韩国对谷歌罚款3180万美元 因妨碍App市场公平竞争]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354117.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354117.htm"/>
-        <updated>2023-04-11T08:10:08.989Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354117.htm">韩国对谷歌罚款3180万美元 因妨碍App市场公平竞争</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克指责竞争对手大规模窃取数据打造克隆版Twitter]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354115.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354115.htm"/>
-        <updated>2023-04-11T08:10:08.989Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354115.htm">马斯克指责竞争对手大规模窃取数据打造克隆版Twitter</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[库克“印度行”即将开启 届时将出席首家苹果零售店揭幕仪式]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354113.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354113.htm"/>
-        <updated>2023-04-11T08:10:08.989Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354113.htm">库克“印度行”即将开启 届时将出席首家苹果零售店揭幕仪式</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克讽刺美联储：他们的技术太古老 比魔兽世界落后几光年]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354111.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354111.htm"/>
-        <updated>2023-04-11T08:10:09.001Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354111.htm">马斯克讽刺美联储：他们的技术太古老 比魔兽世界落后几光年</a>]]></content>
     </entry>
 </feed>

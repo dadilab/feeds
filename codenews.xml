@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-11T16:10:48.460Z</updated>
+    <updated>2023-04-11T20:08:11.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="/view/8094">ChatGPT 国内尝鲜入口，免登入，免梯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了]]></title>
-        <id>https://codenews.cc/view/115122</id>
-        <link href="https://codenews.cc/view/115122"/>
-        <updated>2023-04-08T08:09:34.315Z</updated>
-        <content type="html"><![CDATA[<a href="/view/115122">应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[街景奇观，随机展示一张有趣的街景，并可与鼠标结合WSAD移动，虚拟元宇宙]]></title>
         <id>https://codenews.cc/view/8295</id>
         <link href="https://codenews.cc/view/8295"/>
         <updated>2023-03-24T22:55:08.976Z</updated>
         <content type="html"><![CDATA[<a href="/view/8295">街景奇观，随机展示一张有趣的街景，并可与鼠标结合WSAD移动，虚拟元宇宙</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了]]></title>
+        <id>https://codenews.cc/view/115122</id>
+        <link href="https://codenews.cc/view/115122"/>
+        <updated>2023-04-08T08:09:34.315Z</updated>
+        <content type="html"><![CDATA[<a href="/view/115122">应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub上 Star 20k 的功能强大但简单易用的屏幕截图软件🖥️ 📸]]></title>
