@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rsyqvthv.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-11T12:13:20.782Z</updated>
+    <updated>2023-04-11T16:10:48.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Drivers warned about new ‘stealth’ speed camera vans (RAC - Motoring news)]]></title>
@@ -253,6 +253,12 @@
         <link href="https://www.rac.co.uk/drive/news/motoring-news/data-used-to-justify-low-traffic-neighbourhoods-incorrect-according-to-dft/"/>
         <updated>2023-03-31T20:08:57.223Z</updated>
         <content type="html"><![CDATA[<a href="/drive/news/motoring-news/data-used-to-justify-low-traffic-neighbourhoods-incorrect-according-to-dft/"><span class="count"><span>10</span></span> <span class="site-section">Motoring news</span> Data used to justify low traffic neighbourhoods incorrect according to DfT </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：不在沉默中爆发，就在沉默中沉默！ (网易 轻松一刻)]]></title>
+        <id>https://www.163.com/news/article/I22S5AP7000181BR.html</id>
+        <link href="https://www.163.com/news/article/I22S5AP7000181BR.html"/>
+        <updated>2023-04-11T16:09:32.739Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻:丈夫进妻子卧室竟要付费,200元才能进1次 (网易 轻松一刻)]]></title>
@@ -857,10 +863,10 @@
         <updated>2023-03-24T22:53:56.721Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[轻松一秒：两个员工打架，要么离职要么手牵手 (网易 轻松一刻)]]></title>
-        <id>https://www.163.com/news/article/HR7Q5JU8000181BR.html</id>
-        <link href="https://www.163.com/news/article/HR7Q5JU8000181BR.html"/>
-        <updated>2023-03-24T22:53:56.721Z</updated>
+        <title type="html"><![CDATA[轻松一刻：不在沉默中爆发，就在沉默中沉默！ (网易 轻松一刻)]]></title>
+        <id>https://www.163.com/news/article/I22S5AP7000181BR.html</id>
+        <link href="https://www.163.com/news/article/I22S5AP7000181BR.html"/>
+        <updated>2023-04-11T16:09:33.025Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻:丈夫进妻子卧室竟要付费,200元才能进1次 (网易 轻松一刻)]]></title>
@@ -1447,12 +1453,6 @@
         <updated>2023-03-24T22:53:56.721Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[轻松一秒：两个员工打架，要么离职要么手牵手 (网易 轻松一刻)]]></title>
-        <id>https://www.163.com/news/article/HR7Q5JU8000181BR.html</id>
-        <link href="https://www.163.com/news/article/HR7Q5JU8000181BR.html"/>
-        <updated>2023-03-24T22:53:56.721Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pandora占星小巫天蝎座一周塔罗运势（4.10-4.16） (美国神婆 天蝎)]]></title>
         <id>https://www.zuixingzuo.net/tianxie/show357413.html</id>
         <link href="https://www.zuixingzuo.net/tianxie/show357413.html"/>
@@ -1593,7 +1593,7 @@
         <content type="html"><![CDATA[<a href="https://www.zuixingzuo.net/tianxie/show356844.html" target="_blank">蓝蓝占星天蝎座一周感情运势（3.27-4.2）</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[有效日期：2023-04-11 (新浪 天蝎日运)]]></title>
+        <title type="html"><![CDATA[有效日期：2023-04-12 (新浪 天蝎日运)]]></title>
         <id>javascript:void(0)</id>
         <link href="javascript:void(0)"/>
         <updated>2023-03-23T16:32:23.501Z</updated>
@@ -1608,7 +1608,7 @@
 								<span class="sp2">作者：<span class="a1">每少 </span>新浪独家撰稿</span>
 							</div>
 							<div class="time">
-								有效日期：2023-04-11
+								有效日期：2023-04-12
 							</div>
 						</div>
 					</div>
@@ -1616,42 +1616,42 @@
 						<table class="tb">
 							<tbody><tr>
 								<td class="tb_td1">今日幸运值</td>
-								<td>60%</td>
+								<td>50%</td>
 								<td class="tb_td1">爱情指数</td>
 								<td>90%</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">工作指数</td>
-								<td>80%</td>
-								<td class="tb_td1">财运指数</td>
 								<td>90%</td>
+								<td class="tb_td1">财运指数</td>
+								<td>30%</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">健康指数</td>
-								<td>70%</td>
+								<td>90%</td>
 								<td class="tb_td1">幸运数字</td>
-								<td>1</td>
+								<td>4</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">幸运颜色</td>
-								<td>灰色</td>
+								<td>绿色</td>
 								<td class="tb_td1">贵人星座</td>
 								<td>巨蟹座</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">今日重要天象</td>
-								<td colspan="3">金星进入双子座+金星拱冥王星</td>
+								<td colspan="3">太阳合木星</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">精评</td>
-								<td colspan="3">一句话戳你：解决问题。</td>
+								<td colspan="3">一句话拍你：相信自己。</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">详述</td>
-								<td colspan="3" style="line-height: 25px;">今天需要直面自己胆怯的事情，无论是不想接触大众又或者觉得自己能力不足，今天都可以多鼓励自己来克服这些你担忧的事情，勇敢才是最好的保护。</td>
+								<td colspan="3" style="line-height: 25px;">今天要多给自己一些积极心态，你所想的就能成真，今天或许会有这样的希望，最重要的是，当你有这样的信念，有些事情就会成功或者给你展现一个好的发展方向。</td>
 							</tr>
 						</tbody></table>
-						<div class="chart-box" style="height: 400px; user-select: none; position: relative;" _echarts_instance_="ec_1681215141480"><div style="position: relative; width: 680px; height: 400px; padding: 0px; margin: 0px; border-width: 0px;"><canvas style="position: absolute; left: 0px; top: 0px; width: 680px; height: 400px; user-select: none; padding: 0px; margin: 0px; border-width: 0px;" data-zr-dom-id="zr_0" width="680" height="400"></canvas></div><div></div></div>
+						<div class="chart-box" style="height: 400px; user-select: none; position: relative;" _echarts_instance_="ec_1681229388873"><div style="position: relative; width: 680px; height: 400px; padding: 0px; margin: 0px; border-width: 0px;"><canvas style="position: absolute; left: 0px; top: 0px; width: 680px; height: 400px; user-select: none; padding: 0px; margin: 0px; border-width: 0px;" data-zr-dom-id="zr_0" width="680" height="400"></canvas></div><div></div></div>
 						<!-- <div class="words"></div> -->
 
 						<!-- 自定义按钮及分享 -->
@@ -1675,7 +1675,7 @@
 									bdWbuid : '1644291782'
 								},
 								share : [{
-									bdText : '【天蝎座今日运势】今日幸运值：60%。爱情指数：90%工作指数：80%幸运颜色：灰色。贵人星座：巨蟹座。',
+									bdText : '【天蝎座今日运势】今日幸运值：50%。爱情指数：90%工作指数：90%幸运颜色：绿色。贵人星座：巨蟹座。',
 									bdDesc : '',
 									bdUrl : 'http://astro.sina.com.cn/fate_day_Scorpio/index.html',
 									bdPic : 'http://n.sinaimg.cn/723ccdcf/20150817/bshare.jpg'
@@ -1690,14 +1690,14 @@
         <id>https://m.163.com/news/article/I222BAUJ0001899O.html</id>
         <link href="https://m.163.com/news/article/I222BAUJ0001899O.html"/>
         <updated>2023-04-11T08:09:56.094Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I222BAUJ0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>曾海燕已任中国人民公安大学党委书记  </h4><div class="s-info"><!----><span class="s-source">澎湃新闻</span><span class="s-replyCount">898跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="曾海燕已任中国人民公安大学党委书记  " class="nimg"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I222BAUJ0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>曾海燕已任中国人民公安大学党委书记  </h4><div class="s-info"><!----><span class="s-source">澎湃新闻</span><span class="s-replyCount">1381跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="曾海燕已任中国人民公安大学党委书记  " class="nimg"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[多省中小银行下调存款利率：原因何在，是“降息”信号吗 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I21NDRBU0001899O.html</id>
         <link href="https://m.163.com/news/article/I21NDRBU0001899O.html"/>
         <updated>2023-04-11T08:09:56.094Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I21NDRBU0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>多省中小银行下调存款利率：原因何在，是“降息”信号吗</h4><div class="s-info"><!----><span class="s-source">澎湃新闻</span><span class="s-replyCount">4495跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="多省中小银行下调存款利率：原因何在，是“降息”信号吗" class="nimg"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I21NDRBU0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>多省中小银行下调存款利率：原因何在，是“降息”信号吗</h4><div class="s-info"><!----><span class="s-source">澎湃新闻</span><span class="s-replyCount">4702跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="多省中小银行下调存款利率：原因何在，是“降息”信号吗" class="nimg"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[黑龙江饶河调研报告：全家种地一年收入不及一人外出打工 (网易 国内新闻)]]></title>
@@ -1711,21 +1711,21 @@
         <id>https://m.163.com/news/article/I21KDQRJ0001899O.html</id>
         <link href="https://m.163.com/news/article/I21KDQRJ0001899O.html"/>
         <updated>2023-04-11T04:08:47.209Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I21KDQRJ0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>航行警告！北部湾实弹射击训练   </h4><div class="s-info"><!----><span class="s-source">中国海事局</span><span class="s-replyCount">1136跟贴</span><span class="s-holder"></span><!----></div></section><!----></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I21KDQRJ0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>航行警告！北部湾实弹射击训练   </h4><div class="s-info"><!----><span class="s-source">中国海事局</span><span class="s-replyCount">1152跟贴</span><span class="s-holder"></span><!----></div></section><!----></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中国3月CPI同比上升0.7% (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I21JFF3Q0001899O.html</id>
         <link href="https://m.163.com/news/article/I21JFF3Q0001899O.html"/>
         <updated>2023-04-11T04:08:47.211Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I21JFF3Q0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>中国3月CPI同比上升0.7% </h4><div class="s-info"><!----><span class="s-source">国家统计局</span><span class="s-replyCount">2091跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="中国3月CPI同比上升0.7% " class="nimg"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I21JFF3Q0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>中国3月CPI同比上升0.7% </h4><div class="s-info"><!----><span class="s-source">国家统计局</span><span class="s-replyCount">2208跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="中国3月CPI同比上升0.7% " class="nimg"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[国家卫健委回应“出台政策鼓励早婚早育”提案：群众已转向少生优育 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I21GSTL90001899O.html</id>
         <link href="https://m.163.com/news/article/I21GSTL90001899O.html"/>
         <updated>2023-04-11T04:08:47.212Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I21GSTL90001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>国家卫健委回应“出台政策鼓励早婚早育”提案：群众已转向少生优育 </h4><div class="s-info"><!----><span class="s-source">澎湃新闻</span><span class="s-replyCount">3.5万跟贴</span><span class="s-holder"></span><!----></div></section><!----></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I21GSTL90001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>国家卫健委回应“出台政策鼓励早婚早育”提案：群众已转向少生优育 </h4><div class="s-info"><!----><span class="s-source">澎湃新闻</span><span class="s-replyCount">3.6万跟贴</span><span class="s-holder"></span><!----></div></section><!----></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[演习结束！军事专家：解放军对“台独”“瓮中捉鳖”布局完成 (网易 国内新闻)]]></title>
@@ -1739,14 +1739,14 @@
         <id>https://m.163.com/news/article/I21FQNG20001899O.html</id>
         <link href="https://m.163.com/news/article/I21FQNG20001899O.html"/>
         <updated>2023-04-11T04:08:47.216Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I21FQNG20001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>演习结束！台媒数：解放军3天共出动军机232架次、军舰32艘次  </h4><div class="s-info"><!----><span class="s-source">环球网</span><span class="s-replyCount">654跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="演习结束！台媒数：解放军3天共出动军机232架次、军舰32艘次  " class="nimg"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I21FQNG20001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>演习结束！台媒数：解放军3天共出动军机232架次、军舰32艘次  </h4><div class="s-info"><!----><span class="s-source">环球网</span><span class="s-replyCount">656跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="演习结束！台媒数：解放军3天共出动军机232架次、军舰32艘次  " class="nimg"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[解放军围岛演练，台军出动“老爷舰”，专家：折射台海军装备现状 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I1VHPROG0001899O.html</id>
         <link href="https://m.163.com/news/article/I1VHPROG0001899O.html"/>
         <updated>2023-04-11T04:08:47.217Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1VHPROG0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>解放军围岛演练，台军出动“老爷舰”，专家：折射台海军装备现状 </h4><div class="s-info"><!----><span class="s-source">澎湃新闻</span><span class="s-replyCount">1904跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="解放军围岛演练，台军出动“老爷舰”，专家：折射台海军装备现状 " class="nimg"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1VHPROG0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>解放军围岛演练，台军出动“老爷舰”，专家：折射台海军装备现状 </h4><div class="s-info"><!----><span class="s-source">澎湃新闻</span><span class="s-replyCount">1777跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="解放军围岛演练，台军出动“老爷舰”，专家：折射台海军装备现状 " class="nimg"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[山东舰首次参加环台岛战备警巡 (网易 国内新闻)]]></title>
@@ -1781,21 +1781,21 @@
         <id>https://m.163.com/news/article/I1URSNDS000189PS.html</id>
         <link href="https://m.163.com/news/article/I1URSNDS000189PS.html"/>
         <updated>2023-04-10T08:09:35.896Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1URSNDS000189PS.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>沪深交易所主板注册制首批企业今日上市 </h4><div class="s-info"><!----><span class="s-source">央视新闻客户端</span><span class="s-replyCount">1551跟贴</span><span class="s-holder"></span><!----></div></section><!----></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1URSNDS000189PS.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>沪深交易所主板注册制首批企业今日上市 </h4><div class="s-info"><!----><span class="s-source">央视新闻客户端</span><span class="s-replyCount">1552跟贴</span><span class="s-holder"></span><!----></div></section><!----></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[沙尘暴蓝色预警：15省区市将有扬沙或浮尘天气，内蒙古局部有强沙尘暴 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I1UQPN5D0001899O.html</id>
         <link href="https://m.163.com/news/article/I1UQPN5D0001899O.html"/>
         <updated>2023-04-10T00:32:39.121Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1UQPN5D0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>沙尘暴蓝色预警：15省区市将有扬沙或浮尘天气，内蒙古局部有强沙尘暴 </h4><div class="s-info"><!----><span class="s-source">界面新闻</span><span class="s-replyCount">1506跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="沙尘暴蓝色预警：15省区市将有扬沙或浮尘天气，内蒙古局部有强沙尘暴 " class="nimg"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1UQPN5D0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>沙尘暴蓝色预警：15省区市将有扬沙或浮尘天气，内蒙古局部有强沙尘暴 </h4><div class="s-info"><!----><span class="s-source">界面新闻</span><span class="s-replyCount">1514跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="沙尘暴蓝色预警：15省区市将有扬沙或浮尘天气，内蒙古局部有强沙尘暴 " class="nimg"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[连休5天！北京市发布五一放假安排 (网易 国内新闻)]]></title>
         <id>https://m.163.com/news/article/I1UOJUCG0001899O.html</id>
         <link href="https://m.163.com/news/article/I1UOJUCG0001899O.html"/>
         <updated>2023-04-10T00:32:39.122Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1UOJUCG0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>连休5天！北京市发布五一放假安排 </h4><div class="s-info"><!----><span class="s-source">北京日报客户端</span><span class="s-replyCount">801跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="连休5天！北京市发布五一放假安排 " class="nimg"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1UOJUCG0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>连休5天！北京市发布五一放假安排 </h4><div class="s-info"><!----><span class="s-source">北京日报客户端</span><span class="s-replyCount">802跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="连休5天！北京市发布五一放假安排 " class="nimg"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[最新现场！东部战区环台岛战备警巡画面公布 (网易 国内新闻)]]></title>
@@ -1837,7 +1837,7 @@
         <id>https://m.163.com/news/article/I1QLB1Q60001899O.html</id>
         <link href="https://m.163.com/news/article/I1QLB1Q60001899O.html"/>
         <updated>2023-04-08T12:12:14.575Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1QLB1Q60001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>苏科大就凌晨发考研调剂通知致歉：工作人员失误</h4><div class="s-info"><!----><span class="s-source">北京青年报</span><span class="s-replyCount">9541跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="苏科大就凌晨发考研调剂通知致歉：工作人员失误" class="nimg"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1QLB1Q60001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>苏科大就凌晨发考研调剂通知致歉：工作人员失误</h4><div class="s-info"><!----><span class="s-source">北京青年报</span><span class="s-replyCount">9542跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="苏科大就凌晨发考研调剂通知致歉：工作人员失误" class="nimg"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[中疾控：新冠病毒通过实验室引入是"极不可能" (网易 国内新闻)]]></title>
@@ -1858,7 +1858,7 @@
         <id>https://m.163.com/news/article/I1QJM81K0001899O.html</id>
         <link href="https://m.163.com/news/article/I1QJM81K0001899O.html"/>
         <updated>2023-04-08T12:12:14.581Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1QJM81K0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>中疾控：将新冠溯源政治化是中国科学界无法容忍的</h4><div class="s-info"><!----><span class="s-source">界面新闻</span><span class="s-replyCount">4.2万跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="中疾控：将新冠溯源政治化是中国科学界无法容忍的" class="nimg"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1QJM81K0001899O.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>中疾控：将新冠溯源政治化是中国科学界无法容忍的</h4><div class="s-info"><!----><span class="s-source">界面新闻</span><span class="s-replyCount">4.3万跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="中疾控：将新冠溯源政治化是中国科学界无法容忍的" class="nimg"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[禁止驶入！福州、平潭两海域实弹射击 (网易 国内新闻)]]></title>
@@ -1872,7 +1872,7 @@
         <id>https://m.163.com/news/article/I1O79QER0514BE2Q.html</id>
         <link href="https://m.163.com/news/article/I1O79QER0514BE2Q.html"/>
         <updated>2023-04-08T00:30:46.154Z</updated>
-        <content type="html"><![CDATA[<a href="/news/article/I1O79QER0514BE2Q.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>疫情管控放开数月 部分高校仍严格限制校外人员进入</h4><div class="s-info"><!----><span class="s-source">中国新闻周刊</span><span class="s-replyCount">2906跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="疫情管控放开数月 部分高校仍严格限制校外人员进入" class="nimg"><!----></section></article></a>]]></content>
+        <content type="html"><![CDATA[<a href="/news/article/I1O79QER0514BE2Q.html" class="cards-oneImg cards-newsCard"><article><section class="s-left"><h4>疫情管控放开数月 部分高校仍严格限制校外人员进入</h4><div class="s-info"><!----><span class="s-source">中国新闻周刊</span><span class="s-replyCount">2921跟贴</span><span class="s-holder"></span><!----></div></section><section class="s-right"><img src="https://static.ws.126.net/163/frontend/images/2022/empty.png" alt="疫情管控放开数月 部分高校仍严格限制校外人员进入" class="nimg"><!----></section></article></a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【解局】被中国采取反制措施的两家美国机构，都有哪些涉台“黑历史”？ (网易 国内新闻)]]></title>
@@ -1906,7 +1906,7 @@
         <title type="html"><![CDATA[undefined (吾爱破解 今日热帖)]]></title>
         <id>https://rsyqvthv.github.io/feeds/all.xml</id>
         <link href="https://rsyqvthv.github.io/feeds/all.xml"/>
-        <updated>2023-04-11T12:12:49.122Z</updated>
+        <updated>2023-04-11T16:10:08.841Z</updated>
         <content type="html"><![CDATA[主题]]></content>
     </entry>
     <entry>
@@ -2013,6 +2013,258 @@
         <link href="https://www.52pojie.cn/thread-1772026-1-1.html"/>
         <updated>2023-04-11T04:08:54.496Z</updated>
         <content type="html"><![CDATA[<a href="thread-1772026-1-1.html" target="_blank">麻烦大家给一个现在可用的win10禁止更新 谢谢</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[来自深海的古火山线索：大规模水下喷发的危害和气候影响 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354229.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354229.htm"/>
+        <updated>2023-04-11T16:10:15.853Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354229.htm">来自深海的古火山线索：大规模水下喷发的危害和气候影响</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[韩国第一枚完全自研火箭将第三飞 设计制造耗时12年 花费2万亿韩元 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354227.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354227.htm"/>
+        <updated>2023-04-11T16:10:15.855Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354227.htm">韩国第一枚完全自研火箭将第三飞 设计制造耗时12年 花费2万亿韩元</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Firefox 112发布 减少英特尔CPU上的GPU使用、改进密码字段等 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354225.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354225.htm"/>
+        <updated>2023-04-11T16:10:15.861Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354225.htm">Mozilla Firefox 112发布 减少英特尔CPU上的GPU使用、改进密码字段等</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法国反垄断机构将调查苹果的应用追踪隐私政策 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354223.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354223.htm"/>
+        <updated>2023-04-11T16:10:15.863Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354223.htm">法国反垄断机构将调查苹果的应用追踪隐私政策</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Moderna盘前跌超5% 旗下实验性流感疫苗未达成功标准 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354221.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354221.htm"/>
+        <updated>2023-04-11T16:10:15.863Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354221.htm">Moderna盘前跌超5% 旗下实验性流感疫苗未达成功标准</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国人是否越来越不聪明？研究揭示了智商分数的令人担忧的趋势 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354219.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354219.htm"/>
+        <updated>2023-04-11T16:10:15.866Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354219.htm">美国人是否越来越不聪明？研究揭示了智商分数的令人担忧的趋势</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pew调查：大多数美国人对加密货币的安全性和可靠性没有信心 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354217.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354217.htm"/>
+        <updated>2023-04-11T16:10:15.866Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354217.htm">Pew调查：大多数美国人对加密货币的安全性和可靠性没有信心</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[史蒂夫·乔布斯档案馆发布免费电子书 收集乔布斯的演讲稿和照片 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354215.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354215.htm"/>
+        <updated>2023-04-11T16:10:15.867Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354215.htm">史蒂夫·乔布斯档案馆发布免费电子书 收集乔布斯的演讲稿和照片</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26岁韩国女星郑彩率去世：新剧拍摄中 死因未透露 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354213.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354213.htm"/>
+        <updated>2023-04-11T16:10:15.871Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354213.htm">26岁韩国女星郑彩率去世：新剧拍摄中 死因未透露</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天龙二号完成中国火箭大规模重复使用 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354211.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354211.htm"/>
+        <updated>2023-04-11T16:10:15.872Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354211.htm">天龙二号完成中国火箭大规模重复使用</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三星更新PRO Plus UHS-I存储卡 提高读写速度 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354209.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354209.htm"/>
+        <updated>2023-04-11T16:10:15.874Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354209.htm">三星更新PRO Plus UHS-I存储卡 提高读写速度</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探访汽车“坟场”：消失的网约车、共享汽车在这里论斤卖 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354207.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354207.htm"/>
+        <updated>2023-04-11T16:10:15.877Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354207.htm">探访汽车“坟场”：消失的网约车、共享汽车在这里论斤卖</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成马斯克身边红人，朱晓彤凭什么？ (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354205.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354205.htm"/>
+        <updated>2023-04-11T16:10:15.878Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354205.htm">成马斯克身边红人，朱晓彤凭什么？</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在4D中看到细胞：疾病治疗和药物发现的纳米光子的未来 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354203.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354203.htm"/>
+        <updated>2023-04-11T16:10:15.882Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354203.htm">在4D中看到细胞：疾病治疗和药物发现的纳米光子的未来</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软准备改变Print Screen键盘按钮 响应Windows 11中的截屏工具 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354201.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354201.htm"/>
+        <updated>2023-04-11T16:10:15.883Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354201.htm">微软准备改变Print Screen键盘按钮 响应Windows 11中的截屏工具</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA的EZIE将揭开地球和太空之间电荷联系的秘密 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354199.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354199.htm"/>
+        <updated>2023-04-11T16:10:15.885Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354199.htm">NASA的EZIE将揭开地球和太空之间电荷联系的秘密</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新的发现挑战了学界关于植物进化分支起源的认知 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354197.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354197.htm"/>
+        <updated>2023-04-11T16:10:15.887Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354197.htm">新的发现挑战了学界关于植物进化分支起源的认知</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究人员开发出可从陆地到海洋之间无缝转换工作的软体机器人 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354195.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354195.htm"/>
+        <updated>2023-04-11T16:10:15.888Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354195.htm">研究人员开发出可从陆地到海洋之间无缝转换工作的软体机器人</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT天文学家绘制了遥远的中子星系统中的"盘状风"示意图 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354193.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354193.htm"/>
+        <updated>2023-04-11T16:10:15.890Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354193.htm">MIT天文学家绘制了遥远的中子星系统中的"盘状风"示意图</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新型手持式传感器可快速测试汗液中与疾病相关的激素 8分钟出结果 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354191.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354191.htm"/>
+        <updated>2023-04-11T16:10:15.891Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354191.htm">新型手持式传感器可快速测试汗液中与疾病相关的激素 8分钟出结果</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[神秘的联系：科学家发现满月期间自杀率明显上升 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354189.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354189.htm"/>
+        <updated>2023-04-11T16:10:15.892Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354189.htm">神秘的联系：科学家发现满月期间自杀率明显上升</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家们发现了一个分子基础 揭开了动物碱性味觉的奥秘 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354187.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354187.htm"/>
+        <updated>2023-04-11T16:10:15.895Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354187.htm">科学家们发现了一个分子基础 揭开了动物碱性味觉的奥秘</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跳出框框的思考：超大的纳米笼可彻底改变未来药物的输送方式 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354185.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354185.htm"/>
+        <updated>2023-04-11T16:10:15.898Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354185.htm">跳出框框的思考：超大的纳米笼可彻底改变未来药物的输送方式</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[研究HIV的藏身之处 约翰·霍普金斯大学研究人员发现消除感染的新目标 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354183.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354183.htm"/>
+        <updated>2023-04-11T16:10:15.905Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354183.htm">研究HIV的藏身之处 约翰·霍普金斯大学研究人员发现消除感染的新目标</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sky Canvas卫星可被用来按需拍摄 "人造流星雨" (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354181.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354181.htm"/>
+        <updated>2023-04-11T16:10:15.906Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354181.htm">Sky Canvas卫星可被用来按需拍摄 "人造流星雨"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金属抗生素可能是未来对抗超级耐药细菌的秘密武器 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354179.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354179.htm"/>
+        <updated>2023-04-11T16:10:15.907Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354179.htm">金属抗生素可能是未来对抗超级耐药细菌的秘密武器</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科学家利用CRISPR工具识别导致肝癌的基因突变 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354177.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354177.htm"/>
+        <updated>2023-04-11T16:10:15.909Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354177.htm">科学家利用CRISPR工具识别导致肝癌的基因突变</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["失控"的超大质量黑洞在其周围产生新的恒星 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354175.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354175.htm"/>
+        <updated>2023-04-11T16:10:15.910Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354175.htm">"失控"的超大质量黑洞在其周围产生新的恒星</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C919全球订单量突破1000架 美国一家航空公司也买了 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354173.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354173.htm"/>
+        <updated>2023-04-11T16:10:15.911Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354173.htm">C919全球订单量突破1000架 美国一家航空公司也买了</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD锐龙7800X3D 19家评测汇总：只需1/3功耗掀翻友商24核 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354171.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354171.htm"/>
+        <updated>2023-04-11T16:10:15.912Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354171.htm">AMD锐龙7800X3D 19家评测汇总：只需1/3功耗掀翻友商24核</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小米13 Ultra高清渲染图曝光：微曲屏、硕大后摄辨识度拉满 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354169.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354169.htm"/>
+        <updated>2023-04-11T16:10:15.913Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354169.htm">小米13 Ultra高清渲染图曝光：微曲屏、硕大后摄辨识度拉满</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一级7台发动机 中国全新载人火箭突破关键技术 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354167.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354167.htm"/>
+        <updated>2023-04-11T16:10:15.914Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354167.htm">一级7台发动机 中国全新载人火箭突破关键技术</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两大巨头“世纪大和解” 腾讯视频官方入驻抖音 昵称“鹅家” (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354165.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354165.htm"/>
+        <updated>2023-04-11T16:10:15.927Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354165.htm">两大巨头“世纪大和解” 腾讯视频官方入驻抖音 昵称“鹅家”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为何男女预期寿命差距越来越大？女性为何更长寿？ (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354163.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354163.htm"/>
+        <updated>2023-04-11T16:10:15.928Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354163.htm">为何男女预期寿命差距越来越大？女性为何更长寿？</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[450W功耗 Intel顶级GPU突然生变 只为卖到中国？ (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354161.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354161.htm"/>
+        <updated>2023-04-11T16:10:15.929Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354161.htm">450W功耗 Intel顶级GPU突然生变 只为卖到中国？</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《圣斗士星矢》真人版战斗预告：变身画面超燃 (cnbeta 首页)]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354159.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354159.htm"/>
+        <updated>2023-04-11T16:10:15.930Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354159.htm">《圣斗士星矢》真人版战斗预告：变身画面超燃</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[电动版帕萨特这模样？大众ID.7申报图亮相 (cnbeta 首页)]]></title>
@@ -2183,256 +2435,11 @@
         <content type="html"><![CDATA[<a href="/wap/view/1354111.htm">马斯克讽刺美联储：他们的技术太古老 比魔兽世界落后几光年</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《生成式人工智能服务管理办法（征求意见稿）》正公开征求意见 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354109.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354109.htm"/>
-        <updated>2023-04-11T08:10:09.002Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354109.htm">《生成式人工智能服务管理办法（征求意见稿）》正公开征求意见</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[波音计划2025年前将737 MAX机型月产量恢复至52架 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354107.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354107.htm"/>
-        <updated>2023-04-11T04:09:00.372Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354107.htm">波音计划2025年前将737 MAX机型月产量恢复至52架</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国电视Q1出货量数据：小米继续第一 华为下降超过50% (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354105.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354105.htm"/>
-        <updated>2023-04-11T04:09:00.372Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354105.htm">中国电视Q1出货量数据：小米继续第一 华为下降超过50%</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中国科大开发出镧系金属卤化物基固态电解质新家族 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354103.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354103.htm"/>
-        <updated>2023-04-11T04:09:00.379Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354103.htm">中国科大开发出镧系金属卤化物基固态电解质新家族</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周杰伦起诉网易原因曝光：网易一款游戏私自送票惹的祸 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354101.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354101.htm"/>
-        <updated>2023-04-11T04:09:00.379Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354101.htm">周杰伦起诉网易原因曝光：网易一款游戏私自送票惹的祸</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不卸载减少应用60%空间：Android将新增应用自动归档功能 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354099.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354099.htm"/>
-        <updated>2023-04-11T04:09:00.379Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354099.htm">不卸载减少应用60%空间：Android将新增应用自动归档功能</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不限行、停车还免费 乘联会：新能源车路权特权必然取消 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354097.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354097.htm"/>
-        <updated>2023-04-11T04:09:00.379Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354097.htm">不限行、停车还免费 乘联会：新能源车路权特权必然取消</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可卷曲反射镜技术可以为更大、更强的太空望远镜奠定基础 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354095.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354095.htm"/>
-        <updated>2023-04-11T04:09:00.382Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354095.htm">可卷曲反射镜技术可以为更大、更强的太空望远镜奠定基础</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[中世纪的僧侣记录的月食场景揭示了地球古代火山活动的真相 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354093.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354093.htm"/>
-        <updated>2023-04-11T04:09:00.383Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354093.htm">中世纪的僧侣记录的月食场景揭示了地球古代火山活动的真相</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南极科考新设施"发现"大楼的建设正与冬天的到来赛跑 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354091.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354091.htm"/>
-        <updated>2023-04-11T04:09:00.384Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354091.htm">南极科考新设施"发现"大楼的建设正与冬天的到来赛跑</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[纳米复合硅阳极有望提高电动车的续航能力 充电时间减至10分钟 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354089.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354089.htm"/>
-        <updated>2023-04-11T04:09:00.385Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354089.htm">纳米复合硅阳极有望提高电动车的续航能力 充电时间减至10分钟</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[宇宙碰撞：带有巨大黑洞的矮星系揭开了早期宇宙的秘密 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354087.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354087.htm"/>
-        <updated>2023-04-11T04:09:00.387Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354087.htm">宇宙碰撞：带有巨大黑洞的矮星系揭开了早期宇宙的秘密</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[康奈尔大学研究人员揭开了抗衰老的体重管理的秘密 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354085.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354085.htm"/>
-        <updated>2023-04-11T04:09:00.388Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354085.htm">康奈尔大学研究人员揭开了抗衰老的体重管理的秘密</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[索尼在专利中贬低其他主机制造商 专利专家怒批其幼稚不专业 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354083.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354083.htm"/>
-        <updated>2023-04-11T04:09:00.390Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354083.htm">索尼在专利中贬低其他主机制造商 专利专家怒批其幼稚不专业</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大摩：特斯拉在中国和墨西哥的投资是推出低价车型的关键 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354081.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354081.htm"/>
-        <updated>2023-04-11T04:09:00.392Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354081.htm">大摩：特斯拉在中国和墨西哥的投资是推出低价车型的关键</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4070官方性能数据泄露 不开启DLSS3也能打平3080 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354079.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354079.htm"/>
-        <updated>2023-04-11T04:09:00.393Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354079.htm">4070官方性能数据泄露 不开启DLSS3也能打平3080</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[周鸿祎天价离婚引质疑 三六零能靠AI撑起千亿市值吗？ (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354077.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354077.htm"/>
-        <updated>2023-04-11T04:09:00.394Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354077.htm">周鸿祎天价离婚引质疑 三六零能靠AI撑起千亿市值吗？</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[乔布斯时代的苹果功勋公关主管Katie Cotton去世 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354075.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354075.htm"/>
-        <updated>2023-04-11T04:09:00.396Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354075.htm">乔布斯时代的苹果功勋公关主管Katie Cotton去世</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉价格“大战”继续 分析师称降价或使其每年损失约7亿美元 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354073.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354073.htm"/>
-        <updated>2023-04-11T04:09:00.398Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354073.htm">特斯拉价格“大战”继续 分析师称降价或使其每年损失约7亿美元</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coinbase前CTO预测比特币三个月涨到100万美元 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354071.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354071.htm"/>
-        <updated>2023-04-11T04:09:00.404Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354071.htm">Coinbase前CTO预测比特币三个月涨到100万美元</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[三星电子允许韩国中小企业无偿使用272项专利技术 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354069.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354069.htm"/>
-        <updated>2023-04-11T04:09:00.404Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354069.htm">三星电子允许韩国中小企业无偿使用272项专利技术</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“电影难看退一半钱”何以难得？ (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354067.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354067.htm"/>
-        <updated>2023-04-11T04:09:00.405Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354067.htm">“电影难看退一半钱”何以难得？</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[东方材料的心机 与华为的嫌弃 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354065.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354065.htm"/>
-        <updated>2023-04-11T04:09:00.407Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354065.htm">东方材料的心机 与华为的嫌弃</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[日本政府或引入人工智能技术 OpenAI考虑开设日本办公室 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354063.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354063.htm"/>
-        <updated>2023-04-11T04:09:00.409Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354063.htm">日本政府或引入人工智能技术 OpenAI考虑开设日本办公室</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硅谷银行与储户关系不寻常？美议员要求Roblox等14家储户解释 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354061.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354061.htm"/>
-        <updated>2023-04-11T04:09:00.411Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354061.htm">硅谷银行与储户关系不寻常？美议员要求Roblox等14家储户解释</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前老板起诉推特：公司还有一堆调查需配合 请报销律师费 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354059.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354059.htm"/>
-        <updated>2023-04-11T04:09:00.412Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354059.htm">前老板起诉推特：公司还有一堆调查需配合 请报销律师费</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊再添降本新举措：将对UPS网点部分退货收费 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354057.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354057.htm"/>
-        <updated>2023-04-11T04:09:00.414Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354057.htm">亚马逊再添降本新举措：将对UPS网点部分退货收费</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[生成式AI会抢走你的饭碗吗？ (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354055.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354055.htm"/>
-        <updated>2023-04-11T04:09:00.415Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354055.htm">生成式AI会抢走你的饭碗吗？</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter变Titter 马斯克将旧金山总部Twitter标志“w”涂成背景色 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354053.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354053.htm"/>
-        <updated>2023-04-11T04:09:00.419Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354053.htm">Twitter变Titter 马斯克将旧金山总部Twitter标志“w”涂成背景色</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI、微软、谷歌等科技巨头本周将讨论制定AI使用标准 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354051.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354051.htm"/>
-        <updated>2023-04-11T00:36:10.286Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354051.htm">OpenAI、微软、谷歌等科技巨头本周将讨论制定AI使用标准</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从类固醇再到气候：棒球运动的最新助推器是全球变暖 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354049.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354049.htm"/>
-        <updated>2023-04-11T00:36:10.290Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354049.htm">从类固醇再到气候：棒球运动的最新助推器是全球变暖</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[改变游戏规则的COVID-19鼻腔疫苗通过了初步测试 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354047.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354047.htm"/>
-        <updated>2023-04-11T00:36:10.291Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354047.htm">改变游戏规则的COVID-19鼻腔疫苗通过了初步测试</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA升级强大的SLS火箭发动机 并为下一个太空探索时代重新开始生产 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354045.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354045.htm"/>
-        <updated>2023-04-11T00:36:10.297Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354045.htm">NASA升级强大的SLS火箭发动机 并为下一个太空探索时代重新开始生产</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27亿吨！研究发现喜马拉雅冰湖水下冰损失被严重低估 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354043.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354043.htm"/>
-        <updated>2023-04-11T00:36:10.298Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354043.htm">27亿吨！研究发现喜马拉雅冰湖水下冰损失被严重低估</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[美国宇航局继续资助未来的小行星粉碎和太空药房项目 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354041.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354041.htm"/>
-        <updated>2023-04-11T00:36:10.299Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354041.htm">美国宇航局继续资助未来的小行星粉碎和太空药房项目</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[埃隆·马斯克称SpaceX的"Starship"已准备就绪 即将发射 (cnbeta 首页)]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354039.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354039.htm"/>
-        <updated>2023-04-11T00:36:10.308Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354039.htm">埃隆·马斯克称SpaceX的"Starship"已准备就绪 即将发射</a>]]></content>
+        <title type="html"><![CDATA[vMix Pro 26.0.0.37 Full Version (mazterize)]]></title>
+        <id>https://www.mazterize.com/vmix-pro-full-version.html</id>
+        <link href="https://www.mazterize.com/vmix-pro-full-version.html"/>
+        <updated>2023-04-11T16:10:21.290Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/vmix-pro-full-version.html">vMix Pro 26.0.0.37 Full Version</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CyberLink PhotoDirector Ultra 14.4.1606.0 Full Version (mazterize)]]></title>
@@ -2575,11 +2582,40 @@
         <content type="html"><![CDATA[<a href="https://www.mazterize.com/topaz-photo-ai-full-version.html">Topaz Photo AI 1.2.10 Full version</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BluffTitler Ultimate 16.2.0 Full Version (mazterize)]]></title>
-        <id>https://www.mazterize.com/blufftitler-ultimate-full-version.html</id>
-        <link href="https://www.mazterize.com/blufftitler-ultimate-full-version.html"/>
-        <updated>2023-04-08T00:31:05.717Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/blufftitler-ultimate-full-version.html">BluffTitler Ultimate 16.2.0 Full Version</a>]]></content>
+        <title type="html"><![CDATA[Ashgate Automation closes doors (printweek news)]]></title>
+        <id>https://www.printweek.com/news/article/ashgate-automation-closes-doors</id>
+        <link href="https://www.printweek.com/news/article/ashgate-automation-closes-doors"/>
+        <updated>2023-04-11T16:10:28.328Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/ashgate-automation-closes-doors">
+                            Ashgate Automation closes doors 
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DS Smith praises Nozomi versatility (printweek news)]]></title>
+        <id>https://www.printweek.com/news/article/ds-smith-praises-nozomi-versatility</id>
+        <link href="https://www.printweek.com/news/article/ds-smith-praises-nozomi-versatility"/>
+        <updated>2023-04-11T16:10:28.332Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/ds-smith-praises-nozomi-versatility">
+                            DS Smith praises Nozomi versatility
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SMP launches new membership scheme for trade associations (printweek news)]]></title>
+        <id>https://www.printweek.com/news/article/smp-launches-new-membership-scheme-for-trade-associations</id>
+        <link href="https://www.printweek.com/news/article/smp-launches-new-membership-scheme-for-trade-associations"/>
+        <updated>2023-04-11T16:10:28.334Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/smp-launches-new-membership-scheme-for-trade-associations">
+                            SMP launches new membership scheme for trade associations
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super-Wide Digital commits to dye-sub with clean conscience (printweek news)]]></title>
+        <id>https://www.printweek.com/news/article/super-wide-digital-commits-to-dye-sub-with-clean-conscience</id>
+        <link href="https://www.printweek.com/news/article/super-wide-digital-commits-to-dye-sub-with-clean-conscience"/>
+        <updated>2023-04-11T16:10:28.337Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/super-wide-digital-commits-to-dye-sub-with-clean-conscience">
+                            Super-Wide Digital commits to dye-sub with clean conscience
+                        </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ECO3 unveiled as new name for Offset Solutions (printweek news)]]></title>
@@ -2678,42 +2714,6 @@
         <updated>2023-04-05T16:14:08.630Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/optimum-signs-first-to-buy-printiq-v46">
                             Optimum Signs first to buy PrintIQ V46
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MediaCo installs UK’s first SwissQprint Kudu (printweek news)]]></title>
-        <id>https://www.printweek.com/news/article/mediaco-installs-uk-s-first-swissqprint-kudu</id>
-        <link href="https://www.printweek.com/news/article/mediaco-installs-uk-s-first-swissqprint-kudu"/>
-        <updated>2023-04-04T16:09:21.744Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/mediaco-installs-uk-s-first-swissqprint-kudu">
-                            MediaCo installs UK’s first SwissQprint Kudu
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agfa's Offset Solutions division officially under new ownership (printweek news)]]></title>
-        <id>https://www.printweek.com/news/article/agfa-s-offset-solutions-division-officially-under-new-ownership</id>
-        <link href="https://www.printweek.com/news/article/agfa-s-offset-solutions-division-officially-under-new-ownership"/>
-        <updated>2023-04-04T16:09:21.746Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/agfa-s-offset-solutions-division-officially-under-new-ownership">
-                            Agfa's Offset Solutions division officially under new ownership
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paper ops sales complete (printweek news)]]></title>
-        <id>https://www.printweek.com/news/article/paper-ops-sales-complete</id>
-        <link href="https://www.printweek.com/news/article/paper-ops-sales-complete"/>
-        <updated>2023-04-04T16:09:21.788Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/paper-ops-sales-complete">
-                            Paper ops sales complete
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivid scoops biggest-ever order (printweek news)]]></title>
-        <id>https://www.printweek.com/news/article/vivid-scoops-biggest-ever-order</id>
-        <link href="https://www.printweek.com/news/article/vivid-scoops-biggest-ever-order"/>
-        <updated>2023-04-04T16:09:21.789Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/vivid-scoops-biggest-ever-order">
-                            Vivid scoops biggest-ever order
                         </a>]]></content>
     </entry>
     <entry>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-04-11T12:13:20.729Z</updated>
+    <updated>2023-04-11T16:10:48.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[vMix Pro 26.0.0.37 Full Version]]></title>
+        <id>https://www.mazterize.com/vmix-pro-full-version.html</id>
+        <link href="https://www.mazterize.com/vmix-pro-full-version.html"/>
+        <updated>2023-04-11T16:10:21.290Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/vmix-pro-full-version.html">vMix Pro 26.0.0.37 Full Version</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CyberLink PhotoDirector Ultra 14.4.1606.0 Full Version]]></title>
         <id>https://www.mazterize.com/cyberlink-photodirector-ultra-full-version.html</id>
@@ -144,12 +151,5 @@
         <link href="https://www.mazterize.com/topaz-photo-ai-full-version.html"/>
         <updated>2023-04-08T00:31:05.716Z</updated>
         <content type="html"><![CDATA[<a href="https://www.mazterize.com/topaz-photo-ai-full-version.html">Topaz Photo AI 1.2.10 Full version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BluffTitler Ultimate 16.2.0 Full Version]]></title>
-        <id>https://www.mazterize.com/blufftitler-ultimate-full-version.html</id>
-        <link href="https://www.mazterize.com/blufftitler-ultimate-full-version.html"/>
-        <updated>2023-04-08T00:31:05.717Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/blufftitler-ultimate-full-version.html">BluffTitler Ultimate 16.2.0 Full Version</a>]]></content>
     </entry>
 </feed>

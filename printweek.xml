@@ -2,9 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printweek.com/news/all-news</id>
     <title>printweek news</title>
-    <updated>2023-04-11T12:13:20.764Z</updated>
+    <updated>2023-04-11T16:10:48.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printweek.com/media/182863/printweek-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Ashgate Automation closes doors]]></title>
+        <id>https://www.printweek.com/news/article/ashgate-automation-closes-doors</id>
+        <link href="https://www.printweek.com/news/article/ashgate-automation-closes-doors"/>
+        <updated>2023-04-11T16:10:28.328Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/ashgate-automation-closes-doors">
+                            Ashgate Automation closes doors 
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DS Smith praises Nozomi versatility]]></title>
+        <id>https://www.printweek.com/news/article/ds-smith-praises-nozomi-versatility</id>
+        <link href="https://www.printweek.com/news/article/ds-smith-praises-nozomi-versatility"/>
+        <updated>2023-04-11T16:10:28.332Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/ds-smith-praises-nozomi-versatility">
+                            DS Smith praises Nozomi versatility
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SMP launches new membership scheme for trade associations]]></title>
+        <id>https://www.printweek.com/news/article/smp-launches-new-membership-scheme-for-trade-associations</id>
+        <link href="https://www.printweek.com/news/article/smp-launches-new-membership-scheme-for-trade-associations"/>
+        <updated>2023-04-11T16:10:28.334Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/smp-launches-new-membership-scheme-for-trade-associations">
+                            SMP launches new membership scheme for trade associations
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super-Wide Digital commits to dye-sub with clean conscience]]></title>
+        <id>https://www.printweek.com/news/article/super-wide-digital-commits-to-dye-sub-with-clean-conscience</id>
+        <link href="https://www.printweek.com/news/article/super-wide-digital-commits-to-dye-sub-with-clean-conscience"/>
+        <updated>2023-04-11T16:10:28.337Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/super-wide-digital-commits-to-dye-sub-with-clean-conscience">
+                            Super-Wide Digital commits to dye-sub with clean conscience
+                        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ECO3 unveiled as new name for Offset Solutions]]></title>
         <id>https://www.printweek.com/news/article/eco3-unveiled-as-new-name-for-offset-solutions</id>
@@ -102,42 +138,6 @@
         <updated>2023-04-05T16:14:08.630Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/optimum-signs-first-to-buy-printiq-v46">
                             Optimum Signs first to buy PrintIQ V46
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MediaCo installs UK’s first SwissQprint Kudu]]></title>
-        <id>https://www.printweek.com/news/article/mediaco-installs-uk-s-first-swissqprint-kudu</id>
-        <link href="https://www.printweek.com/news/article/mediaco-installs-uk-s-first-swissqprint-kudu"/>
-        <updated>2023-04-04T16:09:21.744Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/mediaco-installs-uk-s-first-swissqprint-kudu">
-                            MediaCo installs UK’s first SwissQprint Kudu
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agfa's Offset Solutions division officially under new ownership]]></title>
-        <id>https://www.printweek.com/news/article/agfa-s-offset-solutions-division-officially-under-new-ownership</id>
-        <link href="https://www.printweek.com/news/article/agfa-s-offset-solutions-division-officially-under-new-ownership"/>
-        <updated>2023-04-04T16:09:21.746Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/agfa-s-offset-solutions-division-officially-under-new-ownership">
-                            Agfa's Offset Solutions division officially under new ownership
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paper ops sales complete]]></title>
-        <id>https://www.printweek.com/news/article/paper-ops-sales-complete</id>
-        <link href="https://www.printweek.com/news/article/paper-ops-sales-complete"/>
-        <updated>2023-04-04T16:09:21.788Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/paper-ops-sales-complete">
-                            Paper ops sales complete
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vivid scoops biggest-ever order]]></title>
-        <id>https://www.printweek.com/news/article/vivid-scoops-biggest-ever-order</id>
-        <link href="https://www.printweek.com/news/article/vivid-scoops-biggest-ever-order"/>
-        <updated>2023-04-04T16:09:21.789Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/vivid-scoops-biggest-ever-order">
-                            Vivid scoops biggest-ever order
                         </a>]]></content>
     </entry>
 </feed>
