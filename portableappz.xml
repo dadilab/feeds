@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://portableappz.blogspot.com/?m=1</id>
     <title>portableappz</title>
-    <updated>2023-04-12T04:09:48.028Z</updated>
+    <updated>2023-04-12T08:11:46.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://portableappz.blogspot.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mozilla Thunderbird 102.10.0 & 91.13.1 32-64 bit Multilingual]]></title>
+        <id>http://portableappz.blogspot.com/2013/03/mozilla-thunderbird-1704-multilingual.html?m=1</id>
+        <link href="http://portableappz.blogspot.com/2013/03/mozilla-thunderbird-1704-multilingual.html?m=1"/>
+        <updated>2023-04-12T08:11:37.759Z</updated>
+        <content type="html"><![CDATA[<a href="http://portableappz.blogspot.com/2013/03/mozilla-thunderbird-1704-multilingual.html?m=1">
+<h3 class="mobile-index-title entry-title" itemprop="name">
+Mozilla Thunderbird 102.10.0 &amp; 91.13.1 32-64 bit Multilingual
+</h3>
+<div class="mobile-index-arrow">›</div>
+<div class="mobile-index-contents">
+<div class="mobile-index-thumbnail">
+<div class="Image">
+<img src="https://3.bp.blogspot.com/-n3i9uxaAC3U/W2gCxAQRVCI/AAAAAAAAA0Q/r2WdBVa5m_U3wYOT_FuBMK9YhVUqJ0UlACLcBGAs/s72-c/Thunderbird.png">
+</div>
+</div>
+<div class="post-body">
+  Organize, secure and customize your mail  without installation.  Portable Daily 32-64 bit MultiVersion Online  (0.5 MB)  06/10/17  In firs...
+</div>
+</div>
+<div style="clear: both;"></div>
+</a>
+<div class="mobile-index-comment">
+<a class="comment-link" href="http://portableappz.blogspot.com/2013/03/mozilla-thunderbird-1704-multilingual.html?m=1#comment-form" onclick="javascript:window.open(this.href, &quot;bloggerPopup&quot;, &quot;toolbar=0,location=0,statusbar=1,menubar=0,scrollbars=yes,width=640,height=500&quot;); return false;">
+20 comments:
+  </a>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mozilla Firefox 112.0 32-64 bit Multilingual]]></title>
         <id>http://portableappz.blogspot.com/2012/07/mozilla-firefox-150-beta-2-multilingual.html?m=1</id>
@@ -255,31 +283,6 @@ Maxthon 7.0.0.3000 32-64 bit Multilingual
 <a class="comment-link" href="http://portableappz.blogspot.com/2014/04/maxthon-4402000-multilingual.html?m=1#comment-form" onclick="javascript:window.open(this.href, &quot;bloggerPopup&quot;, &quot;toolbar=0,location=0,statusbar=1,menubar=0,scrollbars=yes,width=640,height=500&quot;); return false;">
 4 comments:
   </a>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miranda NG 0.96.2 & IM 0.10.80 32-64 bit Multilingual]]></title>
-        <id>http://portableappz.blogspot.com/2014/01/miranda-im-01021-ng-0946-32-64-bit-en.html?m=1</id>
-        <link href="http://portableappz.blogspot.com/2014/01/miranda-im-01021-ng-0946-32-64-bit-en.html?m=1"/>
-        <updated>2023-03-31T20:08:45.290Z</updated>
-        <content type="html"><![CDATA[<a href="http://portableappz.blogspot.com/2014/01/miranda-im-01021-ng-0946-32-64-bit-en.html?m=1">
-<h3 class="mobile-index-title entry-title" itemprop="name">
-Miranda NG 0.96.2 &amp; IM 0.10.80 32-64 bit Multilingual
-</h3>
-<div class="mobile-index-arrow">›</div>
-<div class="mobile-index-contents">
-<div class="mobile-index-thumbnail">
-<div class="Image">
-<img src="https://3.bp.blogspot.com/-rKbVIGrECjA/ViE80gXa16I/AAAAAAAAATY/BCzwTGQPGXc/s72-c/Miranda.png">
-</div>
-</div>
-<div class="post-body">
-  Multi protocol Instant Messenger client  without installation.  Download Portable Miranda IM MultiVersion Multilingual Online  (0.5 MB)  1...
-</div>
-</div>
-<div style="clear: both;"></div>
-</a>
-<div class="mobile-index-comment">
 </div>]]></content>
     </entry>
 </feed>
