@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-12T16:10:07.800Z</updated>
+    <updated>2023-04-12T20:09:02.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[<a href="/view/8059">Linux 命令行图形化的性能监控工具 gtop，安装和启动只需要一行命令特别简单</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了]]></title>
-        <id>https://codenews.cc/view/115122</id>
-        <link href="https://codenews.cc/view/115122"/>
-        <updated>2023-04-08T08:09:34.315Z</updated>
-        <content type="html"><![CDATA[<a href="/view/115122">应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[为了方便查询常用网站，利用Github Page写了一个Nav收藏网址]]></title>
         <id>https://codenews.cc/view/8024</id>
         <link href="https://codenews.cc/view/8024"/>
         <updated>2023-03-24T22:55:08.991Z</updated>
         <content type="html"><![CDATA[<a href="/view/8024">为了方便查询常用网站，利用Github Page写了一个Nav收藏网址</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了]]></title>
+        <id>https://codenews.cc/view/115122</id>
+        <link href="https://codenews.cc/view/115122"/>
+        <updated>2023-04-08T08:09:34.315Z</updated>
+        <content type="html"><![CDATA[<a href="/view/115122">应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[基于vitepress 的简约风博客主题]]></title>
@@ -125,18 +125,18 @@
         <content type="html"><![CDATA[<a href="/view/8317">新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[基于 Canvas 编写的在线多功能画板 paint-board]]></title>
-        <id>https://codenews.cc/view/8313</id>
-        <link href="https://codenews.cc/view/8313"/>
-        <updated>2023-03-24T22:55:08.997Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8313">基于 Canvas 编写的在线多功能画板 paint-board</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[开源证件照小程序，自动扣图、换装换发饰]]></title>
         <id>https://codenews.cc/view/8098</id>
         <link href="https://codenews.cc/view/8098"/>
         <updated>2023-03-24T22:55:09.002Z</updated>
         <content type="html"><![CDATA[<a href="/view/8098">开源证件照小程序，自动扣图、换装换发饰</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于 Canvas 编写的在线多功能画板 paint-board]]></title>
+        <id>https://codenews.cc/view/8313</id>
+        <link href="https://codenews.cc/view/8313"/>
+        <updated>2023-03-24T22:55:08.997Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8313">基于 Canvas 编写的在线多功能画板 paint-board</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互]]></title>
