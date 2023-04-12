@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://astro.sina.com.cn/fate_day_Scorpio/index.html</id>
     <title>新浪 天蝎日运</title>
-    <updated>2023-04-12T12:13:48.865Z</updated>
+    <updated>2023-04-12T16:10:07.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://astro.sina.com.cn/fate_day_Scorpio/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[有效日期：2023-04-12]]></title>
+        <title type="html"><![CDATA[有效日期：2023-04-13]]></title>
         <id>http://astro.sina.com.cn/fate_day_Scorpio/index.html</id>
         <link href="http://astro.sina.com.cn/fate_day_Scorpio/index.html"/>
-        <updated>2023-04-12T12:12:53.449Z</updated>
+        <updated>2023-04-12T16:09:09.190Z</updated>
         <content type="html"><![CDATA[<div class="head clearfix">
 						<div class="tit">
 							<div class="tit_n">天蝎座<a href="javascript:void(0)" class="tit_f" id="followBtn">关注</a></div>
@@ -21,7 +21,7 @@
 								<span class="sp2">作者：<span class="a1">每少 </span>新浪独家撰稿</span>
 							</div>
 							<div class="time">
-								有效日期：2023-04-12
+								有效日期：2023-04-13
 							</div>
 						</div>
 					</div>
@@ -31,40 +31,40 @@
 								<td class="tb_td1">今日幸运值</td>
 								<td>50%</td>
 								<td class="tb_td1">爱情指数</td>
-								<td>90%</td>
+								<td>80%</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">工作指数</td>
 								<td>90%</td>
 								<td class="tb_td1">财运指数</td>
-								<td>30%</td>
+								<td>70%</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">健康指数</td>
-								<td>90%</td>
+								<td>20%</td>
 								<td class="tb_td1">幸运数字</td>
-								<td>4</td>
+								<td>1</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">幸运颜色</td>
-								<td>绿色</td>
+								<td>灰色</td>
 								<td class="tb_td1">贵人星座</td>
-								<td>巨蟹座</td>
+								<td>射手座</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">今日重要天象</td>
-								<td colspan="3">太阳合木星</td>
+								<td colspan="3"></td>
 							</tr>
 							<tr>
 								<td class="tb_td1">精评</td>
-								<td colspan="3">一句话拍你：相信自己。</td>
+								<td colspan="3">一句话拍你：跳脱。</td>
 							</tr>
 							<tr>
 								<td class="tb_td1">详述</td>
-								<td colspan="3" style="line-height: 25px;">今天要多给自己一些积极心态，你所想的就能成真，今天或许会有这样的希望，最重要的是，当你有这样的信念，有些事情就会成功或者给你展现一个好的发展方向。</td>
+								<td colspan="3" style="line-height: 25px;">你或许会遇到一个人，对方虽然很跳脱，但是其实对方给你展现了一个不同的行事方法，当你学会跳出自己的圈子看问题，你会发现，有些困扰真的就是庸人自扰。</td>
 							</tr>
 						</tbody></table>
-						<div class="chart-box" style="height: 400px; user-select: none; position: relative;" _echarts_instance_="ec_1681301573128"><div style="position: relative; width: 680px; height: 400px; padding: 0px; margin: 0px; border-width: 0px;"><canvas style="position: absolute; left: 0px; top: 0px; width: 680px; height: 400px; user-select: none; padding: 0px; margin: 0px; border-width: 0px;" data-zr-dom-id="zr_0" width="680" height="400"></canvas></div><div></div></div>
+						<div class="chart-box" style="height: 400px; user-select: none; position: relative;" _echarts_instance_="ec_1681315748746"><div style="position: relative; width: 680px; height: 400px; padding: 0px; margin: 0px; border-width: 0px;"><canvas style="position: absolute; left: 0px; top: 0px; width: 680px; height: 400px; user-select: none; padding: 0px; margin: 0px; border-width: 0px;" data-zr-dom-id="zr_0" width="680" height="400"></canvas></div><div></div></div>
 						<!-- <div class="words"></div> -->
 
 						<!-- 自定义按钮及分享 -->
@@ -88,7 +88,7 @@
 									bdWbuid : '1644291782'
 								},
 								share : [{
-									bdText : '【天蝎座今日运势】今日幸运值：50%。爱情指数：90%工作指数：90%幸运颜色：绿色。贵人星座：巨蟹座。',
+									bdText : '【天蝎座今日运势】今日幸运值：50%。爱情指数：80%工作指数：90%幸运颜色：灰色。贵人星座：射手座。',
 									bdDesc : '',
 									bdUrl : 'http://astro.sina.com.cn/fate_day_Scorpio/index.html',
 									bdPic : 'http://n.sinaimg.cn/723ccdcf/20150817/bshare.jpg'
