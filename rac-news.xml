@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rac.co.uk/drive/news/motoring-news/</id>
     <title>RAC - Motoring news</title>
-    <updated>2023-04-12T08:11:46.254Z</updated>
+    <updated>2023-04-12T11:37:26.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.rac.co.uk/drive/images/icons/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[England’s most high risk roads set for £47.5m funding boost to prevent fatal injuries]]></title>
+        <id>https://www.rac.co.uk/drive/news/motoring-news/englands-most-high-risk-roads-set-for-47.5m-funding-boost/</id>
+        <link href="https://www.rac.co.uk/drive/news/motoring-news/englands-most-high-risk-roads-set-for-47.5m-funding-boost/"/>
+        <updated>2023-04-12T11:36:06.844Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Drivers warned about new ‘stealth’ speed camera vans]]></title>
         <id>https://www.rac.co.uk/drive/news/motoring-news/drivers-warned-about-new-stealth-speed-camera-vans/</id>
@@ -177,12 +183,6 @@
         <title type="html"><![CDATA[What does 2023 have in store for drivers?]]></title>
         <id>https://www.rac.co.uk/drive/news/motoring-news/what-does-2023-have-in-store-for-drivers/</id>
         <link href="https://www.rac.co.uk/drive/news/motoring-news/what-does-2023-have-in-store-for-drivers/"/>
-        <updated>2023-03-31T20:08:57.438Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JCB launch new machine that can fix a pothole in minutes for just £30]]></title>
-        <id>https://www.rac.co.uk/drive/news/motoring-news/jcb-launch-new-machine-that-can-fix-a-pothole-in-minutes-for-just-30/</id>
-        <link href="https://www.rac.co.uk/drive/news/motoring-news/jcb-launch-new-machine-that-can-fix-a-pothole-in-minutes-for-just-30/"/>
         <updated>2023-03-31T20:08:57.438Z</updated>
     </entry>
     <entry>

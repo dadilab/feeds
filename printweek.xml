@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printweek.com/news/all-news</id>
     <title>printweek news</title>
-    <updated>2023-04-12T08:11:46.243Z</updated>
+    <updated>2023-04-12T11:37:26.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printweek.com/media/182863/printweek-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[De La Rue shares tank after another profit warning]]></title>
+        <id>https://www.printweek.com/news/article/de-la-rue-shares-tank-after-another-profit-warning</id>
+        <link href="https://www.printweek.com/news/article/de-la-rue-shares-tank-after-another-profit-warning"/>
+        <updated>2023-04-12T11:37:09.507Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/de-la-rue-shares-tank-after-another-profit-warning">
+                            De La Rue shares tank after another profit warning 
+                        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ashgate Automation closes doors]]></title>
         <id>https://www.printweek.com/news/article/ashgate-automation-closes-doors</id>
@@ -129,15 +138,6 @@
         <updated>2023-04-05T16:14:08.629Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/green-man-and-green-card-for-coronation-invitations">
                             Green Man and green card for Coronation invitations
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimum Signs first to buy PrintIQ V46]]></title>
-        <id>https://www.printweek.com/news/article/optimum-signs-first-to-buy-printiq-v46</id>
-        <link href="https://www.printweek.com/news/article/optimum-signs-first-to-buy-printiq-v46"/>
-        <updated>2023-04-05T16:14:08.630Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/optimum-signs-first-to-buy-printiq-v46">
-                            Optimum Signs first to buy PrintIQ V46
                         </a>]]></content>
     </entry>
 </feed>
