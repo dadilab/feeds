@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-04-11T20:08:11.257Z</updated>
+    <updated>2023-04-12T00:33:19.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“血检女神”伊丽莎白·霍尔姆斯请求保释监外执行被法院拒绝]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354253.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354253.htm"/>
+        <updated>2023-04-12T00:32:53.295Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354253.htm">“血检女神”伊丽莎白·霍尔姆斯请求保释监外执行被法院拒绝</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯堪察加半岛火山接连喷发 火山灰柱高度达到2万米]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354251.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354251.htm"/>
+        <updated>2023-04-12T00:32:53.296Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354251.htm">俄罗斯堪察加半岛火山接连喷发 火山灰柱高度达到2万米</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI宣布：给ChatGPT挑毛病，最高奖励2万美元]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354249.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354249.htm"/>
+        <updated>2023-04-12T00:32:53.346Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354249.htm">OpenAI宣布：给ChatGPT挑毛病，最高奖励2万美元</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[推特“不复存在”？马斯克已纳入新公司X旗下]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354247.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354247.htm"/>
+        <updated>2023-04-12T00:32:53.347Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354247.htm">推特“不复存在”？马斯克已纳入新公司X旗下</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Bard获得首次重大更新 迎来实验性质的新功能]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1354245.htm</id>
@@ -396,33 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1354135.htm"/>
         <updated>2023-04-11T08:10:08.975Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1354135.htm">美国政府正收集如何对待人工智能的建议 对潜在危害表示担忧</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[苹果印度首家零售店4月18日开业 两天后再开一家]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354133.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354133.htm"/>
-        <updated>2023-04-11T08:10:08.976Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354133.htm">苹果印度首家零售店4月18日开业 两天后再开一家</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉Megafactory落子上海 能否搅动中国储能市场？]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354131.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354131.htm"/>
-        <updated>2023-04-11T08:10:08.976Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354131.htm">特斯拉Megafactory落子上海 能否搅动中国储能市场？</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界首个“九尾狐甲鱼”化石被发现]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354129.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354129.htm"/>
-        <updated>2023-04-11T08:10:08.976Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354129.htm">世界首个“九尾狐甲鱼”化石被发现</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[特斯拉下代电机不用稀土 中国专家称马斯克是迫不得已]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354127.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354127.htm"/>
-        <updated>2023-04-11T08:10:08.977Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354127.htm">特斯拉下代电机不用稀土 中国专家称马斯克是迫不得已</a>]]></content>
     </entry>
 </feed>
