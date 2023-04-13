@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printweek.com/news/all-news</id>
     <title>printweek news</title>
-    <updated>2023-04-13T08:11:04.803Z</updated>
+    <updated>2023-04-13T12:14:10.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printweek.com/media/182863/printweek-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Production strike at Saica’s Manchester paper mill]]></title>
+        <id>https://www.printweek.com/news/article/production-strike-at-saica-s-manchester-paper-mill</id>
+        <link href="https://www.printweek.com/news/article/production-strike-at-saica-s-manchester-paper-mill"/>
+        <updated>2023-04-13T12:13:54.196Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/production-strike-at-saica-s-manchester-paper-mill">
+                            Production strike at Saica’s Manchester paper mill
+                        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[De La Rue shares tank after another profit warning]]></title>
         <id>https://www.printweek.com/news/article/de-la-rue-shares-tank-after-another-profit-warning</id>
@@ -129,15 +138,6 @@
         <updated>2023-04-06T15:31:54.102Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/under-fire-de-la-rue-appoints-interim-cfo">
                             Under-fire De La Rue appoints interim CFO
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Print shows heart in charity drive]]></title>
-        <id>https://www.printweek.com/news/article/visual-print-shows-heart-in-charity-drive</id>
-        <link href="https://www.printweek.com/news/article/visual-print-shows-heart-in-charity-drive"/>
-        <updated>2023-04-06T15:31:54.102Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/visual-print-shows-heart-in-charity-drive">
-                            Visual Print shows heart in charity drive
                         </a>]]></content>
     </entry>
 </feed>
