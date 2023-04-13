@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-13T16:09:25.348Z</updated>
+    <updated>2023-04-13T20:08:17.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[<a href="/view/8302">ChatGPT 机器人进行 Code Review</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了]]></title>
-        <id>https://codenews.cc/view/115122</id>
-        <link href="https://codenews.cc/view/115122"/>
-        <updated>2023-04-08T08:09:34.315Z</updated>
-        <content type="html"><![CDATA[<a href="/view/115122">应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[密码学工具箱📦]]></title>
         <id>https://codenews.cc/view/8065</id>
         <link href="https://codenews.cc/view/8065"/>
         <updated>2023-03-24T22:55:09.000Z</updated>
         <content type="html"><![CDATA[<a href="/view/8065">密码学工具箱📦</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了]]></title>
+        <id>https://codenews.cc/view/115122</id>
+        <link href="https://codenews.cc/view/115122"/>
+        <updated>2023-04-08T08:09:34.315Z</updated>
+        <content type="html"><![CDATA[<a href="/view/115122">应该是全网非常好的 ChatGPT Prompt 提示词中文文档笔记了</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Komga 一个免费的开源漫画/漫画服务器]]></title>
