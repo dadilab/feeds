@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printweek.com/news/all-news</id>
     <title>printweek news</title>
-    <updated>2023-04-13T12:14:10.955Z</updated>
+    <updated>2023-04-13T16:09:25.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printweek.com/media/182863/printweek-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Deadline set for Deanprint bids]]></title>
+        <id>https://www.printweek.com/news/article/deadline-set-for-deanprint-bids</id>
+        <link href="https://www.printweek.com/news/article/deadline-set-for-deanprint-bids"/>
+        <updated>2023-04-13T16:09:07.572Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/deadline-set-for-deanprint-bids">
+                            Deadline set for Deanprint bids
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jobs at risk as Mondi refocuses Neusiedler mill]]></title>
+        <id>https://www.printweek.com/news/article/jobs-at-risk-as-mondi-refocuses-neusiedler-mill</id>
+        <link href="https://www.printweek.com/news/article/jobs-at-risk-as-mondi-refocuses-neusiedler-mill"/>
+        <updated>2023-04-13T16:09:07.574Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/jobs-at-risk-as-mondi-refocuses-neusiedler-mill">
+                            Jobs at risk as Mondi refocuses Neusiedler mill
+                        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Production strike at Saica’s Manchester paper mill]]></title>
         <id>https://www.printweek.com/news/article/production-strike-at-saica-s-manchester-paper-mill</id>
@@ -12,6 +30,24 @@
         <updated>2023-04-13T12:13:54.196Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/production-strike-at-saica-s-manchester-paper-mill">
                             Production strike at Saica’s Manchester paper mill
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midland Regional Printers backs optimism with £450k die-cutter order]]></title>
+        <id>https://www.printweek.com/news/article/midland-regional-printers-backs-optimism-with-450k-die-cutter-order</id>
+        <link href="https://www.printweek.com/news/article/midland-regional-printers-backs-optimism-with-450k-die-cutter-order"/>
+        <updated>2023-04-13T16:09:07.576Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/midland-regional-printers-backs-optimism-with-450k-die-cutter-order">
+                            Midland Regional Printers backs optimism with £450k die-cutter order
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firm fined after forklift incident]]></title>
+        <id>https://www.printweek.com/news/article/firm-fined-after-forklift-incident</id>
+        <link href="https://www.printweek.com/news/article/firm-fined-after-forklift-incident"/>
+        <updated>2023-04-13T16:09:07.578Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/firm-fined-after-forklift-incident">
+                            Firm fined after forklift incident
                         </a>]]></content>
     </entry>
     <entry>
@@ -102,42 +138,6 @@
         <updated>2023-04-06T20:07:34.644Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/eco3-unveiled-as-new-name-for-offset-solutions">
                             ECO3 unveiled as new name for Offset Solutions
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chelma Graphics back in independent ownership as Manchester Printers downsizing continues]]></title>
-        <id>https://www.printweek.com/news/article/chelma-graphics-back-in-independent-ownership-as-manchester-printers-downsizing-continues</id>
-        <link href="https://www.printweek.com/news/article/chelma-graphics-back-in-independent-ownership-as-manchester-printers-downsizing-continues"/>
-        <updated>2023-04-06T15:31:54.097Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/chelma-graphics-back-in-independent-ownership-as-manchester-printers-downsizing-continues">
-                            Chelma Graphics back in independent ownership as Manchester Printers downsizing continues
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DC Thomson job losses reduced by Enthuse purchase]]></title>
-        <id>https://www.printweek.com/news/article/dc-thomson-job-losses-reduced-by-enthuse-purchase</id>
-        <link href="https://www.printweek.com/news/article/dc-thomson-job-losses-reduced-by-enthuse-purchase"/>
-        <updated>2023-04-06T15:31:54.098Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/dc-thomson-job-losses-reduced-by-enthuse-purchase">
-                            DC Thomson job losses reduced by Enthuse purchase
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Propack wins another major charity contract]]></title>
-        <id>https://www.printweek.com/news/article/propack-wins-another-major-charity-contract</id>
-        <link href="https://www.printweek.com/news/article/propack-wins-another-major-charity-contract"/>
-        <updated>2023-04-06T15:31:54.100Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/propack-wins-another-major-charity-contract">
-                            Propack wins another major charity contract
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Under-fire De La Rue appoints interim CFO]]></title>
-        <id>https://www.printweek.com/news/article/under-fire-de-la-rue-appoints-interim-cfo</id>
-        <link href="https://www.printweek.com/news/article/under-fire-de-la-rue-appoints-interim-cfo"/>
-        <updated>2023-04-06T15:31:54.102Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/under-fire-de-la-rue-appoints-interim-cfo">
-                            Under-fire De La Rue appoints interim CFO
                         </a>]]></content>
     </entry>
 </feed>
