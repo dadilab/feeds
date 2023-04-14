@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-04-13T20:08:17.441Z</updated>
+    <updated>2023-04-14T00:33:53.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[物理学家在实验室中创造了微小的太阳耀斑]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354683.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354683.htm"/>
+        <updated>2023-04-14T00:33:19.980Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354683.htm">物理学家在实验室中创造了微小的太阳耀斑</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta开源一个人工智能项目 将涂鸦变成动画]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354681.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354681.htm"/>
+        <updated>2023-04-14T00:33:19.989Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354681.htm">Meta开源一个人工智能项目 将涂鸦变成动画</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不止是“美国微信”？推特将允许用户交易股票和加密货币等资产]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354679.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354679.htm"/>
+        <updated>2023-04-14T00:33:19.990Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354679.htm">不止是“美国微信”？推特将允许用户交易股票和加密货币等资产</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[坏消息：城市光污染可能延长蚊子横行的季节]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354677.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354677.htm"/>
+        <updated>2023-04-14T00:33:20.006Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354677.htm">坏消息：城市光污染可能延长蚊子横行的季节</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国司法部指控科技巨头提新证：谷歌的垄断推迟了ChatGPT诞生]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354675.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354675.htm"/>
+        <updated>2023-04-14T00:33:20.007Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354675.htm">美国司法部指控科技巨头提新证：谷歌的垄断推迟了ChatGPT诞生</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[希捷推出最新22TB IronWolf Pro企业级硬盘驱动器]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354673.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354673.htm"/>
+        <updated>2023-04-14T00:33:20.007Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354673.htm">希捷推出最新22TB IronWolf Pro企业级硬盘驱动器</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[科学家们担心海底的泄漏可能会带来灾难]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1354671.htm</id>
@@ -382,47 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1354565.htm"/>
         <updated>2023-04-13T08:10:39.149Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1354565.htm">这也能“秽土转生”？FTX破产律师：将考虑重启加密交易所</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[彭博社：马里奥时代或至 时隔30年影响力反超米老鼠]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354563.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354563.htm"/>
-        <updated>2023-04-13T08:10:39.152Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354563.htm">彭博社：马里奥时代或至 时隔30年影响力反超米老鼠</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox新环保功能更新：选择活跃时间待机快速启动]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354561.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354561.htm"/>
-        <updated>2023-04-13T08:10:39.158Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354561.htm">Xbox新环保功能更新：选择活跃时间待机快速启动</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[台积电在德国建厂模式与合作伙伴据称已确定]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354559.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354559.htm"/>
-        <updated>2023-04-13T08:10:39.159Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354559.htm">台积电在德国建厂模式与合作伙伴据称已确定</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么全人类都呼吁把通用人工智能“管起来”？]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354557.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354557.htm"/>
-        <updated>2023-04-13T08:10:39.159Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354557.htm">为什么全人类都呼吁把通用人工智能“管起来”？</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30岁的路口 这些90后选择离开大城市]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354555.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354555.htm"/>
-        <updated>2023-04-13T08:10:39.161Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354555.htm">30岁的路口 这些90后选择离开大城市</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国产电动车的车主维权操作 一个比一个野]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354553.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354553.htm"/>
-        <updated>2023-04-13T08:10:39.161Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354553.htm">国产电动车的车主维权操作 一个比一个野</a>]]></content>
     </entry>
 </feed>
