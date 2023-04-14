@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printweek.com/news/all-news</id>
     <title>printweek news</title>
-    <updated>2023-04-14T12:13:29.082Z</updated>
+    <updated>2023-04-14T16:10:05.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printweek.com/media/182863/printweek-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Sappi's mega mill sale is off]]></title>
+        <id>https://www.printweek.com/news/article/sappi-s-mega-mill-sale-is-off</id>
+        <link href="https://www.printweek.com/news/article/sappi-s-mega-mill-sale-is-off"/>
+        <updated>2023-04-14T16:09:45.456Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/sappi-s-mega-mill-sale-is-off">
+                            Sappi's mega mill sale is off
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billerud mill hit by fungal infection]]></title>
+        <id>https://www.printweek.com/news/article/billerud-mill-hit-by-fungal-infection</id>
+        <link href="https://www.printweek.com/news/article/billerud-mill-hit-by-fungal-infection"/>
+        <updated>2023-04-14T16:09:45.456Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/billerud-mill-hit-by-fungal-infection">
+                            Billerud mill hit by fungal infection
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update awaited in Royal Mail dispute]]></title>
+        <id>https://www.printweek.com/news/article/update-awaited-in-royal-mail-dispute</id>
+        <link href="https://www.printweek.com/news/article/update-awaited-in-royal-mail-dispute"/>
+        <updated>2023-04-14T16:09:45.456Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/update-awaited-in-royal-mail-dispute">
+                            Update awaited in Royal Mail dispute
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liquidators take charge at Ashgate]]></title>
+        <id>https://www.printweek.com/news/article/liquidators-take-charge-at-ashgate</id>
+        <link href="https://www.printweek.com/news/article/liquidators-take-charge-at-ashgate"/>
+        <updated>2023-04-14T16:09:45.457Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/liquidators-take-charge-at-ashgate">
+                            Liquidators take charge at Ashgate
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More European paper job losses announced]]></title>
+        <id>https://www.printweek.com/news/article/more-european-paper-job-losses-announced</id>
+        <link href="https://www.printweek.com/news/article/more-european-paper-job-losses-announced"/>
+        <updated>2023-04-14T16:09:45.457Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/more-european-paper-job-losses-announced">
+                            More European paper job losses announced
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPIA Spring Networking Lunch details revealed]]></title>
+        <id>https://www.printweek.com/news/article/ipia-spring-networking-lunch-details-revealed</id>
+        <link href="https://www.printweek.com/news/article/ipia-spring-networking-lunch-details-revealed"/>
+        <updated>2023-04-14T16:09:45.457Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/ipia-spring-networking-lunch-details-revealed">
+                            IPIA Spring Networking Lunch details revealed
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Richfield unlocks capacity with Morgana upgrade]]></title>
+        <id>https://www.printweek.com/news/article/richfield-unlocks-capacity-with-morgana-upgrade</id>
+        <link href="https://www.printweek.com/news/article/richfield-unlocks-capacity-with-morgana-upgrade"/>
+        <updated>2023-04-14T16:09:45.463Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/richfield-unlocks-capacity-with-morgana-upgrade">
+                            Richfield unlocks capacity with Morgana upgrade
+                        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deadline set for Deanprint bids]]></title>
         <id>https://www.printweek.com/news/article/deadline-set-for-deanprint-bids</id>
@@ -75,69 +138,6 @@
         <updated>2023-04-12T12:13:31.169Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/stora-enso-to-halve-capacity-at-anjala-book-paper-mill">
                             Stora Enso to halve capacity at Anjala book paper mill
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hybrid Software Group reports on 2022]]></title>
-        <id>https://www.printweek.com/news/article/hybrid-software-group-reports-on-2022</id>
-        <link href="https://www.printweek.com/news/article/hybrid-software-group-reports-on-2022"/>
-        <updated>2023-04-12T12:13:31.169Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/hybrid-software-group-reports-on-2022">
-                            Hybrid Software Group reports on 2022
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avery Dennison turns to Carbon Trust]]></title>
-        <id>https://www.printweek.com/news/article/avery-dennison-turns-to-carbon-trust</id>
-        <link href="https://www.printweek.com/news/article/avery-dennison-turns-to-carbon-trust"/>
-        <updated>2023-04-12T12:13:31.170Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/avery-dennison-turns-to-carbon-trust">
-                            Avery Dennison turns to Carbon Trust
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ashgate Automation closes doors]]></title>
-        <id>https://www.printweek.com/news/article/ashgate-automation-closes-doors</id>
-        <link href="https://www.printweek.com/news/article/ashgate-automation-closes-doors"/>
-        <updated>2023-04-11T16:10:28.328Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/ashgate-automation-closes-doors">
-                            Ashgate Automation closes doors 
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DS Smith praises Nozomi versatility]]></title>
-        <id>https://www.printweek.com/news/article/ds-smith-praises-nozomi-versatility</id>
-        <link href="https://www.printweek.com/news/article/ds-smith-praises-nozomi-versatility"/>
-        <updated>2023-04-11T16:10:28.332Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/ds-smith-praises-nozomi-versatility">
-                            DS Smith praises Nozomi versatility
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SMP launches new membership scheme for trade associations]]></title>
-        <id>https://www.printweek.com/news/article/smp-launches-new-membership-scheme-for-trade-associations</id>
-        <link href="https://www.printweek.com/news/article/smp-launches-new-membership-scheme-for-trade-associations"/>
-        <updated>2023-04-11T16:10:28.334Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/smp-launches-new-membership-scheme-for-trade-associations">
-                            SMP launches new membership scheme for trade associations
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super-Wide Digital commits to dye-sub with clean conscience]]></title>
-        <id>https://www.printweek.com/news/article/super-wide-digital-commits-to-dye-sub-with-clean-conscience</id>
-        <link href="https://www.printweek.com/news/article/super-wide-digital-commits-to-dye-sub-with-clean-conscience"/>
-        <updated>2023-04-11T16:10:28.337Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/super-wide-digital-commits-to-dye-sub-with-clean-conscience">
-                            Super-Wide Digital commits to dye-sub with clean conscience
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ECO3 unveiled as new name for Offset Solutions]]></title>
-        <id>https://www.printweek.com/news/article/eco3-unveiled-as-new-name-for-offset-solutions</id>
-        <link href="https://www.printweek.com/news/article/eco3-unveiled-as-new-name-for-offset-solutions"/>
-        <updated>2023-04-06T20:07:34.644Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/eco3-unveiled-as-new-name-for-offset-solutions">
-                            ECO3 unveiled as new name for Offset Solutions
                         </a>]]></content>
     </entry>
 </feed>

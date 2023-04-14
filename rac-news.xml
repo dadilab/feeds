@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.rac.co.uk/drive/news/motoring-news/</id>
     <title>RAC - Motoring news</title>
-    <updated>2023-04-14T12:13:29.086Z</updated>
+    <updated>2023-04-14T16:10:05.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.rac.co.uk/drive/images/icons/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UK police trial using drones to tackle increase in ‘poor driving’]]></title>
+        <id>https://www.rac.co.uk/drive/news/motoring-news/uk-police-trial-using-drones-to-tackle-increase-in-poor-driving/</id>
+        <link href="https://www.rac.co.uk/drive/news/motoring-news/uk-police-trial-using-drones-to-tackle-increase-in-poor-driving/"/>
+        <updated>2023-04-14T16:08:26.751Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[England’s most high risk roads set for £47.5m funding boost to prevent fatal injuries]]></title>
         <id>https://www.rac.co.uk/drive/news/motoring-news/englands-most-high-risk-roads-set-for-47.5m-funding-boost/</id>
@@ -178,12 +184,6 @@
         <id>https://www.rac.co.uk/drive/news/motoring-news/rac-pothole-related-breakdowns-leap-during-last-three-months-of-2022/</id>
         <link href="https://www.rac.co.uk/drive/news/motoring-news/rac-pothole-related-breakdowns-leap-during-last-three-months-of-2022/"/>
         <updated>2023-03-31T20:08:57.437Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What does 2023 have in store for drivers?]]></title>
-        <id>https://www.rac.co.uk/drive/news/motoring-news/what-does-2023-have-in-store-for-drivers/</id>
-        <link href="https://www.rac.co.uk/drive/news/motoring-news/what-does-2023-have-in-store-for-drivers/"/>
-        <updated>2023-03-31T20:08:57.438Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[30]]></title>
