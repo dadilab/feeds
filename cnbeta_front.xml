@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-04-14T20:09:48.102Z</updated>
+    <updated>2023-04-15T00:35:12.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[马斯克计划成立人工智能初创公司 与Open AI展开竞争]]></title>
+        <title type="html"><![CDATA[嫌疑人杰克·特谢拉被指控窃取并在Discord分享美军机密]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1354869.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1354869.htm"/>
+        <updated>2023-04-15T00:34:47.501Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1354869.htm">嫌疑人杰克·特谢拉被指控窃取并在Discord分享美军机密</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[马斯克计划成立人工智能初创公司 与OpenAI展开竞争]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1354867.htm</id>
         <link href="https://m.cnbeta.com.tw/wap/view/1354867.htm"/>
         <updated>2023-04-14T20:09:18.333Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354867.htm">马斯克计划成立人工智能初创公司 与Open AI展开竞争</a>]]></content>
+        <content type="html"><![CDATA[<a href="/wap/view/1354867.htm">马斯克计划成立人工智能初创公司 与OpenAI展开竞争</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[重写人类进化的故事：猿人比预期要早1000万年生活在开放的栖息地]]></title>
@@ -417,12 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1354751.htm"/>
         <updated>2023-04-14T12:12:59.662Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1354751.htm">去年网上搜索量达2000万次 特斯拉Model 3成全球人气最高电动车型</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[亚马逊推AIGC全家桶迎战微软谷歌 云巨头们杀疯了]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1354749.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1354749.htm"/>
-        <updated>2023-04-14T12:12:59.663Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1354749.htm">亚马逊推AIGC全家桶迎战微软谷歌 云巨头们杀疯了</a>]]></content>
     </entry>
 </feed>
