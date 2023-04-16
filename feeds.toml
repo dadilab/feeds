@@ -1,32 +1,4 @@
-[rac-news]
-title = "RAC - Motoring news"
-url = "https://www.rac.co.uk/drive/news/motoring-news/"
-entrySelector = "ul.article-list > li"
-titleSelector = "h4"
-linkSelector = "a"
-contentSelector = "div.image-container > img"
 
-[163-fun-moment]
-title = "网易 轻松一刻"
-url = "https://www.163.com/dy/media/T1348654628034.html"
-entrySelector = "li.js-item.item"
-titleSelector = "a.title"
-linkSelector = "a.title"
-contentSelector = "a.img > img"
-
-[zuixingzuo-scropio]
-title = "美国神婆 天蝎"
-url = "https://www.zuixingzuo.net/tianxie/yunshi.html"
-entrySelector = "div.list_item h3"
-titleSelector = "a"
-linkSelector = "a"
-
-[163-news-domestic]
-title = "网易 国内新闻"
-url = "https://m.163.com/touch/news/sub/domestic"
-entrySelector = "ul.widget-flowList > li"
-titleSelector = "a h4"
-linkSelector = "a"
 
 [52pojie-today]
 title = "吾爱破解 今日热帖"
