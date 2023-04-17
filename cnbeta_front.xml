@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-04-17T14:06:24.100Z</updated>
+    <updated>2023-04-17T16:09:53.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Apple Care的储蓄账户现已上线 4.15%的年化收益率]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1355285.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1355285.htm"/>
+        <updated>2023-04-17T16:09:22.934Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1355285.htm">Apple Care的储蓄账户现已上线 4.15%的年化收益率</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[整体PC市场不景气 苹果Mac在2023年第一季度也表现艰难]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1355283.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1355283.htm"/>
+        <updated>2023-04-17T16:09:22.934Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1355283.htm">整体PC市场不景气 苹果Mac在2023年第一季度也表现艰难</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美媒：印度500万程序员将面临AI冲击]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1355281.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1355281.htm"/>
+        <updated>2023-04-17T16:09:22.934Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1355281.htm">美媒：印度500万程序员将面临AI冲击</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HDD出货量同比大跌35% 希捷依然稳坐2023Q1头把交椅]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1355279.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1355279.htm"/>
+        <updated>2023-04-17T16:09:22.934Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1355279.htm">HDD出货量同比大跌35% 希捷依然稳坐2023Q1头把交椅</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SpaceX星舰首飞再次推迟 马斯克：今天学到很多]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1355277.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1355277.htm"/>
+        <updated>2023-04-17T16:09:22.934Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1355277.htm">SpaceX星舰首飞再次推迟 马斯克：今天学到很多</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南非成为第六个批准微软-动视暴雪并购案的国家]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1355275.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1355275.htm"/>
+        <updated>2023-04-17T16:09:22.936Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1355275.htm">南非成为第六个批准微软-动视暴雪并购案的国家</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[由于压力阀被冻结 SpaceX将Starship轨道飞行测试过渡到湿式彩排]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1355273.htm</id>
@@ -382,47 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1355167.htm"/>
         <updated>2023-04-17T08:10:04.662Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1355167.htm">新研究发现定期的牙齿检查有助于预防慢性关节疼痛</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[疯狂的物理实验用激光切割"时间缝隙"]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1355165.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1355165.htm"/>
-        <updated>2023-04-17T08:10:04.664Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1355165.htm">疯狂的物理实验用激光切割"时间缝隙"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最后一次阿波罗登月任务的检查单拍出近80万美元天价]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1355163.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1355163.htm"/>
-        <updated>2023-04-17T08:10:04.666Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1355163.htm">最后一次阿波罗登月任务的检查单拍出近80万美元天价</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[类地系外行星的存在可能比以前想象的要普遍得多]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1355161.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1355161.htm"/>
-        <updated>2023-04-17T08:10:04.668Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1355161.htm">类地系外行星的存在可能比以前想象的要普遍得多</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[世界最强“星舰”即将登场 马斯克能否改写太空探索？]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1355159.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1355159.htm"/>
-        <updated>2023-04-17T08:10:04.670Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1355159.htm">世界最强“星舰”即将登场 马斯克能否改写太空探索？</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[售价2.5万美元的电动汽车即将问世 将对汽车制造商和购车者带来巨大影响]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1355157.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1355157.htm"/>
-        <updated>2023-04-17T08:10:04.672Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1355157.htm">售价2.5万美元的电动汽车即将问世 将对汽车制造商和购车者带来巨大影响</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[马斯克自曝美国政府可以“完全访问”推特用户私信]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1355155.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1355155.htm"/>
-        <updated>2023-04-17T08:10:04.674Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1355155.htm">马斯克自曝美国政府可以“完全访问”推特用户私信</a>]]></content>
     </entry>
 </feed>
