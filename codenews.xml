@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-17T12:13:17.425Z</updated>
+    <updated>2023-04-17T14:06:24.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
+        <id>https://codenews.cc/view/165030</id>
+        <link href="https://codenews.cc/view/165030"/>
+        <updated>2023-04-17T14:06:23.147Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[三款新插件上线， API 鉴权， API 网关， Swagger URL 同步文档！]]></title>
         <id>https://codenews.cc/view/37763</id>
@@ -207,12 +214,5 @@
         <link href="https://codenews.cc/view/8037"/>
         <updated>2023-04-10T04:09:17.678Z</updated>
         <content type="html"><![CDATA[<a href="/view/8037">imglib 一个轻量级的 JAVA 图像处理库，立足于简化对图像的常见处理</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可能是最好用的 web 端代码文本编辑器 ACE]]></title>
-        <id>https://codenews.cc/view/8032</id>
-        <link href="https://codenews.cc/view/8032"/>
-        <updated>2023-04-10T16:09:54.912Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8032">可能是最好用的 web 端代码文本编辑器 ACE</a>]]></content>
     </entry>
 </feed>

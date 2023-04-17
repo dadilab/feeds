@@ -2,9 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printweek.com/news/all-news</id>
     <title>printweek news</title>
-    <updated>2023-04-17T12:13:17.419Z</updated>
+    <updated>2023-04-17T14:06:24.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printweek.com/media/182863/printweek-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[HMRC launches £140m comms tender]]></title>
+        <id>https://www.printweek.com/news/article/hmrc-launches-140m-comms-tender</id>
+        <link href="https://www.printweek.com/news/article/hmrc-launches-140m-comms-tender"/>
+        <updated>2023-04-17T14:06:06.736Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/hmrc-launches-140m-comms-tender">
+                            HMRC launches £140m comms tender
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hopes for agreement between CWU and Royal Mail]]></title>
+        <id>https://www.printweek.com/news/article/hopes-for-agreement-between-cwu-and-royal-mail</id>
+        <link href="https://www.printweek.com/news/article/hopes-for-agreement-between-cwu-and-royal-mail"/>
+        <updated>2023-04-17T14:06:06.742Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/hopes-for-agreement-between-cwu-and-royal-mail">
+                            Hopes for agreement between CWU and Royal Mail
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samedaybags launches new clothing site]]></title>
+        <id>https://www.printweek.com/news/article/samedaybags-launches-new-clothing-site</id>
+        <link href="https://www.printweek.com/news/article/samedaybags-launches-new-clothing-site"/>
+        <updated>2023-04-17T14:06:06.746Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/samedaybags-launches-new-clothing-site">
+                            Samedaybags launches new clothing site
+                        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[De La Rue chairman stands down]]></title>
         <id>https://www.printweek.com/news/article/de-la-rue-chairman-stands-down</id>
@@ -111,33 +138,6 @@
         <updated>2023-04-13T16:09:07.576Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/midland-regional-printers-backs-optimism-with-450k-die-cutter-order">
                             Midland Regional Printers backs optimism with £450k die-cutter order
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firm fined after forklift incident]]></title>
-        <id>https://www.printweek.com/news/article/firm-fined-after-forklift-incident</id>
-        <link href="https://www.printweek.com/news/article/firm-fined-after-forklift-incident"/>
-        <updated>2023-04-13T16:09:07.578Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/firm-fined-after-forklift-incident">
-                            Firm fined after forklift incident
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De La Rue shares tank after another profit warning]]></title>
-        <id>https://www.printweek.com/news/article/de-la-rue-shares-tank-after-another-profit-warning</id>
-        <link href="https://www.printweek.com/news/article/de-la-rue-shares-tank-after-another-profit-warning"/>
-        <updated>2023-04-12T11:37:09.507Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/de-la-rue-shares-tank-after-another-profit-warning">
-                            De La Rue shares tank after another profit warning 
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Graham Harris retires]]></title>
-        <id>https://www.printweek.com/news/article/graham-harris-retires</id>
-        <link href="https://www.printweek.com/news/article/graham-harris-retires"/>
-        <updated>2023-04-12T12:13:31.168Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/graham-harris-retires">
-                            Graham Harris retires
                         </a>]]></content>
     </entry>
 </feed>
