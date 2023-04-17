@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-04-17T08:10:31.943Z</updated>
+    <updated>2023-04-17T12:13:17.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Navicat Premium 16.1.12 Full Version]]></title>
+        <id>https://www.mazterize.com/navicat-premium-full.html</id>
+        <link href="https://www.mazterize.com/navicat-premium-full.html"/>
+        <updated>2023-04-17T12:12:54.340Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/navicat-premium-full.html">Navicat Premium 16.1.12 Full Version</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WordWeb Pro Ultimate Reference Bundle 10.32 Full Version]]></title>
         <id>https://www.mazterize.com/wordweb-pro-ultimate-full-version.html</id>
@@ -144,12 +151,5 @@
         <link href="https://www.mazterize.com/the-foundry-nuke-studio-full.html"/>
         <updated>2023-04-13T00:36:34.976Z</updated>
         <content type="html"><![CDATA[<a href="https://www.mazterize.com/the-foundry-nuke-studio-full.html">The Foundry Nuke Studio 14.0v4 Full Version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ant Download Manager Pro 2.10.1 Full Crack]]></title>
-        <id>https://www.mazterize.com/ant-download-manager-pro-full.html</id>
-        <link href="https://www.mazterize.com/ant-download-manager-pro-full.html"/>
-        <updated>2023-04-12T11:37:04.197Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/ant-download-manager-pro-full.html">Ant Download Manager Pro 2.10.1 Full Crack</a>]]></content>
     </entry>
 </feed>

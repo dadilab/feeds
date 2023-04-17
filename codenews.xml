@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-17T08:10:31.938Z</updated>
+    <updated>2023-04-17T12:13:17.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[<a href="/view/8295">街景奇观，随机展示一张有趣的街景，并可与鼠标结合WSAD移动，虚拟元宇宙</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[用 C 编写的跨平台迷你高尔夫游戏，多种关卡，可在线玩]]></title>
-        <id>https://codenews.cc/view/156839</id>
-        <link href="https://codenews.cc/view/156839"/>
-        <updated>2023-04-13T08:11:04.064Z</updated>
-        <content type="html"><![CDATA[<a href="/view/156839">用 C 编写的跨平台迷你高尔夫游戏，多种关卡，可在线玩</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub上 Star 20k 的功能强大但简单易用的屏幕截图软件🖥️ 📸]]></title>
         <id>https://codenews.cc/view/8075</id>
         <link href="https://codenews.cc/view/8075"/>
         <updated>2023-03-24T22:55:08.977Z</updated>
         <content type="html"><![CDATA[<a href="/view/8075">GitHub上 Star 20k 的功能强大但简单易用的屏幕截图软件🖥️ 📸</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 C 编写的跨平台迷你高尔夫游戏，多种关卡，可在线玩]]></title>
+        <id>https://codenews.cc/view/156839</id>
+        <link href="https://codenews.cc/view/156839"/>
+        <updated>2023-04-13T08:11:04.064Z</updated>
+        <content type="html"><![CDATA[<a href="/view/156839">用 C 编写的跨平台迷你高尔夫游戏，多种关卡，可在线玩</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linux 命令行图形化的性能监控工具 gtop，安装和启动只需要一行命令特别简单]]></title>
@@ -118,18 +118,18 @@
         <content type="html"><![CDATA[<a href="/view/8276">Komga 一个免费的开源漫画/漫画服务器</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫]]></title>
-        <id>https://codenews.cc/view/8317</id>
-        <link href="https://codenews.cc/view/8317"/>
-        <updated>2023-03-24T22:55:08.995Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8317">新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[开源证件照小程序，自动扣图、换装换发饰]]></title>
         <id>https://codenews.cc/view/8098</id>
         <link href="https://codenews.cc/view/8098"/>
         <updated>2023-03-24T22:55:09.002Z</updated>
         <content type="html"><![CDATA[<a href="/view/8098">开源证件照小程序，自动扣图、换装换发饰</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫]]></title>
+        <id>https://codenews.cc/view/8317</id>
+        <link href="https://codenews.cc/view/8317"/>
+        <updated>2023-03-24T22:55:08.995Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8317">新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互]]></title>
