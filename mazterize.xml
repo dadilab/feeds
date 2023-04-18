@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mazterize.com</id>
     <title>mazterize</title>
-    <updated>2023-04-17T20:08:17.427Z</updated>
+    <updated>2023-04-18T00:31:47.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mazterize.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EssentialPIM Pro Business 11.5 Full Version]]></title>
+        <id>https://www.mazterize.com/essentialpim-pro.html</id>
+        <link href="https://www.mazterize.com/essentialpim-pro.html"/>
+        <updated>2023-04-18T00:31:25.952Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/essentialpim-pro.html">EssentialPIM Pro Business 11.5 Full Version</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IObit Malware Fighter Pro 10.2.0.1023 Full Version]]></title>
+        <id>https://www.mazterize.com/iobit-malware-fighter-pro-full.html</id>
+        <link href="https://www.mazterize.com/iobit-malware-fighter-pro-full.html"/>
+        <updated>2023-04-18T00:31:25.954Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/iobit-malware-fighter-pro-full.html">IObit Malware Fighter Pro 10.2.0.1023 Full Version</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IM-Magic Partition Resizer 6.4 + WinPE Full Version]]></title>
+        <id>https://www.mazterize.com/im-magic-partition-resizer-full-version.html</id>
+        <link href="https://www.mazterize.com/im-magic-partition-resizer-full-version.html"/>
+        <updated>2023-04-18T00:31:25.955Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.mazterize.com/im-magic-partition-resizer-full-version.html">IM-Magic Partition Resizer 6.4 + WinPE Full Version</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Navicat Premium 16.1.12 Full Version]]></title>
         <id>https://www.mazterize.com/navicat-premium-full.html</id>
@@ -130,26 +151,5 @@
         <link href="https://www.mazterize.com/onecommander-pro-full-version.html"/>
         <updated>2023-04-13T00:36:34.973Z</updated>
         <content type="html"><![CDATA[<a href="https://www.mazterize.com/onecommander-pro-full-version.html">OneCommander Pro 3.40.4 Full Version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClipboardFusion Pro 6.0 Full Version]]></title>
-        <id>https://www.mazterize.com/clipboardfusion-pro-full.html</id>
-        <link href="https://www.mazterize.com/clipboardfusion-pro-full.html"/>
-        <updated>2023-04-13T00:36:34.974Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/clipboardfusion-pro-full.html">ClipboardFusion Pro 6.0 Full Version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DisplayFusion Pro 10.0 Full Version]]></title>
-        <id>https://www.mazterize.com/displayfusion-pro.html</id>
-        <link href="https://www.mazterize.com/displayfusion-pro.html"/>
-        <updated>2023-04-13T00:36:34.975Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/displayfusion-pro.html">DisplayFusion Pro 10.0 Full Version</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Foundry Nuke Studio 14.0v4 Full Version]]></title>
-        <id>https://www.mazterize.com/the-foundry-nuke-studio-full.html</id>
-        <link href="https://www.mazterize.com/the-foundry-nuke-studio-full.html"/>
-        <updated>2023-04-13T00:36:34.976Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.mazterize.com/the-foundry-nuke-studio-full.html">The Foundry Nuke Studio 14.0v4 Full Version</a>]]></content>
     </entry>
 </feed>
