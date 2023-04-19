@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cnbeta.com.tw/wap</id>
     <title>cnbeta 首页</title>
-    <updated>2023-04-18T20:08:40.593Z</updated>
+    <updated>2023-04-19T00:49:37.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cnbeta.com.tw/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[日本富士山附近的神秘绿色激光成因有了新解释：卫星发出的激光束]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1355539.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1355539.htm"/>
+        <updated>2023-04-19T00:49:11.199Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1355539.htm">日本富士山附近的神秘绿色激光成因有了新解释：卫星发出的激光束</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人工智能生成的T细胞疫苗显示出对COVID-19的持久免疫力]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1355537.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1355537.htm"/>
+        <updated>2023-04-19T00:49:11.204Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1355537.htm">人工智能生成的T细胞疫苗显示出对COVID-19的持久免疫力</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIT设计辅助控制设备MouthPad - 让用户把鼠标放在他们的嘴边]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1355535.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1355535.htm"/>
+        <updated>2023-04-19T00:49:11.217Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1355535.htm">MIT设计辅助控制设备MouthPad - 让用户把鼠标放在他们的嘴边</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[产生孢子的细菌电池可在货架上保存100年再激活使用]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1355533.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1355533.htm"/>
+        <updated>2023-04-19T00:49:11.220Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1355533.htm">产生孢子的细菌电池可在货架上保存100年再激活使用</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[詹姆斯·韦伯的新照片显示了我们以前从未见过的天炉座样貌]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1355531.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1355531.htm"/>
+        <updated>2023-04-19T00:49:11.221Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1355531.htm">詹姆斯·韦伯的新照片显示了我们以前从未见过的天炉座样貌</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta向青少年开放其社交VR空间Horizon Worlds]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1355529.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1355529.htm"/>
+        <updated>2023-04-19T00:49:11.224Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1355529.htm">Meta向青少年开放其社交VR空间Horizon Worlds</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta公司即将开始下一轮裁员]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1355527.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1355527.htm"/>
+        <updated>2023-04-19T00:49:11.226Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1355527.htm">Meta公司即将开始下一轮裁员</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个时代的终结：Netflix在运行25年后结束邮寄DVD的服务]]></title>
+        <id>https://m.cnbeta.com.tw/wap/view/1355525.htm</id>
+        <link href="https://m.cnbeta.com.tw/wap/view/1355525.htm"/>
+        <updated>2023-04-19T00:49:11.227Z</updated>
+        <content type="html"><![CDATA[<a href="/wap/view/1355525.htm">一个时代的终结：Netflix在运行25年后结束邮寄DVD的服务</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[共和党人要求禁止美国国会议员们使用TikTok]]></title>
         <id>https://m.cnbeta.com.tw/wap/view/1355523.htm</id>
@@ -368,61 +424,5 @@
         <link href="https://m.cnbeta.com.tw/wap/view/1355421.htm"/>
         <updated>2023-04-18T08:10:23.445Z</updated>
         <content type="html"><![CDATA[<a href="/wap/view/1355421.htm">三星4nm工艺良率逼近台积电：开始提供MPW服务</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全新宝马iX1纯电SUV发布 中国独享加长版]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1355419.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1355419.htm"/>
-        <updated>2023-04-18T08:10:23.448Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1355419.htm">全新宝马iX1纯电SUV发布 中国独享加长版</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太空行走和货运飞船：国际空间站工作人员为在轨忙碌的一周做准备]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1355417.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1355417.htm"/>
-        <updated>2023-04-18T08:10:23.449Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1355417.htm">太空行走和货运飞船：国际空间站工作人员为在轨忙碌的一周做准备</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pixel Tablet产品细节泄露 包括颜色、内存、内置底座和芯片]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1355415.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1355415.htm"/>
-        <updated>2023-04-18T08:10:23.450Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1355415.htm">Pixel Tablet产品细节泄露 包括颜色、内存、内置底座和芯片</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[有针对性的大脑网络连接断开可能会改善癫痫手术效果]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1355413.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1355413.htm"/>
-        <updated>2023-04-18T08:10:23.452Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1355413.htm">有针对性的大脑网络连接断开可能会改善癫痫手术效果</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[会食用塑料的真菌被认为可以在未来解决聚乙烯污染问题]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1355411.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1355411.htm"/>
-        <updated>2023-04-18T08:10:23.480Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1355411.htm">会食用塑料的真菌被认为可以在未来解决聚乙烯污染问题</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[清晰度为6400万倍的扫描使人们对动物大脑有了新的认识]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1355409.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1355409.htm"/>
-        <updated>2023-04-18T08:10:23.481Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1355409.htm">清晰度为6400万倍的扫描使人们对动物大脑有了新的认识</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[科学家们确定了世界上最古老的作物之一：葡萄的起源]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1355407.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1355407.htm"/>
-        <updated>2023-04-18T08:10:23.484Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1355407.htm">科学家们确定了世界上最古老的作物之一：葡萄的起源</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA任务连战连捷 超级计算机在幕后做了什么努力？]]></title>
-        <id>https://m.cnbeta.com.tw/wap/view/1355405.htm</id>
-        <link href="https://m.cnbeta.com.tw/wap/view/1355405.htm"/>
-        <updated>2023-04-18T08:10:23.486Z</updated>
-        <content type="html"><![CDATA[<a href="/wap/view/1355405.htm">NASA任务连战连捷 超级计算机在幕后做了什么努力？</a>]]></content>
     </entry>
 </feed>
