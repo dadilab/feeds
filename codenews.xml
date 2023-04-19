@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-19T12:13:39.055Z</updated>
+    <updated>2023-04-19T16:13:18.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[<a href="/view/8058">将个人照片变成卡通风格漫画头像的神器 photo2cartoon</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了]]></title>
-        <id>https://codenews.cc/view/160463</id>
-        <link href="https://codenews.cc/view/160463"/>
-        <updated>2023-04-13T16:09:24.629Z</updated>
-        <content type="html"><![CDATA[<a href="/view/160463">微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[密码学工具箱📦]]></title>
         <id>https://codenews.cc/view/8065</id>
         <link href="https://codenews.cc/view/8065"/>
         <updated>2023-03-24T22:55:09.000Z</updated>
         <content type="html"><![CDATA[<a href="/view/8065">密码学工具箱📦</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了]]></title>
+        <id>https://codenews.cc/view/160463</id>
+        <link href="https://codenews.cc/view/160463"/>
+        <updated>2023-04-13T16:09:24.629Z</updated>
+        <content type="html"><![CDATA[<a href="/view/160463">微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT 机器人进行 Code Review]]></title>

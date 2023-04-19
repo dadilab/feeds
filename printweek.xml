@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printweek.com/news/all-news</id>
     <title>printweek news</title>
-    <updated>2023-04-19T12:13:39.072Z</updated>
+    <updated>2023-04-19T16:13:18.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printweek.com/media/182863/printweek-favicon.png</icon>
     <entry>
@@ -24,6 +24,15 @@
                         </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cullen makes strategic senior appointment]]></title>
+        <id>https://www.printweek.com/news/article/cullen-makes-strategic-senior-appointment</id>
+        <link href="https://www.printweek.com/news/article/cullen-makes-strategic-senior-appointment"/>
+        <updated>2023-04-19T12:12:46.479Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/cullen-makes-strategic-senior-appointment">
+                            Cullen makes strategic senior appointment
+                        </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MAMS backs growth with Moll install]]></title>
         <id>https://www.printweek.com/news/article/mams-backs-growth-with-moll-install</id>
         <link href="https://www.printweek.com/news/article/mams-backs-growth-with-moll-install"/>
@@ -33,12 +42,12 @@
                         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cullen makes strategic senior appointment]]></title>
-        <id>https://www.printweek.com/news/article/cullen-makes-strategic-senior-appointment</id>
-        <link href="https://www.printweek.com/news/article/cullen-makes-strategic-senior-appointment"/>
-        <updated>2023-04-19T12:12:46.479Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/cullen-makes-strategic-senior-appointment">
-                            Cullen makes strategic senior appointment
+        <title type="html"><![CDATA[London Packaging Week details outlined]]></title>
+        <id>https://www.printweek.com/news/article/london-packaging-week-details-outlined</id>
+        <link href="https://www.printweek.com/news/article/london-packaging-week-details-outlined"/>
+        <updated>2023-04-19T16:12:57.898Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/london-packaging-week-details-outlined">
+                            London Packaging Week details outlined
                         </a>]]></content>
     </entry>
     <entry>
@@ -129,15 +138,6 @@
         <updated>2023-04-14T20:09:30.221Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/de-la-rue-chairman-stands-down">
                             De La Rue chairman stands down
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sappi's mega mill sale is off]]></title>
-        <id>https://www.printweek.com/news/article/sappi-s-mega-mill-sale-is-off</id>
-        <link href="https://www.printweek.com/news/article/sappi-s-mega-mill-sale-is-off"/>
-        <updated>2023-04-14T16:09:45.456Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/sappi-s-mega-mill-sale-is-off">
-                            Sappi's mega mill sale is off
                         </a>]]></content>
     </entry>
 </feed>
