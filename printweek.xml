@@ -2,9 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.printweek.com/news/all-news</id>
     <title>printweek news</title>
-    <updated>2023-04-20T06:25:07.070Z</updated>
+    <updated>2023-04-20T12:36:26.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.printweek.com/media/182863/printweek-favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[News UK seals supplement deal with Walstead]]></title>
+        <id>https://www.printweek.com/news/article/news-uk-seals-supplement-deal-with-walstead</id>
+        <link href="https://www.printweek.com/news/article/news-uk-seals-supplement-deal-with-walstead"/>
+        <updated>2023-04-20T12:36:10.663Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/news-uk-seals-supplement-deal-with-walstead">
+                            News UK seals supplement deal with Walstead
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital label conversion kit supplier Easily Converted eyes growth]]></title>
+        <id>https://www.printweek.com/news/article/digital-label-conversion-kit-supplier-easily-converted-eyes-growth</id>
+        <link href="https://www.printweek.com/news/article/digital-label-conversion-kit-supplier-easily-converted-eyes-growth"/>
+        <updated>2023-04-20T12:36:10.675Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/digital-label-conversion-kit-supplier-easily-converted-eyes-growth">
+                            Digital label conversion kit supplier Easily Converted eyes growth
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IG Design Group warns on write-downs]]></title>
+        <id>https://www.printweek.com/news/article/ig-design-group-warns-on-write-downs</id>
+        <link href="https://www.printweek.com/news/article/ig-design-group-warns-on-write-downs"/>
+        <updated>2023-04-20T12:36:10.681Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/ig-design-group-warns-on-write-downs">
+                            IG Design Group warns on write-downs
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stora Enso lowers guidance due to market uncertainty]]></title>
+        <id>https://www.printweek.com/news/article/stora-enso-lowers-guidance-due-to-market-uncertainty</id>
+        <link href="https://www.printweek.com/news/article/stora-enso-lowers-guidance-due-to-market-uncertainty"/>
+        <updated>2023-04-20T12:36:10.682Z</updated>
+        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/stora-enso-lowers-guidance-due-to-market-uncertainty">
+                            Stora Enso lowers guidance due to market uncertainty
+                        </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jobs to go as James Cropper cuts paper production]]></title>
         <id>https://www.printweek.com/news/article/jobs-to-go-as-james-cropper-cuts-paper-production</id>
@@ -102,42 +138,6 @@
         <updated>2023-04-17T14:06:06.736Z</updated>
         <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/hmrc-launches-140m-comms-tender">
                             HMRC launches £140m comms tender
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hopes for agreement between CWU and Royal Mail]]></title>
-        <id>https://www.printweek.com/news/article/hopes-for-agreement-between-cwu-and-royal-mail</id>
-        <link href="https://www.printweek.com/news/article/hopes-for-agreement-between-cwu-and-royal-mail"/>
-        <updated>2023-04-17T14:06:06.742Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/hopes-for-agreement-between-cwu-and-royal-mail">
-                            Hopes for agreement between CWU and Royal Mail
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pen Warehouse launches hi-res digital pen printing]]></title>
-        <id>https://www.printweek.com/news/article/the-pen-warehouse-launches-hi-res-digital-pen-printing</id>
-        <link href="https://www.printweek.com/news/article/the-pen-warehouse-launches-hi-res-digital-pen-printing"/>
-        <updated>2023-04-18T16:08:59.751Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/the-pen-warehouse-launches-hi-res-digital-pen-printing">
-                            The Pen Warehouse launches hi-res digital pen printing
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samedaybags launches new clothing site]]></title>
-        <id>https://www.printweek.com/news/article/samedaybags-launches-new-clothing-site</id>
-        <link href="https://www.printweek.com/news/article/samedaybags-launches-new-clothing-site"/>
-        <updated>2023-04-17T14:06:06.746Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/samedaybags-launches-new-clothing-site">
-                            Samedaybags launches new clothing site
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[De La Rue chairman stands down]]></title>
-        <id>https://www.printweek.com/news/article/de-la-rue-chairman-stands-down</id>
-        <link href="https://www.printweek.com/news/article/de-la-rue-chairman-stands-down"/>
-        <updated>2023-04-14T20:09:30.221Z</updated>
-        <content type="html"><![CDATA[<a href="https://www.printweek.com/news/article/de-la-rue-chairman-stands-down">
-                            De La Rue chairman stands down
                         </a>]]></content>
     </entry>
 </feed>
