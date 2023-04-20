@@ -1,10 +1,37 @@
-[rac-news]
-title = "RAC - Motoring news"
-url = "https://www.rac.co.uk/drive/news/motoring-news/"
-entrySelector = "ul.article-list > li"
-titleSelector = "h4"
-linkSelector = "a"
-contentSelector = "div.image-container > img"
+[default]
+timeout = 300
+#waitUntil = "load"
+waitUntil = "networkidle"
+
+[cq-gongkaoleida-zkgg]
+title = "重庆市公考雷达"
+url = "https://www.gongkaoleida.com/area/2460-2461-0-2,3,59,78-124"
+entrySelector = ".notice-list > ul:nth-child(1) > li:nth-child(1) > h5:nth-child(1)"
+titleSelector = ".notice-list > ul:nth-child(1) > li:nth-child(1) > h5:nth-child(1) > a:nth-child(3)"
+linkSelector = ".notice-list > ul:nth-child(1) > li:nth-child(1) > h5:nth-child(1) > a:nth-child(3)"
+contentSelector = ".article-detail"
+dateSelector = ".date"
+dateFormat = "yyyy-MM-dd hh:mm:ss"
+
+[cq-rlsbj-zkgg]
+title = "重庆市人社局-事业单位公开招聘"
+url = "https://rlsbj.cq.gov.cn/zwxx_182/sydw/"
+entrySelector = "ul.tab-item:nth-child(3) > li:nth-child(1) > a:nth-child(1)"
+titleSelector = "ul.tab-item:nth-child(3) > li:nth-child(1) > a:nth-child(1)"
+linkSelector = "ul.tab-item:nth-child(3) > li:nth-child(1) > a:nth-child(1)"
+contentSelector = ".zwxl-article"
+dateSelector = "ul.tab-item:nth-child(3) > li:nth-child(1) > span:nth-child(2)"
+dateFormat = "yyyy-MM-dd"
+
+[cnblogs_cmt]
+title = "博客园官方博客"
+url = "https://www.cnblogs.com/cmt/"
+entrySelector = "#mainContent>.forFlow>.day"
+titleSelector = ".postTitle"
+linkSelector = ".dayTitle>a"
+contentSelector = ".postCon"
+dateSelector = ".meta-data label.labels"
+dateFormat = "yyyy-MM-dd hh:mm:ss"
 
 [163-fun-moment]
 title = "网易 轻松一刻"
@@ -13,13 +40,6 @@ entrySelector = "li.js-item.item"
 titleSelector = "a.title"
 linkSelector = "a.title"
 contentSelector = "a.img > img"
-
-[zuixingzuo-scropio]
-title = "美国神婆 天蝎"
-url = "https://www.zuixingzuo.net/tianxie/yunshi.html"
-entrySelector = "div.list_item h3"
-titleSelector = "a"
-linkSelector = "a"
 
 [163-news-domestic]
 title = "网易 国内新闻"
@@ -33,41 +53,6 @@ title = "吾爱破解 今日热帖"
 url = "https://www.52pojie.cn/misc.php?mod=ranklist&type=thread&view=replies&orderby=today"
 entrySelector = "td.icn + th"
 titleSelector = "a"
-linkSelector = "a"
-
-[cnbeta_front]
-title = "cnbeta 首页"
-url = "https://m.cnbeta.com.tw/wap"
-entrySelector = "#info_list > .list"
-titleSelector = "a"
-linkSelector = "a"
-
-[mazterize]
-title = "mazterize"
-url = "https://www.mazterize.com"
-entrySelector = "#recent-posts-2 > ul > li"
-titleSelector = "a"
-linkSelector = "a"
-
-[printweek]
-title = "printweek news"
-url = "https://www.printweek.com/news/all-news"
-entrySelector = "h2[itemprop=headline]"
-titleSelector = "a"
-linkSelector = "a"
-
-[pinboard]
-title = "pinboard popular"
-url = "https://www.pinboard.in/popular"
-entrySelector = "div.bookmark > div.display"
-titleSelector = "a"
-linkSelector = "a"
-
-[portableappz]
-title = "portableappz"
-url = "http://portableappz.blogspot.com/?m=1"
-entrySelector = "div.mobile-post-outer"
-titleSelector = "a > h3"
 linkSelector = "a"
 
 [codenews]
