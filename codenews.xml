@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-21T06:17:21.085Z</updated>
+    <updated>2023-04-21T12:24:22.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -132,18 +132,18 @@
         <content type="html"><![CDATA[<a href="/view/8317">新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了]]></title>
-        <id>https://codenews.cc/view/160463</id>
-        <link href="https://codenews.cc/view/160463"/>
-        <updated>2023-04-20T14:53:51.434Z</updated>
-        <content type="html"><![CDATA[<a href="/view/160463">微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[基于 Canvas 编写的在线多功能画板 paint-board]]></title>
         <id>https://codenews.cc/view/8313</id>
         <link href="https://codenews.cc/view/8313"/>
         <updated>2023-04-20T14:53:51.441Z</updated>
         <content type="html"><![CDATA[<a href="/view/8313">基于 Canvas 编写的在线多功能画板 paint-board</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了]]></title>
+        <id>https://codenews.cc/view/160463</id>
+        <link href="https://codenews.cc/view/160463"/>
+        <updated>2023-04-20T14:53:51.434Z</updated>
+        <content type="html"><![CDATA[<a href="/view/160463">微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[📝一个简单优雅的 markdown 编辑器，适用于 Linux、macOS 和 Windows。Typora完美替代者MarkText]]></title>
