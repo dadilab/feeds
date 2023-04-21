@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-20T18:16:49.665Z</updated>
+    <updated>2023-04-21T06:17:21.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[<a href="/view/13199">chatgpt-dingtalk：支持在钉钉聊天中让 ChatGPT 绘图</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
-        <id>https://codenews.cc/view/165030</id>
-        <link href="https://codenews.cc/view/165030"/>
-        <updated>2023-04-20T14:53:51.416Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ChatGPT 国内尝鲜入口，免登入，免梯]]></title>
         <id>https://codenews.cc/view/8094</id>
         <link href="https://codenews.cc/view/8094"/>
         <updated>2023-04-20T14:53:51.417Z</updated>
         <content type="html"><![CDATA[<a href="/view/8094">ChatGPT 国内尝鲜入口，免登入，免梯</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
+        <id>https://codenews.cc/view/165030</id>
+        <link href="https://codenews.cc/view/165030"/>
+        <updated>2023-04-20T14:53:51.416Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[街景奇观，随机展示一张有趣的街景，并可与鼠标结合WSAD移动，虚拟元宇宙]]></title>
@@ -111,18 +111,11 @@
         <content type="html"><![CDATA[<a href="/view/8276">Komga 一个免费的开源漫画/漫画服务器</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了]]></title>
-        <id>https://codenews.cc/view/160463</id>
-        <link href="https://codenews.cc/view/160463"/>
-        <updated>2023-04-20T14:53:51.434Z</updated>
-        <content type="html"><![CDATA[<a href="/view/160463">微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 C 编写的跨平台迷你高尔夫游戏，多种关卡，可在线玩]]></title>
-        <id>https://codenews.cc/view/156839</id>
-        <link href="https://codenews.cc/view/156839"/>
-        <updated>2023-04-20T14:53:51.437Z</updated>
-        <content type="html"><![CDATA[<a href="/view/156839">用 C 编写的跨平台迷你高尔夫游戏，多种关卡，可在线玩</a>]]></content>
+        <title type="html"><![CDATA[通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互]]></title>
+        <id>https://codenews.cc/view/8068</id>
+        <link href="https://codenews.cc/view/8068"/>
+        <updated>2023-04-20T14:53:51.439Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8068">通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[开源证件照小程序，自动扣图、换装换发饰]]></title>
@@ -132,18 +125,18 @@
         <content type="html"><![CDATA[<a href="/view/8098">开源证件照小程序，自动扣图、换装换发饰</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互]]></title>
-        <id>https://codenews.cc/view/8068</id>
-        <link href="https://codenews.cc/view/8068"/>
-        <updated>2023-04-20T14:53:51.439Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8068">通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫]]></title>
         <id>https://codenews.cc/view/8317</id>
         <link href="https://codenews.cc/view/8317"/>
         <updated>2023-04-20T14:53:51.441Z</updated>
         <content type="html"><![CDATA[<a href="/view/8317">新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了]]></title>
+        <id>https://codenews.cc/view/160463</id>
+        <link href="https://codenews.cc/view/160463"/>
+        <updated>2023-04-20T14:53:51.434Z</updated>
+        <content type="html"><![CDATA[<a href="/view/160463">微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[基于 Canvas 编写的在线多功能画板 paint-board]]></title>
@@ -158,6 +151,13 @@
         <link href="https://codenews.cc/view/8090"/>
         <updated>2023-04-20T14:53:51.444Z</updated>
         <content type="html"><![CDATA[<a href="/view/8090">📝一个简单优雅的 markdown 编辑器，适用于 Linux、macOS 和 Windows。Typora完美替代者MarkText</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 C 编写的跨平台迷你高尔夫游戏，多种关卡，可在线玩]]></title>
+        <id>https://codenews.cc/view/156839</id>
+        <link href="https://codenews.cc/view/156839"/>
+        <updated>2023-04-20T14:53:51.437Z</updated>
+        <content type="html"><![CDATA[<a href="/view/156839">用 C 编写的跨平台迷你高尔夫游戏，多种关卡，可在线玩</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本]]></title>
