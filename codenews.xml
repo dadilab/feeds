@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-22T06:18:14.251Z</updated>
+    <updated>2023-04-22T12:23:15.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[<a href="/view/8075">GitHub上 Star 20k 的功能强大但简单易用的屏幕截图软件🖥️ 📸</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
-        <id>https://codenews.cc/view/165030</id>
-        <link href="https://codenews.cc/view/165030"/>
-        <updated>2023-04-20T14:53:51.416Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux 命令行图形化的性能监控工具 gtop，安装和启动只需要一行命令特别简单]]></title>
         <id>https://codenews.cc/view/8059</id>
         <link href="https://codenews.cc/view/8059"/>
         <updated>2023-04-20T14:53:51.423Z</updated>
         <content type="html"><![CDATA[<a href="/view/8059">Linux 命令行图形化的性能监控工具 gtop，安装和启动只需要一行命令特别简单</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
+        <id>https://codenews.cc/view/165030</id>
+        <link href="https://codenews.cc/view/165030"/>
+        <updated>2023-04-20T14:53:51.416Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[基于vitepress 的简约风博客主题]]></title>
