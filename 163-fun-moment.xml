@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2023-04-23T06:16:49.131Z</updated>
+    <updated>2023-04-23T12:22:53.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一秒：这么漂亮的老师我愿意当个好学生]]></title>
+        <id>https://www.163.com/news/article/I31DE3MT000181BT.html</id>
+        <link href="https://www.163.com/news/article/I31DE3MT000181BT.html"/>
+        <updated>2023-04-23T12:22:07.009Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一秒：不是手表像素高，是我真的有妙招！]]></title>
         <id>https://www.163.com/news/article/I2UPTAUQ000181BR.html</id>
@@ -608,10 +614,10 @@
         <updated>2023-04-20T14:50:41.401Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[轻松一刻：财神爷，咱们说好了，今年一定要灵喔]]></title>
-        <id>https://www.163.com/news/article/HS20L935000181BR.html</id>
-        <link href="https://www.163.com/news/article/HS20L935000181BR.html"/>
-        <updated>2023-04-20T14:50:41.402Z</updated>
+        <title type="html"><![CDATA[轻松一秒：这么漂亮的老师我愿意当个好学生]]></title>
+        <id>https://www.163.com/news/article/I31DE3MT000181BT.html</id>
+        <link href="https://www.163.com/news/article/I31DE3MT000181BT.html"/>
+        <updated>2023-04-23T12:22:07.218Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[轻松一秒：不是手表像素高，是我真的有妙招！]]></title>
@@ -1196,11 +1202,5 @@
         <id>https://www.163.com/news/article/HS8UTMC6000181BR.html</id>
         <link href="https://www.163.com/news/article/HS8UTMC6000181BR.html"/>
         <updated>2023-04-20T14:50:41.401Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：财神爷，咱们说好了，今年一定要灵喔]]></title>
-        <id>https://www.163.com/news/article/HS20L935000181BR.html</id>
-        <link href="https://www.163.com/news/article/HS20L935000181BR.html"/>
-        <updated>2023-04-20T14:50:41.402Z</updated>
     </entry>
 </feed>
