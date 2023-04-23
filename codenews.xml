@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-23T01:06:37.972Z</updated>
+    <updated>2023-04-23T06:16:49.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a href="/view/8094">ChatGPT 国内尝鲜入口，免登入，免梯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[街景奇观，随机展示一张有趣的街景，并可与鼠标结合WSAD移动，虚拟元宇宙]]></title>
-        <id>https://codenews.cc/view/8295</id>
-        <link href="https://codenews.cc/view/8295"/>
-        <updated>2023-04-20T14:53:51.417Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8295">街景奇观，随机展示一张有趣的街景，并可与鼠标结合WSAD移动，虚拟元宇宙</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GitHub上 Star 20k 的功能强大但简单易用的屏幕截图软件🖥️ 📸]]></title>
         <id>https://codenews.cc/view/8075</id>
         <link href="https://codenews.cc/view/8075"/>
         <updated>2023-04-20T14:53:51.421Z</updated>
         <content type="html"><![CDATA[<a href="/view/8075">GitHub上 Star 20k 的功能强大但简单易用的屏幕截图软件🖥️ 📸</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[街景奇观，随机展示一张有趣的街景，并可与鼠标结合WSAD移动，虚拟元宇宙]]></title>
+        <id>https://codenews.cc/view/8295</id>
+        <link href="https://codenews.cc/view/8295"/>
+        <updated>2023-04-20T14:53:51.417Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8295">街景奇观，随机展示一张有趣的街景，并可与鼠标结合WSAD移动，虚拟元宇宙</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linux 命令行图形化的性能监控工具 gtop，安装和启动只需要一行命令特别简单]]></title>
@@ -153,13 +153,6 @@
         <content type="html"><![CDATA[<a href="/view/8079">用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[audioFlux - 一个用于音频和音乐分析、特征提取的库]]></title>
-        <id>https://codenews.cc/view/8163</id>
-        <link href="https://codenews.cc/view/8163"/>
-        <updated>2023-04-20T14:53:51.446Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8163">audioFlux - 一个用于音频和音乐分析、特征提取的库</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AC印象 ( acimage) 是一个前后端分离的SpringCloud论坛系统。Web 端使用 Vue + ElementUi 。后端使用 SpringCloud+Mybatis-Plus+Reids+Rabbitmq。]]></title>
         <id>https://codenews.cc/view/8033</id>
         <link href="https://codenews.cc/view/8033"/>
@@ -167,18 +160,18 @@
         <content type="html"><![CDATA[<a href="/view/8033">AC印象 ( acimage) 是一个前后端分离的SpringCloud论坛系统。Web 端使用 Vue + ElementUi 。后端使用 SpringCloud+Mybatis-Plus+Reids+Rabbitmq。</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[audioFlux - 一个用于音频和音乐分析、特征提取的库]]></title>
+        <id>https://codenews.cc/view/8163</id>
+        <link href="https://codenews.cc/view/8163"/>
+        <updated>2023-04-20T14:53:51.446Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8163">audioFlux - 一个用于音频和音乐分析、特征提取的库</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了]]></title>
         <id>https://codenews.cc/view/160463</id>
         <link href="https://codenews.cc/view/160463"/>
         <updated>2023-04-20T14:53:51.434Z</updated>
         <content type="html"><![CDATA[<a href="/view/160463">微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 C 编写的跨平台迷你高尔夫游戏，多种关卡，可在线玩]]></title>
-        <id>https://codenews.cc/view/156839</id>
-        <link href="https://codenews.cc/view/156839"/>
-        <updated>2023-04-20T14:53:51.437Z</updated>
-        <content type="html"><![CDATA[<a href="/view/156839">用 C 编写的跨平台迷你高尔夫游戏，多种关卡，可在线玩</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[doccano：面向机器学习从业者的开源标注工具]]></title>
@@ -193,6 +186,13 @@
         <link href="https://codenews.cc/view/8095"/>
         <updated>2023-04-20T14:53:51.448Z</updated>
         <content type="html"><![CDATA[<a href="/view/8095">🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 C 编写的跨平台迷你高尔夫游戏，多种关卡，可在线玩]]></title>
+        <id>https://codenews.cc/view/156839</id>
+        <link href="https://codenews.cc/view/156839"/>
+        <updated>2023-04-20T14:53:51.437Z</updated>
+        <content type="html"><![CDATA[<a href="/view/156839">用 C 编写的跨平台迷你高尔夫游戏，多种关卡，可在线玩</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[超多免费API接口分享]]></title>
