@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-24T12:24:07.305Z</updated>
+    <updated>2023-04-24T18:16:26.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Web的Redis监控工具，可以实时监控Redis的各项指标]]></title>
+        <id>https://codenews.cc/view/165818</id>
+        <link href="https://codenews.cc/view/165818"/>
+        <updated>2023-04-24T18:16:25.810Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165818">Web的Redis监控工具，可以实时监控Redis的各项指标</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面]]></title>
         <id>https://codenews.cc/view/165759</id>
@@ -200,13 +207,6 @@
         <link href="https://codenews.cc/view/8037"/>
         <updated>2023-04-20T14:53:51.450Z</updated>
         <content type="html"><![CDATA[<a href="/view/8037">imglib 一个轻量级的 JAVA 图像处理库，立足于简化对图像的常见处理</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[可能是最好用的 web 端代码文本编辑器 ACE]]></title>
-        <id>https://codenews.cc/view/8032</id>
-        <link href="https://codenews.cc/view/8032"/>
-        <updated>2023-04-20T14:53:51.451Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8032">可能是最好用的 web 端代码文本编辑器 ACE</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了]]></title>
