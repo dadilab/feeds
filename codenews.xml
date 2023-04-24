@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-24T06:17:55.306Z</updated>
+    <updated>2023-04-24T12:24:07.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[<a href="/view/8302">ChatGPT 机器人进行 Code Review</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
-        <id>https://codenews.cc/view/165030</id>
-        <link href="https://codenews.cc/view/165030"/>
-        <updated>2023-04-20T14:53:51.416Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Komga 一个免费的开源漫画/漫画服务器]]></title>
         <id>https://codenews.cc/view/8276</id>
         <link href="https://codenews.cc/view/8276"/>
         <updated>2023-04-20T14:53:51.434Z</updated>
         <content type="html"><![CDATA[<a href="/view/8276">Komga 一个免费的开源漫画/漫画服务器</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
+        <id>https://codenews.cc/view/165030</id>
+        <link href="https://codenews.cc/view/165030"/>
+        <updated>2023-04-20T14:53:51.416Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互]]></title>
@@ -202,17 +202,17 @@
         <content type="html"><![CDATA[<a href="/view/8037">imglib 一个轻量级的 JAVA 图像处理库，立足于简化对图像的常见处理</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了]]></title>
-        <id>https://codenews.cc/view/160463</id>
-        <link href="https://codenews.cc/view/160463"/>
-        <updated>2023-04-20T14:53:51.434Z</updated>
-        <content type="html"><![CDATA[<a href="/view/160463">微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[可能是最好用的 web 端代码文本编辑器 ACE]]></title>
         <id>https://codenews.cc/view/8032</id>
         <link href="https://codenews.cc/view/8032"/>
         <updated>2023-04-20T14:53:51.451Z</updated>
         <content type="html"><![CDATA[<a href="/view/8032">可能是最好用的 web 端代码文本编辑器 ACE</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了]]></title>
+        <id>https://codenews.cc/view/160463</id>
+        <link href="https://codenews.cc/view/160463"/>
+        <updated>2023-04-20T14:53:51.434Z</updated>
+        <content type="html"><![CDATA[<a href="/view/160463">微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了</a>]]></content>
     </entry>
 </feed>
