@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-25T01:00:11.257Z</updated>
+    <updated>2023-04-25T06:17:28.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Python 音频分析、特征提取的开源库]]></title>
+        <id>https://codenews.cc/view/165862</id>
+        <link href="https://codenews.cc/view/165862"/>
+        <updated>2023-04-25T06:17:27.919Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Web的Redis监控工具，可以实时监控Redis的各项指标]]></title>
         <id>https://codenews.cc/view/165818</id>
@@ -167,13 +174,6 @@
         <content type="html"><![CDATA[<a href="/view/8079">用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AC印象 ( acimage) 是一个前后端分离的SpringCloud论坛系统。Web 端使用 Vue + ElementUi 。后端使用 SpringCloud+Mybatis-Plus+Reids+Rabbitmq。]]></title>
-        <id>https://codenews.cc/view/8033</id>
-        <link href="https://codenews.cc/view/8033"/>
-        <updated>2023-04-20T14:53:51.447Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8033">AC印象 ( acimage) 是一个前后端分离的SpringCloud论坛系统。Web 端使用 Vue + ElementUi 。后端使用 SpringCloud+Mybatis-Plus+Reids+Rabbitmq。</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[audioFlux - 一个用于音频和音乐分析、特征提取的库]]></title>
         <id>https://codenews.cc/view/8163</id>
         <link href="https://codenews.cc/view/8163"/>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[<a href="/view/8037">imglib 一个轻量级的 JAVA 图像处理库，立足于简化对图像的常见处理</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了]]></title>
-        <id>https://codenews.cc/view/160463</id>
-        <link href="https://codenews.cc/view/160463"/>
-        <updated>2023-04-20T14:53:51.434Z</updated>
-        <content type="html"><![CDATA[<a href="/view/160463">微软开源DeepSpeed，仅需一个脚本，完成 RLHF 训练的全部三个阶段，生成你的第一个 ChatGPT 模型！人手训练一个ChatGPT的时代真的到来了</a>]]></content>
+        <title type="html"><![CDATA[SSCMS - 开源免费、企业级、可商用 CMS 系统]]></title>
+        <id>https://codenews.cc/view/8070</id>
+        <link href="https://codenews.cc/view/8070"/>
+        <updated>2023-04-25T06:17:27.952Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8070">SSCMS - 开源免费、企业级、可商用 CMS 系统</a>]]></content>
     </entry>
 </feed>
