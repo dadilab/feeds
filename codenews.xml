@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-25T18:17:04.205Z</updated>
+    <updated>2023-04-26T01:00:04.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[<a href="/view/165818">Web的Redis监控工具，可以实时监控Redis的各项指标</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面]]></title>
-        <id>https://codenews.cc/view/165759</id>
-        <link href="https://codenews.cc/view/165759"/>
-        <updated>2023-04-24T06:17:54.133Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165759">Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[体验 ChatGPT，不需要设置 key，更加便捷！好用！]]></title>
         <id>https://codenews.cc/view/9849</id>
         <link href="https://codenews.cc/view/9849"/>
         <updated>2023-04-20T14:53:51.411Z</updated>
         <content type="html"><![CDATA[<a href="/view/9849">体验 ChatGPT，不需要设置 key，更加便捷！好用！</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面]]></title>
+        <id>https://codenews.cc/view/165759</id>
+        <link href="https://codenews.cc/view/165759"/>
+        <updated>2023-04-24T06:17:54.133Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165759">Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三款新插件上线， API 鉴权， API 网关， Swagger URL 同步文档！]]></title>
@@ -125,13 +125,6 @@
         <content type="html"><![CDATA[<a href="/view/8276">Komga 一个免费的开源漫画/漫画服务器</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
-        <id>https://codenews.cc/view/165030</id>
-        <link href="https://codenews.cc/view/165030"/>
-        <updated>2023-04-20T14:53:51.416Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互]]></title>
         <id>https://codenews.cc/view/8068</id>
         <link href="https://codenews.cc/view/8068"/>
@@ -167,6 +160,13 @@
         <content type="html"><![CDATA[<a href="/view/8090">📝一个简单优雅的 markdown 编辑器，适用于 Linux、macOS 和 Windows。Typora完美替代者MarkText</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
+        <id>https://codenews.cc/view/165030</id>
+        <link href="https://codenews.cc/view/165030"/>
+        <updated>2023-04-20T14:53:51.416Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本]]></title>
         <id>https://codenews.cc/view/8079</id>
         <link href="https://codenews.cc/view/8079"/>
@@ -195,18 +195,18 @@
         <content type="html"><![CDATA[<a href="/view/8095">🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[超多免费API接口分享]]></title>
-        <id>https://codenews.cc/view/8084</id>
-        <link href="https://codenews.cc/view/8084"/>
-        <updated>2023-04-20T14:53:51.449Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[imglib 一个轻量级的 JAVA 图像处理库，立足于简化对图像的常见处理]]></title>
         <id>https://codenews.cc/view/8037</id>
         <link href="https://codenews.cc/view/8037"/>
         <updated>2023-04-20T14:53:51.450Z</updated>
         <content type="html"><![CDATA[<a href="/view/8037">imglib 一个轻量级的 JAVA 图像处理库，立足于简化对图像的常见处理</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超多免费API接口分享]]></title>
+        <id>https://codenews.cc/view/8084</id>
+        <link href="https://codenews.cc/view/8084"/>
+        <updated>2023-04-20T14:53:51.449Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SSCMS - 开源免费、企业级、可商用 CMS 系统]]></title>
