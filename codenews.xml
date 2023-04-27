@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-26T18:18:29.444Z</updated>
+    <updated>2023-04-27T01:02:06.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Python 音频分析、特征提取的开源库]]></title>
-        <id>https://codenews.cc/view/165862</id>
-        <link href="https://codenews.cc/view/165862"/>
-        <updated>2023-04-25T06:17:27.919Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[体验 ChatGPT，不需要设置 key，更加便捷！好用！]]></title>
         <id>https://codenews.cc/view/9849</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[<a href="/view/9849">体验 ChatGPT，不需要设置 key，更加便捷！好用！</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web的Redis监控工具，可以实时监控Redis的各项指标]]></title>
-        <id>https://codenews.cc/view/165818</id>
-        <link href="https://codenews.cc/view/165818"/>
-        <updated>2023-04-24T18:16:25.810Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165818">Web的Redis监控工具，可以实时监控Redis的各项指标</a>]]></content>
+        <title type="html"><![CDATA[Python 音频分析、特征提取的开源库]]></title>
+        <id>https://codenews.cc/view/165862</id>
+        <link href="https://codenews.cc/view/165862"/>
+        <updated>2023-04-25T06:17:27.919Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[三款新插件上线， API 鉴权， API 网关， Swagger URL 同步文档！]]></title>
@@ -34,11 +27,11 @@
         <content type="html"><![CDATA[<a href="/view/37763">三款新插件上线， API 鉴权， API 网关， Swagger URL 同步文档！</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面]]></title>
-        <id>https://codenews.cc/view/165759</id>
-        <link href="https://codenews.cc/view/165759"/>
-        <updated>2023-04-24T06:17:54.133Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165759">Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面</a>]]></content>
+        <title type="html"><![CDATA[Web的Redis监控工具，可以实时监控Redis的各项指标]]></title>
+        <id>https://codenews.cc/view/165818</id>
+        <link href="https://codenews.cc/view/165818"/>
+        <updated>2023-04-24T18:16:25.810Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165818">Web的Redis监控工具，可以实时监控Redis的各项指标</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[社区上线了ChatGPT，可以问ChatGPT一些有趣的问题，或许能得到意想不到的答案]]></title>
@@ -53,6 +46,13 @@
         <link href="https://codenews.cc/view/11618"/>
         <updated>2023-04-20T14:53:51.416Z</updated>
         <content type="html"><![CDATA[<a href="/view/11618">好用的 JSON 在线解析格式化工具</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面]]></title>
+        <id>https://codenews.cc/view/165759</id>
+        <link href="https://codenews.cc/view/165759"/>
+        <updated>2023-04-24T06:17:54.133Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165759">Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[chatgpt-dingtalk：支持在钉钉聊天中让 ChatGPT 绘图]]></title>
@@ -167,18 +167,18 @@
         <content type="html"><![CDATA[<a href="/view/8079">用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
-        <id>https://codenews.cc/view/165030</id>
-        <link href="https://codenews.cc/view/165030"/>
-        <updated>2023-04-20T14:53:51.416Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[audioFlux - 一个用于音频和音乐分析、特征提取的库]]></title>
         <id>https://codenews.cc/view/8163</id>
         <link href="https://codenews.cc/view/8163"/>
         <updated>2023-04-20T14:53:51.446Z</updated>
         <content type="html"><![CDATA[<a href="/view/8163">audioFlux - 一个用于音频和音乐分析、特征提取的库</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
+        <id>https://codenews.cc/view/165030</id>
+        <link href="https://codenews.cc/view/165030"/>
+        <updated>2023-04-20T14:53:51.416Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[doccano：面向机器学习从业者的开源标注工具]]></title>
