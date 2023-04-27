@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-27T12:23:51.364Z</updated>
+    <updated>2023-04-27T18:17:52.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[<a href="/view/37763">三款新插件上线， API 鉴权， API 网关， Swagger URL 同步文档！</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python 音频分析、特征提取的开源库]]></title>
-        <id>https://codenews.cc/view/165862</id>
-        <link href="https://codenews.cc/view/165862"/>
-        <updated>2023-04-25T06:17:27.919Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[社区上线了ChatGPT，可以问ChatGPT一些有趣的问题，或许能得到意想不到的答案]]></title>
         <id>https://codenews.cc/view/8099</id>
         <link href="https://codenews.cc/view/8099"/>
         <updated>2023-04-20T14:53:51.416Z</updated>
         <content type="html"><![CDATA[<a href="/view/8099">社区上线了ChatGPT，可以问ChatGPT一些有趣的问题，或许能得到意想不到的答案</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 音频分析、特征提取的开源库]]></title>
+        <id>https://codenews.cc/view/165862</id>
+        <link href="https://codenews.cc/view/165862"/>
+        <updated>2023-04-25T06:17:27.919Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[好用的 JSON 在线解析格式化工具]]></title>
@@ -174,18 +174,18 @@
         <content type="html"><![CDATA[<a href="/view/8163">audioFlux - 一个用于音频和音乐分析、特征提取的库</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
-        <id>https://codenews.cc/view/165030</id>
-        <link href="https://codenews.cc/view/165030"/>
-        <updated>2023-04-20T14:53:51.416Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[doccano：面向机器学习从业者的开源标注工具]]></title>
         <id>https://codenews.cc/view/8053</id>
         <link href="https://codenews.cc/view/8053"/>
         <updated>2023-04-20T14:53:51.447Z</updated>
         <content type="html"><![CDATA[<a href="/view/8053">doccano：面向机器学习从业者的开源标注工具</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
+        <id>https://codenews.cc/view/165030</id>
+        <link href="https://codenews.cc/view/165030"/>
+        <updated>2023-04-20T14:53:51.416Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃]]></title>
