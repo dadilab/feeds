@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-04-29T00:59:47.664Z</updated>
+    <updated>2023-04-29T06:17:13.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -34,20 +34,6 @@
         <content type="html"><![CDATA[<a href="/view/11618">好用的 JSON 在线解析格式化工具</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python 音频分析、特征提取的开源库]]></title>
-        <id>https://codenews.cc/view/165862</id>
-        <link href="https://codenews.cc/view/165862"/>
-        <updated>2023-04-25T06:17:27.919Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web的Redis监控工具，可以实时监控Redis的各项指标]]></title>
-        <id>https://codenews.cc/view/165818</id>
-        <link href="https://codenews.cc/view/165818"/>
-        <updated>2023-04-24T18:16:25.810Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165818">Web的Redis监控工具，可以实时监控Redis的各项指标</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[chatgpt-dingtalk：支持在钉钉聊天中让 ChatGPT 绘图]]></title>
         <id>https://codenews.cc/view/13199</id>
         <link href="https://codenews.cc/view/13199"/>
@@ -62,11 +48,18 @@
         <content type="html"><![CDATA[<a href="/view/8094">ChatGPT 国内尝鲜入口，免登入，免梯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面]]></title>
-        <id>https://codenews.cc/view/165759</id>
-        <link href="https://codenews.cc/view/165759"/>
-        <updated>2023-04-24T06:17:54.133Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165759">Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面</a>]]></content>
+        <title type="html"><![CDATA[Python 音频分析、特征提取的开源库]]></title>
+        <id>https://codenews.cc/view/165862</id>
+        <link href="https://codenews.cc/view/165862"/>
+        <updated>2023-04-25T06:17:27.919Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Web的Redis监控工具，可以实时监控Redis的各项指标]]></title>
+        <id>https://codenews.cc/view/165818</id>
+        <link href="https://codenews.cc/view/165818"/>
+        <updated>2023-04-24T18:16:25.810Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165818">Web的Redis监控工具，可以实时监控Redis的各项指标</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GitHub上 Star 20k 的功能强大但简单易用的屏幕截图软件🖥️ 📸]]></title>
@@ -81,6 +74,13 @@
         <link href="https://codenews.cc/view/8295"/>
         <updated>2023-04-20T14:53:51.417Z</updated>
         <content type="html"><![CDATA[<a href="/view/8295">街景奇观，随机展示一张有趣的街景，并可与鼠标结合WSAD移动，虚拟元宇宙</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面]]></title>
+        <id>https://codenews.cc/view/165759</id>
+        <link href="https://codenews.cc/view/165759"/>
+        <updated>2023-04-24T06:17:54.133Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165759">Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Linux 命令行图形化的性能监控工具 gtop，安装和启动只需要一行命令特别简单]]></title>
@@ -146,18 +146,18 @@
         <content type="html"><![CDATA[<a href="/view/8317">新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[基于 Canvas 编写的在线多功能画板 paint-board]]></title>
-        <id>https://codenews.cc/view/8313</id>
-        <link href="https://codenews.cc/view/8313"/>
-        <updated>2023-04-20T14:53:51.441Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8313">基于 Canvas 编写的在线多功能画板 paint-board</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[📝一个简单优雅的 markdown 编辑器，适用于 Linux、macOS 和 Windows。Typora完美替代者MarkText]]></title>
         <id>https://codenews.cc/view/8090</id>
         <link href="https://codenews.cc/view/8090"/>
         <updated>2023-04-20T14:53:51.444Z</updated>
         <content type="html"><![CDATA[<a href="/view/8090">📝一个简单优雅的 markdown 编辑器，适用于 Linux、macOS 和 Windows。Typora完美替代者MarkText</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于 Canvas 编写的在线多功能画板 paint-board]]></title>
+        <id>https://codenews.cc/view/8313</id>
+        <link href="https://codenews.cc/view/8313"/>
+        <updated>2023-04-20T14:53:51.441Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8313">基于 Canvas 编写的在线多功能画板 paint-board</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本]]></title>
@@ -195,18 +195,18 @@
         <content type="html"><![CDATA[<a href="/view/8037">imglib 一个轻量级的 JAVA 图像处理库，立足于简化对图像的常见处理</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
-        <id>https://codenews.cc/view/165030</id>
-        <link href="https://codenews.cc/view/165030"/>
-        <updated>2023-04-20T14:53:51.416Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[超多免费API接口分享]]></title>
         <id>https://codenews.cc/view/8084</id>
         <link href="https://codenews.cc/view/8084"/>
         <updated>2023-04-20T14:53:51.449Z</updated>
         <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Web 浏览器访问 Linux 的终端神器]]></title>
+        <id>https://codenews.cc/view/165030</id>
+        <link href="https://codenews.cc/view/165030"/>
+        <updated>2023-04-20T14:53:51.416Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165030">使用 Web 浏览器访问 Linux 的终端神器</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SSCMS - 开源免费、企业级、可商用 CMS 系统]]></title>
