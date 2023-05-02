@@ -2,9 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-05-01T01:04:56.520Z</updated>
+    <updated>2023-05-02T06:26:47.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[上周热点回顾（4.24-4.30）]]></title>
+        <id>https://www.cnblogs.com/cmt/archive/2023/05.html</id>
+        <link href="https://www.cnblogs.com/cmt/archive/2023/05.html"/>
+        <updated>2023-05-02T06:25:08.070Z</updated>
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17366288">
+摘要：            
+热点随笔： ·&nbsp;服务器出现了一个新软件，一帮大佬吵起来了！&nbsp;(轩辕之风)·&nbsp;【故障公告】被放出的 Bing 爬虫，又被爬宕机的园子&nbsp;(博客园团队)·&nbsp;[MAUI]模仿网易云音乐黑胶唱片的交互实现&nbsp;(林晓lx)·&nbsp;VueHub：我用 ChatGPT 开发的第一个项目，送给所有 Vue 爱好者&nbsp;(DOM        <a href="https://www.cnblogs.com/cmt/p/17366288.html" class="c_b_p_desc_readmore">阅读全文</a>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【故障公告】被放出的 Bing 爬虫，又被爬宕机的园子]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/04.html</id>
