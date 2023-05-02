@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-05-02T12:24:57.771Z</updated>
+    <updated>2023-05-02T18:22:54.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[<a href="/view/8065">密码学工具箱📦</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python 音频分析、特征提取的开源库]]></title>
-        <id>https://codenews.cc/view/165862</id>
-        <link href="https://codenews.cc/view/165862"/>
-        <updated>2023-04-25T06:17:27.919Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ChatGPT 机器人进行 Code Review]]></title>
         <id>https://codenews.cc/view/8302</id>
         <link href="https://codenews.cc/view/8302"/>
         <updated>2023-04-20T14:53:51.427Z</updated>
         <content type="html"><![CDATA[<a href="/view/8302">ChatGPT 机器人进行 Code Review</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 音频分析、特征提取的开源库]]></title>
+        <id>https://codenews.cc/view/165862</id>
+        <link href="https://codenews.cc/view/165862"/>
+        <updated>2023-04-25T06:17:27.919Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Komga 一个免费的开源漫画/漫画服务器]]></title>
