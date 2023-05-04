@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-05-03T06:25:56.337Z</updated>
+    <updated>2023-05-04T01:07:39.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web的Redis监控工具，可以实时监控Redis的各项指标]]></title>
-        <id>https://codenews.cc/view/165818</id>
-        <link href="https://codenews.cc/view/165818"/>
-        <updated>2023-04-24T18:16:25.810Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165818">Web的Redis监控工具，可以实时监控Redis的各项指标</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互]]></title>
         <id>https://codenews.cc/view/8068</id>
         <link href="https://codenews.cc/view/8068"/>
@@ -139,11 +132,11 @@
         <content type="html"><![CDATA[<a href="/view/8098">开源证件照小程序，自动扣图、换装换发饰</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面]]></title>
-        <id>https://codenews.cc/view/165759</id>
-        <link href="https://codenews.cc/view/165759"/>
-        <updated>2023-04-24T06:17:54.133Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165759">Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面</a>]]></content>
+        <title type="html"><![CDATA[Web的Redis监控工具，可以实时监控Redis的各项指标]]></title>
+        <id>https://codenews.cc/view/165818</id>
+        <link href="https://codenews.cc/view/165818"/>
+        <updated>2023-04-24T18:16:25.810Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165818">Web的Redis监控工具，可以实时监控Redis的各项指标</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫]]></title>
@@ -165,6 +158,13 @@
         <link href="https://codenews.cc/view/8313"/>
         <updated>2023-04-20T14:53:51.441Z</updated>
         <content type="html"><![CDATA[<a href="/view/8313">基于 Canvas 编写的在线多功能画板 paint-board</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面]]></title>
+        <id>https://codenews.cc/view/165759</id>
+        <link href="https://codenews.cc/view/165759"/>
+        <updated>2023-04-24T06:17:54.133Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165759">Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本]]></title>
