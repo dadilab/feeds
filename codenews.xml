@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-05-06T06:16:44.305Z</updated>
+    <updated>2023-05-06T12:32:43.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -76,18 +76,18 @@
         <content type="html"><![CDATA[<a href="/view/8058">将个人照片变成卡通风格漫画头像的神器 photo2cartoon</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat]]></title>
-        <id>https://codenews.cc/view/166238</id>
-        <link href="https://codenews.cc/view/166238"/>
-        <updated>2023-04-29T12:26:59.539Z</updated>
-        <content type="html"><![CDATA[<a href="/view/166238">Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[基于vitepress 的简约风博客主题]]></title>
         <id>https://codenews.cc/view/8082</id>
         <link href="https://codenews.cc/view/8082"/>
         <updated>2023-04-20T14:53:51.424Z</updated>
         <content type="html"><![CDATA[<a href="/view/8082">基于vitepress 的简约风博客主题</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat]]></title>
+        <id>https://codenews.cc/view/166238</id>
+        <link href="https://codenews.cc/view/166238"/>
+        <updated>2023-04-29T12:26:59.539Z</updated>
+        <content type="html"><![CDATA[<a href="/view/166238">Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[密码学工具箱📦]]></title>
@@ -160,13 +160,6 @@
         <content type="html"><![CDATA[<a href="/view/8163">audioFlux - 一个用于音频和音乐分析、特征提取的库</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python 音频分析、特征提取的开源库]]></title>
-        <id>https://codenews.cc/view/165862</id>
-        <link href="https://codenews.cc/view/165862"/>
-        <updated>2023-04-25T06:17:27.919Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[doccano：面向机器学习从业者的开源标注工具]]></title>
         <id>https://codenews.cc/view/8053</id>
         <link href="https://codenews.cc/view/8053"/>
@@ -174,11 +167,11 @@
         <content type="html"><![CDATA[<a href="/view/8053">doccano：面向机器学习从业者的开源标注工具</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web的Redis监控工具，可以实时监控Redis的各项指标]]></title>
-        <id>https://codenews.cc/view/165818</id>
-        <link href="https://codenews.cc/view/165818"/>
-        <updated>2023-04-24T18:16:25.810Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165818">Web的Redis监控工具，可以实时监控Redis的各项指标</a>]]></content>
+        <title type="html"><![CDATA[Python 音频分析、特征提取的开源库]]></title>
+        <id>https://codenews.cc/view/165862</id>
+        <link href="https://codenews.cc/view/165862"/>
+        <updated>2023-04-25T06:17:27.919Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃]]></title>
@@ -188,6 +181,13 @@
         <content type="html"><![CDATA[<a href="/view/8095">🚀🚀🚀更快、更好、更稳定的redis桌面GUI工具，兼容Linux、Windows、Mac，更重要的是它不会在加载大量数据时崩溃</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Web的Redis监控工具，可以实时监控Redis的各项指标]]></title>
+        <id>https://codenews.cc/view/165818</id>
+        <link href="https://codenews.cc/view/165818"/>
+        <updated>2023-04-24T18:16:25.810Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165818">Web的Redis监控工具，可以实时监控Redis的各项指标</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[imglib 一个轻量级的 JAVA 图像处理库，立足于简化对图像的常见处理]]></title>
         <id>https://codenews.cc/view/8037</id>
         <link href="https://codenews.cc/view/8037"/>
@@ -195,18 +195,18 @@
         <content type="html"><![CDATA[<a href="/view/8037">imglib 一个轻量级的 JAVA 图像处理库，立足于简化对图像的常见处理</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面]]></title>
-        <id>https://codenews.cc/view/165759</id>
-        <link href="https://codenews.cc/view/165759"/>
-        <updated>2023-04-24T06:17:54.133Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165759">Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[超多免费API接口分享]]></title>
         <id>https://codenews.cc/view/8084</id>
         <link href="https://codenews.cc/view/8084"/>
         <updated>2023-04-20T14:53:51.449Z</updated>
         <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面]]></title>
+        <id>https://codenews.cc/view/165759</id>
+        <link href="https://codenews.cc/view/165759"/>
+        <updated>2023-04-24T06:17:54.133Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165759">Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SSCMS - 开源免费、企业级、可商用 CMS 系统]]></title>
