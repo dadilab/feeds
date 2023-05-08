@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-05-08T12:25:11.908Z</updated>
+    <updated>2023-05-08T18:16:18.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -104,18 +104,18 @@
         <content type="html"><![CDATA[<a href="/view/8276">Komga 一个免费的开源漫画/漫画服务器</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat]]></title>
-        <id>https://codenews.cc/view/166238</id>
-        <link href="https://codenews.cc/view/166238"/>
-        <updated>2023-04-29T12:26:59.539Z</updated>
-        <content type="html"><![CDATA[<a href="/view/166238">Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互]]></title>
         <id>https://codenews.cc/view/8068</id>
         <link href="https://codenews.cc/view/8068"/>
         <updated>2023-04-20T14:53:51.439Z</updated>
         <content type="html"><![CDATA[<a href="/view/8068">通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat]]></title>
+        <id>https://codenews.cc/view/166238</id>
+        <link href="https://codenews.cc/view/166238"/>
+        <updated>2023-04-29T12:26:59.539Z</updated>
+        <content type="html"><![CDATA[<a href="/view/166238">Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[开源证件照小程序，自动扣图、换装换发饰]]></title>
@@ -188,18 +188,18 @@
         <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Python 音频分析、特征提取的开源库]]></title>
-        <id>https://codenews.cc/view/165862</id>
-        <link href="https://codenews.cc/view/165862"/>
-        <updated>2023-04-25T06:17:27.919Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SSCMS - 开源免费、企业级、可商用 CMS 系统]]></title>
         <id>https://codenews.cc/view/8070</id>
         <link href="https://codenews.cc/view/8070"/>
         <updated>2023-05-05T18:15:07.568Z</updated>
         <content type="html"><![CDATA[<a href="/view/8070">SSCMS - 开源免费、企业级、可商用 CMS 系统</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 音频分析、特征提取的开源库]]></title>
+        <id>https://codenews.cc/view/165862</id>
+        <link href="https://codenews.cc/view/165862"/>
+        <updated>2023-04-25T06:17:27.919Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SortedContainers 是一个排序集合库，用纯 Python 编写，速度与 C 扩展一样快]]></title>
