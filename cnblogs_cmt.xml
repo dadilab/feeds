@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-05-08T00:59:31.443Z</updated>
+    <updated>2023-05-08T06:23:53.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[【故障公告】阿里云抢占式实例服务器被释放引发全站故障]]></title>
+        <title type="html"><![CDATA[上周热点回顾（5.1-5.7）]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/05.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/05.html"/>
         <updated>2023-05-02T06:25:08.070Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17380570">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17380977">
 摘要：            
-5月7日23:50-5月8日1:40期间，由于园子自建 k8s 集群所使用的大部分阿里云抢占式实例服务器被同时释放，造成200多个 pod 宕机，引发全站故障，由此给您带来很大的麻烦，请您谅解。我们会吸取教训，靠节约无法服务好用户，唯有自己变强。        <a href="https://www.cnblogs.com/cmt/p/17380570.html" class="c_b_p_desc_readmore">阅读全文</a>
+热点随笔： ·&nbsp;园子的现代化建设-复活：沉睡2年多的新闻评论功能重新开放&nbsp;(博客园团队)·&nbsp;消息推送平台终于要发布啦！&nbsp;(Java3y)·&nbsp;是时候，升级你的 Windows 了「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;可以，很6！微信这波改造，一刀斩断了一条“灰色”业务线。&nbsp;(why技术)·&nbsp;C#处        <a href="https://www.cnblogs.com/cmt/p/17380977.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>

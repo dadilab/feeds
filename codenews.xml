@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-05-08T00:59:31.444Z</updated>
+    <updated>2023-05-08T06:23:53.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -90,13 +90,6 @@
         <content type="html"><![CDATA[<a href="/view/8065">密码学工具箱📦</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat]]></title>
-        <id>https://codenews.cc/view/166238</id>
-        <link href="https://codenews.cc/view/166238"/>
-        <updated>2023-04-29T12:26:59.539Z</updated>
-        <content type="html"><![CDATA[<a href="/view/166238">Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ChatGPT 机器人进行 Code Review]]></title>
         <id>https://codenews.cc/view/8302</id>
         <link href="https://codenews.cc/view/8302"/>
@@ -109,6 +102,13 @@
         <link href="https://codenews.cc/view/8276"/>
         <updated>2023-04-20T14:53:51.434Z</updated>
         <content type="html"><![CDATA[<a href="/view/8276">Komga 一个免费的开源漫画/漫画服务器</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat]]></title>
+        <id>https://codenews.cc/view/166238</id>
+        <link href="https://codenews.cc/view/166238"/>
+        <updated>2023-04-29T12:26:59.539Z</updated>
+        <content type="html"><![CDATA[<a href="/view/166238">Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互]]></title>
@@ -195,13 +195,6 @@
         <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web的Redis监控工具，可以实时监控Redis的各项指标]]></title>
-        <id>https://codenews.cc/view/165818</id>
-        <link href="https://codenews.cc/view/165818"/>
-        <updated>2023-04-24T18:16:25.810Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165818">Web的Redis监控工具，可以实时监控Redis的各项指标</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SSCMS - 开源免费、企业级、可商用 CMS 系统]]></title>
         <id>https://codenews.cc/view/8070</id>
         <link href="https://codenews.cc/view/8070"/>
@@ -209,10 +202,17 @@
         <content type="html"><![CDATA[<a href="/view/8070">SSCMS - 开源免费、企业级、可商用 CMS 系统</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面]]></title>
-        <id>https://codenews.cc/view/165759</id>
-        <link href="https://codenews.cc/view/165759"/>
-        <updated>2023-04-24T06:17:54.133Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165759">Microsoft的Sketch2Code，能够将用户的手绘草图转化为可操作的Web界面</a>]]></content>
+        <title type="html"><![CDATA[Web的Redis监控工具，可以实时监控Redis的各项指标]]></title>
+        <id>https://codenews.cc/view/165818</id>
+        <link href="https://codenews.cc/view/165818"/>
+        <updated>2023-04-24T18:16:25.810Z</updated>
+        <content type="html"><![CDATA[<a href="/view/165818">Web的Redis监控工具，可以实时监控Redis的各项指标</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SortedContainers 是一个排序集合库，用纯 Python 编写，速度与 C 扩展一样快]]></title>
+        <id>https://codenews.cc/view/8061</id>
+        <link href="https://codenews.cc/view/8061"/>
+        <updated>2023-05-08T06:23:53.046Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8061">SortedContainers 是一个排序集合库，用纯 Python 编写，速度与 C 扩展一样快</a>]]></content>
     </entry>
 </feed>
