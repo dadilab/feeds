@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-05-07T12:29:32.597Z</updated>
+    <updated>2023-05-08T00:59:31.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[园子的现代化建设-复活：沉睡2年多的新闻评论功能重新开放]]></title>
+        <title type="html"><![CDATA[【故障公告】阿里云抢占式实例服务器被释放引发全站故障]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/05.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/05.html"/>
         <updated>2023-05-02T06:25:08.070Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17369194">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17380570">
 摘要：            
-首先非常感谢大家对园子的支持！在困境求助]发出后，收到了很多园友的捐助，也收到了不少园友在付款备注中的鼓励留言。大家的支持是强大动力，我们会加倍努力尽快让园子走出困境，并加快园子的现代化建设步伐。2021年突如其来的危机，给园子来了个措手不及，让园子陷入一片狼藉，新闻评论功能就在那时被关闭。2023年的五一假期，我们决定对新闻评论功能进行重启。        <a href="https://www.cnblogs.com/cmt/p/17369194.html" class="c_b_p_desc_readmore">阅读全文</a>
+5月7日23:50-5月8日1:40期间，由于园子自建 k8s 集群所使用的大部分阿里云抢占式实例服务器被同时释放，造成200多个 pod 宕机，引发全站故障，由此给您带来很大的麻烦，请您谅解。我们会吸取教训，靠节约无法服务好用户，唯有自己变强。        <a href="https://www.cnblogs.com/cmt/p/17380570.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
