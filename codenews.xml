@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-05-09T01:01:27.430Z</updated>
+    <updated>2023-05-13T12:35:40.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GPTCache：为 LLM 查询创建语义缓存的库]]></title>
+        <id>https://codenews.cc/view/166249</id>
+        <link href="https://codenews.cc/view/166249"/>
+        <updated>2023-05-13T12:35:39.784Z</updated>
+        <content type="html"><![CDATA[<a href="/view/166249">GPTCache：为 LLM 查询创建语义缓存的库</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[体验 ChatGPT，不需要设置 key，更加便捷！好用！]]></title>
         <id>https://codenews.cc/view/9849</id>
@@ -111,13 +118,6 @@
         <content type="html"><![CDATA[<a href="/view/8068">通过命令行界面（CLI）或Web界面与OpenAI开发的ChatGPT语言模型进行交互</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat]]></title>
-        <id>https://codenews.cc/view/166238</id>
-        <link href="https://codenews.cc/view/166238"/>
-        <updated>2023-04-29T12:26:59.539Z</updated>
-        <content type="html"><![CDATA[<a href="/view/166238">Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[开源证件照小程序，自动扣图、换装换发饰]]></title>
         <id>https://codenews.cc/view/8098</id>
         <link href="https://codenews.cc/view/8098"/>
@@ -139,18 +139,18 @@
         <content type="html"><![CDATA[<a href="/view/8317">新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[基于 Canvas 编写的在线多功能画板 paint-board]]></title>
-        <id>https://codenews.cc/view/8313</id>
-        <link href="https://codenews.cc/view/8313"/>
-        <updated>2023-04-20T14:53:51.441Z</updated>
-        <content type="html"><![CDATA[<a href="/view/8313">基于 Canvas 编写的在线多功能画板 paint-board</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本]]></title>
         <id>https://codenews.cc/view/8079</id>
         <link href="https://codenews.cc/view/8079"/>
         <updated>2023-04-20T14:53:51.445Z</updated>
         <content type="html"><![CDATA[<a href="/view/8079">用于浏览器的 Elasticsearch gui，只需要安装Chrome插件即可直接在浏览器中搜索和过滤集群数据，支持Es5678版本</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于 Canvas 编写的在线多功能画板 paint-board]]></title>
+        <id>https://codenews.cc/view/8313</id>
+        <link href="https://codenews.cc/view/8313"/>
+        <updated>2023-04-20T14:53:51.441Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8313">基于 Canvas 编写的在线多功能画板 paint-board</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[audioFlux - 一个用于音频和音乐分析、特征提取的库]]></title>
@@ -188,18 +188,18 @@
         <content type="html"><![CDATA[<a href="/view/8084">超多免费API接口分享</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat]]></title>
+        <id>https://codenews.cc/view/166238</id>
+        <link href="https://codenews.cc/view/166238"/>
+        <updated>2023-04-29T12:26:59.539Z</updated>
+        <content type="html"><![CDATA[<a href="/view/166238">Hugging Face发布了HuggingChat，有300亿参数  hf.co/chat</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SSCMS - 开源免费、企业级、可商用 CMS 系统]]></title>
         <id>https://codenews.cc/view/8070</id>
         <link href="https://codenews.cc/view/8070"/>
         <updated>2023-05-05T18:15:07.568Z</updated>
         <content type="html"><![CDATA[<a href="/view/8070">SSCMS - 开源免费、企业级、可商用 CMS 系统</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 音频分析、特征提取的开源库]]></title>
-        <id>https://codenews.cc/view/165862</id>
-        <link href="https://codenews.cc/view/165862"/>
-        <updated>2023-04-25T06:17:27.919Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165862">Python 音频分析、特征提取的开源库</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SortedContainers 是一个排序集合库，用纯 Python 编写，速度与 C 扩展一样快]]></title>
@@ -209,10 +209,10 @@
         <content type="html"><![CDATA[<a href="/view/8061">SortedContainers 是一个排序集合库，用纯 Python 编写，速度与 C 扩展一样快</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web的Redis监控工具，可以实时监控Redis的各项指标]]></title>
-        <id>https://codenews.cc/view/165818</id>
-        <link href="https://codenews.cc/view/165818"/>
-        <updated>2023-04-24T18:16:25.810Z</updated>
-        <content type="html"><![CDATA[<a href="/view/165818">Web的Redis监控工具，可以实时监控Redis的各项指标</a>]]></content>
+        <title type="html"><![CDATA[notepad--是一个国产跨平台、简单的文本编辑器，是替换notepad++的一种选择。其内置强大的代码对比功能，让你丢掉付费的beyond compare]]></title>
+        <id>https://codenews.cc/view/8048</id>
+        <link href="https://codenews.cc/view/8048"/>
+        <updated>2023-05-13T12:35:39.836Z</updated>
+        <content type="html"><![CDATA[<a href="/view/8048">notepad--是一个国产跨平台、简单的文本编辑器，是替换notepad++的一种选择。其内置强大的代码对比功能，让你丢掉付费的beyond compare</a>]]></content>
     </entry>
 </feed>

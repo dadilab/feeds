@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cnblogs.com/cmt/</id>
     <title>博客园官方博客</title>
-    <updated>2023-05-09T01:01:27.503Z</updated>
+    <updated>2023-05-13T12:35:40.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cnblogs.com/cmt/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[上周热点回顾（5.1-5.7）]]></title>
+        <title type="html"><![CDATA[【故障补牢】贪吃的 Bing 爬虫，限量供应的应对措施]]></title>
         <id>https://www.cnblogs.com/cmt/archive/2023/05.html</id>
         <link href="https://www.cnblogs.com/cmt/archive/2023/05.html"/>
         <updated>2023-05-02T06:25:08.070Z</updated>
-        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17380977">
+        <content type="html"><![CDATA[<div class="c_b_p_desc" id="postlist_description_17383699">
 摘要：            
-热点随笔： ·&nbsp;园子的现代化建设-复活：沉睡2年多的新闻评论功能重新开放&nbsp;(博客园团队)·&nbsp;消息推送平台终于要发布啦！&nbsp;(Java3y)·&nbsp;是时候，升级你的 Windows 了「GitHub 热点速览」&nbsp;(削微寒)·&nbsp;可以，很6！微信这波改造，一刀斩断了一条“灰色”业务线。&nbsp;(why技术)·&nbsp;C#处        <a href="https://www.cnblogs.com/cmt/p/17380977.html" class="c_b_p_desc_readmore">阅读全文</a>
+相对于【故障公告】，【故障补牢】分享的是园子在发生故障后采取的亡羊补牢措施。在上次被微软 Bing 爬宕机后，我们采取了2个应对措施，然后解除了对 Bing 爬虫的屏蔽。措施1：限流——采用滑动窗口进行限流。措施2：隔离——专用 pod 限制计算资源、专用负载均衡限制带宽        <a href="https://www.cnblogs.com/cmt/p/17383699.html" class="c_b_p_desc_readmore">阅读全文</a>
     </div>]]></content>
     </entry>
     <entry>
