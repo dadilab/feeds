@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codenews.cc</id>
     <title>codenews 首页推荐</title>
-    <updated>2023-05-15T18:22:18.335Z</updated>
+    <updated>2023-05-16T01:06:43.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://codenews.cc/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<a href="/view/166251">基于vue3.x + typescript + vite + koa + mysql开发的前后端分离图床系统</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPTCache：为 LLM 查询创建语义缓存的库]]></title>
-        <id>https://codenews.cc/view/166249</id>
-        <link href="https://codenews.cc/view/166249"/>
-        <updated>2023-05-13T12:35:39.784Z</updated>
-        <content type="html"><![CDATA[<a href="/view/166249">GPTCache：为 LLM 查询创建语义缓存的库</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[体验 ChatGPT，不需要设置 key，更加便捷！好用！]]></title>
         <id>https://codenews.cc/view/9849</id>
         <link href="https://codenews.cc/view/9849"/>
         <updated>2023-04-20T14:53:51.411Z</updated>
         <content type="html"><![CDATA[<a href="/view/9849">体验 ChatGPT，不需要设置 key，更加便捷！好用！</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPTCache：为 LLM 查询创建语义缓存的库]]></title>
+        <id>https://codenews.cc/view/166249</id>
+        <link href="https://codenews.cc/view/166249"/>
+        <updated>2023-05-13T12:35:39.784Z</updated>
+        <content type="html"><![CDATA[<a href="/view/166249">GPTCache：为 LLM 查询创建语义缓存的库</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[社区上线了ChatGPT，可以问ChatGPT一些有趣的问题，或许能得到意想不到的答案]]></title>
