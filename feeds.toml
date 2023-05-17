@@ -23,41 +23,9 @@ contentSelector = ".zwxl-article"
 dateSelector = "ul.tab-item:nth-child(3) > li:nth-child(1) > span:nth-child(2)"
 dateFormat = "yyyy-MM-dd"
 
-[cnblogs_cmt]
-title = "博客园官方博客"
-url = "https://www.cnblogs.com/cmt/"
-entrySelector = "#mainContent>.forFlow>.day"
-titleSelector = ".postTitle"
-linkSelector = ".dayTitle>a"
-contentSelector = ".postCon"
-dateSelector = ".meta-data label.labels"
-dateFormat = "yyyy-MM-dd hh:mm:ss"
-
-[163-fun-moment]
-title = "网易 轻松一刻"
-url = "https://www.163.com/dy/media/T1348654628034.html"
-entrySelector = "li.js-item.item"
-titleSelector = "a.title"
-linkSelector = "a.title"
-contentSelector = "a.img > img"
-
-[163-news-domestic]
-title = "网易 国内新闻"
-url = "https://m.163.com/touch/news/sub/domestic"
-entrySelector = "ul.widget-flowList > li"
-titleSelector = "a h4"
-linkSelector = "a"
-
 [52pojie-today]
 title = "吾爱破解 今日热帖"
 url = "https://www.52pojie.cn/misc.php?mod=ranklist&type=thread&view=replies&orderby=today"
 entrySelector = "td.icn + th"
-titleSelector = "a"
-linkSelector = "a"
-
-[codenews]
-title = "codenews 首页推荐"
-url = "https://codenews.cc"
-entrySelector = "div.media-heading"
 titleSelector = "a"
 linkSelector = "a"
