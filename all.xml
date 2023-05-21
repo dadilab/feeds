@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dadilab.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-20T12:20:28.314Z</updated>
+    <updated>2023-05-21T02:50:11.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[重庆川仪软件有限公司2023年公开招聘公告 (重庆市公考雷达)]]></title>
@@ -19,7 +19,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/1455640" target="_blank" title="重庆川仪软件有限公司2023年公开招聘公告">重庆川仪软件有限公司2023年公开招聘公告</a>
                                 </h5>
-                                <time class=" time-red ">11小时前</time>
+                                <time class="">2023-05-20</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -28,7 +28,7 @@
                                     
                                     <a href="https://www.gongkaoleida.com/article/1455422" target="_blank" title="重庆清智健医人工智能科技研究院招聘简章">重庆清智健医人工智能科技研究院招聘简章</a>
                                 </h5>
-                                <time class=" time-red ">24小时前</time>
+                                <time class="">2023-05-19</time>
                             </li>
                                                     <li>
                                 <h5>
@@ -309,9 +309,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (重庆市人社局-事业单位公开招聘)]]></title>
-        <id>https://dadilab.github.io/feeds/all.xml</id>
-        <link href="https://dadilab.github.io/feeds/all.xml"/>
-        <updated>2023-05-20T12:20:18.766Z</updated>
+        <id>https://rlsbj.cq.gov.cn/zwxx_182/sydw/202305/t20230518_11976321.html</id>
+        <link href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202305/t20230518_11976321.html"/>
+        <updated>2023-05-21T02:50:10.606Z</updated>
         <content type="html"><![CDATA[<li class="clearfix"><a href="./202305/t20230518_11976321.html" title="重庆工程职业技术学院2023年上半年公开招聘事业单位工作人员公告" target="_blank">重庆工程职业技术学院2023年上半年公开招聘事业单位工作人员公告</a><span>2023-05-18</span> </li>
 			
 			<li class="clearfix"><a href="./202305/t20230518_11976318.html" title="重庆社会科学院2023年第二季度考核招聘事业单位工作人员公告" target="_blank">重庆社会科学院2023年第二季度考核招聘事业单位工作人员公告</a><span>2023-05-18</span> </li>
@@ -323,115 +323,48 @@
 			<li class="clearfix"><a href="./202305/t20230516_11969881.html" title="重庆市北碚区教育事业单位面向2023届教育部直属师范大学公费师范生考核招聘工作人员公告" target="_blank">重庆市北碚区教育事业单位面向2023届教育部直属师范大学公费师范生考核招聘工作人员公告</a><span>2023-05-16</span> </li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (吾爱破解 今日热帖)]]></title>
-        <id>https://dadilab.github.io/feeds/all.xml</id>
-        <link href="https://dadilab.github.io/feeds/all.xml"/>
-        <updated>2023-05-20T12:20:27.160Z</updated>
-        <content type="html"><![CDATA[主题]]></content>
+        <title type="html"><![CDATA[undefined (重庆市人社局-事业单位公开招聘)]]></title>
+        <id>https://rlsbj.cq.gov.cn/zwxx_182/sydw/202305/t20230516_11969880.html</id>
+        <link href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202305/t20230516_11969880.html"/>
+        <updated>2023-05-21T02:50:10.611Z</updated>
+        <content type="html"><![CDATA[<li class="clearfix"><a href="./202305/t20230516_11969880.html" title="重庆市江津区教育事业单位面向2023届教育部直属师范大学公费师范生考核招聘工作人员公告" target="_blank">重庆市江津区教育事业单位面向2023届教育部直属师范大学公费师范生考核招聘工作人员公告</a><span>2023-05-16</span> </li>
+			
+			<li class="clearfix"><a href="./202305/t20230516_11969879.html" title="重庆市南川区教育事业单位面向2023届教育部直属师范大学公费师范生考核招聘工作人员公告" target="_blank">重庆市南川区教育事业单位面向2023届教育部直属师范大学公费师范生考核招聘工作人员公告</a><span>2023-05-16</span> </li>
+			
+			<li class="clearfix"><a href="./202305/t20230516_11969878.html" title="重庆市潼南区教育事业单位面向2023届教育部直属师范大学公费师范生考核招聘工作人员公告" target="_blank">重庆市潼南区教育事业单位面向2023届教育部直属师范大学公费师范生考核招聘工作人员公告</a><span>2023-05-16</span> </li>
+			
+			<li class="clearfix"><a href="./202305/t20230516_11969877.html" title="重庆市武隆区教育事业单位面向2023届教育部直属师范大学公费师范生考核招聘工作人员公告" target="_blank">重庆市武隆区教育事业单位面向2023届教育部直属师范大学公费师范生考核招聘工作人员公告</a><span>2023-05-16</span> </li>
+			
+			<li class="clearfix"><a href="./202305/t20230516_11969865.html" title="西部科学城重庆高新区教育事业单位2023年第二季度考核招聘紧缺高层次人才公告" target="_blank">西部科学城重庆高新区教育事业单位2023年第二季度考核招聘紧缺高层次人才公告</a><span>2023-05-16</span> </li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[系统优化清理工具 Optimizer 15.3单文件版 (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787519-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787519-1-1.html"/>
-        <updated>2023-05-20T06:16:35.847Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787519-1-1.html" target="_blank">系统优化清理工具 Optimizer 15.3单文件版</a>]]></content>
+        <title type="html"><![CDATA[undefined (重庆市人社局-事业单位公开招聘)]]></title>
+        <id>https://rlsbj.cq.gov.cn/zwxx_182/sydw/202305/t20230515_11966280.html</id>
+        <link href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202305/t20230515_11966280.html"/>
+        <updated>2023-05-21T02:50:10.614Z</updated>
+        <content type="html"><![CDATA[<li class="clearfix"><a href="./202305/t20230515_11966280.html" title="重庆市奉节县卫生事业单位2023年考核招聘紧缺高层次人才公告" target="_blank">重庆市奉节县卫生事业单位2023年考核招聘紧缺高层次人才公告</a><span>2023-05-15</span> </li>
+			
+			<li class="clearfix"><a href="./202305/t20230515_11966073.html" title="两江新区教育事业单位2023年第二季度公开遴选工作人员公告" target="_blank">两江新区教育事业单位2023年第二季度公开遴选工作人员公告</a><span>2023-05-15</span> </li>
+			
+			<li class="clearfix"><a href="./202305/t20230515_11966066.html" title="两江新区2023年第二季度公开招聘教育事业单位工作人员公告" target="_blank">两江新区2023年第二季度公开招聘教育事业单位工作人员公告</a><span>2023-05-15</span> </li>
+			
+			<li class="clearfix"><a href="./202305/t20230515_11966062.html" title="四川美术学院2023年公开招聘工作人员公告" target="_blank">四川美术学院2023年公开招聘工作人员公告</a><span>2023-05-15</span> </li>
+			
+			<li class="clearfix"><a href="./202305/t20230515_11965709.html" title="重庆市武隆区事业单位2023年上半年考核招聘工作人员公告" target="_blank">重庆市武隆区事业单位2023年上半年考核招聘工作人员公告</a><span>2023-05-15</span> </li>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[经典音乐播放器Winamp 5.92 Build 10042便携版 (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787544-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787544-1-1.html"/>
-        <updated>2023-05-20T06:16:35.855Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787544-1-1.html" target="_blank">经典音乐播放器Winamp 5.92 Build 10042便携版</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[极域破解v1.0 (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787592-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787592-1-1.html"/>
-        <updated>2023-05-20T06:16:35.855Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787592-1-1.html" target="_blank">极域破解v1.0</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UEFI Tool (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787537-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787537-1-1.html"/>
-        <updated>2023-05-20T06:16:35.855Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787537-1-1.html" target="_blank">UEFI Tool</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[520来了，自己写了一个表白软件 (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787598-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787598-1-1.html"/>
-        <updated>2023-05-20T06:16:35.856Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787598-1-1.html" target="_blank">520来了，自己写了一个表白软件</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里云盘 v4.6.1 | 好友传输支持任意格式 (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787692-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787692-1-1.html"/>
-        <updated>2023-05-20T06:16:35.859Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787692-1-1.html" target="_blank">阿里云盘 v4.6.1 | 好友传输支持任意格式</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[小米 米家摄像头PC电脑版1.7.9 (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787475-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787475-1-1.html"/>
-        <updated>2023-05-20T06:16:35.860Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787475-1-1.html" target="_blank">小米 米家摄像头PC电脑版1.7.9</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[玩客云Linux下载m3u8网页视频 (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787601-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787601-1-1.html"/>
-        <updated>2023-05-20T06:16:35.873Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787601-1-1.html" target="_blank">玩客云Linux下载m3u8网页视频</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《安卓逆向这档事》十、不是我说，有了IDA还要什么女朋友？ (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787667-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787667-1-1.html"/>
-        <updated>2023-05-20T06:16:35.873Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787667-1-1.html" target="_blank">《安卓逆向这档事》十、不是我说，有了IDA还要什么女朋友？</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[更好的B站第三方客户端-AnimePipe (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787648-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787648-1-1.html"/>
-        <updated>2023-05-20T06:16:35.873Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787648-1-1.html" target="_blank">更好的B站第三方客户端-AnimePipe</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[某壹帆开屏广告和倍速播放 (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787472-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787472-1-1.html"/>
-        <updated>2023-05-20T06:16:35.873Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787472-1-1.html" target="_blank">某壹帆开屏广告和倍速播放</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[百度云转阿里云盘，谢谢大佬【23.3】 (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787738-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787738-1-1.html"/>
-        <updated>2023-05-20T06:16:35.881Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787738-1-1.html" target="_blank">百度云转阿里云盘，谢谢大佬【23.3】</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[采用USRP SDR和URH进行无线开关发射的信号解调和协议数据包解密 (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787578-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787578-1-1.html"/>
-        <updated>2023-05-20T06:16:35.881Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787578-1-1.html" target="_blank">采用USRP SDR和URH进行无线开关发射的信号解调和协议数据包解密</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我也来写一个表白小软件（源码+程序） (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787732-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787732-1-1.html"/>
-        <updated>2023-05-20T06:16:35.881Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787732-1-1.html" target="_blank">我也来写一个表白小软件（源码+程序）</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硬盘数据恢复 (吾爱破解 今日热帖)]]></title>
-        <id>https://www.52pojie.cn/thread-1787495-1-1.html</id>
-        <link href="https://www.52pojie.cn/thread-1787495-1-1.html"/>
-        <updated>2023-05-20T06:16:35.881Z</updated>
-        <content type="html"><![CDATA[<a href="thread-1787495-1-1.html" target="_blank">硬盘数据恢复</a>]]></content>
+        <title type="html"><![CDATA[undefined (重庆市人社局-事业单位公开招聘)]]></title>
+        <id>https://rlsbj.cq.gov.cn/zwxx_182/sydw/202305/t20230515_11965277.html</id>
+        <link href="https://rlsbj.cq.gov.cn/zwxx_182/sydw/202305/t20230515_11965277.html"/>
+        <updated>2023-05-21T02:50:10.616Z</updated>
+        <content type="html"><![CDATA[<li class="clearfix"><a href="./202305/t20230515_11965277.html" title="重庆市綦江区事业单位2023年上半年公开招聘工作人员公告" target="_blank">重庆市綦江区事业单位2023年上半年公开招聘工作人员公告</a><span>2023-05-15</span> </li>
+			
+			<li class="clearfix"><a href="./202305/t20230515_11964293.html" title="重庆市永川区教育事业单位面向2023届公费师范生考核招聘工作人员公告" target="_blank">重庆市永川区教育事业单位面向2023届公费师范生考核招聘工作人员公告</a><span>2023-05-15</span> </li>
+			
+			<li class="clearfix"><a href="./202305/t20230512_11961850.html" title="重庆市大足区教育事业单位面向2023届教育部直属师范大学公费师范生考核招聘工作人员公告" target="_blank">重庆市大足区教育事业单位面向2023届教育部直属师范大学公费师范生考核招聘工作人员公告</a><span>2023-05-12</span> </li>
+			
+			<li class="clearfix"><a href="./202305/t20230512_11961154.html" title="重庆市丰都县教育事业单位面向2023届教育部直属师范大学公费师范生考核招聘工作人员公告" target="_blank">重庆市丰都县教育事业单位面向2023届教育部直属师范大学公费师范生考核招聘工作人员公告</a><span>2023-05-12</span> </li>
+			
+			<li class="clearfix"><a href="./202305/t20230512_11961149.html" title="重庆市黔江区教育事业单位面向2023届公费师范生考核招聘工作人员公告" target="_blank">重庆市黔江区教育事业单位面向2023届公费师范生考核招聘工作人员公告</a><span>2023-05-12</span> </li>]]></content>
     </entry>
 </feed>
