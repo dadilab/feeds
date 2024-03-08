@@ -22,3 +22,18 @@ linkSelector = "ul.tab-item > li > a"
 contentSelector = ".zwxl-article"
 dateSelector = "ul.tab-item > li > span"
 dateFormat = "yyyy-MM-dd"
+
+[163-fun-moment]
+title = "网易 轻松一刻"
+url = "https://www.163.com/dy/media/T1348654628034.html"
+entrySelector = "li.js-item.item"
+titleSelector = "a.title"
+linkSelector = "a.title"
+contentSelector = "a.img > img"
+
+[163-news-domestic]
+title = "网易 国内新闻"
+url = "https://m.163.com/touch/news/sub/domestic"
+entrySelector = "ul.widget-flowList > li"
+titleSelector = "a h4"
+linkSelector = "a"
