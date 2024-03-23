@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-03-23T06:19:24.451Z</updated>
+    <updated>2024-03-23T12:22:40.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[新闻整整整：男人经常做家务，有利身体健康]]></title>
+        <id>https://www.163.com/news/article/ITVNODLP000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/ITVNODLP000181BR.html?spss=dy_author"/>
+        <updated>2024-03-23T12:22:19.643Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：哥哥和嫂子离婚了，弟弟能娶吗？]]></title>
         <id>https://www.163.com/news/article/ITTLEHJR000181BR.html?spss=dy_author</id>
@@ -678,11 +684,5 @@
         <id>https://www.163.com/news/article/INI1A04R000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/INI1A04R000181BT.html?spss=dy_author"/>
         <updated>2024-03-08T13:15:24.269Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻:麻辣烫106元一碗，原料到底贵在哪呢？]]></title>
-        <id>https://www.163.com/news/article/INFHHQ51000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/INFHHQ51000181BR.html?spss=dy_author"/>
-        <updated>2024-03-08T13:15:24.270Z</updated>
     </entry>
 </feed>
