@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-03-29T06:16:14.588Z</updated>
+    <updated>2024-03-29T12:22:10.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一秒：再见了妈妈，今夜我就要远航]]></title>
+        <id>https://www.163.com/news/article/IUFAS2JO000181BT.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/IUFAS2JO000181BT.html?spss=dy_author"/>
+        <updated>2024-03-29T12:21:43.809Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：满园春色关不住，一坨红杏出墙来]]></title>
         <id>https://www.163.com/news/article/IUCV5HLV000181BR.html?spss=dy_author</id>
@@ -686,11 +692,5 @@
         <id>https://www.163.com/news/article/IO41SKR3000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/IO41SKR3000181BT.html?spss=dy_author"/>
         <updated>2024-03-08T13:15:24.252Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：月薪6K每天只要吃喝就行的工作，你会应聘吗？]]></title>
-        <id>https://www.163.com/news/article/IO1V3T3B000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/IO1V3T3B000181BR.html?spss=dy_author"/>
-        <updated>2024-03-08T13:15:24.254Z</updated>
     </entry>
 </feed>
