@@ -3,7 +3,7 @@ timeout = 300
 #waitUntil = "load"
 waitUntil = "networkidle"
 
-[cq-gongkaoleida-zkgg]
+[cqgkld]
 title = "重庆市公考雷达"
 url = "https://www.gongkaoleida.com/area/2460-2461-0-2,3,59,78-124"
 entrySelector = "body > section > div.mdn-content-box.clearfix > div > div"
@@ -13,17 +13,27 @@ contentSelector = ".article-detail"
 dateSelector = ".date"
 dateFormat = "yyyy-MM-dd hh:mm:ss"
 
-[cq-rlsbj-zkgg]
+[cqsydw]
 title = "重庆市人社局-事业单位公开招聘"
 url = "https://rlsbj.cq.gov.cn/zwxx_182/sydw/sydwgkzp2024/"
-entrySelector = "body > div.page-list.clearfix > ul"
-titleSelector = "body > div.page-list.clearfix > ul > li > a"
-linkSelector = "ul.tab-item > li > a"
+entrySelector = "body > div.page-list.clearfix > div.p-rt.rt > ul > li"
+titleSelector = "body > div.page-list.clearfix > div.p-rt.rt > ul > li > a"
+linkSelector = "a"
 contentSelector = ".zwxl-article"
-dateSelector = "ul.tab-item > li > span"
+dateSelector = "body > div.page-list.clearfix > div.p-rt.rt > ul > li > span"
 dateFormat = "yyyy-MM-dd"
 
-[163-fun-moment]
+[cqgqzp]
+title = "重庆市国有资产监督管理委员会"
+url = "https://gzw.cq.gov.cn/gqzp/"
+entrySelector = "body > div.page-list.clearfix > ul > li"
+titleSelector = "body > div.page-list.clearfix > ul > li > a"
+linkSelector = "a"
+contentSelector = ".zwxl-article"
+dateSelector = "body > div.page-list.clearfix > ul > li > span"
+dateFormat = "yyyy-MM-dd"
+
+[163kxyk]
 title = "网易 轻松一刻"
 url = "https://www.163.com/dy/media/T1348654628034.html"
 entrySelector = "li.js-item.item"
@@ -31,7 +41,7 @@ titleSelector = "a.title"
 linkSelector = "a.title"
 contentSelector = "a.img > img"
 
-[163-news-domestic]
+[163news]
 title = "网易 国内新闻"
 url = "https://m.163.com/touch/news/sub/domestic"
 entrySelector = "ul.widget-flowList > li"
