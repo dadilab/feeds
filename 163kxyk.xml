@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-05-10T06:19:19.151Z</updated>
+    <updated>2024-05-10T12:26:09.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：问君能有几多愁，恰似明天调休白了头]]></title>
+        <id>https://www.163.com/news/article/J1RO6HI2000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/J1RO6HI2000181BR.html?spss=dy_author"/>
+        <updated>2024-05-10T12:25:28.599Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻松一秒：到底是谁发明的调休！到底是谁！]]></title>
+        <id>https://www.163.com/news/article/J1RG2H65000181BT.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/J1RG2H65000181BT.html?spss=dy_author"/>
+        <updated>2024-05-10T12:25:28.600Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻语音版：喝咖啡可以，但打工人别喝咖啡了]]></title>
+        <id>https://www.163.com/news/article/J1RFDQMM000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/J1RFDQMM000181BR.html?spss=dy_author"/>
+        <updated>2024-05-10T12:25:28.600Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：28万只享受擦边服务，是不是得退钱？]]></title>
         <id>https://www.163.com/news/article/J1P5E03H000181BR.html?spss=dy_author</id>
@@ -706,23 +724,5 @@
         <id>https://www.163.com/news/article/ISF750TP000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/ISF750TP000181BT.html?spss=dy_author"/>
         <updated>2024-04-22T02:07:47.819Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：哪一个更有魅力呢，太难以抉择了！]]></title>
-        <id>https://www.163.com/news/article/IS7K1O0H000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/IS7K1O0H000181BR.html?spss=dy_author"/>
-        <updated>2024-04-22T02:07:47.821Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：吹牛皮不交税，但容易伤身]]></title>
-        <id>https://www.163.com/news/article/IS4QE9AC000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/IS4QE9AC000181BR.html?spss=dy_author"/>
-        <updated>2024-04-22T02:07:47.822Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻:好新颖的赛道,这就是AI取代不了人类的原因]]></title>
-        <id>https://www.163.com/news/article/IS2FIAL3000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/IS2FIAL3000181BR.html?spss=dy_author"/>
-        <updated>2024-04-22T02:07:47.823Z</updated>
     </entry>
 </feed>
