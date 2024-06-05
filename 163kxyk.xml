@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-06-05T06:23:46.166Z</updated>
+    <updated>2024-06-05T12:28:59.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：你的工资减掉8000还剩多少？]]></title>
+        <id>https://www.163.com/news/article/J3UN7TUE000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/J3UN7TUE000181BR.html?spss=dy_author"/>
+        <updated>2024-06-05T12:28:23.259Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻松一秒：难怪那么多妖怪想吃唐僧肉]]></title>
+        <id>https://www.163.com/news/article/J3U7DO9E000181BT.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/J3U7DO9E000181BT.html?spss=dy_author"/>
+        <updated>2024-06-05T12:28:23.260Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：老婆会飞身十字固，我才能教训她？]]></title>
         <id>https://www.163.com/news/article/J3S4F1HK000181BR.html?spss=dy_author</id>
@@ -640,17 +652,5 @@
         <id>https://www.163.com/news/article/IU51P6FO000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/IU51P6FO000181BT.html?spss=dy_author"/>
         <updated>2024-04-22T02:07:47.793Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新闻整整整：男人经常做家务，有利身体健康]]></title>
-        <id>https://www.163.com/news/article/ITVNODLP000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/ITVNODLP000181BR.html?spss=dy_author"/>
-        <updated>2024-04-22T02:07:47.795Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：哥哥和嫂子离婚了，弟弟能娶吗？]]></title>
-        <id>https://www.163.com/news/article/ITTLEHJR000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/ITTLEHJR000181BR.html?spss=dy_author"/>
-        <updated>2024-04-22T02:07:47.796Z</updated>
     </entry>
 </feed>
