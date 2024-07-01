@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-07-01T06:24:05.826Z</updated>
+    <updated>2024-07-01T12:30:35.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一秒：博起？怎么会有人取这种名字啊？]]></title>
+        <id>https://www.163.com/news/article/J61C340A000181BT.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/J61C340A000181BT.html?spss=dy_author"/>
+        <updated>2024-07-01T12:30:12.659Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：中国人这关键的一生，每阶段都是拼的年纪]]></title>
         <id>https://www.163.com/news/article/J5SOCA18000181BR.html?spss=dy_author</id>
@@ -196,12 +202,6 @@
         <id>https://www.163.com/news/article/J4997VB9000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/J4997VB9000181BT.html?spss=dy_author"/>
         <updated>2024-06-09T18:18:59.706Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[据说这是男人最喜欢的体型，你喜欢吗？]]></title>
-        <id>https://www.163.com/news/article/J48OK868000181BT.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/J48OK868000181BT.html?spss=dy_author"/>
-        <updated>2024-06-09T12:26:27.576Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[轻松一秒：这样健身，效果会不会更好？]]></title>
