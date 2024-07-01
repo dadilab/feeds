@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-07-01T12:30:35.395Z</updated>
+    <updated>2024-07-01T18:21:11.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：两个7、80岁的老头，为争一份工作拼了]]></title>
+        <id>https://www.163.com/news/article/J61PEVAE000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/J61PEVAE000181BR.html?spss=dy_author"/>
+        <updated>2024-07-01T18:20:47.019Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一秒：博起？怎么会有人取这种名字啊？]]></title>
         <id>https://www.163.com/news/article/J61C340A000181BT.html?spss=dy_author</id>
@@ -622,11 +628,5 @@
         <id>https://www.163.com/news/article/J0D3IPQL000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/J0D3IPQL000181BT.html?spss=dy_author"/>
         <updated>2024-04-22T12:25:13.270Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：四个月赚300万，一定付出了很多吧？]]></title>
-        <id>https://www.163.com/news/article/J05GL2L1000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/J05GL2L1000181BR.html?spss=dy_author"/>
-        <updated>2024-04-22T02:07:47.726Z</updated>
     </entry>
 </feed>
