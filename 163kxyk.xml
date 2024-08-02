@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-08-02T06:25:23.085Z</updated>
+    <updated>2024-08-02T12:30:42.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一秒：虎背纤腰在这一刻具象化了]]></title>
+        <id>https://www.163.com/news/article/J8JRIMPA000181BT.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/J8JRIMPA000181BT.html?spss=dy_author"/>
+        <updated>2024-08-02T12:30:15.355Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：为争"先有鸡还是先有蛋",他俩往死里干]]></title>
         <id>https://www.163.com/news/article/J8HKNTK3000181BR.html?spss=dy_author</id>
@@ -613,12 +619,6 @@
         <title type="html"><![CDATA[轻松一刻：大师也只看素人罢了]]></title>
         <id>https://www.163.com/news/article/J2VPNNLD000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/J2VPNNLD000181BR.html?spss=dy_author"/>
-        <updated>2024-05-24T12:24:25.957Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻语音版：让你切手指，你切我舌头干嘛？]]></title>
-        <id>https://www.163.com/news/article/J2VBOTEA000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/J2VBOTEA000181BR.html?spss=dy_author"/>
         <updated>2024-05-24T12:24:25.957Z</updated>
     </entry>
 </feed>
