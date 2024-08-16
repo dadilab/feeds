@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-08-16T12:30:53.865Z</updated>
+    <updated>2024-08-16T18:26:18.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：如果是你，你会怎么选？]]></title>
+        <id>https://www.163.com/news/article/J9O93BAQ000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/J9O93BAQ000181BR.html?spss=dy_author"/>
+        <updated>2024-08-16T18:23:09.016Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一秒：哥们审美还是很专一的]]></title>
         <id>https://www.163.com/news/article/J9NPMM8U000181BT.html?spss=dy_author</id>
@@ -606,11 +612,5 @@
         <id>https://www.163.com/news/article/J4997VB9000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/J4997VB9000181BT.html?spss=dy_author"/>
         <updated>2024-06-09T18:18:59.706Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一秒：这样健身，效果会不会更好？]]></title>
-        <id>https://www.163.com/news/article/J45H1EGQ000181BT.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/J45H1EGQ000181BT.html?spss=dy_author"/>
-        <updated>2024-06-08T06:18:07.611Z</updated>
     </entry>
 </feed>
