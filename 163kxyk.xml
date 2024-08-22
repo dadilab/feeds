@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-08-22T12:31:27.011Z</updated>
+    <updated>2024-08-22T18:23:31.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：佛说让我尝尽世间苦楚，所以我们来喝咖啡]]></title>
+        <id>https://www.163.com/news/article/JA7QE8LS000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JA7QE8LS000181BR.html?spss=dy_author"/>
+        <updated>2024-08-22T18:23:02.142Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一秒：说几不说把，文明你我他]]></title>
         <id>https://www.163.com/news/article/JA78QQ6K000181BT.html?spss=dy_author</id>
@@ -606,11 +612,5 @@
         <id>https://www.163.com/news/article/J4L12RPS000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/J4L12RPS000181BT.html?spss=dy_author"/>
         <updated>2024-06-14T06:24:06.964Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：敢问阁下，你开车最高到达哪个境界了？]]></title>
-        <id>https://www.163.com/news/article/J4JAN2FD000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/J4JAN2FD000181BR.html?spss=dy_author"/>
-        <updated>2024-06-13T12:28:21.682Z</updated>
     </entry>
 </feed>
