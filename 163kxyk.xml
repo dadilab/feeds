@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-08-23T12:30:51.511Z</updated>
+    <updated>2024-08-23T18:23:14.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：世界最宽女性舌头，一次能舔4根棒棒糖]]></title>
+        <id>https://www.163.com/news/article/JAADS5V6000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JAADS5V6000181BR.html?spss=dy_author"/>
+        <updated>2024-08-23T18:22:48.243Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一秒：这个玩偶夹出来可以带回家吗？]]></title>
         <id>https://www.163.com/news/article/JA9SCS2V000181BT.html?spss=dy_author</id>
@@ -606,11 +612,5 @@
         <id>https://www.163.com/news/article/J4OO343G000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/J4OO343G000181BR.html?spss=dy_author"/>
         <updated>2024-06-15T18:21:13.558Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一秒：为什么美女们 都喜欢脖子上套个带子？]]></title>
-        <id>https://www.163.com/news/article/J4OEQS0F000181BT.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/J4OEQS0F000181BT.html?spss=dy_author"/>
-        <updated>2024-06-15T12:24:24.044Z</updated>
     </entry>
 </feed>
