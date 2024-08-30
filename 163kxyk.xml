@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-08-30T01:08:47.680Z</updated>
+    <updated>2024-08-30T06:28:39.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻语音版：我长得漂亮，可以不排队吗？]]></title>
+        <id>https://www.163.com/news/article/JAR9P0F5000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JAR9P0F5000181BR.html?spss=dy_author"/>
+        <updated>2024-08-30T06:26:31.287Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：终于理解老太太看见特价鸡蛋的感觉了]]></title>
         <id>https://www.163.com/news/article/JAPHLSJI000181BR.html?spss=dy_author</id>
@@ -606,11 +612,5 @@
         <id>https://www.163.com/news/article/J5804DFL000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/J5804DFL000181BR.html?spss=dy_author"/>
         <updated>2024-06-21T12:28:10.611Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：太太，你这样容易重心不稳啊]]></title>
-        <id>https://www.163.com/news/article/J55CN4JO000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/J55CN4JO000181BR.html?spss=dy_author"/>
-        <updated>2024-06-20T12:28:21.315Z</updated>
     </entry>
 </feed>
