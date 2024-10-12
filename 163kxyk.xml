@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-10-12T06:25:17.365Z</updated>
+    <updated>2024-10-12T12:31:55.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一秒：一上班苹果手表就变成这个样子了]]></title>
+        <id>https://www.163.com/news/article/JEAN6G7A000181BT.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JEAN6G7A000181BT.html?spss=dy_author"/>
+        <updated>2024-10-12T12:31:04.877Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：别人花前月下，我在花下个月的钱]]></title>
         <id>https://www.163.com/news/article/JE8ATCBI000181BR.html?spss=dy_author</id>
@@ -598,11 +604,5 @@
         <id>https://www.163.com/news/article/J8H6UB0P000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/J8H6UB0P000181BT.html?spss=dy_author"/>
         <updated>2024-08-01T12:30:19.931Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：我问大师什么鹤，大师说：迈巴赫]]></title>
-        <id>https://www.163.com/news/article/J8F2LBSF000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/J8F2LBSF000181BR.html?spss=dy_author"/>
-        <updated>2024-07-31T18:22:36.164Z</updated>
     </entry>
 </feed>
