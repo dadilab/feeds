@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-10-16T06:25:59.435Z</updated>
+    <updated>2024-10-16T12:34:49.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一秒：我要把这钱拿走，算不算入室抢劫?]]></title>
+        <id>https://www.163.com/news/article/JEL0Q7BU000181BT.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JEL0Q7BU000181BT.html?spss=dy_author"/>
+        <updated>2024-10-16T12:34:15.847Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻语音版：投资理财和股票，多是骗子下的套]]></title>
+        <id>https://www.163.com/news/article/JEKNV9M7000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JEKNV9M7000181BR.html?spss=dy_author"/>
+        <updated>2024-10-16T12:34:15.847Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：鱼被凌迟叫鱼生，人被凌迟就是人生]]></title>
         <id>https://www.163.com/news/article/JEIGT25O000181BR.html?spss=dy_author</id>
@@ -592,17 +604,5 @@
         <id>https://www.163.com/news/article/J90JHAAI000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/J90JHAAI000181BT.html?spss=dy_author"/>
         <updated>2024-08-07T12:32:19.404Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：因丁丁太过突出，这位猛男痛失奥运奖牌]]></title>
-        <id>https://www.163.com/news/article/J8UGI8M1000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/J8UGI8M1000181BR.html?spss=dy_author"/>
-        <updated>2024-08-06T18:24:42.520Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奥运搞笑盘点：他输了比赛，却赢了人生]]></title>
-        <id>https://www.163.com/news/article/J8U169FT000181BT.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/J8U169FT000181BT.html?spss=dy_author"/>
-        <updated>2024-08-06T12:30:13.366Z</updated>
     </entry>
 </feed>
