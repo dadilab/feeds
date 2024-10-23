@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-10-23T12:37:20.121Z</updated>
+    <updated>2024-10-23T18:28:11.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：朋友送了一个枕头，治好了我的失眠]]></title>
+        <id>https://www.163.com/news/article/JF7FTD8D000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JF7FTD8D000181BR.html?spss=dy_author"/>
+        <updated>2024-10-23T18:27:31.128Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：男人搭讪的终点都是馋对方身子]]></title>
         <id>https://www.163.com/news/article/JF4LHIRO000181BR.html?spss=dy_author</id>
@@ -598,11 +604,5 @@
         <id>https://www.163.com/news/article/J9G88LTA000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/J9G88LTA000181BR.html?spss=dy_author"/>
         <updated>2024-10-22T18:28:11.209Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一秒：那一晚，Tom和Jerry都喝醉了]]></title>
-        <id>https://www.163.com/news/article/J9G47OLB000181BT.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/J9G47OLB000181BT.html?spss=dy_author"/>
-        <updated>2024-10-22T18:28:11.210Z</updated>
     </entry>
 </feed>
