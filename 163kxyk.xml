@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2024-11-08T06:27:36.031Z</updated>
+    <updated>2024-11-08T12:36:44.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一秒：从A到D，我只用了一招]]></title>
+        <id>https://www.163.com/news/article/JGG7S302000181BT.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JGG7S302000181BT.html?spss=dy_author"/>
+        <updated>2024-11-08T12:36:13.490Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻语音版：王上加白，懂王变懂皇了]]></title>
+        <id>https://www.163.com/news/article/JGFSTN8E000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JGFSTN8E000181BR.html?spss=dy_author"/>
+        <updated>2024-11-08T12:36:13.490Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：今天立冬，该放下工作等着过年了]]></title>
         <id>https://www.163.com/news/article/JGDKH4K7000181BR.html?spss=dy_author</id>
@@ -592,17 +604,5 @@
         <id>https://www.163.com/news/article/JAMO0859000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/JAMO0859000181BT.html?spss=dy_author"/>
         <updated>2024-10-28T01:18:11.194Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：成年人的世界，绝对没有容易二字]]></title>
-        <id>https://www.163.com/news/article/JAKM3GSF000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/JAKM3GSF000181BR.html?spss=dy_author"/>
-        <updated>2024-10-28T01:18:11.195Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一秒：没点肚子还穿不出这样的效果]]></title>
-        <id>https://www.163.com/news/article/JAK4PH22000181BT.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/JAK4PH22000181BT.html?spss=dy_author"/>
-        <updated>2024-10-28T01:18:11.196Z</updated>
     </entry>
 </feed>
