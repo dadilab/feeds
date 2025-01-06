@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2025-01-06T12:35:42.468Z</updated>
+    <updated>2025-01-06T18:25:42.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：男孩烧纸为生病父亲取暖，真大孝子]]></title>
+        <id>https://www.163.com/news/article/JL8NLSQ2000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JL8NLSQ2000181BR.html?spss=dy_author"/>
+        <updated>2025-01-06T18:25:17.159Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：牛马们该休息了，眼睛都花了]]></title>
         <id>https://www.163.com/news/article/JL0HPPMS000181BR.html?spss=dy_author</id>
@@ -598,11 +604,5 @@
         <id>https://www.163.com/news/article/JF1T8C34000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/JF1T8C34000181BT.html?spss=dy_author"/>
         <updated>2024-10-28T01:18:11.074Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：“三傻”高速抢劫，结果只抢到三箱牛肚]]></title>
-        <id>https://www.163.com/news/article/JEQH8MJP000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/JEQH8MJP000181BR.html?spss=dy_author"/>
-        <updated>2024-10-28T01:18:11.084Z</updated>
     </entry>
 </feed>
