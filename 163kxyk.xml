@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2025-01-13T12:35:16.725Z</updated>
+    <updated>2025-01-13T18:27:04.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：这就是传说中的“道德绑架”吧？]]></title>
+        <id>https://www.163.com/news/article/JLQHDUVR000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JLQHDUVR000181BR.html?spss=dy_author"/>
+        <updated>2025-01-13T18:26:34.723Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：女朋友在床上垫块布是干啥？]]></title>
         <id>https://www.163.com/news/article/JLITBAMO000181BR.html?spss=dy_author</id>
@@ -598,11 +604,5 @@
         <id>https://www.163.com/news/article/JFC0190J000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/JFC0190J000181BR.html?spss=dy_author"/>
         <updated>2024-10-28T01:18:11.066Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：LV柜姐当小三被活捉，买一送三儿？]]></title>
-        <id>https://www.163.com/news/article/JF9LG385000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/JF9LG385000181BR.html?spss=dy_author"/>
-        <updated>2024-10-28T01:18:11.068Z</updated>
     </entry>
 </feed>
