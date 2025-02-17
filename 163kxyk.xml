@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2025-02-17T12:38:24.505Z</updated>
+    <updated>2025-02-17T18:23:36.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：一日之计在于晨，一周之忌在周一]]></title>
+        <id>https://www.163.com/news/article/JOKK38Q5000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JOKK38Q5000181BR.html?spss=dy_author"/>
+        <updated>2025-02-17T18:23:10.427Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：为什么没有敌人节，我倒是有挺多敌人的]]></title>
         <id>https://www.163.com/news/article/JOCN0RBF000181BR.html?spss=dy_author</id>
@@ -598,11 +604,5 @@
         <id>https://www.163.com/news/article/JGFSTN8E000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/JGFSTN8E000181BR.html?spss=dy_author"/>
         <updated>2024-11-08T12:36:13.490Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：今天立冬，该放下工作等着过年了]]></title>
-        <id>https://www.163.com/news/article/JGDKH4K7000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/JGDKH4K7000181BR.html?spss=dy_author"/>
-        <updated>2024-11-07T12:34:04.472Z</updated>
     </entry>
 </feed>
