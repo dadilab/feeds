@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2025-02-24T12:36:51.664Z</updated>
+    <updated>2025-02-24T18:25:07.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一秒:女朋友技术太好,玩不过她怎么办?]]></title>
+        <id>https://www.163.com/news/article/JP6JVJVG000181BT.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JP6JVJVG000181BT.html?spss=dy_author"/>
+        <updated>2025-02-24T18:24:41.869Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：为治疗三高，他竟酒驾去派出所自首]]></title>
         <id>https://www.163.com/news/article/JOUKN9S5000181BR.html?spss=dy_author</id>
@@ -598,11 +604,5 @@
         <id>https://www.163.com/news/article/JGQN7398000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/JGQN7398000181BR.html?spss=dy_author"/>
         <updated>2024-11-12T12:37:02.979Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：还有没有人记得今天是光棍节？]]></title>
-        <id>https://www.163.com/news/article/JGO4TBMF000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/JGO4TBMF000181BR.html?spss=dy_author"/>
-        <updated>2024-11-11T12:35:17.963Z</updated>
     </entry>
 </feed>
