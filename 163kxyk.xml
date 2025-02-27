@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2025-02-27T06:30:53.273Z</updated>
+    <updated>2025-02-27T12:34:29.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：人人都会说谎，最容易的就是“我没事”]]></title>
+        <id>https://www.163.com/news/article/JPE4MAVO000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JPE4MAVO000181BR.html?spss=dy_author"/>
+        <updated>2025-02-27T12:33:47.458Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：这家公司新增"不开心"假，是谁羡慕了?]]></title>
         <id>https://www.163.com/news/article/JPC02KOP000181BR.html?spss=dy_author</id>
@@ -598,11 +604,5 @@
         <id>https://www.163.com/news/article/JGVMHARO000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/JGVMHARO000181BR.html?spss=dy_author"/>
         <updated>2024-11-14T12:38:44.292Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：在外打工，不要看家里监控！]]></title>
-        <id>https://www.163.com/news/article/JGTHK215000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/JGTHK215000181BR.html?spss=dy_author"/>
-        <updated>2024-11-13T18:26:08.574Z</updated>
     </entry>
 </feed>
