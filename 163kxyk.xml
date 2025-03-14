@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2025-03-14T12:36:59.335Z</updated>
+    <updated>2025-03-14T18:26:42.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：Ai代替不了人类，因为人类真的莫名其妙]]></title>
+        <id>https://www.163.com/news/article/JQL00MHC000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JQL00MHC000181BR.html?spss=dy_author"/>
+        <updated>2025-03-14T18:26:16.197Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻语音版:重新定义牙签男,用牙签偷钱的男人]]></title>
         <id>https://www.163.com/news/article/JQKLOCA4000181BR.html?spss=dy_author</id>
@@ -598,11 +604,5 @@
         <id>https://www.163.com/news/article/JHURAA8U000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/JHURAA8U000181BR.html?spss=dy_author"/>
         <updated>2024-11-26T12:37:16.092Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：羡慕ta们，一天有使不完的牛劲！]]></title>
-        <id>https://www.163.com/news/article/JHSFNFTT000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/JHSFNFTT000181BR.html?spss=dy_author"/>
-        <updated>2024-11-25T18:26:07.294Z</updated>
     </entry>
 </feed>
