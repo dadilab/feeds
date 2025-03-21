@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2025-03-21T12:36:18.456Z</updated>
+    <updated>2025-03-21T18:28:57.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：“朝九晚五”以前是用来形容工作辛苦的]]></title>
+        <id>https://www.163.com/news/article/JR71T88O000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/JR71T88O000181BR.html?spss=dy_author"/>
+        <updated>2025-03-21T18:28:35.293Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻语音版:顾客饮料瓶里撒尿,网管一饮而尽!]]></title>
         <id>https://www.163.com/news/article/JR6KGCLH000181BR.html?spss=dy_author</id>
@@ -598,11 +604,5 @@
         <id>https://www.163.com/news/article/JIJE1LM6000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/JIJE1LM6000181BR.html?spss=dy_author"/>
         <updated>2024-12-04T12:37:01.220Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一秒：韩国的军力很强吗？]]></title>
-        <id>https://www.163.com/news/article/JIIGSV95000181BT.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/JIIGSV95000181BT.html?spss=dy_author"/>
-        <updated>2024-12-04T06:26:38.027Z</updated>
     </entry>
 </feed>
