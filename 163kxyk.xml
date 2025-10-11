@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2025-10-11T06:27:30.613Z</updated>
+    <updated>2025-10-11T12:31:50.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：在江西，连纸巾都是辣的]]></title>
+        <id>https://www.163.com/news/article/KBK2V52K000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/KBK2V52K000181BR.html?spss=dy_author"/>
+        <updated>2025-10-11T12:31:10.376Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：穿西式婚纱，跨中式火盆]]></title>
         <id>https://www.163.com/news/article/KBHEQT43000181BR.html?spss=dy_author</id>
@@ -34,12 +40,6 @@
         <id>https://www.163.com/news/article/KANIFF1T000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/KANIFF1T000181BT.html?spss=dy_author"/>
         <updated>2025-09-30T12:51:46.430Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：如果祖国需要，我随时可以进编制当值]]></title>
-        <id>https://www.163.com/news/article/KAL4B762000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/KAL4B762000181BR.html?spss=dy_author"/>
-        <updated>2025-09-29T12:40:15.555Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[轻松一秒：你的中秋福利跑路啦！]]></title>
