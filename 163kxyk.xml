@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2025-10-22T06:46:27.737Z</updated>
+    <updated>2025-10-22T12:41:47.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：你们觉得这种身材很有吸引力吗？]]></title>
+        <id>https://www.163.com/news/article/KCGECQOF000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/KCGECQOF000181BR.html?spss=dy_author"/>
+        <updated>2025-10-22T12:41:18.330Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻松一秒：不错，泡脚泡的是全家桶]]></title>
+        <id>https://www.163.com/news/article/KCG7HM26000181BT.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/KCG7HM26000181BT.html?spss=dy_author"/>
+        <updated>2025-10-22T12:41:18.333Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：有钱人的品味，很难说的！]]></title>
         <id>https://www.163.com/news/article/KCDPQ69R000181BR.html?spss=dy_author</id>
@@ -632,17 +644,5 @@
         <id>https://www.163.com/news/article/K5B4G73F000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/K5B4G73F000181BT.html?spss=dy_author"/>
         <updated>2025-07-25T12:37:48.146Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻语音版：学生变总裁？这惊喜谁扛得住！]]></title>
-        <id>https://www.163.com/news/article/K5B3F3IH000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/K5B3F3IH000181BR.html?spss=dy_author"/>
-        <updated>2025-07-25T12:37:48.146Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一秒：看到这个冰箱贴，我得去一趟新疆了...]]></title>
-        <id>https://www.163.com/news/article/K58GH2SI000181BT.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/K58GH2SI000181BT.html?spss=dy_author"/>
-        <updated>2025-07-24T12:39:11.395Z</updated>
     </entry>
 </feed>
