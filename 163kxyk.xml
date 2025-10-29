@@ -2,9 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2025-10-29T06:32:32.799Z</updated>
+    <updated>2025-10-29T12:40:40.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：提车了，全款拿下，大家恭喜我吧！]]></title>
+        <id>https://www.163.com/news/article/KD2EUDVM000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/KD2EUDVM000181BR.html?spss=dy_author"/>
+        <updated>2025-10-29T12:40:12.102Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻松一秒：俺老孙抽抽就来！]]></title>
+        <id>https://www.163.com/news/article/KD29J8J4000181BT.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/KD29J8J4000181BT.html?spss=dy_author"/>
+        <updated>2025-10-29T12:40:12.102Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：今天的小香风，我追定了！]]></title>
         <id>https://www.163.com/news/article/KCVPEBCQ000181BR.html?spss=dy_author</id>
@@ -632,17 +644,5 @@
         <id>https://www.163.com/news/article/K5T86C35000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/K5T86C35000181BR.html?spss=dy_author"/>
         <updated>2025-08-01T12:40:58.267Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一秒：这年头，猫过的比人好多了...]]></title>
-        <id>https://www.163.com/news/article/K5T4LRCQ000181BT.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/K5T4LRCQ000181BT.html?spss=dy_author"/>
-        <updated>2025-08-01T12:40:58.267Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一秒：终于见到陆家嘴四件套了...]]></title>
-        <id>https://www.163.com/news/article/K5QIM8VQ000181BT.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/K5QIM8VQ000181BT.html?spss=dy_author"/>
-        <updated>2025-07-31T12:37:45.797Z</updated>
     </entry>
 </feed>
