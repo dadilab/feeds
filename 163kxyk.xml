@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2026-01-28T06:39:38.795Z</updated>
+    <updated>2026-01-28T12:50:46.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：我的投资能力如下]]></title>
+        <id>https://www.163.com/news/article/KKCPI9GD000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/KKCPI9GD000181BR.html?spss=dy_author"/>
+        <updated>2026-01-28T12:50:15.407Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：一顿吃10个包子，在南方算能吃吗？]]></title>
         <id>https://www.163.com/news/article/KKA2EN6J000181BR.html?spss=dy_author</id>
@@ -598,11 +604,5 @@
         <id>https://www.163.com/news/article/KA83SC9Q000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/KA83SC9Q000181BT.html?spss=dy_author"/>
         <updated>2025-09-24T12:44:58.175Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：第一次开车，扎啤杯亮了是啥意思？]]></title>
-        <id>https://www.163.com/news/article/KA5SANNK000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/KA5SANNK000181BR.html?spss=dy_author"/>
-        <updated>2025-09-23T12:45:03.066Z</updated>
     </entry>
 </feed>
