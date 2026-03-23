@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2026-03-23T13:02:18.244Z</updated>
+    <updated>2026-03-23T18:55:24.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：你们都没我聪明，我囤了5千块的油卡]]></title>
+        <id>https://www.163.com/news/article/KOO3A58H000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/KOO3A58H000181BR.html?spss=dy_author"/>
+        <updated>2026-03-23T18:54:30.336Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：已经穷到，哪怕别人炫富都看不出来了]]></title>
         <id>https://www.163.com/news/article/KODHKJMQ000181BR.html?spss=dy_author</id>
@@ -598,11 +604,5 @@
         <id>https://www.163.com/news/article/KCLC112B000181BT.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/KCLC112B000181BT.html?spss=dy_author"/>
         <updated>2025-10-24T12:41:34.503Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻语音版：卧薪尝胆是勾践！没苦硬吃是贱狗]]></title>
-        <id>https://www.163.com/news/article/KCL9C9DI000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/KCL9C9DI000181BR.html?spss=dy_author"/>
-        <updated>2025-10-24T12:41:34.509Z</updated>
     </entry>
 </feed>
