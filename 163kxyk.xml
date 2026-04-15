@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2026-04-15T07:31:20.413Z</updated>
+    <updated>2026-04-15T13:19:43.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：大胆一点，还能七辈子无理由退货]]></title>
+        <id>https://www.163.com/news/article/KQJ1QKNQ000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/KQJ1QKNQ000181BR.html?spss=dy_author"/>
+        <updated>2026-04-15T13:19:17.202Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：女同事给我秀了下六块腹肌，结果……]]></title>
         <id>https://www.163.com/news/article/KQGQ2M28000181BR.html?spss=dy_author</id>
@@ -598,11 +604,5 @@
         <id>https://www.163.com/news/article/KDPQ3O5R000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/KDPQ3O5R000181BR.html?spss=dy_author"/>
         <updated>2025-11-07T18:30:08.335Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻语音版：女狱警爱上男囚，短剧都没这炸裂]]></title>
-        <id>https://www.163.com/news/article/KDPDQCQ6000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/KDPDQCQ6000181BR.html?spss=dy_author"/>
-        <updated>2025-11-07T12:37:52.051Z</updated>
     </entry>
 </feed>
