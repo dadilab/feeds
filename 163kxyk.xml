@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2026-04-20T08:08:55.800Z</updated>
+    <updated>2026-04-20T13:27:35.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻：在朋友家里找到了这个，有用吗？]]></title>
+        <id>https://www.163.com/news/article/KQVOSNQP000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/KQVOSNQP000181BR.html?spss=dy_author"/>
+        <updated>2026-04-20T13:27:03.004Z</updated>
+        <content type="html"><![CDATA[<div class="desc">
+                    <h4>
+                      <a href="https://www.163.com/news/article/KQVOSNQP000181BR.html?spss=dy_author" class="title">轻松一刻：在朋友家里找到了这个，有用吗？</a>
+                    </h4>
+                    <div class="tail">
+                      <span class="time">2026-04-20 17:45</span>
+                    </div>
+                  </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：5月6日购买的"穿越回五一前"套餐已生效]]></title>
         <id>https://www.163.com/news/article/KQO5IONQ000181BR.html?spss=dy_author</id>
@@ -598,11 +612,5 @@
         <id>https://www.163.com/news/article/KE8V6UM7000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/KE8V6UM7000181BR.html?spss=dy_author"/>
         <updated>2025-11-13T12:40:53.796Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：你若不想熬夜，只能和手机分房睡]]></title>
-        <id>https://www.163.com/news/article/KE3QE25M000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/KE3QE25M000181BR.html?spss=dy_author"/>
-        <updated>2025-11-11T12:38:43.311Z</updated>
     </entry>
 </feed>
