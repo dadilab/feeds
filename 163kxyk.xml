@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2026-05-09T07:59:22.797Z</updated>
+    <updated>2026-05-09T13:18:03.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一刻:机器人在韩国出家,五戒之一是不过度充电]]></title>
+        <id>https://www.163.com/news/article/KSGV86GD000181BR.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/KSGV86GD000181BR.html?spss=dy_author"/>
+        <updated>2026-05-09T13:17:07.212Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一秒：建议拍大头贴最好还是要去店里]]></title>
         <id>https://www.163.com/news/article/KSE4V74D000181BT.html?spss=dy_author</id>
@@ -606,11 +612,5 @@
         <id>https://www.163.com/news/article/KFAMPA0O000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/KFAMPA0O000181BR.html?spss=dy_author"/>
         <updated>2025-11-26T12:38:41.119Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：年薪50万，嫁给80岁的老头划算吗？]]></title>
-        <id>https://www.163.com/news/article/KF7SL3BN000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/KF7SL3BN000181BR.html?spss=dy_author"/>
-        <updated>2025-11-25T12:37:55.121Z</updated>
     </entry>
 </feed>
