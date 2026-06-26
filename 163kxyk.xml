@@ -2,9 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.163.com/dy/media/T1348654628034.html</id>
     <title>网易 轻松一刻</title>
-    <updated>2026-06-26T09:02:36.335Z</updated>
+    <updated>2026-06-26T14:28:43.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.163.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[轻松一秒：不太懂足球，这就是世界杯吗？]]></title>
+        <id>https://www.163.com/news/article/L0C7KLKV000181BT.html?spss=dy_author</id>
+        <link href="https://www.163.com/news/article/L0C7KLKV000181BT.html?spss=dy_author"/>
+        <updated>2026-06-26T14:28:16.866Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[轻松一刻：你拿什么跟我比？我上班从不看星期几]]></title>
         <id>https://www.163.com/news/article/L0A0961M000181BR.html?spss=dy_author</id>
@@ -622,11 +628,5 @@
         <id>https://www.163.com/news/article/KL3RA57C000181BR.html?spss=dy_author</id>
         <link href="https://www.163.com/news/article/KL3RA57C000181BR.html?spss=dy_author"/>
         <updated>2026-02-06T12:59:44.178Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[轻松一刻：理他们干什么，想停哪就停哪！]]></title>
-        <id>https://www.163.com/news/article/KL3PSAFM000181BR.html?spss=dy_author</id>
-        <link href="https://www.163.com/news/article/KL3PSAFM000181BR.html?spss=dy_author"/>
-        <updated>2026-02-06T12:59:44.182Z</updated>
     </entry>
 </feed>
