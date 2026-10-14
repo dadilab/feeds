@@ -19,10 +19,12 @@ jobs:
     steps:
     - uses: actions/checkout@v4        # 升级：原 v2.3.4（Node20 弃用，被强升 Node24）
     # 替代已弃用的 microsoft/playwright-github-action@v1
-    # 锁定到与 feed-me-up-scotty@1.10.0 的 playwright-firefox@^1.16.3 匹配的版本，
-    # 否则用最新 playwright 装的 Firefox revision 与工具期望的不一致，浏览器会起不来。
+    # 必须用与工具相同的浮动范围 ^1.16.3 来装浏览器：feed-me-up-scotty 运行时
+    # 会把 playwright-firefox 解析到同一个最新 1.x（当前 1.64.1），其对应的
+    # Firefox revision 正是 firefox-1555。若写死旧版本(如 1.16.3)，装出来的
+    # revision 与工具期望的不一致，会报 Executable doesn't exist 而失败。
     - name: Install Playwright Firefox
-      run: npx --yes playwright@1.16.3 install --with-deps firefox
+      run: npx --yes playwright-firefox@^1.16.3 install --with-deps firefox
     # feeds.toml 已设 onFail，单站失败不再中断整次运行，无需 || 三重重试
     - name: Generate feeds
       run: npx --yes feed-me-up-scotty@1.10.0
